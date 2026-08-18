@@ -11,10 +11,13 @@
     "kickoff": "2026-08-18T19:00:00+00:00",
     "best_odds": 10.0,
     "source_count": 1,
-    "consensus_score": 0.5,
+    "consensus_score": 0.2,
     "final_score": null,
     "outcome": "pending",
-    "graded_at": null
+    "graded_at": null,
+    "sources": [
+      "FreeSuperTips"
+    ]
   },
   {
     "history_key": "levski sofia|aek athens|Correct Score|Levski Sofia 1-0|2026-08-18",
@@ -28,10 +31,13 @@
     "kickoff": "2026-08-18T19:00:00+00:00",
     "best_odds": 8.5,
     "source_count": 1,
-    "consensus_score": 0.5,
+    "consensus_score": 0.25,
     "final_score": null,
     "outcome": "pending",
-    "graded_at": null
+    "graded_at": null,
+    "sources": [
+      "FreeSuperTips"
+    ]
   },
   {
     "history_key": "dinamo zagreb|viking|Correct Score|Dinamo Zagreb 2-1|2026-08-18",
@@ -45,10 +51,13 @@
     "kickoff": "2026-08-18T19:00:00+00:00",
     "best_odds": 8.5,
     "source_count": 1,
-    "consensus_score": 0.5,
+    "consensus_score": 0.333,
     "final_score": null,
     "outcome": "pending",
-    "graded_at": null
+    "graded_at": null,
+    "sources": [
+      "FreeSuperTips"
+    ]
   },
   {
     "history_key": "necaxa|leon|Double Chance|1X|2026-08-18",
@@ -218,7 +227,10 @@
     "consensus_score": 1.0,
     "final_score": null,
     "outcome": "pending",
-    "graded_at": null
+    "graded_at": null,
+    "sources": [
+      "Vitibet"
+    ]
   },
   {
     "history_key": "paykan|gol gohar|Double Chance|1X|unknown-date",
@@ -335,6 +347,246 @@
     "best_odds": 1.9,
     "source_count": 1,
     "consensus_score": 1.0,
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "deportes santa cruz|san luis|Double Chance|X2|2026-08-18",
+    "match_id": "27622624",
+    "home_team": "Deportes Santa Cruz",
+    "away_team": "San Luis",
+    "competition": "Chile: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T00:00:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "deportes copiapo|curico unido|Double Chance|1X|2026-08-18",
+    "match_id": "90a138c8",
+    "home_team": "Deportes Copiapo",
+    "away_team": "Curico Unido",
+    "competition": "Chile: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T00:00:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "deportes temuco|deportivo recoleta|Double Chance|1X|2026-08-18",
+    "match_id": "658fb3d9",
+    "home_team": "Deportes Temuco",
+    "away_team": "Deportivo Recoleta",
+    "competition": "Chile: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T02:30:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ironi modi'in|maccabi herzliya|Double Chance|X2|unknown-date",
+    "match_id": "9ed3f43d",
+    "home_team": "Ironi Modi'in",
+    "away_team": "Maccabi Herzliya",
+    "competition": "Israel: Liga Leumit",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "maccabi bnei reineh|bnei yehuda|Double Chance|1X|unknown-date",
+    "match_id": "fad29b9d",
+    "home_team": "Maccabi Bnei Reineh FC",
+    "away_team": "Bnei Yehuda",
+    "competition": "Israel: Liga Leumit",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fountain gate|mashujaa|Double Chance|1X|2026-08-18",
+    "match_id": "c637e872",
+    "home_team": "Fountain Gate",
+    "away_team": "Mashujaa",
+    "competition": "Tanzania: Ligi kuu Bara",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T15:00:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "namungo|geita gold|Double Chance|1X|unknown-date",
+    "match_id": "202266fe",
+    "home_team": "Namungo",
+    "away_team": "Geita Gold",
+    "competition": "Tanzania: Ligi kuu Bara",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "totton|dorking wanderers|Double Chance|X2|2026-08-18",
+    "match_id": "c20eb701",
+    "home_team": "AFC Totton",
+    "away_team": "Dorking Wanderers",
+    "competition": "England: National League - South",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T20:45:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dover|tonbridge angels|Double Chance|X2|2026-08-18",
+    "match_id": "41e23f8b",
+    "home_team": "Dover",
+    "away_team": "Tonbridge Angels",
+    "competition": "England: National League - South",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T20:45:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hemel hempstead town|maidenhead|1X2|1|2026-08-18",
+    "match_id": "0b46daf3",
+    "home_team": "Hemel Hempstead Town",
+    "away_team": "Maidenhead",
+    "competition": "England: National League - South",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T20:45:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "horsham|hampton & richmond|1X2|1|2026-08-18",
+    "match_id": "95ce528f",
+    "home_team": "Horsham",
+    "away_team": "Hampton & Richmond",
+    "competition": "England: National League - South",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T20:45:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "maidstone utd|folkestone invicta|Double Chance|X2|2026-08-18",
+    "match_id": "a5cddce8",
+    "home_team": "Maidstone Utd",
+    "away_team": "Folkestone Invicta",
+    "competition": "England: National League - South",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-18T16:47:52.925694+00:00",
+    "kickoff": "2026-08-18T20:45:00+02:00",
+    "best_odds": 1.9,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
     "final_score": null,
     "outcome": "pending",
     "graded_at": null
