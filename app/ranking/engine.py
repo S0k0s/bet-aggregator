@@ -17,6 +17,15 @@ WEIGHTS = {
     "ev_score": 0.20,
 }
 
+# price_edge/ev_score both saturate at 1.0 fast for naturally high-odds
+# markets (e.g. Correct Score) regardless of how few sources back the pick,
+# which let a single-source long-shot outrank a genuine multi-source
+# consensus pick. This floor makes consensus act as a confidence
+# multiplier on the whole score, not just one more additive term: a
+# consensus of 0.0 caps the final score at this fraction of its raw value,
+# a consensus of 1.0 keeps 100% of it.
+CONSENSUS_CONFIDENCE_FLOOR = 0.4
+
 SOURCE_RELIABILITY = {
     "PredictZ": 0.65,
     "FreeSuperTips": 0.70,
@@ -139,12 +148,14 @@ async def build_ranked_matches(
         pe = _price_edge(best_odds)
         ev = _ev_score(best_odds, con)
 
-        final_score = (
+        raw_score = (
             WEIGHTS["source_quality"] * sq +
             WEIGHTS["consensus"] * con +
             WEIGHTS["price_edge"] * pe +
             WEIGHTS["ev_score"] * ev
         )
+        confidence_multiplier = CONSENSUS_CONFIDENCE_FLOOR + (1 - CONSENSUS_CONFIDENCE_FLOOR) * con
+        final_score = raw_score * confidence_multiplier
 
         reasons = [p.reason_summary for p in picks if p.reason_summary]
         explanation = " | ".join(reasons[:3]) if reasons else "No explanation available."

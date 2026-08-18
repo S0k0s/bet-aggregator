@@ -87,3 +87,28 @@ async def test_consensus_reflects_disagreeing_sources_not_just_count():
     assert ranked[0].recommended_pick == "1"
     assert ranked[0].consensus_score == 1.0
     assert ranked[0].source_count == 3
+
+
+@pytest.mark.asyncio
+async def test_low_consensus_longshot_no_longer_beats_high_consensus_safe_pick():
+    # Regression test for a real ranking anomaly found live: a
+    # single-agreeing-source, high-odds "long shot" (Correct Score) was
+    # outranking a genuine 3-source consensus pick on a safer market,
+    # purely because price_edge/ev_score saturate fast on high odds
+    # regardless of how many sources actually back the pick.
+    longshot_fixture = [
+        _pick("PredictZ", "LongshotFC", "Rival", market="Correct Score", pick="LongshotFC 2-1", odds=8.50),
+        _pick("FreeSuperTips", "LongshotFC", "Rival", market="1X2", pick="X", odds=3.2),
+        _pick("StatsBet", "LongshotFC", "Rival", market="1X2", pick="2", odds=2.5),
+    ]
+    safe_fixture = [
+        _pick("PredictZ", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
+        _pick("FreeSuperTips", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
+        _pick("StatsBet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
+    ]
+    ranked = await build_ranked_matches(longshot_fixture + safe_fixture)
+    longshot = next(m for m in ranked if m.home_team == "LongshotFC")
+    safe = next(m for m in ranked if m.home_team == "Favourite")
+    assert longshot.consensus_score < 0.5
+    assert safe.consensus_score == 1.0
+    assert safe.final_score > longshot.final_score
