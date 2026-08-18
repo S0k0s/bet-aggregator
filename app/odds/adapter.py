@@ -1,21 +1,38 @@
 import httpx
 import os
 
-# Keyword -> The Odds API sport key, checked in order (most specific first)
-# against the lowercased competition string. Our collectors produce wildly
-# different competition naming ("UEFA Champions League" vs "INTERNATIONAL -
-# CHAMPIONS LEAGUE PLAYOFF ROUND" vs a bare country name), so this matches
-# on keywords rather than exact strings. Anything that doesn't match one of
-# these stays unmapped -> no live-odds call, quoted-odds fallback only.
-_KEYWORD_SPORT_KEYS = [
+# Keyword -> The Odds API sport key, checked against the lowercased
+# competition string. Our collectors produce wildly different competition
+# naming ("UEFA Champions League" vs "INTERNATIONAL - CHAMPIONS LEAGUE
+# PLAYOFF ROUND" vs a bare country name), so this matches on keywords
+# rather than exact strings. Anything that doesn't match one of these stays
+# unmapped -> no live-odds call, quoted-odds fallback only.
+#
+# Generic league-type names ("Premier League", "Serie A", ...) are reused by
+# many countries' domestic top flights (confirmed live: Kyrgyzstan and
+# Bhutan both call theirs "Premier League", Ecuador's is "Serie A"), so
+# these require the specific country keyword too - a bare "premier league"
+# with no recognizable country is left unmapped rather than guessed as
+# England's.
+_CONTINENT_WIDE_KEYWORDS = [
     ("champions league", "soccer_uefa_champs_league"),
     ("europa conference", "soccer_uefa_europa_conference_league"),
     ("conference league", "soccer_uefa_europa_conference_league"),
     ("europa league", "soccer_uefa_europa_league"),
-    ("premier league", "soccer_epl"),
-    ("la liga", "soccer_spain_la_liga"),
-    ("bundesliga", "soccer_germany_bundesliga"),
-    ("ligue 1", "soccer_france_ligue_one"),
+]
+
+# (league keyword, required country keywords, sport key)
+_COUNTRY_LEAGUE_KEYS = [
+    ("premier league", ("england", "english"), "soccer_epl"),
+    ("la liga", ("spain", "spanish"), "soccer_spain_la_liga"),
+    ("serie a", ("italy", "italian"), "soccer_italy_serie_a"),
+    ("bundesliga", ("germany", "german"), "soccer_germany_bundesliga"),
+    ("ligue 1", ("france", "french"), "soccer_france_ligue_one"),
+    ("super league", ("greece", "greek"), "soccer_greece_super_league"),
+]
+
+# Unique enough globally that no country check is needed.
+_UNAMBIGUOUS_KEYWORDS = [
     ("eredivisie", "soccer_netherlands_eredivisie"),
     ("primeira liga", "soccer_portugal_primeira_liga"),
 ]
@@ -25,11 +42,13 @@ def _sport_key_for(competition: str | None) -> str | None:
     if not competition:
         return None
     lowered = competition.lower()
-    if "greece" in lowered and "super league" in lowered:
-        return "soccer_greece_super_league"
-    if "serie a" in lowered and "brazil" not in lowered:
-        return "soccer_italy_serie_a"
-    for keyword, sport_key in _KEYWORD_SPORT_KEYS:
+    for keyword, sport_key in _CONTINENT_WIDE_KEYWORDS:
+        if keyword in lowered:
+            return sport_key
+    for league_keyword, country_keywords, sport_key in _COUNTRY_LEAGUE_KEYS:
+        if league_keyword in lowered and any(c in lowered for c in country_keywords):
+            return sport_key
+    for keyword, sport_key in _UNAMBIGUOUS_KEYWORDS:
         if keyword in lowered:
             return sport_key
     return None

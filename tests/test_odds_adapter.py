@@ -24,3 +24,15 @@ def test_unmapped_or_missing_competition_returns_none():
     assert _sport_key_for("Mexico: Liga MX") is None
     assert _sport_key_for(None) is None
     assert _sport_key_for("") is None
+
+
+def test_generic_league_names_require_a_matching_country():
+    # Regression test: confirmed live in Odds API debug logs that
+    # "Premier League" and "Serie A" aren't unique to England/Italy -
+    # Kyrgyzstan and Bhutan both call theirs "Premier League", Ecuador's
+    # is "Serie A". A bare league-type phrase with no recognizable country
+    # must stay unmapped rather than being guessed as the big-5 league.
+    assert _sport_key_for("Kyrgyzstan: Premier League") is None
+    assert _sport_key_for("Bhutan: Premier League") is None
+    assert _sport_key_for("Ecuador: Serie A") is None
+    assert _sport_key_for("England: Premier League") == "soccer_epl"
