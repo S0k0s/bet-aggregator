@@ -64,12 +64,17 @@ class OddsAdapter:
                 }
                 resp = await client.get(url, params=params)
                 if resp.status_code != 200:
+                    print(f"[OddsAdapter] {sport_key} -> HTTP {resp.status_code}: {resp.text[:200]}")
                     return None
                 events = resp.json()
                 for event in events:
                     if self._teams_match(event, home, away):
-                        return self._extract_best_price(event, market)
-        except Exception:
+                        price = self._extract_best_price(event, market)
+                        print(f"[OddsAdapter] {sport_key} {home} vs {away}: matched, price={price}")
+                        return price
+                print(f"[OddsAdapter] {sport_key} {home} vs {away}: no event match ({len(events)} events)")
+        except Exception as exc:
+            print(f"[OddsAdapter] {sport_key} {home} vs {away}: exception {exc!r}")
             return None
         return None
 
