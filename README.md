@@ -16,7 +16,7 @@ entirely on GitHub — no server to host or pay for.
 
 ## Refreshing the data
 There is no live backend. `run-pipeline.yml` runs automatically on a cron
-schedule (every 3 hours, UTC) and can also be triggered manually:
+schedule (every 30 minutes, UTC) and can also be triggered manually:
 
 1. It runs `scripts/run_pipeline.py` and commits the updated
    `docs/data/ranked-matches.json` and `docs/data/meta.json` if they changed.
@@ -80,10 +80,15 @@ pytest                            # runs the full test suite (no network)
   League, top-5 European leagues, Greek Super League) via keyword
   matching — competitions outside that list skip the live-odds call
   entirely and fall back to quoted odds. `MAX_ODDS_CALLS = 30` in
-  `app/ranking/engine.py` caps live-odds requests per pipeline run as a
-  second safeguard for the free tier's 500 req/month; team-name matching
-  within a mapped league is still exact-ish, so treat live odds as
-  best-effort even when a call is made.
+  `app/ranking/engine.py` caps live-odds requests per pipeline run, but
+  with `run-pipeline.yml` now firing every 30 minutes (48 runs/day) the
+  free tier's 500 req/month can still be exhausted well before the month
+  ends if several mapped-league matches are live at once — the adapter
+  fails silently (falls back to `None`/quoted odds) when that happens, it
+  won't break anything, live odds just stop appearing until next month's
+  quota resets. Lower `MAX_ODDS_CALLS` or the run frequency if that
+  matters to you. Team-name matching within a mapped league is still
+  exact-ish, so treat live odds as best-effort even when a call succeeds.
 - `SOURCE_RELIABILITY` in `app/ranking/engine.py` is now just the
   fallback for sources with no graded history yet. Once
   `docs/data/source-reliability.json` exists (written daily by
@@ -104,7 +109,7 @@ pytest                            # runs the full test suite (no network)
 - Results-checking depends entirely on Vitibet's own results coverage
   (~60 leagues). Picks for fixtures outside that (currently only possible
   from FreeSuperTips) can't be graded and end up `unknown` after 7 days.
-- `run-pipeline.yml` (every 3h) and `check-results.yml` (daily) both commit
+- `run-pipeline.yml` (every 30 min) and `check-results.yml` (daily) both commit
   to `docs/data/history.json`; if they ever run at the exact same moment
   one push can fail with a non-fast-forward error — harmless, just re-run
   that workflow.
