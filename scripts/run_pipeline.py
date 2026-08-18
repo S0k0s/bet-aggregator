@@ -17,15 +17,21 @@ from app.collectors.predictz import PredictZCollector
 from app.collectors.freesupertips import FreeSuperTipsCollector
 from app.collectors.statsbet import StatsBetCollector
 from app.collectors.vitibet import VitibetCollector
+from app.collectors.adibet import AdibetCollector
+from app.collectors.mybets_today import MyBetsTodayCollector
+from app.collectors.statarea import StatareaCollector
 from app.models.schemas import SourcePick
 from app.ranking.engine import build_ranked_matches
-from app.history.store import load_history, save_history, history_key
+from app.history.store import load_history, save_history, history_key, load_reliability
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 
 
 async def main() -> None:
-    collectors = [PredictZCollector(), FreeSuperTipsCollector(), StatsBetCollector(), VitibetCollector()]
+    collectors = [
+        PredictZCollector(), FreeSuperTipsCollector(), StatsBetCollector(), VitibetCollector(),
+        AdibetCollector(), MyBetsTodayCollector(), StatareaCollector(),
+    ]
     all_picks: list[SourcePick] = []
     source_status: list[dict] = []
 
@@ -39,7 +45,8 @@ async def main() -> None:
         })
         print(f"[{collector.name}] {len(picks)} picks" + (f" — error: {error}" if error else ""))
 
-    ranked = await build_ranked_matches(all_picks)
+    reliability = load_reliability(OUTPUT_DIR / "source-reliability.json")
+    ranked = await build_ranked_matches(all_picks, reliability_overrides=reliability)
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -69,6 +76,7 @@ async def main() -> None:
     new_count = 0
     for m in ranked:
         key = history_key(m.home_team, m.away_team, m.market, m.recommended_pick, m.kickoff)
+        source_names = sorted({s.source_name for s in m.sources})
         existing = history_by_key.get(key)
         if existing is None:
             entry = {
@@ -84,6 +92,7 @@ async def main() -> None:
                 "best_odds": m.best_odds,
                 "source_count": m.source_count,
                 "consensus_score": m.consensus_score,
+                "sources": source_names,
                 "final_score": None,
                 "outcome": "pending",
                 "graded_at": None,
@@ -97,6 +106,7 @@ async def main() -> None:
             existing["source_count"] = m.source_count
             existing["consensus_score"] = m.consensus_score
             existing["kickoff"] = m.kickoff
+            existing["sources"] = source_names
 
     save_history(history_path, history)
     print(f"History: {new_count} new, {len(history)} total")

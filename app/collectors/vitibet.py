@@ -1,16 +1,8 @@
 from __future__ import annotations
 from app.collectors.base import BaseCollector
+from app.collectors.common import TIP_CODE_MAP
 from app.models.schemas import SourcePick
 from app.ranking.engine import _normalize_team
-
-_TIP_MAP = {
-    "1": ("1X2", "1"),
-    "X": ("1X2", "X"),
-    "2": ("1X2", "2"),
-    "1X": ("Double Chance", "1X"),
-    "X2": ("Double Chance", "X2"),
-    "12": ("Double Chance", "12"),
-}
 
 
 class VitibetCollector(BaseCollector):
@@ -35,7 +27,7 @@ class VitibetCollector(BaseCollector):
                     tip_el = row.select_one(".tip-indicator-circle")
                     if not tip_el:
                         continue
-                    market, pick = _TIP_MAP.get(
+                    market, pick = TIP_CODE_MAP.get(
                         tip_el.get_text(strip=True).upper(), ("unknown", "")
                     )
                     if not pick:

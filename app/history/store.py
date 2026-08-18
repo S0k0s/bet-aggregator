@@ -35,3 +35,9 @@ def load_history(path: Path) -> list[dict]:
 
 def save_history(path: Path, entries: list[dict]) -> None:
     path.write_text(json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def load_reliability(path: Path) -> dict[str, float]:
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))

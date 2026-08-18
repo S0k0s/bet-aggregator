@@ -5,11 +5,11 @@ cross-source consensus, and ranks the top 20 best-value matches. Runs
 entirely on GitHub — no server to host or pay for.
 
 ## Architecture
-- `app/collectors/` — adapters for free prediction sites. Working: FreeSuperTips (reads its embedded Next.js JSON), Vitibet (structured HTML, ~200 matches/~60 leagues). Non-functional by design, kept for visibility in `meta.json`: PredictZ (Cloudflare bot-challenge) and StatsBet (data loaded client-side from a robots.txt-disallowed `/api/`) — neither can be fixed without bypassing bot protection or violating robots.txt, so don't try; replace them with new compliant sources instead.
+- `app/collectors/` — adapters for free prediction sites. Working: FreeSuperTips (embedded Next.js JSON), Vitibet (~200 matches/~60 leagues), Adibet (old table markup, Greek leagues included), MyBetsToday (schema.org-annotated, ~70 fixtures/run), Statarea (semantic markup, Greek leagues included). `common.py` holds the `1`/`X`/`2`/`1X`/`X2`/`12` tip-code map shared by Vitibet/Adibet/MyBetsToday/Statarea. Non-functional by design, kept for visibility in `meta.json`: PredictZ (Cloudflare bot-challenge) and StatsBet (data loaded client-side from a robots.txt-disallowed `/api/`) — neither can be fixed without bypassing bot protection or violating robots.txt, so don't try; replace them with new compliant sources instead. Checked but not pursued: wintips.com (real data, but hashed/regenerating CSS classes — too fragile), betarades.gr (promising, Greek, right URL not found yet), kickoff.com/tipstrr.com (no daily pick data found on inspection).
 - `app/llm/` — extraction/summarization helper returning strict JSON per pick (not wired into the pipeline yet — future phase)
 - `app/odds/` — best-price lookup and EV scoring across bookmakers (needs `ODDS_API_KEY`; skipped gracefully if unset)
 - `app/ranking/` — fixture grouping, consensus + edge scoring → top-20 output
-- `app/history/` — `grader.py` grades a finished pick (hit/miss/push/unknown) against a final score; `store.py` reads/writes `docs/data/history.json`
+- `app/history/` — `grader.py` grades a finished pick (hit/miss/push/unknown) against a final score; `reliability.py` computes a Bayesian-shrunk per-source hit rate from graded history; `store.py` reads/writes `docs/data/history.json` and `source-reliability.json`
 - `scripts/run_pipeline.py` — runs the collectors + ranking engine, writes `docs/data/ranked-matches.json`/`meta.json`, and upserts the current top-20 into `docs/data/history.json`
 - `scripts/check_results.py` — daily: grades pending `history.json` entries whose kickoff has passed, writes `docs/data/history-summary.json`
 - `docs/` — static dashboard, deployed via GitHub Pages, with a "Κατάταξη"/"Ιστορικό" tab switcher reading `ranked-matches.json`/`meta.json` and `history.json`/`history-summary.json` respectively
@@ -63,7 +63,7 @@ collectors.
 ```bash
 pip install -r requirements.txt
 python scripts/run_pipeline.py   # writes docs/data/ranked-matches.json + meta.json + history.json
-python scripts/check_results.py  # grades pending history.json entries, writes history-summary.json
+python scripts/check_results.py  # grades pending history.json entries, writes history-summary.json + source-reliability.json
 pytest                            # runs the full test suite (no network)
 ```
 
@@ -75,11 +75,21 @@ pytest                            # runs the full test suite (no network)
 - `competition`/`kickoff` are real when the source provides them
   (FreeSuperTips, Vitibet); collectors that don't (PredictZ, StatsBet) fall
   back to "European"/"TBD".
-- Odds matching (`app/odds/adapter.py`) is hardcoded to `soccer_epl` and
-  does exact-ish team-name matching only; treat live odds as best-effort.
-- No historical reliability tracking, database, or closing-line-value
-  scoring yet — `SOURCE_RELIABILITY` in `app/ranking/engine.py` is a fixed
-  starting guess, not measured performance.
+- Odds matching (`app/odds/adapter.py`) maps competition names to a
+  curated list of major-league sport keys (Champions/Europa/Conference
+  League, top-5 European leagues, Greek Super League) via keyword
+  matching — competitions outside that list skip the live-odds call
+  entirely and fall back to quoted odds. `MAX_ODDS_CALLS = 30` in
+  `app/ranking/engine.py` caps live-odds requests per pipeline run as a
+  second safeguard for the free tier's 500 req/month; team-name matching
+  within a mapped league is still exact-ish, so treat live odds as
+  best-effort even when a call is made.
+- `SOURCE_RELIABILITY` in `app/ranking/engine.py` is now just the
+  fallback for sources with no graded history yet. Once
+  `docs/data/source-reliability.json` exists (written daily by
+  `check-results.yml` via `app/history/reliability.py`), a source's
+  actual Bayesian-shrunk hit rate overrides its static guess — no
+  database needed, `history.json` already has everything.
 - `MIN_SOURCES` in `app/ranking/engine.py` is `1` — there's no hard
   cross-source-agreement gate. With only 2 working collectors, requiring
   3+ agreeing sources would mean the dashboard is permanently empty, so

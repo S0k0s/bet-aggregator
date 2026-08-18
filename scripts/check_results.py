@@ -17,6 +17,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from app.collectors.vitibet import VitibetCollector
 from app.history.grader import grade_pick
+from app.history.reliability import compute_reliability
 from app.history.store import load_history, save_history, kickoff_date
 from app.ranking.engine import _normalize_team
 
@@ -85,6 +86,11 @@ async def main() -> None:
     summary_path = OUTPUT_DIR / "history-summary.json"
     summary_path.write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote summary: {summary}")
+
+    reliability = compute_reliability(history)
+    reliability_path = OUTPUT_DIR / "source-reliability.json"
+    reliability_path.write_text(json.dumps(reliability, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Wrote source reliability: {reliability}")
 
 
 def _build_summary(history: list[dict]) -> dict:

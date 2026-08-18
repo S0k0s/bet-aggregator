@@ -1,13 +1,14 @@
 from __future__ import annotations
 from collections import defaultdict
 from app.models.schemas import SourcePick, RankedMatch
-from app.odds.adapter import OddsAdapter
+from app.odds.adapter import OddsAdapter, _sport_key_for
 import hashlib
 import re
 import unicodedata
 
 MIN_SOURCES = 1
 TARGET_COUNT = 20
+MAX_ODDS_CALLS = 30  # protects the free-tier 500 req/month odds API quota
 
 WEIGHTS = {
     "source_quality": 0.30,
@@ -21,6 +22,9 @@ SOURCE_RELIABILITY = {
     "FreeSuperTips": 0.70,
     "StatsBet": 0.72,
     "Vitibet": 0.68,
+    "Adibet": 0.60,
+    "MyBetsToday": 0.60,
+    "Statarea": 0.65,
 }
 
 _CLUB_SUFFIXES = re.compile(r"\b(fc|cf|afc|sc|cd|ac|fk)\b", re.IGNORECASE)
@@ -61,8 +65,8 @@ def _consensus(picks: list[SourcePick], fixture_source_counts: dict[str, int]) -
     return min(agreeing_sources / eligible_sources, 1.0)
 
 
-def _source_quality(picks: list[SourcePick]) -> float:
-    scores = [SOURCE_RELIABILITY.get(p.source_name, 0.5) for p in picks]
+def _source_quality(picks: list[SourcePick], reliability: dict[str, float]) -> float:
+    scores = [reliability.get(p.source_name, SOURCE_RELIABILITY.get(p.source_name, 0.5)) for p in picks]
     return sum(scores) / len(scores) if scores else 0.0
 
 
@@ -81,7 +85,11 @@ def _ev_score(best_odds: float | None, consensus: float) -> float:
     return max(0.0, min(ev, 1.0))
 
 
-async def build_ranked_matches(all_picks: list[SourcePick]) -> list[RankedMatch]:
+async def build_ranked_matches(
+    all_picks: list[SourcePick],
+    reliability_overrides: dict[str, float] | None = None,
+) -> list[RankedMatch]:
+    reliability = reliability_overrides or {}
     grouped: dict[str, list[SourcePick]] = defaultdict(list)
     for pick in all_picks:
         grouped[_match_key(pick)].append(pick)
@@ -94,6 +102,7 @@ async def build_ranked_matches(all_picks: list[SourcePick]) -> list[RankedMatch]
     fixture_source_totals = {k: len(v) for k, v in fixture_source_counts.items()}
 
     odds_adapter = OddsAdapter()
+    odds_calls_made = 0
     candidates: list[RankedMatch] = []
 
     # MIN_SOURCES=1: no hard cutoff on agreement. Results are sorted below
@@ -119,10 +128,13 @@ async def build_ranked_matches(all_picks: list[SourcePick]) -> list[RankedMatch]
             (p.quoted_odds for p in picks if p.quoted_odds and p.quoted_odds > 1.0),
             default=None
         )
-        best_odds_live = await odds_adapter.get_best_odds(home_team, away_team, market)
+        best_odds_live = None
+        if _sport_key_for(competition) is not None and odds_calls_made < MAX_ODDS_CALLS:
+            best_odds_live = await odds_adapter.get_best_odds(home_team, away_team, market, competition)
+            odds_calls_made += 1
         best_odds = best_odds_live or best_odds_from_picks or 1.90
 
-        sq = _source_quality(picks)
+        sq = _source_quality(picks, reliability)
         con = _consensus(picks, fixture_source_totals)
         pe = _price_edge(best_odds)
         ev = _ev_score(best_odds, con)
