@@ -13,16 +13,23 @@ entirely on GitHub — no server to host or pay for.
 - `docs/` — static dashboard, deployed via GitHub Pages, reads `docs/data/ranked-matches.json` / `meta.json`
 
 ## Refreshing the data
-There is no live backend. Data is refreshed by manually running a GitHub
-Actions workflow:
+There is no live backend. `run-pipeline.yml` runs automatically on a cron
+schedule (every 3 hours, UTC) and can also be triggered manually:
 
-1. Go to the repo's **Actions** tab → **Run pipeline** → **Run workflow**.
-2. The workflow runs `scripts/run_pipeline.py` and commits the updated
+1. It runs `scripts/run_pipeline.py` and commits the updated
    `docs/data/ranked-matches.json` and `docs/data/meta.json` if they changed.
-3. That push triggers the existing **Deploy GitHub Pages** workflow, which
+2. That push triggers the existing **Deploy GitHub Pages** workflow, which
    republishes `docs/` with the new data.
-4. Open the dashboard and click "Ανανέωση προβολής" (cache-busted fetch of
+3. Open the dashboard and click "Ανανέωση προβολής" (cache-busted fetch of
    the same static files) if it doesn't show the new data right away.
+
+To trigger a run on demand instead of waiting for the schedule: repo's
+**Actions** tab → **Run pipeline** → **Run workflow**.
+
+**Caveat:** GitHub disables scheduled (`cron`) workflows automatically after
+60 days with no repository activity (pushes/commits) — if the dashboard
+ever looks stale for a long stretch, check **Actions → Run pipeline** for a
+banner saying the schedule was disabled, and re-enable it there.
 
 ### Optional: live odds
 Add `ODDS_API_KEY` under **Settings → Secrets and variables → Actions** to
