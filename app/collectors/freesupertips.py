@@ -46,6 +46,8 @@ class FreeSuperTipsCollector(BaseCollector):
                                 pick=pick,
                                 quoted_odds=tip.get("odds"),
                                 confidence_text=tip.get("confidence"),
+                                competition=comp_name,
+                                kickoff=kickoff,
                                 reason_summary=f"FreeSuperTips {tip.get('title', 'tip')} for {home} vs {away} ({comp_name}, {kickoff}).",
                             ))
         except Exception as exc:

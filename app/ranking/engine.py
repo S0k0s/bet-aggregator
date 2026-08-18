@@ -102,6 +102,8 @@ async def build_ranked_matches(all_picks: list[SourcePick]) -> list[RankedMatch]
         rec_pick = parts[3] if len(parts) > 3 else p0.pick
         home_team = next((p.home_team for p in picks if p.home_team), "Unknown")
         away_team = next((p.away_team for p in picks if p.away_team), "Unknown")
+        competition = next((p.competition for p in picks if p.competition), "European")
+        kickoff = next((p.kickoff for p in picks if p.kickoff), "TBD")
 
         best_odds_from_picks = max(
             (p.quoted_odds for p in picks if p.quoted_odds and p.quoted_odds > 1.0),
@@ -130,8 +132,8 @@ async def build_ranked_matches(all_picks: list[SourcePick]) -> list[RankedMatch]
             match_id=match_id,
             home_team=home_team,
             away_team=away_team,
-            competition="European",
-            kickoff="TBD",
+            competition=competition,
+            kickoff=kickoff,
             market=market,
             recommended_pick=rec_pick,
             best_odds=best_odds,

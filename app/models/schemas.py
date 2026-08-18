@@ -17,6 +17,8 @@ class SourcePick(BaseModel):
     quoted_odds: float | None = None
     confidence_text: str | None = None
     reason_summary: str | None = None
+    competition: str | None = None
+    kickoff: str | None = None
 
 
 class RankedMatch(BaseModel):
