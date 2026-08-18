@@ -1,6 +1,6 @@
 import pytest
 from app.models.schemas import SourcePick
-from app.ranking.engine import build_ranked_matches, _normalize_team, _match_key
+from app.ranking.engine import build_ranked_matches, _normalize_team, _match_key, _odds_for_pick
 
 
 def _pick(source_name, home, away, market="1X2", pick="1", odds=1.9):
@@ -13,6 +13,18 @@ def _pick(source_name, home, away, market="1X2", pick="1", odds=1.9):
         pick=pick,
         quoted_odds=odds,
     )
+
+
+def test_odds_for_pick_1x2_and_double_chance_combined():
+    odds_map = {"home": 1.66, "draw": 3.95, "away": 4.65}
+    assert _odds_for_pick("1X2", "1", odds_map) == 1.66
+    assert _odds_for_pick("1X2", "X", odds_map) == 3.95
+    assert _odds_for_pick("1X2", "2", odds_map) == 4.65
+    # Double Chance combined odds via implied-probability sum (no vig
+    # adjustment): 1 / (1/1.66 + 1/3.95) ~= 1.17
+    assert _odds_for_pick("Double Chance", "1X", odds_map) == round(1 / (1 / 1.66 + 1 / 3.95), 2)
+    assert _odds_for_pick("Correct Score", "Team 2-0", odds_map) is None
+    assert _odds_for_pick("1X2", "1", {}) is None
 
 
 def test_normalize_team_strips_suffix_case_and_whitespace():

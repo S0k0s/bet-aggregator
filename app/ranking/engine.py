@@ -9,6 +9,7 @@ import unicodedata
 MIN_SOURCES = 1
 TARGET_COUNT = 20
 MAX_ODDS_CALLS = 30  # protects the free-tier 500 req/month odds API quota
+MAX_VITIBET_ODDS_CALLS = 150  # generous safety net, not a quota (free site)
 
 WEIGHTS = {
     "source_quality": 0.30,
@@ -159,6 +160,25 @@ def _ev_score(best_odds: float | None, consensus: float) -> float:
     return max(0.0, min(ev, 1.0))
 
 
+# Vitibet's own match-detail page (the same URL already on every Vitibet
+# SourcePick as source_url) shows real decimal 1X2 odds - free, no quota,
+# and covers far more matches than the paid Odds API ever will for the
+# exotic leagues our collectors mostly surface. Double Chance odds are
+# derived from the two legs' implied probabilities (no vig adjustment).
+def _odds_for_pick(market: str, pick: str, odds_map: dict[str, float]) -> float | None:
+    if market == "1X2":
+        leg = {"1": "home", "X": "draw", "2": "away"}.get(pick)
+        return odds_map.get(leg) if leg else None
+    if market == "Double Chance":
+        legs = {"1X": ("home", "draw"), "X2": ("draw", "away"), "12": ("home", "away")}.get(pick)
+        if not legs:
+            return None
+        o1, o2 = odds_map.get(legs[0]), odds_map.get(legs[1])
+        if o1 and o2 and o1 > 1.0 and o2 > 1.0:
+            return round(1 / (1 / o1 + 1 / o2), 2)
+    return None
+
+
 async def build_ranked_matches(
     all_picks: list[SourcePick],
     reliability_overrides: dict[str, float] | None = None,
@@ -175,8 +195,13 @@ async def build_ranked_matches(
         fixture_source_counts[_fixture_key(pick)].add(pick.source_name)
     fixture_source_totals = {k: len(v) for k, v in fixture_source_counts.items()}
 
+    from app.collectors.vitibet import VitibetCollector  # deferred: avoids a
+    # module-load cycle (vitibet.py imports _normalize_team from this module)
+
     odds_adapter = OddsAdapter()
+    vitibet_odds_source = VitibetCollector()
     odds_calls_made = 0
+    vitibet_odds_calls_made = 0
     candidates: list[RankedMatch] = []
 
     # MIN_SOURCES=1: no hard cutoff on agreement. Results are sorted below
@@ -202,11 +227,20 @@ async def build_ranked_matches(
             (p.quoted_odds for p in picks if p.quoted_odds and p.quoted_odds > 1.0),
             default=None
         )
+
+        best_odds_vitibet = None
+        vitibet_pick = next((p for p in picks if p.source_name == "Vitibet" and p.source_url), None)
+        if vitibet_pick is not None and vitibet_odds_calls_made < MAX_VITIBET_ODDS_CALLS:
+            odds_map = await vitibet_odds_source.fetch_match_odds(vitibet_pick.source_url)
+            vitibet_odds_calls_made += 1
+            if odds_map:
+                best_odds_vitibet = _odds_for_pick(market, rec_pick, odds_map)
+
         best_odds_live = None
-        if _sport_key_for(competition) is not None and odds_calls_made < MAX_ODDS_CALLS:
+        if best_odds_vitibet is None and _sport_key_for(competition) is not None and odds_calls_made < MAX_ODDS_CALLS:
             best_odds_live = await odds_adapter.get_best_odds(home_team, away_team, market, competition)
             odds_calls_made += 1
-        best_odds = best_odds_live or best_odds_from_picks  # None if no real price found — never fake a number
+        best_odds = best_odds_vitibet or best_odds_live or best_odds_from_picks  # None if no real price found
 
         sq = _source_quality(picks, reliability)
         con = _consensus(picks, fixture_source_totals)

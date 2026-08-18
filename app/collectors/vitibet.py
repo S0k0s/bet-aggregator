@@ -53,6 +53,34 @@ class VitibetCollector(BaseCollector):
             return [], str(exc)
         return picks, None
 
+    async def fetch_match_odds(self, detail_url: str) -> dict[str, float] | None:
+        """Real decimal 1X2 odds from a match-detail page (the same
+        `source_url` fetch_picks() already puts on every Vitibet pick).
+        Returns {"home": x, "draw": x, "away": x} or None if the page
+        doesn't have an odds box (e.g. "No predictions available")."""
+        try:
+            soup = await self.get_html(detail_url)
+            heading = soup.find(string=lambda s: s and "Odds" in s and "1X2" in s)
+            if not heading:
+                return None
+            h3 = heading.find_parent("h3")
+            card = h3.find_next_sibling("div", class_="match-card") if h3 else None
+            row = card.find("div") if card else None
+            boxes = row.find_all("div", recursive=False) if row else []
+            result: dict[str, float] = {}
+            for box in boxes:
+                divs = box.find_all("div", recursive=False)
+                if len(divs) != 2:
+                    continue
+                label = divs[0].get_text(strip=True).lower()
+                try:
+                    result[label] = float(divs[1].get_text(strip=True))
+                except ValueError:
+                    continue
+            return result if {"home", "draw", "away"} <= set(result) else None
+        except Exception:
+            return None
+
     async def fetch_results(self, date: str) -> dict[str, tuple[int, int]]:
         """Final scores for finished matches on `date` (YYYY-MM-DD).
 
