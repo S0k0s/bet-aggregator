@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-08-18T16:05:01.080965+00:00",
-  "total": 0,
+  "generated_at": "2026-08-18T16:10:00.226976+00:00",
+  "total": 20,
   "counts": {
-    "hit": 0,
-    "miss": 0,
+    "hit": 8,
+    "miss": 3,
     "push": 0,
     "unknown": 0,
-    "pending": 0
+    "pending": 9
   },
-  "hit_rate": null,
-  "by_market": {}
+  "hit_rate": 0.727,
+  "by_market": {
+    "Correct Score": {
+      "hit": 0,
+      "miss": 0,
+      "push": 0,
+      "unknown": 0,
+      "pending": 3
+    },
+    "Double Chance": {
+      "hit": 6,
+      "miss": 1,
+      "push": 0,
+      "unknown": 0,
+      "pending": 6
+    },
+    "1X2": {
+      "hit": 2,
+      "miss": 2,
+      "push": 0,
+      "unknown": 0,
+      "pending": 0
+    }
+  }
 }
