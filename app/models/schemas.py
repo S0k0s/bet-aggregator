@@ -29,7 +29,7 @@ class RankedMatch(BaseModel):
     kickoff: str
     market: str
     recommended_pick: str
-    best_odds: float = Field(..., gt=1.0)
+    best_odds: float | None = None
     consensus_score: float = Field(..., ge=0.0, le=1.0)
     price_edge_score: float = Field(..., ge=0.0, le=1.0)
     source_count: int = Field(..., ge=0)

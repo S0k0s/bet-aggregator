@@ -206,7 +206,7 @@ async def build_ranked_matches(
         if _sport_key_for(competition) is not None and odds_calls_made < MAX_ODDS_CALLS:
             best_odds_live = await odds_adapter.get_best_odds(home_team, away_team, market, competition)
             odds_calls_made += 1
-        best_odds = best_odds_live or best_odds_from_picks or 1.90
+        best_odds = best_odds_live or best_odds_from_picks  # None if no real price found — never fake a number
 
         sq = _source_quality(picks, reliability)
         con = _consensus(picks, fixture_source_totals)
