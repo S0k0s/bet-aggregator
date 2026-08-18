@@ -6,7 +6,7 @@ class PredictZCollector(BaseCollector):
     name = "PredictZ"
     base_url = "https://www.predictz.com/"
 
-    async def fetch_picks(self) -> list[SourcePick]:
+    async def fetch_picks(self) -> tuple[list[SourcePick], str | None]:
         picks: list[SourcePick] = []
         try:
             soup = await self.get_html(self.base_url)
@@ -24,19 +24,15 @@ class PredictZCollector(BaseCollector):
                 picks.append(SourcePick(
                     source_name=self.name,
                     source_url=self.base_url,
+                    home_team=home,
+                    away_team=away,
                     market=market,
                     pick=pick,
                     reason_summary=f"PredictZ prediction for {home} vs {away}: {pred_raw}"
                 ))
         except Exception as exc:
-            picks.append(SourcePick(
-                source_name=self.name,
-                source_url=self.base_url,
-                market="unknown",
-                pick="error",
-                reason_summary=f"Collector error: {exc}"
-            ))
-        return picks
+            return [], str(exc)
+        return picks, None
 
     def _map_prediction(self, raw: str) -> tuple[str, str]:
         mapping = {

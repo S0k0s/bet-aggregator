@@ -10,6 +10,8 @@ class HealthResponse(BaseModel):
 class SourcePick(BaseModel):
     source_name: str
     source_url: str
+    home_team: str
+    away_team: str
     market: str
     pick: str
     quoted_odds: float | None = None

@@ -6,7 +6,7 @@ class StatsBetCollector(BaseCollector):
     name = "StatsBet"
     base_url = "https://statsbet.org/predictions/"
 
-    async def fetch_picks(self) -> list[SourcePick]:
+    async def fetch_picks(self) -> tuple[list[SourcePick], str | None]:
         picks: list[SourcePick] = []
         try:
             soup = await self.get_html(self.base_url)
@@ -21,7 +21,7 @@ class StatsBetCollector(BaseCollector):
                 away = away_el.get_text(strip=True) if away_el else ""
                 market = market_el.get_text(strip=True) if market_el else "1X2"
                 pick_text = pick_el.get_text(strip=True) if pick_el else ""
-                if not pick_text:
+                if not pick_text or not home or not away:
                     continue
                 try:
                     odds = float(odds_el.get_text(strip=True)) if odds_el else None
@@ -30,17 +30,13 @@ class StatsBetCollector(BaseCollector):
                 picks.append(SourcePick(
                     source_name=self.name,
                     source_url=self.base_url,
+                    home_team=home,
+                    away_team=away,
                     market=market,
                     pick=pick_text,
                     quoted_odds=odds,
                     reason_summary=f"StatsBet prediction: {home} vs {away} — {market} → {pick_text}"
                 ))
         except Exception as exc:
-            picks.append(SourcePick(
-                source_name=self.name,
-                source_url=self.base_url,
-                market="unknown",
-                pick="error",
-                reason_summary=f"Collector error: {exc}"
-            ))
-        return picks
+            return [], str(exc)
+        return picks, None
