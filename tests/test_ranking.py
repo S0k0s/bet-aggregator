@@ -122,6 +122,23 @@ async def test_consensus_reflects_disagreeing_sources_not_just_count():
 
 
 @pytest.mark.asyncio
+async def test_domestic_cup_or_group_matches_alternate_sponsor_names():
+    def _pick_with_competition(source, home, away, competition):
+        p = _pick(source, home, away)
+        return p.model_copy(update={"competition": competition})
+
+    # Sponsor-renamed cups need to match under any known name (Belgium's
+    # cup has been "Croky Cup" and "Belgian Cup" across seasons/sources).
+    picks = [
+        _pick_with_competition("Vitibet", "Anderlecht", "Club Brugge", "Belgium: Croky Cup"),
+        _pick_with_competition("Vitibet", "Genk", "Gent", "Belgium Cup"),
+    ]
+    result = await build_ranked_matches(picks)
+    cup_matches = result["Europe"]["leagues"].get("Belgian Cup", [])
+    assert {m.home_team for m in cup_matches} == {"Anderlecht", "Genk"}
+
+
+@pytest.mark.asyncio
 async def test_low_consensus_longshot_no_longer_beats_high_consensus_safe_pick():
     # Regression test for a real ranking anomaly found live: a
     # single-agreeing-source, high-odds "long shot" (Correct Score) was

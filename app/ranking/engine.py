@@ -111,43 +111,68 @@ def _continent_for(competition: str | None) -> str:
     return "Europe"
 
 
-# Per-continent league breakdown, checked only against candidates already
-# bucketed into that continent - so "Super League" safely means Greece in
-# Europe and China in Asia with no cross-continent collision. (name,
-# required keywords - all must appear, ascii-folded+lowercased). Top 12 for
-# Europe / top 4 for Asia (by request) plus each continent's own continental
-# club competitions.
+# Per-continent league/cup breakdown, checked only against candidates
+# already bucketed into that continent - so "Super League" safely means
+# Greece in Europe and China in Asia with no cross-continent collision.
+# Each entry is (display_name, keyword_groups): a match happens if ANY
+# group's keywords ALL appear (ascii-folded+lowercased) - the OR-of-ANDs
+# lets a single cup match multiple real-world names, which matters
+# especially for domestic cups (sponsor-renamed most seasons: Belgium's is
+# "Croky Cup" this era, was "Cofidis Cup" before, etc.). Top 12 leagues for
+# Europe / top 4 for Asia (by request), plus each continent's own
+# continental club competition(s) and each of those same countries'
+# domestic cup.
 EUROPE_LEAGUES = [
-    ("Premier League", ("premier league", "england")),
-    ("La Liga", ("la liga",)),
-    ("Serie A", ("serie a", "italy")),
-    ("Bundesliga", ("bundesliga", "german")),
-    ("Ligue 1", ("ligue 1",)),
-    ("Eredivisie", ("eredivisie",)),
-    ("Primeira Liga", ("primeira liga",)),
-    ("Jupiler Pro League", ("jupiler",)),
-    ("Süper Lig", ("super lig",)),
-    ("Scottish Premiership", ("premiership", "scotland")),
-    ("Greek Super League", ("super league", "greece")),
-    ("Austrian Bundesliga", ("bundesliga", "austria")),
+    ("Premier League", [("premier league", "england")]),
+    ("La Liga", [("la liga",)]),
+    ("Serie A", [("serie a", "italy")]),
+    ("Bundesliga", [("bundesliga", "german")]),
+    ("Ligue 1", [("ligue 1",)]),
+    ("Eredivisie", [("eredivisie",)]),
+    ("Primeira Liga", [("primeira liga",)]),
+    ("Jupiler Pro League", [("jupiler",)]),
+    ("Süper Lig", [("super lig",)]),
+    ("Scottish Premiership", [("premiership", "scotland")]),
+    ("Greek Super League", [("super league", "greece")]),
+    ("Austrian Bundesliga", [("bundesliga", "austria")]),
 ]
 EUROPE_CONTINENTAL = [
-    ("UEFA Champions League", ("champions league",)),
-    ("UEFA Europa League", ("europa league",)),
-    ("UEFA Europa Conference League", ("conference league",)),
+    ("UEFA Champions League", [("champions league",)]),
+    ("UEFA Europa League", [("europa league",)]),
+    ("UEFA Europa Conference League", [("conference league",)]),
+]
+EUROPE_CUPS = [
+    ("FA Cup", [("fa cup",), ("england", "cup")]),
+    ("Copa del Rey", [("copa del rey",), ("spain", "copa")]),
+    ("Coppa Italia", [("coppa italia",), ("italy", "coppa")]),
+    ("DFB-Pokal", [("dfb",), ("germany", "pokal")]),
+    ("Coupe de France", [("coupe de france",), ("france", "coupe")]),
+    ("KNVB Cup", [("knvb",), ("netherlands", "cup")]),
+    ("Taça de Portugal", [("taca de portugal",), ("portuguese cup",), ("portugal", "taca")]),
+    ("Belgian Cup", [("croky cup",), ("belgian cup",), ("belgium cup",), ("belgium", "cup")]),
+    ("Türkiye Kupası", [("turkiye kupasi",), ("turkish cup",), ("turkey", "kupasi")]),
+    ("Scottish Cup", [("scottish cup",)]),
+    ("Greek Cup", [("greek cup",), ("kypello elladas",), ("greece", "cup")]),
+    ("ÖFB-Cup", [("ofb-cup",), ("ofb cup",), ("austrian cup",), ("austria", "cup")]),
 ]
 ASIA_LEAGUES = [
-    ("Saudi Pro League", ("saudi",)),
-    ("J1 League", ("j1 league",)),
-    ("K League 1", ("k league",)),
-    ("Chinese Super League", ("super league", "china")),
+    ("Saudi Pro League", [("saudi",)]),
+    ("J1 League", [("j1 league",)]),
+    ("K League 1", [("k league",)]),
+    ("Chinese Super League", [("super league", "china")]),
 ]
 ASIA_CONTINENTAL = [
-    ("AFC Champions League", ("afc", "champions")),
+    ("AFC Champions League", [("afc", "champions")]),
 ]
-LEAGUE_BREAKDOWN: dict[str, list[tuple[str, tuple[str, ...]]]] = {
-    "Europe": EUROPE_LEAGUES + EUROPE_CONTINENTAL,
-    "Asia": ASIA_LEAGUES + ASIA_CONTINENTAL,
+ASIA_CUPS = [
+    ("King's Cup", [("king cup",), ("kings cup",)]),
+    ("Emperor's Cup", [("emperor",)]),
+    ("Korean FA Cup", [("korean fa cup",), ("korea fa cup",)]),
+    ("Chinese FA Cup", [("chinese fa cup",), ("china fa cup",)]),
+]
+LEAGUE_BREAKDOWN: dict[str, list[tuple[str, list[tuple[str, ...]]]]] = {
+    "Europe": EUROPE_LEAGUES + EUROPE_CONTINENTAL + EUROPE_CUPS,
+    "Asia": ASIA_LEAGUES + ASIA_CONTINENTAL + ASIA_CUPS,
 }
 
 
@@ -156,8 +181,8 @@ def _league_for(continent: str, competition: str | None) -> str | None:
     if not options or not competition:
         return None
     ascii_lower = unicodedata.normalize("NFKD", competition).encode("ascii", "ignore").decode("ascii").lower()
-    for name, keywords in options:
-        if all(k in ascii_lower for k in keywords):
+    for name, keyword_groups in options:
+        if any(all(k in ascii_lower for k in group) for group in keyword_groups):
             return name
     return None
 
