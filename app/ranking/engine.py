@@ -38,6 +38,71 @@ SOURCE_RELIABILITY = {
 
 _CLUB_SUFFIXES = re.compile(r"\b(fc|cf|afc|sc|cd|ac|fk)\b", re.IGNORECASE)
 
+CONTINENTS = ("Europe", "Asia", "Americas", "Africa")
+
+# Checked in order against the lowercased competition string. Confederation/
+# competition keywords first (unambiguous), then country names. Israel is
+# bucketed as Europe (UEFA member) despite its geography; Australia as Asia
+# (AFC member) for the same footballing-organization reason.
+_CONTINENT_KEYWORDS = [
+    ("uefa", "Europe"), ("champions league", "Europe"), ("europa league", "Europe"),
+    ("conference league", "Europe"), ("conmebol", "Americas"), ("copa libertadores", "Americas"),
+    ("copa sudamericana", "Americas"), ("caf ", "Africa"), ("afc ", "Asia"),
+    ("england", "Europe"), ("scotland", "Europe"), ("wales", "Europe"), ("ireland", "Europe"),
+    ("greece", "Europe"), ("spain", "Europe"), ("italy", "Europe"), ("germany", "Europe"),
+    ("france", "Europe"), ("portugal", "Europe"), ("netherlands", "Europe"), ("belgium", "Europe"),
+    ("bulgaria", "Europe"), ("croatia", "Europe"), ("serbia", "Europe"), ("russia", "Europe"),
+    ("poland", "Europe"), ("romania", "Europe"), ("turkey", "Europe"), ("ukraine", "Europe"),
+    ("austria", "Europe"), ("switzerland", "Europe"), ("denmark", "Europe"), ("sweden", "Europe"),
+    ("norway", "Europe"), ("finland", "Europe"), ("czech", "Europe"), ("hungary", "Europe"),
+    ("israel", "Europe"), ("bosnia", "Europe"), ("albania", "Europe"), ("slovenia", "Europe"),
+    ("slovakia", "Europe"), ("iceland", "Europe"), ("cyprus", "Europe"), ("kosovo", "Europe"),
+    ("armenia", "Europe"), ("georgia", "Europe"), ("azerbaijan", "Europe"), ("kazakhstan", "Europe"),
+    ("belarus", "Europe"), ("moldova", "Europe"), ("montenegro", "Europe"), ("macedonia", "Europe"),
+    ("luxembourg", "Europe"), ("estonia", "Europe"), ("latvia", "Europe"), ("lithuania", "Europe"),
+    ("malta", "Europe"), ("san marino", "Europe"), ("andorra", "Europe"), ("faroe", "Europe"),
+    ("gibraltar", "Europe"), ("europe", "Europe"), ("international", "Europe"),
+    ("iran", "Asia"), ("saudi arabia", "Asia"), ("china", "Asia"), ("japan", "Asia"),
+    ("korea", "Asia"), ("qatar", "Asia"), ("emirates", "Asia"), ("uzbekistan", "Asia"),
+    ("iraq", "Asia"), ("india", "Asia"), ("thailand", "Asia"), ("vietnam", "Asia"),
+    ("indonesia", "Asia"), ("malaysia", "Asia"), ("singapore", "Asia"), ("australia", "Asia"),
+    ("bahrain", "Asia"), ("kuwait", "Asia"), ("jordan", "Asia"), ("lebanon", "Asia"),
+    ("syria", "Asia"), ("oman", "Asia"), ("yemen", "Asia"), ("kyrgyzstan", "Asia"),
+    ("tajikistan", "Asia"), ("turkmenistan", "Asia"), ("mongolia", "Asia"), ("myanmar", "Asia"),
+    ("cambodia", "Asia"), ("nepal", "Asia"), ("bangladesh", "Asia"), ("sri lanka", "Asia"),
+    ("pakistan", "Asia"), ("afghanistan", "Asia"), ("bhutan", "Asia"), ("hong kong", "Asia"),
+    ("taiwan", "Asia"), ("philippines", "Asia"), ("brunei", "Asia"), ("laos", "Asia"),
+    ("brazil", "Americas"), ("argentina", "Americas"), ("mexico", "Americas"), ("chile", "Americas"),
+    ("colombia", "Americas"), ("ecuador", "Americas"), ("paraguay", "Americas"), ("uruguay", "Americas"),
+    ("peru", "Americas"), ("bolivia", "Americas"), ("venezuela", "Americas"), ("usa", "Americas"),
+    ("united states", "Americas"), ("canada", "Americas"), ("costa rica", "Americas"),
+    ("honduras", "Americas"), ("guatemala", "Americas"), ("panama", "Americas"),
+    ("el salvador", "Americas"), ("jamaica", "Americas"), ("trinidad", "Americas"),
+    ("nicaragua", "Americas"), ("dominican", "Americas"), ("haiti", "Americas"), ("cuba", "Americas"),
+    ("barbados", "Americas"), ("suriname", "Americas"), ("guyana", "Americas"),
+    ("tanzania", "Africa"), ("nigeria", "Africa"), ("egypt", "Africa"), ("south africa", "Africa"),
+    ("ghana", "Africa"), ("kenya", "Africa"), ("morocco", "Africa"), ("algeria", "Africa"),
+    ("tunisia", "Africa"), ("cameroon", "Africa"), ("senegal", "Africa"), ("zambia", "Africa"),
+    ("zimbabwe", "Africa"), ("uganda", "Africa"), ("ivory coast", "Africa"), ("mali", "Africa"),
+    ("burkina faso", "Africa"), ("angola", "Africa"), ("mozambique", "Africa"), ("botswana", "Africa"),
+    ("namibia", "Africa"), ("rwanda", "Africa"), ("ethiopia", "Africa"), ("libya", "Africa"),
+    ("sudan", "Africa"), ("congo", "Africa"), ("gabon", "Africa"), ("benin", "Africa"),
+    ("togo", "Africa"), ("niger", "Africa"), ("chad", "Africa"), ("madagascar", "Africa"),
+    ("malawi", "Africa"), ("mauritius", "Africa"), ("liberia", "Africa"), ("sierra leone", "Africa"),
+    ("gambia", "Africa"), ("guinea", "Africa"), ("burundi", "Africa"), ("somalia", "Africa"),
+    ("eritrea", "Africa"), ("djibouti", "Africa"), ("lesotho", "Africa"), ("eswatini", "Africa"),
+    ("mauritania", "Africa"), ("cape verde", "Africa"),
+]
+
+
+def _continent_for(competition: str | None) -> str:
+    if competition:
+        lowered = competition.lower()
+        for keyword, continent in _CONTINENT_KEYWORDS:
+            if keyword in lowered:
+                return continent
+    return "Europe"
+
 
 def _normalize_team(name: str) -> str:
     """Heuristic normalization for cross-source fixture matching.
@@ -97,7 +162,7 @@ def _ev_score(best_odds: float | None, consensus: float) -> float:
 async def build_ranked_matches(
     all_picks: list[SourcePick],
     reliability_overrides: dict[str, float] | None = None,
-) -> list[RankedMatch]:
+) -> dict[str, list[RankedMatch]]:
     reliability = reliability_overrides or {}
     grouped: dict[str, list[SourcePick]] = defaultdict(list)
     for pick in all_picks:
@@ -178,5 +243,12 @@ async def build_ranked_matches(
             explanation=explanation,
         ))
 
-    candidates.sort(key=lambda m: m.final_score, reverse=True)
-    return candidates[:TARGET_COUNT]
+    by_continent: dict[str, list[RankedMatch]] = defaultdict(list)
+    for m in candidates:
+        by_continent[_continent_for(m.competition)].append(m)
+
+    result: dict[str, list[RankedMatch]] = {}
+    for continent in CONTINENTS:
+        bucket = sorted(by_continent.get(continent, []), key=lambda m: m.final_score, reverse=True)
+        result[continent] = bucket[:TARGET_COUNT]
+    return result

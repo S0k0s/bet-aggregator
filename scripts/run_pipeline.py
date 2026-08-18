@@ -46,13 +46,17 @@ async def main() -> None:
         print(f"[{collector.name}] {len(picks)} picks" + (f" — error: {error}" if error else ""))
 
     reliability = load_reliability(OUTPUT_DIR / "source-reliability.json")
-    ranked = await build_ranked_matches(all_picks, reliability_overrides=reliability)
+    ranked_by_continent = await build_ranked_matches(all_picks, reliability_overrides=reliability)
+    ranked = [m for matches in ranked_by_continent.values() for m in matches]
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     ranked_path = OUTPUT_DIR / "ranked-matches.json"
     ranked_path.write_text(
-        json.dumps([m.model_dump() for m in ranked], ensure_ascii=False, indent=2),
+        json.dumps(
+            {continent: [m.model_dump() for m in matches] for continent, matches in ranked_by_continent.items()},
+            ensure_ascii=False, indent=2,
+        ),
         encoding="utf-8",
     )
 
@@ -63,11 +67,12 @@ async def main() -> None:
             "sources": source_status,
             "total_raw_picks": len(all_picks),
             "ranked_count": len(ranked),
+            "ranked_by_continent": {c: len(m) for c, m in ranked_by_continent.items()},
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 
-    print(f"Wrote {len(ranked)} ranked matches to {ranked_path}")
+    print(f"Wrote {len(ranked)} ranked matches across continents to {ranked_path}")
 
     history_path = OUTPUT_DIR / "history.json"
     history = load_history(history_path)
