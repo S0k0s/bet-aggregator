@@ -4,8 +4,9 @@ from app.models.schemas import SourcePick, RankedMatch
 from app.odds.adapter import OddsAdapter
 import hashlib
 import re
+import unicodedata
 
-MIN_SOURCES = 3
+MIN_SOURCES = 1
 TARGET_COUNT = 20
 
 WEIGHTS = {
@@ -19,21 +20,25 @@ SOURCE_RELIABILITY = {
     "PredictZ": 0.65,
     "FreeSuperTips": 0.70,
     "StatsBet": 0.72,
+    "Vitibet": 0.68,
 }
 
-_CLUB_SUFFIXES = re.compile(r"\b(fc|cf|afc|sc|cd|ac)\b", re.IGNORECASE)
+_CLUB_SUFFIXES = re.compile(r"\b(fc|cf|afc|sc|cd|ac|fk)\b", re.IGNORECASE)
 
 
 def _normalize_team(name: str) -> str:
     """Heuristic normalization for cross-source fixture matching.
 
-    This is a pragmatic first pass (lowercase, strip common club suffixes,
-    collapse whitespace) — not the full TeamAliasNormalizer the handover
-    calls out as its own backlog item (e.g. "Man Utd" vs "Manchester United"
-    still won't merge). Good enough to merge trivial casing/whitespace/suffix
-    differences across sources.
+    This is a pragmatic first pass (strip accents, lowercase, strip common
+    club suffixes, collapse whitespace) — not the full TeamAliasNormalizer
+    the handover calls out as its own backlog item (e.g. "Man Utd" vs
+    "Manchester United" still won't merge). Good enough to merge trivial
+    casing/accent/whitespace/suffix differences across sources — accent
+    stripping matters in practice: one source may write "Fenerbahce" and
+    another "Fenerbahçe" for the same club.
     """
-    normalized = _CLUB_SUFFIXES.sub("", name.lower())
+    ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+    normalized = _CLUB_SUFFIXES.sub("", ascii_name.lower())
     return re.sub(r"\s+", " ", normalized).strip()
 
 
@@ -91,6 +96,11 @@ async def build_ranked_matches(all_picks: list[SourcePick]) -> list[RankedMatch]
     odds_adapter = OddsAdapter()
     candidates: list[RankedMatch] = []
 
+    # MIN_SOURCES=1: no hard cutoff on agreement. Results are sorted below
+    # by final_score, which weights consensus + source_quality, so
+    # higher-agreement picks naturally rank above single-source ones;
+    # source_count/consensus_score stay on every RankedMatch so a
+    # low-agreement pick is never mistaken for a confirmed one.
     for key, picks in grouped.items():
         distinct_sources = {p.source_name for p in picks}
         if len(distinct_sources) < MIN_SOURCES:
