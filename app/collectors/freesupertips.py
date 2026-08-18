@@ -1,5 +1,6 @@
 from __future__ import annotations
 import json
+from datetime import datetime, timezone
 from app.collectors.base import BaseCollector
 from app.models.schemas import SourcePick
 
@@ -31,7 +32,7 @@ class FreeSuperTipsCollector(BaseCollector):
                         home, away = self._teams(match)
                         if not home or not away:
                             continue
-                        kickoff = match.get("startString") or "TBD"
+                        kickoff = self._kickoff(match)
                         source_url = self._absolute_url(match.get("url"))
                         for tip in match.get("tips", []):
                             market, pick = self._parse_tip(tip, home, away)
@@ -53,6 +54,15 @@ class FreeSuperTipsCollector(BaseCollector):
         except Exception as exc:
             return [], str(exc)
         return picks, None
+
+    def _kickoff(self, match: dict) -> str:
+        # "startString" is UK local time with no offset (ambiguous across
+        # BST/GMT); "start" is a real unix timestamp, so prefer that for an
+        # unambiguous UTC ISO string.
+        start = match.get("start")
+        if isinstance(start, (int, float)):
+            return datetime.fromtimestamp(start, tz=timezone.utc).isoformat()
+        return match.get("startString") or "TBD"
 
     def _teams(self, match: dict) -> tuple[str, str]:
         home = away = ""

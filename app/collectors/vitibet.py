@@ -1,6 +1,7 @@
 from __future__ import annotations
 from app.collectors.base import BaseCollector
 from app.models.schemas import SourcePick
+from app.ranking.engine import _normalize_team
 
 _TIP_MAP = {
     "1": ("1X2", "1"),
@@ -59,3 +60,37 @@ class VitibetCollector(BaseCollector):
         except Exception as exc:
             return [], str(exc)
         return picks, None
+
+    async def fetch_results(self, date: str) -> dict[str, tuple[int, int]]:
+        """Final scores for finished matches on `date` (YYYY-MM-DD).
+
+        Vitibet's own livescore page — the same one fetch_picks() reads —
+        accepts a date query param and shows FT scores for past dates, so
+        result-checking needs no new source. Keyed by the same fixture key
+        used for cross-source consensus grouping in app.ranking.engine.
+        """
+        results: dict[str, tuple[int, int]] = {}
+        url = f"{self.base_url}&date={date}"
+        soup = await self.get_html(url)
+        for row in soup.select("a.livescore-match-row"):
+            if row.get("data-status") != "finished":
+                continue
+            teams = row.select(".livescore-team-name")
+            if len(teams) < 2:
+                continue
+            home = teams[0].get_text(strip=True)
+            away = teams[1].get_text(strip=True)
+            score_el = row.select_one(".livescore-match-actual-col .actual-score-row")
+            if not score_el:
+                continue
+            score_text = score_el.get_text(strip=True)
+            parts = score_text.split("-")
+            if len(parts) != 2:
+                continue
+            try:
+                home_goals, away_goals = int(parts[0]), int(parts[1])
+            except ValueError:
+                continue
+            key = f"{_normalize_team(home)}|{_normalize_team(away)}"
+            results[key] = (home_goals, away_goals)
+        return results

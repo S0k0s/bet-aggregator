@@ -19,6 +19,7 @@ from app.collectors.statsbet import StatsBetCollector
 from app.collectors.vitibet import VitibetCollector
 from app.models.schemas import SourcePick
 from app.ranking.engine import build_ranked_matches
+from app.history.store import load_history, save_history, history_key
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 
@@ -60,6 +61,45 @@ async def main() -> None:
     )
 
     print(f"Wrote {len(ranked)} ranked matches to {ranked_path}")
+
+    history_path = OUTPUT_DIR / "history.json"
+    history = load_history(history_path)
+    history_by_key = {entry["history_key"]: entry for entry in history}
+    now = datetime.now(timezone.utc).isoformat()
+    new_count = 0
+    for m in ranked:
+        key = history_key(m.home_team, m.away_team, m.market, m.recommended_pick, m.kickoff)
+        existing = history_by_key.get(key)
+        if existing is None:
+            entry = {
+                "history_key": key,
+                "match_id": m.match_id,
+                "home_team": m.home_team,
+                "away_team": m.away_team,
+                "competition": m.competition,
+                "market": m.market,
+                "recommended_pick": m.recommended_pick,
+                "predicted_at": now,
+                "kickoff": m.kickoff,
+                "best_odds": m.best_odds,
+                "source_count": m.source_count,
+                "consensus_score": m.consensus_score,
+                "final_score": None,
+                "outcome": "pending",
+                "graded_at": None,
+            }
+            history.append(entry)
+            history_by_key[key] = entry
+            new_count += 1
+        elif existing.get("outcome") == "pending":
+            # Still pending: refresh display fields, never touch outcome.
+            existing["best_odds"] = m.best_odds
+            existing["source_count"] = m.source_count
+            existing["consensus_score"] = m.consensus_score
+            existing["kickoff"] = m.kickoff
+
+    save_history(history_path, history)
+    print(f"History: {new_count} new, {len(history)} total")
 
 
 if __name__ == "__main__":
