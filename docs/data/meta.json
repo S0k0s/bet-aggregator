@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:02:58.742908+00:00",
+  "generated_at": "2026-08-18T17:14:56.163549+00:00",
   "sources": [
     {
       "name": "PredictZ",
@@ -33,10 +33,16 @@
     },
     {
       "name": "Statarea",
-      "pick_count": 30,
+      "pick_count": 33,
       "error": null
     }
   ],
-  "total_raw_picks": 176,
-  "ranked_count": 20
+  "total_raw_picks": 179,
+  "ranked_count": 62,
+  "ranked_by_continent": {
+    "Europe": 20,
+    "Asia": 20,
+    "Americas": 20,
+    "Africa": 2
+  }
 }
