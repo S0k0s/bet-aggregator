@@ -46,6 +46,12 @@ CONTINENTS = ("Europe", "Asia", "Americas", "Africa")
 # bucketed as Europe (UEFA member) despite its geography; Australia as Asia
 # (AFC member) for the same footballing-organization reason.
 _CONTINENT_KEYWORDS = [
+    # Confederation-qualified continental competitions must be checked
+    # before the bare "champions league" fallback below, otherwise "AFC
+    # Champions League" (Asia) or "CAF Champions League" (Africa) would
+    # get misclassified as Europe just for containing that substring.
+    ("afc champions league", "Asia"), ("afc cup", "Asia"),
+    ("caf champions league", "Africa"), ("concacaf champions", "Americas"),
     ("uefa", "Europe"), ("champions league", "Europe"), ("europa league", "Europe"),
     ("conference league", "Europe"), ("conmebol", "Americas"), ("copa libertadores", "Americas"),
     ("copa sudamericana", "Americas"), ("caf ", "Africa"), ("afc ", "Asia"),
@@ -103,6 +109,57 @@ def _continent_for(competition: str | None) -> str:
             if keyword in lowered:
                 return continent
     return "Europe"
+
+
+# Per-continent league breakdown, checked only against candidates already
+# bucketed into that continent - so "Super League" safely means Greece in
+# Europe and China in Asia with no cross-continent collision. (name,
+# required keywords - all must appear, ascii-folded+lowercased). Top 12 for
+# Europe / top 4 for Asia (by request) plus each continent's own continental
+# club competitions.
+EUROPE_LEAGUES = [
+    ("Premier League", ("premier league", "england")),
+    ("La Liga", ("la liga",)),
+    ("Serie A", ("serie a", "italy")),
+    ("Bundesliga", ("bundesliga", "german")),
+    ("Ligue 1", ("ligue 1",)),
+    ("Eredivisie", ("eredivisie",)),
+    ("Primeira Liga", ("primeira liga",)),
+    ("Jupiler Pro League", ("jupiler",)),
+    ("Süper Lig", ("super lig",)),
+    ("Scottish Premiership", ("premiership", "scotland")),
+    ("Greek Super League", ("super league", "greece")),
+    ("Austrian Bundesliga", ("bundesliga", "austria")),
+]
+EUROPE_CONTINENTAL = [
+    ("UEFA Champions League", ("champions league",)),
+    ("UEFA Europa League", ("europa league",)),
+    ("UEFA Europa Conference League", ("conference league",)),
+]
+ASIA_LEAGUES = [
+    ("Saudi Pro League", ("saudi",)),
+    ("J1 League", ("j1 league",)),
+    ("K League 1", ("k league",)),
+    ("Chinese Super League", ("super league", "china")),
+]
+ASIA_CONTINENTAL = [
+    ("AFC Champions League", ("afc", "champions")),
+]
+LEAGUE_BREAKDOWN: dict[str, list[tuple[str, tuple[str, ...]]]] = {
+    "Europe": EUROPE_LEAGUES + EUROPE_CONTINENTAL,
+    "Asia": ASIA_LEAGUES + ASIA_CONTINENTAL,
+}
+
+
+def _league_for(continent: str, competition: str | None) -> str | None:
+    options = LEAGUE_BREAKDOWN.get(continent)
+    if not options or not competition:
+        return None
+    ascii_lower = unicodedata.normalize("NFKD", competition).encode("ascii", "ignore").decode("ascii").lower()
+    for name, keywords in options:
+        if all(k in ascii_lower for k in keywords):
+            return name
+    return None
 
 
 def _normalize_team(name: str) -> str:
@@ -182,7 +239,7 @@ def _odds_for_pick(market: str, pick: str, odds_map: dict[str, float]) -> float 
 async def build_ranked_matches(
     all_picks: list[SourcePick],
     reliability_overrides: dict[str, float] | None = None,
-) -> dict[str, list[RankedMatch]]:
+) -> dict[str, dict]:
     reliability = reliability_overrides or {}
     grouped: dict[str, list[SourcePick]] = defaultdict(list)
     for pick in all_picks:
@@ -281,8 +338,21 @@ async def build_ranked_matches(
     for m in candidates:
         by_continent[_continent_for(m.competition)].append(m)
 
-    result: dict[str, list[RankedMatch]] = {}
+    result: dict[str, dict] = {}
     for continent in CONTINENTS:
         bucket = sorted(by_continent.get(continent, []), key=lambda m: m.final_score, reverse=True)
-        result[continent] = bucket[:TARGET_COUNT]
+        leagues: dict[str, list[RankedMatch]] = {}
+        if continent in LEAGUE_BREAKDOWN:
+            by_league: dict[str, list[RankedMatch]] = defaultdict(list)
+            for m in bucket:
+                league_name = _league_for(continent, m.competition)
+                if league_name:
+                    by_league[league_name].append(m)
+            # Preserve LEAGUE_BREAKDOWN's declared order rather than
+            # dict-insertion/discovery order, and skip leagues with no
+            # matches today instead of showing an empty tab for them.
+            for league_name, _ in LEAGUE_BREAKDOWN[continent]:
+                if league_name in by_league:
+                    leagues[league_name] = by_league[league_name][:TARGET_COUNT]
+        result[continent] = {"all": bucket[:TARGET_COUNT], "leagues": leagues}
     return result

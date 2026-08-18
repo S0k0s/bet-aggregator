@@ -47,14 +47,34 @@ async def main() -> None:
 
     reliability = load_reliability(OUTPUT_DIR / "source-reliability.json")
     ranked_by_continent = await build_ranked_matches(all_picks, reliability_overrides=reliability)
-    ranked = [m for matches in ranked_by_continent.values() for m in matches]
+
+    # Flatten for history/counts, deduped by match_id since a match can
+    # appear in both a continent's "all" list and its specific league list.
+    seen_ids: set[str] = set()
+    ranked: list = []
+    for data in ranked_by_continent.values():
+        for m in data["all"]:
+            if m.match_id not in seen_ids:
+                seen_ids.add(m.match_id)
+                ranked.append(m)
+        for league_matches in data["leagues"].values():
+            for m in league_matches:
+                if m.match_id not in seen_ids:
+                    seen_ids.add(m.match_id)
+                    ranked.append(m)
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     ranked_path = OUTPUT_DIR / "ranked-matches.json"
     ranked_path.write_text(
         json.dumps(
-            {continent: [m.model_dump() for m in matches] for continent, matches in ranked_by_continent.items()},
+            {
+                continent: {
+                    "all": [m.model_dump() for m in data["all"]],
+                    "leagues": {name: [m.model_dump() for m in ms] for name, ms in data["leagues"].items()},
+                }
+                for continent, data in ranked_by_continent.items()
+            },
             ensure_ascii=False, indent=2,
         ),
         encoding="utf-8",
@@ -67,7 +87,7 @@ async def main() -> None:
             "sources": source_status,
             "total_raw_picks": len(all_picks),
             "ranked_count": len(ranked),
-            "ranked_by_continent": {c: len(m) for c, m in ranked_by_continent.items()},
+            "ranked_by_continent": {c: len(d["all"]) for c, d in ranked_by_continent.items()},
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )

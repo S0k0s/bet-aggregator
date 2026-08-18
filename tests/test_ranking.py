@@ -27,6 +27,26 @@ def test_odds_for_pick_1x2_and_double_chance_combined():
     assert _odds_for_pick("1X2", "1", {}) is None
 
 
+@pytest.mark.asyncio
+async def test_league_breakdown_buckets_premier_league_and_afc_champions_league():
+    def _pick_with_competition(source, home, away, competition):
+        p = _pick(source, home, away)
+        return p.model_copy(update={"competition": competition})
+
+    picks = [
+        _pick_with_competition("Vitibet", "Arsenal", "Chelsea", "England: Premier League"),
+        _pick_with_competition("Vitibet", "Al Hilal", "Urawa Reds", "AFC Champions League"),
+    ]
+    result = await build_ranked_matches(picks)
+    # Regression: "AFC Champions League" contains "champions league" but
+    # must NOT be bucketed into Europe just for that substring.
+    europe_leagues = result["Europe"]["leagues"]
+    asia_leagues = result["Asia"]["leagues"]
+    assert any(m.home_team == "Arsenal" for m in europe_leagues.get("Premier League", []))
+    assert any(m.home_team == "Al Hilal" for m in asia_leagues.get("AFC Champions League", []))
+    assert all(m.home_team != "Al Hilal" for ms in europe_leagues.values() for m in ms)
+
+
 def test_normalize_team_strips_suffix_case_and_whitespace():
     assert _normalize_team("Arsenal FC") == "arsenal"
     assert _normalize_team("  arsenal   fc ") == "arsenal"
@@ -54,7 +74,7 @@ async def test_three_sources_agreeing_produce_one_ranked_match_with_real_teams()
         _pick("FreeSuperTips", "Arsenal", "Chelsea"),
         _pick("StatsBet", "arsenal", "chelsea"),
     ]
-    ranked = (await build_ranked_matches(picks))["Europe"]
+    ranked = (await build_ranked_matches(picks))["Europe"]["all"]
     assert len(ranked) == 1
     match = ranked[0]
     assert match.home_team.lower().startswith("arsenal")
@@ -74,7 +94,7 @@ async def test_higher_agreement_ranks_above_lower_agreement():
         _pick("StatsBet", "Arsenal", "Chelsea", pick="1"),
     ]
     low_agreement = [_pick("Vitibet", "Liverpool", "Everton", pick="1")]
-    ranked = (await build_ranked_matches(high_agreement + low_agreement))["Europe"]
+    ranked = (await build_ranked_matches(high_agreement + low_agreement))["Europe"]["all"]
     assert len(ranked) == 2
     assert ranked[0].home_team == "Arsenal"
     assert ranked[0].source_count == 3
@@ -91,7 +111,7 @@ async def test_consensus_reflects_disagreeing_sources_not_just_count():
         _pick("StatsBet", "Arsenal", "Chelsea", pick="1"),
         _pick("PredictZ", "Arsenal", "Chelsea", pick="X"),
     ]
-    ranked = (await build_ranked_matches(picks))["Europe"]
+    ranked = (await build_ranked_matches(picks))["Europe"]["all"]
     # Both the majority "1" pick and PredictZ's lone "X" pick surface (no
     # hard source-count cutoff), but "1" ranks first and its consensus is
     # "3 of 3 distinct sources for this fixture agree on 1" -> 1.0, not
@@ -118,7 +138,7 @@ async def test_low_consensus_longshot_no_longer_beats_high_consensus_safe_pick()
         _pick("FreeSuperTips", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
         _pick("StatsBet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
     ]
-    ranked = (await build_ranked_matches(longshot_fixture + safe_fixture))["Europe"]
+    ranked = (await build_ranked_matches(longshot_fixture + safe_fixture))["Europe"]["all"]
     longshot = next(m for m in ranked if m.home_team == "LongshotFC")
     safe = next(m for m in ranked if m.home_team == "Favourite")
     assert longshot.consensus_score < 0.5
