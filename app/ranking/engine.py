@@ -1,6 +1,7 @@
 from __future__ import annotations
 from collections import defaultdict
-from app.models.schemas import SourcePick, RankedMatch
+from datetime import datetime, timedelta, timezone
+from app.models.schemas import SourcePick, RankedMatch, MatchCard
 from app.odds.adapter import OddsAdapter, _sport_key_for
 import hashlib
 import re
@@ -8,6 +9,7 @@ import unicodedata
 
 MIN_SOURCES = 1
 TARGET_COUNT = 20
+STALE_KICKOFF_HOURS = 2  # a match this far past its kickoff is assumed over
 MAX_ODDS_CALLS = 30  # protects the free-tier 500 req/month odds API quota
 MAX_VITIBET_ODDS_CALLS = 150  # generous safety net, not a quota (free site)
 
@@ -187,6 +189,25 @@ def _league_for(continent: str, competition: str | None) -> str | None:
     return None
 
 
+def _parse_kickoff(kickoff: str | None) -> datetime | None:
+    if not kickoff or kickoff == "TBD":
+        return None
+    try:
+        iso = kickoff if "T" in kickoff else kickoff.replace(" ", "T", 1)
+        dt = datetime.fromisoformat(iso)
+        return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
+def _is_upcoming(kickoff: str | None, now: datetime) -> bool:
+    """True unless kickoff is parseable and clearly in the past - a
+    match with unknown ("TBD") kickoff is kept, same ambiguity we already
+    accept elsewhere rather than guessing."""
+    dt = _parse_kickoff(kickoff)
+    return dt is None or dt > now - timedelta(hours=STALE_KICKOFF_HOURS)
+
+
 def _normalize_team(name: str) -> str:
     """Heuristic normalization for cross-source fixture matching.
 
@@ -359,20 +380,47 @@ async def build_ranked_matches(
             explanation=explanation,
         ))
 
-    by_continent: dict[str, list[RankedMatch]] = defaultdict(list)
+    # Group every (fixture, market, pick) candidate by fixture so a match
+    # with several recommended markets shows as one MatchCard with
+    # multiple picks, instead of each pick eating its own top-20 slot.
+    # Drop fixtures whose kickoff has clearly already passed - collectors
+    # sometimes keep listing a match past kickoff, which otherwise leaves
+    # stale "predictions" for already-finished games on the dashboard.
+    now = datetime.now(timezone.utc)
+    by_fixture: dict[str, list[RankedMatch]] = defaultdict(list)
     for m in candidates:
-        by_continent[_continent_for(m.competition)].append(m)
+        if not _is_upcoming(m.kickoff, now):
+            continue
+        fixture_key = f"{_normalize_team(m.home_team)}|{_normalize_team(m.away_team)}"
+        by_fixture[fixture_key].append(m)
+
+    cards: list[MatchCard] = []
+    for fixture_key, picks in by_fixture.items():
+        picks_sorted = sorted(picks, key=lambda m: m.final_score, reverse=True)
+        top = picks_sorted[0]
+        cards.append(MatchCard(
+            match_id=hashlib.md5(fixture_key.encode()).hexdigest()[:8],
+            home_team=top.home_team,
+            away_team=top.away_team,
+            competition=top.competition,
+            kickoff=top.kickoff,
+            picks=picks_sorted,
+        ))
+
+    by_continent: dict[str, list[MatchCard]] = defaultdict(list)
+    for c in cards:
+        by_continent[_continent_for(c.competition)].append(c)
 
     result: dict[str, dict] = {}
     for continent in CONTINENTS:
-        bucket = sorted(by_continent.get(continent, []), key=lambda m: m.final_score, reverse=True)
-        leagues: dict[str, list[RankedMatch]] = {}
+        bucket = sorted(by_continent.get(continent, []), key=lambda c: c.picks[0].final_score, reverse=True)
+        leagues: dict[str, list[MatchCard]] = {}
         if continent in LEAGUE_BREAKDOWN:
-            by_league: dict[str, list[RankedMatch]] = defaultdict(list)
-            for m in bucket:
-                league_name = _league_for(continent, m.competition)
+            by_league: dict[str, list[MatchCard]] = defaultdict(list)
+            for c in bucket:
+                league_name = _league_for(continent, c.competition)
                 if league_name:
-                    by_league[league_name].append(m)
+                    by_league[league_name].append(c)
             # Preserve LEAGUE_BREAKDOWN's declared order rather than
             # dict-insertion/discovery order, and skip leagues with no
             # matches today instead of showing an empty tab for them.

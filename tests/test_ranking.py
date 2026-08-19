@@ -76,9 +76,10 @@ async def test_three_sources_agreeing_produce_one_ranked_match_with_real_teams()
     ]
     ranked = (await build_ranked_matches(picks))["Europe"]["all"]
     assert len(ranked) == 1
-    match = ranked[0]
-    assert match.home_team.lower().startswith("arsenal")
-    assert match.away_team.lower() == "chelsea"
+    card = ranked[0]
+    match = card.picks[0]
+    assert card.home_team.lower().startswith("arsenal")
+    assert card.away_team.lower() == "chelsea"
     assert match.source_count == 3
     assert match.consensus_score == 1.0
 
@@ -97,10 +98,10 @@ async def test_higher_agreement_ranks_above_lower_agreement():
     ranked = (await build_ranked_matches(high_agreement + low_agreement))["Europe"]["all"]
     assert len(ranked) == 2
     assert ranked[0].home_team == "Arsenal"
-    assert ranked[0].source_count == 3
+    assert ranked[0].picks[0].source_count == 3
     assert ranked[1].home_team == "Liverpool"
-    assert ranked[1].source_count == 1
-    assert ranked[0].final_score > ranked[1].final_score
+    assert ranked[1].picks[0].source_count == 1
+    assert ranked[0].picks[0].final_score > ranked[1].picks[0].final_score
 
 
 @pytest.mark.asyncio
@@ -112,13 +113,16 @@ async def test_consensus_reflects_disagreeing_sources_not_just_count():
         _pick("PredictZ", "Arsenal", "Chelsea", pick="X"),
     ]
     ranked = (await build_ranked_matches(picks))["Europe"]["all"]
+    # Same fixture, two markets/picks -> grouped into a single MatchCard.
     # Both the majority "1" pick and PredictZ's lone "X" pick surface (no
-    # hard source-count cutoff), but "1" ranks first and its consensus is
-    # "3 of 3 distinct sources for this fixture agree on 1" -> 1.0, not
-    # len(picks)/20 as the old buggy implementation computed.
-    assert ranked[0].recommended_pick == "1"
-    assert ranked[0].consensus_score == 1.0
-    assert ranked[0].source_count == 3
+    # hard source-count cutoff), but "1" ranks first within the card and its
+    # consensus is "3 of 3 distinct sources for this fixture agree on 1" ->
+    # 1.0, not len(picks)/20 as the old buggy implementation computed.
+    assert len(ranked) == 1
+    top_pick = ranked[0].picks[0]
+    assert top_pick.recommended_pick == "1"
+    assert top_pick.consensus_score == 1.0
+    assert top_pick.source_count == 3
 
 
 @pytest.mark.asyncio
@@ -156,8 +160,8 @@ async def test_low_consensus_longshot_no_longer_beats_high_consensus_safe_pick()
         _pick("StatsBet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
     ]
     ranked = (await build_ranked_matches(longshot_fixture + safe_fixture))["Europe"]["all"]
-    longshot = next(m for m in ranked if m.home_team == "LongshotFC")
-    safe = next(m for m in ranked if m.home_team == "Favourite")
+    longshot = next(m for m in ranked if m.home_team == "LongshotFC").picks[0]
+    safe = next(m for m in ranked if m.home_team == "Favourite").picks[0]
     assert longshot.consensus_score < 0.5
     assert safe.consensus_score == 1.0
     assert safe.final_score > longshot.final_score

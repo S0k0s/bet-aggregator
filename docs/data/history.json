@@ -510,7 +510,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-18T16:47:52.925694+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.33,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -530,7 +530,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-18T16:47:52.925694+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.31,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -550,7 +550,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-18T16:47:52.925694+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 2.15,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -570,7 +570,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-18T16:47:52.925694+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.85,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -590,7 +590,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-18T16:47:52.925694+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.7,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -610,7 +610,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-18T17:02:58.743284+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.38,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -630,7 +630,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-08-18T17:02:58.743284+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.28,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -650,7 +650,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-08-18T17:02:58.743284+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.8,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -670,7 +670,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-18T17:14:56.163920+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 2.15,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -690,7 +690,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-18T17:14:56.163920+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.3,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -710,7 +710,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-18T17:14:56.163920+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 2.05,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -730,7 +730,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-18T17:14:56.163920+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 2.45,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -750,7 +750,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-18T17:14:56.163920+00:00",
     "kickoff": "2026-08-18T20:45:00+02:00",
-    "best_odds": 1.22,
+    "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -769,8 +769,8 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-08-18T17:14:56.163920+00:00",
-    "kickoff": "2026-08-18T19:45:00+01:00",
-    "best_odds": 1.95,
+    "kickoff": "2026-08-18T20:45:00+02:00",
+    "best_odds": null,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -2160,6 +2160,2426 @@
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 0.25,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "levadiakos|asteras tripolis|Double Chance|1X|2026-08-18",
+    "match_id": "f93d9547",
+    "home_team": "Levadiakos",
+    "away_team": "Asteras Tripolis",
+    "competition": "GREECE - CUP QUALIFICATION",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T20:10:15.488372+00:00",
+    "kickoff": "2026-08-18T14:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "levadiakos|asteras tripolis|1X2|1|2026-08-18",
+    "match_id": "62b13712",
+    "home_team": "Levadiakos",
+    "away_team": "Asteras Tripolis",
+    "competition": "Greece Cup",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-18T20:10:15.488372+00:00",
+    "kickoff": "2026-08-18T19:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dinamo zagreb|viking|Double Chance|1X|2026-08-18",
+    "match_id": "398ea1f9",
+    "home_team": "Dinamo Zagreb",
+    "away_team": "Viking",
+    "competition": "World: UEFA Champions League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T21:30:48.138386+00:00",
+    "kickoff": "2026-08-18T21:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "levski sofia|aek athens|Double Chance|X2|2026-08-18",
+    "match_id": "0bdd713b",
+    "home_team": "Levski Sofia",
+    "away_team": "AEK Athens FC",
+    "competition": "World: UEFA Champions League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-18T21:30:48.138386+00:00",
+    "kickoff": "2026-08-18T21:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fenerbahce|lyon|Double Chance|1X|2026-08-18",
+    "match_id": "d4f32ebb",
+    "home_team": "Fenerbahçe",
+    "away_team": "Lyon",
+    "competition": "World: UEFA Champions League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-18T21:30:48.138386+00:00",
+    "kickoff": "2026-08-18T21:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.2,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nec nijmegen|bodo glimt|Correct Score|Draw 3-3|2026-08-19",
+    "match_id": "b85d6963",
+    "home_team": "NEC Nijmegen",
+    "away_team": "Bodo Glimt",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Draw 3-3",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 29.0,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nec nijmegen|bodo glimt|Total Goals|Over 3.5 Match Goals|2026-08-19",
+    "match_id": "e2d9f33a",
+    "home_team": "NEC Nijmegen",
+    "away_team": "Bodo Glimt",
+    "competition": "UEFA Champions League",
+    "market": "Total Goals",
+    "recommended_pick": "Over 3.5 Match Goals",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 2.1,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "farnborough|chesham united|Double Chance|1X|2026-08-19",
+    "match_id": "75efc075",
+    "home_team": "Farnborough",
+    "away_team": "Chesham United",
+    "competition": "England: National League - South",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T20:45:00+02:00",
+    "best_odds": 1.59,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "veles|nizhny novgorod|1X2|2|2026-08-19",
+    "match_id": "5c53bc6c",
+    "home_team": "Veles",
+    "away_team": "Nizhny Novgorod",
+    "competition": "Russia: First League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T18:30:00+02:00",
+    "best_odds": 1.69,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "celtic|lask linz|1X2|1|2026-08-19",
+    "match_id": "ab804cea",
+    "home_team": "Celtic",
+    "away_team": "LASK Linz",
+    "competition": "UEFA Champions League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 1.63,
+    "source_count": 4,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips",
+      "MyBetsToday",
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nec nijmegen|bodo/glimt|Double Chance|X2|2026-08-19",
+    "match_id": "fa4f54fe",
+    "home_team": "NEC Nijmegen",
+    "away_team": "Bodo/Glimt",
+    "competition": "World: UEFA Champions League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T21:00:00+02:00",
+    "best_odds": 1.51,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hapoel beer sheva|sabah|Correct Score|Sabah FK 2-1|2026-08-19",
+    "match_id": "3870cc83",
+    "home_team": "Hapoel Beer Sheva",
+    "away_team": "Sabah FK",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Sabah FK 2-1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 12.0,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slovan bratislava|celje|Correct Score|Draw 2-2|2026-08-19",
+    "match_id": "46778b91",
+    "home_team": "Slovan Bratislava",
+    "away_team": "Celje",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Draw 2-2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 15.0,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hapoel beer sheva|sabah fa|Double Chance|1X|2026-08-19",
+    "match_id": "d830c20f",
+    "home_team": "Hapoel Beer Sheva FC",
+    "away_team": "Sabah FA",
+    "competition": "World: UEFA Champions League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T21:00:00+02:00",
+    "best_odds": 1.36,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ml vitebsk|baranovichi|1X2|1|2026-08-19",
+    "match_id": "7d63cd61",
+    "home_team": "ML Vitebsk",
+    "away_team": "Baranovichi",
+    "competition": "Belarus: Premier League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T18:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "celtic|lask linz|Correct Score|Celtic 1-0|2026-08-19",
+    "match_id": "610f9c8f",
+    "home_team": "Celtic",
+    "away_team": "LASK Linz",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Celtic 1-0",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 7.0,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atletico madrid|malaga|Correct Score|Atletico Madrid 2-0|2026-08-19",
+    "match_id": "84278589",
+    "home_team": "Atletico Madrid",
+    "away_team": "Malaga",
+    "competition": "Spanish La Liga",
+    "market": "Correct Score",
+    "recommended_pick": "Atletico Madrid 2-0",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 6.0,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "heidenheim|bayern munich|1X2|2|2026-08-19",
+    "match_id": "d514b8ca",
+    "home_team": "FC Heidenheim",
+    "away_team": "Bayern Munich",
+    "competition": "INTERNATIONAL - CLUB FRIENDLIES",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fenerbahce|lyon|1X2|1|2026-08-19",
+    "match_id": "caf68be9",
+    "home_team": "Fenerbahce",
+    "away_team": "Lyon",
+    "competition": "INTERNATIONAL - CHAMPIONS LEAGUE PLAYOFF ROUND",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "levski sofia|aek athens|Double Chance|12|2026-08-19",
+    "match_id": "544e61c7",
+    "home_team": "Levski Sofia",
+    "away_team": "AEK Athens",
+    "competition": "INTERNATIONAL - CHAMPIONS LEAGUE PLAYOFF ROUND",
+    "market": "Double Chance",
+    "recommended_pick": "12",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nk dinamo zagreb|viking|1X2|1|2026-08-19",
+    "match_id": "1bc63954",
+    "home_team": "NK Dinamo Zagreb",
+    "away_team": "Viking",
+    "competition": "INTERNATIONAL - CHAMPIONS LEAGUE PLAYOFF ROUND",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "rostov|lokomotiv moscow|Double Chance|X2|2026-08-19",
+    "match_id": "00ca26d4",
+    "home_team": "FC Rostov",
+    "away_team": "Lokomotiv Moscow",
+    "competition": "RUSSIA - GROUP D",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T13:45:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cska moscow|akron togliatti|1X2|1|2026-08-19",
+    "match_id": "ab64a7f0",
+    "home_team": "CSKA Moscow",
+    "away_team": "Akron Togliatti",
+    "competition": "RUSSIA - GROUP D",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T11:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "levadiakos|asteras tripolis|Double Chance|1X|2026-08-19",
+    "match_id": "f93d9547",
+    "home_team": "Levadiakos",
+    "away_team": "Asteras Tripolis",
+    "competition": "GREECE - CUP QUALIFICATION",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T14:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "vastra frolunda if|if elfsborg|1X2|2|2026-08-19",
+    "match_id": "ec69f08d",
+    "home_team": "Vastra Frolunda IF",
+    "away_team": "IF Elfsborg",
+    "competition": "SWEDEN - SVENSKA CUPEN PRELIMINARY ROUND",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atletico madrid|malaga|1X2|1|2026-08-19",
+    "match_id": "a9f80be7",
+    "home_team": "Atletico Madrid",
+    "away_team": "Malaga",
+    "competition": "Spain: La Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T21:00:00+02:00",
+    "best_odds": 1.32,
+    "source_count": 3,
+    "consensus_score": 0.75,
+    "sources": [
+      "MyBetsToday",
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atletico madrid|malaga|Goal Scorer - Anytime|Ademola Lookman To Score Anytime|2026-08-19",
+    "match_id": "e3fada51",
+    "home_team": "Atletico Madrid",
+    "away_team": "Malaga",
+    "competition": "Spanish La Liga",
+    "market": "Goal Scorer - Anytime",
+    "recommended_pick": "Ademola Lookman To Score Anytime",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 2.6,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atletico madrid|malaga|Win To Nil|Atletico Madrid To Win To Nil|2026-08-19",
+    "match_id": "d3275434",
+    "home_team": "Atletico Madrid",
+    "away_team": "Malaga",
+    "competition": "Spanish La Liga",
+    "market": "Win To Nil",
+    "recommended_pick": "Atletico Madrid To Win To Nil",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 2.0,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nec|bodo/glimt|1X2|2|2026-08-19",
+    "match_id": "d89fe91e",
+    "home_team": "NEC",
+    "away_team": "Bodo/Glimt",
+    "competition": "UEFA Champions League Qualifying",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slovan bratislava|nk celje|1X2|1|2026-08-19",
+    "match_id": "55de2ac3",
+    "home_team": "Slovan Bratislava",
+    "away_team": "NK Celje",
+    "competition": "UEFA Champions League Qualifying",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hapoel beer sheva|sabah|1X2|2|2026-08-19",
+    "match_id": "4ad90ae8",
+    "home_team": "Hapoel Beer Sheva",
+    "away_team": "Sabah FK",
+    "competition": "UEFA Champions League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 3.0,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slovan bratislava|celje|Double Chance|1X|2026-08-19",
+    "match_id": "812fd319",
+    "home_team": "Slovan Bratislava",
+    "away_team": "Celje",
+    "competition": "World: UEFA Champions League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T21:00:00+02:00",
+    "best_odds": 1.16,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slovan bratislava|celje|Both Teams To Score|Both Teams To Score|2026-08-19",
+    "match_id": "34bfcb16",
+    "home_team": "Slovan Bratislava",
+    "away_team": "Celje",
+    "competition": "UEFA Champions League",
+    "market": "Both Teams To Score",
+    "recommended_pick": "Both Teams To Score",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+00:00",
+    "best_odds": 1.8,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hapoel beer sheva|sabah|1X2|1|2026-08-19",
+    "match_id": "d423997a",
+    "home_team": "Hapoel Beer Sheva",
+    "away_team": "Sabah",
+    "competition": "UEFA Champions League Qualifying",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 2,
+    "consensus_score": 0.667,
+    "sources": [
+      "MyBetsToday",
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "niki volos|panionios|1X2|X|2026-08-19",
+    "match_id": "cf9c905c",
+    "home_team": "Niki Volos",
+    "away_team": "Panionios",
+    "competition": "Greece Cup",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "kalamata|panetolikos|1X2|2|2026-08-19",
+    "match_id": "07b15ecc",
+    "home_team": "Kalamata",
+    "away_team": "Panetolikos",
+    "competition": "Greece Cup",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:15:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "panserraikos|panthrakikos|1X2|1|2026-08-19",
+    "match_id": "074da85d",
+    "home_team": "Panserraikos",
+    "away_team": "Panthrakikos",
+    "competition": "Greece Cup",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T17:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "mash'al|andijon|1X2|2|2026-08-19",
+    "match_id": "a1c1683c",
+    "home_team": "Mash'al",
+    "away_team": "FK Andijon",
+    "competition": "Uzbekistan: Super League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T17:00:00+02:00",
+    "best_odds": 2.3,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "shanghai sipg|dalian zhixing|1X2|1|2026-08-19",
+    "match_id": "03611431",
+    "home_team": "SHANGHAI SIPG",
+    "away_team": "Dalian Zhixing",
+    "competition": "China: Super League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T13:35:00+02:00",
+    "best_odds": 1.42,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "malavan|zob ahan|Double Chance|1X|2026-08-19",
+    "match_id": "7913343f",
+    "home_team": "Malavan",
+    "away_team": "ZOB Ahan",
+    "competition": "Iran: Persian Gulf Pro League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T18:00:00+02:00",
+    "best_odds": 1.19,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "persepolis|esteghlal khuzestan|1X2|1|2026-08-19",
+    "match_id": "8479046c",
+    "home_team": "Persepolis FC",
+    "away_team": "Esteghlal Khuzestan",
+    "competition": "Iran: Persian Gulf Pro League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T18:00:00+02:00",
+    "best_odds": 1.3,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "mes shahr-e babak|kheybar khorramabad|Double Chance|X2|2026-08-19",
+    "match_id": "917e8527",
+    "home_team": "Mes Shahr-e Babak",
+    "away_team": "Kheybar Khorramabad",
+    "competition": "Iran: Persian Gulf Pro League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T18:00:00+02:00",
+    "best_odds": 1.11,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "preston lions|melbourne city ii|1X2|1|2026-08-19",
+    "match_id": "8b6acec8",
+    "home_team": "Preston Lions",
+    "away_team": "Melbourne City II",
+    "competition": "Australia: Victoria NPL",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:30:00+02:00",
+    "best_odds": 1.2,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sepahan|tractor sazi|1X2|X|2026-08-19",
+    "match_id": "2feb6e82",
+    "home_team": "Sepahan FC",
+    "away_team": "Tractor Sazi",
+    "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "paykan|gol gohar|1X2|X|2026-08-19",
+    "match_id": "54c200da",
+    "home_team": "Paykan",
+    "away_team": "Gol Gohar",
+    "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T11:45:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "shanghai shenhua|beijing guoan|1X2|X|2026-08-19",
+    "match_id": "25b08f44",
+    "home_team": "Shanghai Shenhua",
+    "away_team": "Beijing Guoan",
+    "competition": "CHINA - SUPER LEAGUE",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T07:35:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sogdiana jizzakh|qizilqum zarafshon|1X2|1|2026-08-19",
+    "match_id": "0441dbf7",
+    "home_team": "Sogdiana Jizzakh",
+    "away_team": "Qizilqum Zarafshon",
+    "competition": "UZBEKISTAN - SUPERLIGA",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T10:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "buxoro|neftchi fargona|1X2|2|2026-08-19",
+    "match_id": "5a73ecc7",
+    "home_team": "FK Buxoro",
+    "away_team": "Neftchi Fargona",
+    "competition": "UZBEKISTAN - SUPERLIGA",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T11:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "jeddah|al kholood|1X2|2|2026-08-19",
+    "match_id": "07b30753",
+    "home_team": "Jeddah",
+    "away_team": "Al \n\t\t\t\t\t\t\t\tKholood",
+    "competition": "Saudi Arabia",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "jeddah|al kholood|Total Goals|Over 1.5|2026-08-19",
+    "match_id": "7d70075e",
+    "home_team": "Jeddah",
+    "away_team": "Al \n\t\t\t\t\t\t\t\tKholood",
+    "competition": "Saudi Arabia",
+    "market": "Total Goals",
+    "recommended_pick": "Over 1.5",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "apia l tigers|melbourne victory|1X2|2|2026-08-19",
+    "match_id": "3c27f80b",
+    "home_team": "Apia L Tigers",
+    "away_team": "Melbourne Victory",
+    "competition": "Australia Cup",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T10:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "shanghai port|dalian young boy|1X2|1|2026-08-19",
+    "match_id": "4850aedb",
+    "home_team": "Shanghai Port",
+    "away_team": "Dalian Young Boy",
+    "competition": "China Super League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:35:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fajr sepasi|sanat naft|1X2|X|2026-08-19",
+    "match_id": "05d7b013",
+    "home_team": "Fajr Sepasi",
+    "away_team": "Sanat Naft",
+    "competition": "Iran Persian Gulf Pro League",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T17:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "arterivo wakayama|azul claro numazu|1X2|2|2026-08-19",
+    "match_id": "585b5230",
+    "home_team": "Arterivo Wakayama",
+    "away_team": "Azul Claro Numazu",
+    "competition": "Japan FA Cup",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T09:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "giravanz kitakyushu|okinawa sv|1X2|1|2026-08-19",
+    "match_id": "13ce0b4c",
+    "home_team": "Giravanz Kitakyushu",
+    "away_team": "Okinawa SV",
+    "competition": "Japan FA Cup",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T11:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "verspah oita|kochi united|1X2|2|2026-08-19",
+    "match_id": "0ee6630d",
+    "home_team": "Verspah Oita",
+    "away_team": "Kochi United",
+    "competition": "Japan FA Cup",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T11:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nara club|osaka|1X2|2|2026-08-19",
+    "match_id": "2c1db998",
+    "home_team": "Nara Club",
+    "away_team": "FC Osaka",
+    "competition": "Japan FA Cup",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T11:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "jeddah club|al kholood|1X2|2|2026-08-19",
+    "match_id": "109bcb7b",
+    "home_team": "Jeddah Club",
+    "away_team": "Al Kholood",
+    "competition": "Saudi Arabia Kings Cup",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T17:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "damac|al taawon|Double Chance|X2|2026-08-19",
+    "match_id": "9f9788d5",
+    "home_team": "Damac",
+    "away_team": "Al Taawon",
+    "competition": "Saudi Arabia",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "damac|al taawon|1X2|2|2026-08-19",
+    "match_id": "f886f2bb",
+    "home_team": "Damac",
+    "away_team": "Al Taawon",
+    "competition": "Saudi Arabia Kings Cup",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T17:15:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "u. catolica|estudiantes l.p.|1X2|1|unknown-date",
+    "match_id": "d49de27e",
+    "home_team": "U. Catolica",
+    "away_team": "Estudiantes L.P.",
+    "competition": "World: CONMEBOL Libertadores",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "TBD",
+    "best_odds": 3.15,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "chacarita juniors|club atletico guemes|1X2|1|2026-08-19",
+    "match_id": "1dfe02f1",
+    "home_team": "Chacarita Juniors",
+    "away_team": "Club Atlético Güemes",
+    "competition": "Argentina: Primera Nacional",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T20:00:00+02:00",
+    "best_odds": 1.77,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sao paulo|bolivar|1X2|1|2026-08-19",
+    "match_id": "0caed59f",
+    "home_team": "Sao Paulo",
+    "away_team": "Bolívar",
+    "competition": "World: CONMEBOL Sudamericana",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T02:30:00+02:00",
+    "best_odds": null,
+    "source_count": 3,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "tigres|envigado|Double Chance|X2|2026-08-19",
+    "match_id": "7c443c37",
+    "home_team": "Tigres FC",
+    "away_team": "Envigado",
+    "competition": "Colombia: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T21:00:00+02:00",
+    "best_odds": 1.28,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "orsomarso|tigres|Double Chance|1X|2026-08-19",
+    "match_id": "34ac2ce1",
+    "home_team": "Orsomarso",
+    "away_team": "Tigres FC",
+    "competition": "Colombia: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T22:00:00+02:00",
+    "best_odds": 1.16,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "independ. rivadavia|fluminense|1X2|1|2026-08-19",
+    "match_id": "c526aa24",
+    "home_team": "Independ. Rivadavia",
+    "away_team": "Fluminense",
+    "competition": "World: CONMEBOL Libertadores",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T00:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "londrina|atletico goianiense|Double Chance|X2|2026-08-19",
+    "match_id": "7e472b68",
+    "home_team": "Londrina",
+    "away_team": "Atletico Goianiense",
+    "competition": "Brazil: Serie B",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T00:30:00+02:00",
+    "best_odds": null,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "independiente rivadavia|fluminense|Double Chance|1X|2026-08-19",
+    "match_id": "d01cfc75",
+    "home_team": "Independiente Rivadavia",
+    "away_team": "Fluminense",
+    "competition": "INTERNATIONAL - COPA LIBERTADORES KNOCKOUT STAGE",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T18:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "deportivo riestra|gimnasia l.p.|1X2|2|2026-08-19",
+    "match_id": "c917e42c",
+    "home_team": "Deportivo Riestra",
+    "away_team": "Gimnasia L.P.",
+    "competition": "ARGENTINA - CUP",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T16:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "benjamin aceval|club nacional|1X2|X|2026-08-19",
+    "match_id": "a972b71d",
+    "home_team": "Benjamin Aceval",
+    "away_team": "Club Nacional",
+    "competition": "PARAGUAY - CUP",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "claypole|mercedes|1X2|X|2026-08-19",
+    "match_id": "ecf829d9",
+    "home_team": "Claypole",
+    "away_team": "Mercedes",
+    "competition": "ARGENTINA - PRIMERA C GRP. B",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T14:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "racing club|belgrano cordoba|1X2|X|2026-08-19",
+    "match_id": "604d9779",
+    "home_team": "Racing Club",
+    "away_team": "Belgrano Cordoba",
+    "competition": "Argentina Copa Argentina",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T23:15:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "chacarita juniors|ca guemes|1X2|1|2026-08-19",
+    "match_id": "1a7db508",
+    "home_team": "Chacarita Juniors",
+    "away_team": "CA Guemes",
+    "competition": "Argentina Nacional B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nautico|ceara|1X2|1|2026-08-19",
+    "match_id": "cc194d9c",
+    "home_team": "Nautico",
+    "away_team": "Ceara",
+    "competition": "Brazil Serie B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T01:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "avai|sport recife|1X2|X|2026-08-19",
+    "match_id": "fdbc990e",
+    "home_team": "Avai",
+    "away_team": "Sport Recife",
+    "competition": "Brazil Serie B",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T23:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fortaleza|sao bernardo|1X2|1|2026-08-19",
+    "match_id": "b12d5c4b",
+    "home_team": "Fortaleza",
+    "away_team": "Sao Bernardo",
+    "competition": "Brazil Serie B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T23:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "universidad catolica|estudiantes lp|1X2|2|2026-08-19",
+    "match_id": "6f1b6d53",
+    "home_team": "Universidad Catolica",
+    "away_team": "Estudiantes LP",
+    "competition": "Copa Libertadores",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T01:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "coquimbo unido|platense|1X2|1|2026-08-19",
+    "match_id": "a2e319df",
+    "home_team": "Coquimbo Unido",
+    "away_team": "Platense",
+    "competition": "Copa Libertadores",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T23:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cerro porteno|palmeiras|1X2|2|2026-08-19",
+    "match_id": "d8ba90c2",
+    "home_team": "Cerro Porteno",
+    "away_team": "Palmeiras",
+    "competition": "Copa Libertadores",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T23:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atletico mineiro|bragantino|1X2|1|2026-08-19",
+    "match_id": "b00f4f35",
+    "home_team": "Atletico Mineiro",
+    "away_team": "Bragantino",
+    "competition": "Copa Sudamericana",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T23:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "mamelodi sundowns|marumo gallants|1X2|1|2026-08-19",
+    "match_id": "f89dc465",
+    "home_team": "Mamelodi Sundowns FC",
+    "away_team": "Marumo Gallants FC",
+    "competition": "South Africa: Premier Soccer League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T19:30:00+02:00",
+    "best_odds": 1.26,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "highlanders|chicken inn|Double Chance|1X|2026-08-19",
+    "match_id": "03e00da4",
+    "home_team": "Highlanders",
+    "away_team": "Chicken Inn",
+    "competition": "Zimbabwe: Premier Soccer League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dynamos|scotland mabvuku|Double Chance|1X|2026-08-19",
+    "match_id": "85eb47f2",
+    "home_team": "Dynamos",
+    "away_team": "Scotland Mabvuku",
+    "competition": "Zimbabwe: Premier Soccer League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T15:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "real esteli|cs herediano|1X2|1|2026-08-19",
+    "match_id": "e0670fea",
+    "home_team": "Real Estelí",
+    "away_team": "CS Herediano",
+    "competition": "World CONCACAF Central American Cup",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T04:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "xelaju|diriangen|1X2|1|2026-08-19",
+    "match_id": "47e1c600",
+    "home_team": "Xelajú",
+    "away_team": "Diriangén",
+    "competition": "World CONCACAF Central American Cup",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T01:40:46.796323+00:00",
+    "kickoff": "2026-08-19T04:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "borac cacak|naftagas|1X2|1|2026-08-19",
+    "match_id": "afb3a474",
+    "home_team": "Borac Cacak",
+    "away_team": "Naftagas",
+    "competition": "Serbia: Prva Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T20:00:00+02:00",
+    "best_odds": 1.57,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ofk vrsac|dubocica|1X2|1|2026-08-19",
+    "match_id": "ddf68c37",
+    "home_team": "OFK Vršac",
+    "away_team": "Dubočica",
+    "competition": "Serbia: Prva Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T17:00:00+02:00",
+    "best_odds": 1.67,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "tsc backa topola|spartak zdrepceva krv|1X2|1|2026-08-19",
+    "match_id": "637a460b",
+    "home_team": "TSC Backa Topola",
+    "away_team": "FK Spartak Zdrepceva KRV",
+    "competition": "Serbia: Prva Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T21:00:00+02:00",
+    "best_odds": 1.6,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "javor|jedinstvo ub|1X2|1|2026-08-19",
+    "match_id": "a6bacb51",
+    "home_team": "Javor",
+    "away_team": "Jedinstvo Ub",
+    "competition": "Serbia: Prva Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T19:00:00+02:00",
+    "best_odds": 1.53,
+    "source_count": 3,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "werder bremen ii|weiche flensburg|Double Chance|X2|2026-08-19",
+    "match_id": "9fb695b0",
+    "home_team": "Werder Bremen II",
+    "away_team": "Weiche Flensburg",
+    "competition": "Germany: Regionalliga - Nord",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T18:30:00+02:00",
+    "best_odds": 1.39,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ofk bor 1919|vozdovac|Double Chance|X2|2026-08-19",
+    "match_id": "81b5707e",
+    "home_team": "OFK Bor 1919",
+    "away_team": "FK Vozdovac",
+    "competition": "Serbia: Prva Liga",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T19:00:00+02:00",
+    "best_odds": 1.16,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slovan bratislava|celje|1X2|1|2026-08-19",
+    "match_id": "ebd02d9a",
+    "home_team": "Slovan Bratislava",
+    "away_team": "Celje",
+    "competition": "World: UEFA Champions League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T21:00:00+02:00",
+    "best_odds": 1.66,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "mes shahr-e babak|kheybar khorramabad|1X2|2|2026-08-19",
+    "match_id": "0d5bb661",
+    "home_team": "Mes Shahr-e Babak",
+    "away_team": "Kheybar Khorramabad",
+    "competition": "Iran: Persian Gulf Pro League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T18:00:00+02:00",
+    "best_odds": 1.77,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "foolad|shams azar qazvin|Double Chance|1X|2026-08-19",
+    "match_id": "e57a082e",
+    "home_team": "Foolad FC",
+    "away_team": "Shams Azar Qazvin",
+    "competition": "Iran: Persian Gulf Pro League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T19:00:00+02:00",
+    "best_odds": 1.14,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "u. catolica|estudiantes l.p.|1X2|1|2026-08-19",
+    "match_id": "d49de27e",
+    "home_team": "U. Catolica",
+    "away_team": "Estudiantes L.P.",
+    "competition": "World: CONMEBOL Libertadores",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T02:30:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "mbeya city|dodoma jiji|Double Chance|1X|2026-08-19",
+    "match_id": "c5b84a87",
+    "home_team": "Mbeya City",
+    "away_team": "Dodoma Jiji",
+    "competition": "Tanzania: Ligi kuu Bara",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T13:00:00+02:00",
+    "best_odds": 1.25,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "pamba jiji|simba|1X2|2|2026-08-19",
+    "match_id": "154d84f0",
+    "home_team": "Pamba Jiji",
+    "away_team": "Simba",
+    "competition": "Tanzania: Ligi kuu Bara",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T03:52:06.531741+00:00",
+    "kickoff": "2026-08-19T15:15:00+02:00",
+    "best_odds": 1.62,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "coruxo|pontevedra|1X2|2|2026-08-19",
+    "match_id": "8afe0613",
+    "home_team": "Coruxo",
+    "away_team": "Pontevedra",
+    "competition": "INTERNATIONAL - CLUB FRIENDLIES",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T21:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ponferradina|real madrid castilla|Double Chance|1X|2026-08-19",
+    "match_id": "c020591b",
+    "home_team": "Ponferradina",
+    "away_team": "Real Madrid Castilla",
+    "competition": "INTERNATIONAL - CLUB FRIENDLIES",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T21:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "rsd alcala|gimnastica segoviana|1X2|1|2026-08-19",
+    "match_id": "4d878e46",
+    "home_team": "RSD Alcala",
+    "away_team": "Gimnastica Segoviana",
+    "competition": "INTERNATIONAL - CLUB FRIENDLIES",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T12:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "san sebastian de los reyes|rayo majadahonda|1X2|X|2026-08-19",
+    "match_id": "66aab335",
+    "home_team": "San Sebastian De Los Reyes",
+    "away_team": "Rayo Majadahonda",
+    "competition": "INTERNATIONAL - CLUB FRIENDLIES",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T21:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "krylya sovetov|zenit|1X2|2|2026-08-19",
+    "match_id": "cf1d0ff2",
+    "home_team": "Krylya Sovetov",
+    "away_team": "Zenit",
+    "competition": "RUSSIA - GROUP C",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T16:15:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dinamo moscow|krasnodar|1X2|X|2026-08-19",
+    "match_id": "0b456cfc",
+    "home_team": "Dinamo Moscow",
+    "away_team": "Krasnodar",
+    "competition": "RUSSIA - GROUP B",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T20:45:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nec nijmegen|bodo/glimt|1X2|2|2026-08-19",
+    "match_id": "40f7ccb1",
+    "home_team": "NEC Nijmegen",
+    "away_team": "Bodo/Glimt",
+    "competition": "INTERNATIONAL - CHAMPIONS LEAGUE PLAYOFF ROUND",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T22:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "niki volou|panionios|1X2|2|2026-08-19",
+    "match_id": "75f770cf",
+    "home_team": "Niki Volou",
+    "away_team": "Panionios",
+    "competition": "GREECE - CUP QUALIFICATION",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T17:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "kalamata|panaitolikos|Double Chance|1X|2026-08-19",
+    "match_id": "0166394a",
+    "home_team": "Kalamata",
+    "away_team": "Panaitolikos",
+    "competition": "GREECE - CUP QUALIFICATION",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T17:15:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "anyang|jeju united|Double Chance|X2|2026-08-19",
+    "match_id": "b518c029",
+    "home_team": "FC Anyang",
+    "away_team": "Jeju United FC",
+    "competition": "SOUTH KOREA - CUP",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T13:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "gimpo citizen|sangju sangmu|Double Chance|X2|2026-08-19",
+    "match_id": "d1f94e16",
+    "home_team": "Gimpo Citizen",
+    "away_team": "Sangju Sangmu FC",
+    "competition": "SOUTH KOREA - CUP",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T13:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "chungnam asan|daejeon citizen|1X2|2|2026-08-19",
+    "match_id": "b2f30a17",
+    "home_team": "Chungnam Asan",
+    "away_team": "Daejeon Citizen",
+    "competition": "SOUTH KOREA - CUP",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T13:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "agmk|dinamo samarqand|1X2|1|2026-08-19",
+    "match_id": "3cf2d7b3",
+    "home_team": "AGMK",
+    "away_team": "Dinamo Samarqand",
+    "competition": "UZBEKISTAN - SUPERLIGA",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T17:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "mash al mubarek|andijan|Double Chance|X2|2026-08-19",
+    "match_id": "3975d553",
+    "home_team": "Mash al Mubarek",
+    "away_team": "FK Andijan",
+    "competition": "UZBEKISTAN - SUPERLIGA",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T18:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dhamk|al-taawon|1X2|2|2026-08-19",
+    "match_id": "22af6320",
+    "home_team": "Dhamk",
+    "away_team": "Al-Taawon",
+    "competition": "SAUDI ARABIA - KINGS CUP",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T19:15:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "gangwon|seongnam|1X2|1|2026-08-19",
+    "match_id": "684ba03a",
+    "home_team": "Gangwon FC",
+    "away_team": "Seongnam FC",
+    "competition": "South Korea Cup",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T11:30:00+01:00",
+    "best_odds": null,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "shanghai sipg|dalian zhixing|Double Chance|1X|2026-08-19",
+    "match_id": "a892a7af",
+    "home_team": "Shanghai SIPG FC",
+    "away_team": "Dalian Zhixing",
+    "competition": "CHINA - SUPER LEAGUE",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T14:35:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "paraguari|sportivo luqueno|1X2|2|2026-08-19",
+    "match_id": "7ae8740c",
+    "home_team": "Paraguari Ac",
+    "away_team": "Sportivo Luqueno",
+    "competition": "PARAGUAY - CUP",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T22:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "aragua|barquisimeto|1X2|X|2026-08-19",
+    "match_id": "36960473",
+    "home_team": "Aragua FC",
+    "away_team": "Barquisimeto",
+    "competition": "VENEZUELA - CUP GROUP C",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T23:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "aguilas doradas|llaneros|Double Chance|1X|2026-08-19",
+    "match_id": "7f6700e6",
+    "home_team": "Águilas Doradas",
+    "away_team": "Llaneros",
+    "competition": "Colombia: Primera A",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T23:00:00+02:00",
+    "best_odds": 1.22,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "aguilas doradas|llaneros|1X2|1|2026-08-19",
+    "match_id": "1cb446f3",
+    "home_team": "Aguilas Doradas",
+    "away_team": "Llaneros",
+    "competition": "Colombia Primera A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T22:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "coban imperial|antigua gfc|Double Chance|1X|2026-08-19",
+    "match_id": "1f1614b9",
+    "home_team": "Cobán Imperial",
+    "away_team": "Antigua GFC",
+    "competition": "Guatemala: Liga Nacional",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T23:00:00+02:00",
+    "best_odds": 1.32,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "coban imperial|antigua gfc|1X2|1|2026-08-19",
+    "match_id": "a05ce567",
+    "home_team": "Cobán Imperial",
+    "away_team": "Antigua GFC",
+    "competition": "Guatemala Liga Nacional",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-19T06:24:37.619509+00:00",
+    "kickoff": "2026-08-19T22:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
     "sources": [
       "MyBetsToday"
     ],

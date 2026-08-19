@@ -48,20 +48,32 @@ async def main() -> None:
     reliability = load_reliability(OUTPUT_DIR / "source-reliability.json")
     ranked_by_continent = await build_ranked_matches(all_picks, reliability_overrides=reliability)
 
-    # Flatten for history/counts, deduped by match_id since a match can
+    # Flatten cards for counts, deduped by match_id since a card can
     # appear in both a continent's "all" list and its specific league list.
     seen_ids: set[str] = set()
-    ranked: list = []
+    cards: list = []
     for data in ranked_by_continent.values():
-        for m in data["all"]:
-            if m.match_id not in seen_ids:
-                seen_ids.add(m.match_id)
-                ranked.append(m)
-        for league_matches in data["leagues"].values():
-            for m in league_matches:
-                if m.match_id not in seen_ids:
-                    seen_ids.add(m.match_id)
-                    ranked.append(m)
+        for c in data["all"]:
+            if c.match_id not in seen_ids:
+                seen_ids.add(c.match_id)
+                cards.append(c)
+        for league_cards in data["leagues"].values():
+            for c in league_cards:
+                if c.match_id not in seen_ids:
+                    seen_ids.add(c.match_id)
+                    cards.append(c)
+
+    # Flatten every individual pick across all cards for history tracking,
+    # deduped by (match_id, market, recommended_pick) since one card can
+    # carry several picks for the same fixture.
+    seen_pick_keys: set[tuple] = set()
+    ranked: list = []
+    for c in cards:
+        for p in c.picks:
+            pick_key = (p.match_id, p.market, p.recommended_pick)
+            if pick_key not in seen_pick_keys:
+                seen_pick_keys.add(pick_key)
+                ranked.append(p)
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -87,12 +99,13 @@ async def main() -> None:
             "sources": source_status,
             "total_raw_picks": len(all_picks),
             "ranked_count": len(ranked),
+            "match_count": len(cards),
             "ranked_by_continent": {c: len(d["all"]) for c, d in ranked_by_continent.items()},
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 
-    print(f"Wrote {len(ranked)} ranked matches across continents to {ranked_path}")
+    print(f"Wrote {len(cards)} match cards ({len(ranked)} picks) across continents to {ranked_path}")
 
     history_path = OUTPUT_DIR / "history.json"
     history = load_history(history_path)
