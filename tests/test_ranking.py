@@ -165,3 +165,20 @@ async def test_low_consensus_longshot_no_longer_beats_high_consensus_safe_pick()
     assert longshot.consensus_score < 0.5
     assert safe.consensus_score == 1.0
     assert safe.final_score > longshot.final_score
+
+
+@pytest.mark.asyncio
+async def test_finished_fixture_keys_drops_stale_pick_regardless_of_kickoff():
+    # Regression test for a real bug found live: Statarea only gives a bare
+    # "HH:MM" with no date, so a match that already finished on a previous
+    # day still gets stamped with today's date by the collector and
+    # survives the kickoff-based stale filter. The cross-check against
+    # Vitibet's own results feed must catch it anyway, keyed purely by
+    # normalized fixture (home|away), independent of kickoff string.
+    picks = [
+        _pick("Statarea", "Fenerbahce", "Lyon", pick="1"),
+        _pick("PredictZ", "Arsenal", "Chelsea", pick="1"),
+    ]
+    finished = {f"{_normalize_team('Fenerbahce')}|{_normalize_team('Lyon')}"}
+    ranked = (await build_ranked_matches(picks, finished_fixture_keys=finished))["Europe"]["all"]
+    assert {m.home_team for m in ranked} == {"Arsenal"}

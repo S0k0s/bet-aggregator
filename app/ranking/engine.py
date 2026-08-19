@@ -285,6 +285,7 @@ def _odds_for_pick(market: str, pick: str, odds_map: dict[str, float]) -> float 
 async def build_ranked_matches(
     all_picks: list[SourcePick],
     reliability_overrides: dict[str, float] | None = None,
+    finished_fixture_keys: set[str] | None = None,
 ) -> dict[str, dict]:
     reliability = reliability_overrides or {}
     grouped: dict[str, list[SourcePick]] = defaultdict(list)
@@ -386,12 +387,20 @@ async def build_ranked_matches(
     # Drop fixtures whose kickoff has clearly already passed - collectors
     # sometimes keep listing a match past kickoff, which otherwise leaves
     # stale "predictions" for already-finished games on the dashboard.
+    # Also drop fixtures Vitibet's own results feed already reports as
+    # finished: some sources (e.g. Statarea) only give a bare "HH:MM" with
+    # no date, so a match that actually already happened on a previous day
+    # still gets today's date stamped on it and slips past the kickoff
+    # check above - the finished-results cross-check catches those too.
+    finished = finished_fixture_keys or set()
     now = datetime.now(timezone.utc)
     by_fixture: dict[str, list[RankedMatch]] = defaultdict(list)
     for m in candidates:
+        fixture_key = f"{_normalize_team(m.home_team)}|{_normalize_team(m.away_team)}"
+        if fixture_key in finished:
+            continue
         if not _is_upcoming(m.kickoff, now):
             continue
-        fixture_key = f"{_normalize_team(m.home_team)}|{_normalize_team(m.away_team)}"
         by_fixture[fixture_key].append(m)
 
     cards: list[MatchCard] = []

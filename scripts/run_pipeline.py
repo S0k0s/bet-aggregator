@@ -8,7 +8,7 @@ from __future__ import annotations
 import asyncio
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -45,8 +45,26 @@ async def main() -> None:
         })
         print(f"[{collector.name}] {len(picks)} picks" + (f" — error: {error}" if error else ""))
 
+    # Some sources (e.g. Statarea) give a bare "HH:MM" with no date, so a
+    # match that already finished on a previous day can still get today's
+    # date stamped on it by the collector and slip past the kickoff-based
+    # stale filter. Cross-check against Vitibet's own results feed (today +
+    # yesterday) to catch those regardless of which source reported them.
+    finished_fixture_keys: set[str] = set()
+    vitibet_results_source = VitibetCollector()
+    today = datetime.now(timezone.utc).date()
+    for days_back in (0, 1):
+        date_str = (today - timedelta(days=days_back)).isoformat()
+        try:
+            results = await vitibet_results_source.fetch_results(date_str)
+            finished_fixture_keys.update(results.keys())
+        except Exception as exc:
+            print(f"[finished-results] {date_str} lookup failed: {exc}")
+
     reliability = load_reliability(OUTPUT_DIR / "source-reliability.json")
-    ranked_by_continent = await build_ranked_matches(all_picks, reliability_overrides=reliability)
+    ranked_by_continent = await build_ranked_matches(
+        all_picks, reliability_overrides=reliability, finished_fixture_keys=finished_fixture_keys,
+    )
 
     # Flatten cards for counts, deduped by match_id since a card can
     # appear in both a continent's "all" list and its specific league list.
