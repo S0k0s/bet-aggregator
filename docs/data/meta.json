@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:29:21.005377+00:00",
+  "generated_at": "2026-08-19T06:41:43.591467+00:00",
   "sources": [
     {
       "name": "PredictZ",
@@ -23,8 +23,8 @@
     },
     {
       "name": "Adibet",
-      "pick_count": 0,
-      "error": "Could not find predictions table"
+      "pick_count": 18,
+      "error": null
     },
     {
       "name": "MyBetsToday",
@@ -33,17 +33,17 @@
     },
     {
       "name": "Statarea",
-      "pick_count": 30,
+      "pick_count": 56,
       "error": null
     }
   ],
-  "total_raw_picks": 184,
-  "ranked_count": 84,
-  "match_count": 73,
+  "total_raw_picks": 228,
+  "ranked_count": 96,
+  "match_count": 74,
   "ranked_by_continent": {
     "Europe": 20,
     "Asia": 20,
-    "Americas": 18,
+    "Americas": 16,
     "Africa": 5
   }
 }
