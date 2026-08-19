@@ -41,7 +41,12 @@ jobs:
           git add docs/data/ranked-matches.json docs/data/meta.json docs/data/history.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "Update ranked matches"
-            git push
+            exit 0
           fi
+          git commit -m "Update ranked matches"
+          for i in 1 2 3 4 5; do
+            git push && exit 0
+            echo "Push rejected, rebasing onto latest main (attempt $i)..."
+            git pull --rebase origin main
+          done
+          exit 1
