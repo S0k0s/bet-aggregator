@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-08-19T06:53:10.576399+00:00",
-  "total": 245,
+  "generated_at": "2026-08-20T07:09:28.243655+00:00",
+  "total": 447,
   "counts": {
-    "hit": 42,
-    "miss": 27,
+    "hit": 88,
+    "miss": 55,
     "push": 1,
-    "unknown": 1,
-    "pending": 174
+    "unknown": 5,
+    "pending": 298
   },
-  "hit_rate": 0.609,
+  "hit_rate": 0.615,
   "by_market": {
     "Correct Score": {
-      "hit": 0,
-      "miss": 3,
+      "hit": 1,
+      "miss": 4,
       "push": 0,
-      "unknown": 0,
-      "pending": 5
+      "unknown": 1,
+      "pending": 13
     },
     "Double Chance": {
-      "hit": 29,
-      "miss": 3,
+      "hit": 46,
+      "miss": 9,
       "push": 0,
       "unknown": 0,
-      "pending": 56
+      "pending": 90
     },
     "1X2": {
-      "hit": 12,
-      "miss": 21,
+      "hit": 39,
+      "miss": 42,
       "push": 0,
       "unknown": 0,
-      "pending": 103
+      "pending": 178
     },
     "Total Goals": {
-      "hit": 1,
+      "hit": 2,
       "miss": 0,
       "push": 0,
       "unknown": 0,
-      "pending": 5
+      "pending": 7
     },
     "Draw No Bet": {
       "hit": 0,
       "miss": 0,
       "push": 1,
       "unknown": 0,
-      "pending": 0
+      "pending": 1
     },
     "Goal Scorer - Anytime": {
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 1,
-      "pending": 1
+      "unknown": 2,
+      "pending": 0
     },
     "Win To Nil": {
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 0,
-      "pending": 1
+      "unknown": 1,
+      "pending": 3
     },
     "Both Teams To Score": {
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 0,
+      "unknown": 1,
       "pending": 1
     },
     "BTTS": {
@@ -72,6 +72,27 @@
       "push": 0,
       "unknown": 0,
       "pending": 2
+    },
+    "Team Total Goals": {
+      "hit": 0,
+      "miss": 0,
+      "push": 0,
+      "unknown": 0,
+      "pending": 1
+    },
+    "Handicap - 3 Way": {
+      "hit": 0,
+      "miss": 0,
+      "push": 0,
+      "unknown": 0,
+      "pending": 1
+    },
+    "Both Teams To Score And Win": {
+      "hit": 0,
+      "miss": 0,
+      "push": 0,
+      "unknown": 0,
+      "pending": 1
     }
   }
 }
