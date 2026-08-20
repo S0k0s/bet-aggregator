@@ -20,7 +20,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.614,
+            "final_score": 0.604,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -41,58 +41,6 @@
         ]
       },
       {
-        "match_id": "e2f880ff",
-        "home_team": "Elva",
-        "away_team": "Maardu",
-        "competition": "Estonia: Esiliiga A",
-        "kickoff": "2026-08-20T11:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "515e6468",
-            "home_team": "Elva",
-            "away_team": "Maardu",
-            "competition": "Estonia: Esiliiga A",
-            "kickoff": "2026-08-20T11:30:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.91,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.005,
-            "source_count": 2,
-            "final_score": 0.602,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1519617&league_id=328",
-                "home_team": "Elva",
-                "away_team": "Maardu",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Elva vs Maardu: predicted score 2-1, tip 1.",
-                "competition": "Estonia: Esiliiga A",
-                "kickoff": "2026-08-20T11:30:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-elva-vs-maardu-betting-tip-dii3i49i5/",
-                "home_team": "Elva",
-                "away_team": "Maardu",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Elva vs Maardu: 1X2 1.",
-                "competition": "Estonia Esiliiga A",
-                "kickoff": "2026-08-20T10:30:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Elva vs Maardu: predicted score 2-1, tip 1. | MyBets Today tip for Elva vs Maardu: 1X2 1."
-          }
-        ]
-      },
-      {
         "match_id": "ef97626d",
         "home_team": "FK Neftekhimik",
         "away_team": "FC Sochi",
@@ -107,11 +55,11 @@
             "kickoff": "2026-08-20T17:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 1.87,
+            "best_odds": 1.88,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.583,
+            "final_score": 0.598,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -150,10 +98,62 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for FK Neftekhimik vs FC Sochi: 1X2 2.",
                 "competition": "RUSSIA - FIRST LEAGUE",
-                "kickoff": "2026-08-20T10:00:00"
+                "kickoff": "2026-08-20T11:00:00"
               }
             ],
             "explanation": "Vitibet statistical model for FK Neftekhimik vs FC Sochi: predicted score 0-2, tip 2. | MyBets Today tip for FK Neftekhimik vs FC Sochi: 1X2 2. | Statarea tip for FK Neftekhimik vs FC Sochi: 1X2 2."
+          }
+        ]
+      },
+      {
+        "match_id": "e2f880ff",
+        "home_team": "Elva",
+        "away_team": "Maardu",
+        "competition": "Estonia: Esiliiga A",
+        "kickoff": "2026-08-20T10:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "515e6468",
+            "home_team": "Elva",
+            "away_team": "Maardu",
+            "competition": "Estonia: Esiliiga A",
+            "kickoff": "2026-08-20T10:30:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.85,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.597,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1519617&league_id=328",
+                "home_team": "Elva",
+                "away_team": "Maardu",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Elva vs Maardu: predicted score 2-1, tip 1.",
+                "competition": "Estonia: Esiliiga A",
+                "kickoff": null
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-elva-vs-maardu-betting-tip-dii3i49i5/",
+                "home_team": "Elva",
+                "away_team": "Maardu",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Elva vs Maardu: 1X2 1.",
+                "competition": "Estonia Esiliiga A",
+                "kickoff": "2026-08-20T10:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Elva vs Maardu: predicted score 2-1, tip 1. | MyBets Today tip for Elva vs Maardu: 1X2 1."
           }
         ]
       },
@@ -172,11 +172,11 @@
             "kickoff": "2026-08-20T19:45:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.7,
+            "best_odds": 1.69,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.569,
+            "final_score": 0.572,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -202,7 +202,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for PAOK vs Brann: 1X2 1.",
                 "competition": "INTERNATIONAL - CONFERENCE LEAGUE PLAYOFF ROUND",
-                "kickoff": "2026-08-20T12:45:00"
+                "kickoff": "2026-08-20T13:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for PAOK vs Brann: predicted score 1-0, tip 1. | Statarea tip for PAOK vs Brann: 1X2 1."
@@ -228,7 +228,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.548,
+            "final_score": 0.566,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -275,123 +275,6 @@
         ]
       },
       {
-        "match_id": "123619b8",
-        "home_team": "Universitatea Craiova",
-        "away_team": "Ararat-Armenia",
-        "competition": "World: UEFA Europa League",
-        "kickoff": "2026-08-20T19:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "2868d978",
-            "home_team": "Universitatea Craiova",
-            "away_team": "Ararat-Armenia",
-            "competition": "World: UEFA Europa League",
-            "kickoff": "2026-08-20T19:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.4,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.547,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623440&league_id=3",
-                "home_team": "Universitatea Craiova",
-                "away_team": "Ararat-Armenia",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1.",
-                "competition": "World: UEFA Europa League",
-                "kickoff": "2026-08-20T19:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "a1a8ad1b",
-        "home_team": "Rosenborg W",
-        "away_team": "Lyn W",
-        "competition": "Norway: Toppserien",
-        "kickoff": "2026-08-20T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "2b2c2c89",
-            "home_team": "Rosenborg W",
-            "away_team": "Lyn W",
-            "competition": "Norway: Toppserien",
-            "kickoff": "2026-08-20T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.4,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.547,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1495375&league_id=725",
-                "home_team": "Rosenborg W",
-                "away_team": "Lyn W",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Rosenborg W vs Lyn W: predicted score 2-1, tip 1.",
-                "competition": "Norway: Toppserien",
-                "kickoff": "2026-08-20T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Rosenborg W vs Lyn W: predicted score 2-1, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "5b19967a",
-        "home_team": "Heart of Midlothian",
-        "away_team": "Rapid Vienna",
-        "competition": "World: UEFA Europa Conference League",
-        "kickoff": "2026-08-20T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "9780ce18",
-            "home_team": "Heart of Midlothian",
-            "away_team": "Rapid Vienna",
-            "competition": "World: UEFA Europa Conference League",
-            "kickoff": "2026-08-20T20:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.38,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.543,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623394&league_id=848",
-                "home_team": "Heart of Midlothian",
-                "away_team": "Rapid Vienna",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X.",
-                "competition": "World: UEFA Europa Conference League",
-                "kickoff": "2026-08-20T20:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
         "match_id": "cee74bbb",
         "home_team": "Nõmme Kalju II",
         "away_team": "Tallinna Kalev",
@@ -410,7 +293,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.539,
+            "final_score": 0.547,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -444,97 +327,6 @@
         ]
       },
       {
-        "match_id": "dd0979a1",
-        "home_team": "Vikingur Reykjavik",
-        "away_team": "Borac Banja Luka",
-        "competition": "World: UEFA Europa Conference League",
-        "kickoff": "2026-08-20T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "de003805",
-            "home_team": "Vikingur Reykjavik",
-            "away_team": "Borac Banja Luka",
-            "competition": "World: UEFA Europa Conference League",
-            "kickoff": "2026-08-20T20:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.59,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.537,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623408&league_id=848",
-                "home_team": "Vikingur Reykjavik",
-                "away_team": "Borac Banja Luka",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Vikingur Reykjavik vs Borac Banja Luka: predicted score 1-0, tip 1.",
-                "competition": "World: UEFA Europa Conference League",
-                "kickoff": "2026-08-20T20:00:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-vikingur-reykjavik-vs-borac-banja-luka-betting-tip-dii3i4862/",
-                "home_team": "Vikingur Reykjavik",
-                "away_team": "Borac Banja Luka",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Vikingur Reykjavik vs Borac Banja Luka: 1X2 1.",
-                "competition": "UEFA Conference League Qualifying",
-                "kickoff": "2026-08-20T19:00:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Vikingur Reykjavik vs Borac Banja Luka: predicted score 1-0, tip 1. | MyBets Today tip for Vikingur Reykjavik vs Borac Banja Luka: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "dc329b03",
-        "home_team": "Jagiellonia",
-        "away_team": "Saburtalo",
-        "competition": "World: UEFA Europa League",
-        "kickoff": "2026-08-20T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "b52fa488",
-            "home_team": "Jagiellonia",
-            "away_team": "Saburtalo",
-            "competition": "World: UEFA Europa League",
-            "kickoff": "2026-08-20T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.33,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.534,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623434&league_id=3",
-                "home_team": "Jagiellonia",
-                "away_team": "Saburtalo",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1.",
-                "competition": "World: UEFA Europa League",
-                "kickoff": "2026-08-20T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1."
-          }
-        ]
-      },
-      {
         "match_id": "b4084f47",
         "home_team": "Trabzonspor",
         "away_team": "Ferencvarosi TC",
@@ -553,7 +345,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.533,
+            "final_score": 0.546,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -592,10 +384,482 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Trabzonspor vs Ferencvarosi TC: 1X2 1.",
                 "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-                "kickoff": "2026-08-20T12:00:00"
+                "kickoff": "2026-08-20T13:00:00"
               }
             ],
             "explanation": "Vitibet statistical model for Trabzonspor vs Ferencvarosi TC: predicted score 1-0, tip 1. | MyBets Today tip for Trabzonspor vs Ferencvarosi TC: 1X2 1. | Statarea tip for Trabzonspor vs Ferencvarosi TC: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "dd0979a1",
+        "home_team": "Vikingur Reykjavik",
+        "away_team": "Borac Banja Luka",
+        "competition": "World: UEFA Europa Conference League",
+        "kickoff": "2026-08-20T20:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "de003805",
+            "home_team": "Vikingur Reykjavik",
+            "away_team": "Borac Banja Luka",
+            "competition": "World: UEFA Europa Conference League",
+            "kickoff": "2026-08-20T20:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.59,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.545,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623408&league_id=848",
+                "home_team": "Vikingur Reykjavik",
+                "away_team": "Borac Banja Luka",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Vikingur Reykjavik vs Borac Banja Luka: predicted score 1-0, tip 1.",
+                "competition": "World: UEFA Europa Conference League",
+                "kickoff": "2026-08-20T20:00:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-vikingur-reykjavik-vs-borac-banja-luka-betting-tip-dii3i4862/",
+                "home_team": "Vikingur Reykjavik",
+                "away_team": "Borac Banja Luka",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Vikingur Reykjavik vs Borac Banja Luka: 1X2 1.",
+                "competition": "UEFA Conference League Qualifying",
+                "kickoff": "2026-08-20T19:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Vikingur Reykjavik vs Borac Banja Luka: predicted score 1-0, tip 1. | MyBets Today tip for Vikingur Reykjavik vs Borac Banja Luka: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "a1a8ad1b",
+        "home_team": "Rosenborg W",
+        "away_team": "Lyn W",
+        "competition": "Norway: Toppserien",
+        "kickoff": "2026-08-20T18:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "2b2c2c89",
+            "home_team": "Rosenborg W",
+            "away_team": "Lyn W",
+            "competition": "Norway: Toppserien",
+            "kickoff": "2026-08-20T18:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.4,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.538,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1495375&league_id=725",
+                "home_team": "Rosenborg W",
+                "away_team": "Lyn W",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Rosenborg W vs Lyn W: predicted score 2-1, tip 1.",
+                "competition": "Norway: Toppserien",
+                "kickoff": "2026-08-20T18:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Rosenborg W vs Lyn W: predicted score 2-1, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "5b19967a",
+        "home_team": "Heart of Midlothian",
+        "away_team": "Rapid Vienna",
+        "competition": "World: UEFA Europa Conference League",
+        "kickoff": "2026-08-20T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "9780ce18",
+            "home_team": "Heart of Midlothian",
+            "away_team": "Rapid Vienna",
+            "competition": "World: UEFA Europa Conference League",
+            "kickoff": "2026-08-20T20:45:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.38,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.534,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623394&league_id=848",
+                "home_team": "Heart of Midlothian",
+                "away_team": "Rapid Vienna",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X.",
+                "competition": "World: UEFA Europa Conference League",
+                "kickoff": "2026-08-20T20:45:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "dc90e104",
+        "home_team": "Gornik Zabrze",
+        "away_team": "Monaco",
+        "competition": "World: UEFA Europa Conference League",
+        "kickoff": "2026-08-20T20:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "08c3fd03",
+            "home_team": "Gornik Zabrze",
+            "away_team": "Monaco",
+            "competition": "World: UEFA Europa Conference League",
+            "kickoff": "2026-08-20T20:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.53,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.533,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623392&league_id=848",
+                "home_team": "Gornik Zabrze",
+                "away_team": "Monaco",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Gornik Zabrze vs Monaco: predicted score 0-1, tip 2.",
+                "competition": "World: UEFA Europa Conference League",
+                "kickoff": "2026-08-20T20:00:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-gornik-zabrze-vs-monaco-betting-tip-dii3i4864/",
+                "home_team": "Gornik Zabrze",
+                "away_team": "Monaco",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Gornik Zabrze vs Monaco: 1X2 2.",
+                "competition": "UEFA Conference League Qualifying",
+                "kickoff": "2026-08-20T19:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Gornik Zabrze vs Monaco: predicted score 0-1, tip 2. | MyBets Today tip for Gornik Zabrze vs Monaco: 1X2 2."
+          }
+        ]
+      },
+      {
+        "match_id": "45048c91",
+        "home_team": "FC Midtjylland",
+        "away_team": "HNK Rijeka",
+        "competition": "World: UEFA Europa Conference League",
+        "kickoff": "2026-08-20T19:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "7765fdc7",
+            "home_team": "FC Midtjylland",
+            "away_team": "HNK Rijeka",
+            "competition": "World: UEFA Europa Conference League",
+            "kickoff": "2026-08-20T19:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.54,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 3,
+            "final_score": 0.53,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623398&league_id=848",
+                "home_team": "FC Midtjylland",
+                "away_team": "HNK Rijeka",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for FC Midtjylland vs HNK Rijeka: predicted score 1-0, tip 1.",
+                "competition": "World: UEFA Europa Conference League",
+                "kickoff": "2026-08-20T19:00:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-midtjylland-vs-hnk-rijeka-betting-tip-dii3i4859/",
+                "home_team": "Midtjylland",
+                "away_team": "HNK Rijeka",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Midtjylland vs HNK Rijeka: 1X2 1.",
+                "competition": "UEFA Conference League Qualifying",
+                "kickoff": "2026-08-20T18:00:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "FC Midtjylland",
+                "away_team": "HNK Rijeka",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for FC Midtjylland vs HNK Rijeka: 1X2 1.",
+                "competition": "INTERNATIONAL - CONFERENCE LEAGUE PLAYOFF ROUND",
+                "kickoff": "2026-08-20T13:00:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for FC Midtjylland vs HNK Rijeka: predicted score 1-0, tip 1. | MyBets Today tip for Midtjylland vs HNK Rijeka: 1X2 1. | Statarea tip for FC Midtjylland vs HNK Rijeka: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "cdd3c085",
+        "home_team": "Getafe",
+        "away_team": "FK Partizan",
+        "competition": "World: UEFA Europa Conference League",
+        "kickoff": "2026-08-20T21:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "e7b275e9",
+            "home_team": "Getafe",
+            "away_team": "FK Partizan",
+            "competition": "World: UEFA Europa Conference League",
+            "kickoff": "2026-08-20T21:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.34,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.529,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623391&league_id=848",
+                "home_team": "Getafe",
+                "away_team": "FK Partizan",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Getafe vs FK Partizan: predicted score 2-0, tip 1.",
+                "competition": "World: UEFA Europa Conference League",
+                "kickoff": "2026-08-20T21:00:00+02:00"
+              },
+              {
+                "source_name": "Adibet",
+                "source_url": "https://www.adibet.com/",
+                "home_team": "Getafe",
+                "away_team": "Partizan",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Adibet tip for Getafe vs Partizan: 1X2 1.",
+                "competition": "Europe ",
+                "kickoff": "2026-08-20T12:00:00+00:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Getafe vs FK Partizan: predicted score 2-0, tip 1. | Adibet tip for Getafe vs Partizan: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "8914f23a",
+        "home_team": "Crvena Zvezda",
+        "away_team": "FK Viktoria Plzen",
+        "competition": "UEFA Europa League",
+        "kickoff": "2026-08-20T18:00:00+00:00",
+        "picks": [
+          {
+            "match_id": "b477c4b8",
+            "home_team": "Crvena Zvezda",
+            "away_team": "FK Viktoria Plzen",
+            "competition": "UEFA Europa League",
+            "kickoff": "2026-08-20T18:00:00+00:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.67,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 3,
+            "final_score": 0.528,
+            "sources": [
+              {
+                "source_name": "FreeSuperTips",
+                "source_url": "https://www.freesupertips.com/predictions/crvena-zvezda-vs-fk-viktoria-plzen-predictions-betting-tips-match-previews/",
+                "home_team": "Crvena Zvezda",
+                "away_team": "FK Viktoria Plzen",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": 1.67,
+                "confidence_text": "2",
+                "reason_summary": "FreeSuperTips Full Time Result for Crvena Zvezda vs FK Viktoria Plzen (UEFA Europa League, 2026-08-20T18:00:00+00:00).",
+                "competition": "UEFA Europa League",
+                "kickoff": "2026-08-20T18:00:00+00:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-crvena-zvezda-vs-viktoria-plzen-betting-tip-dii3i4564/",
+                "home_team": "Crvena Zvezda",
+                "away_team": "Viktoria Plzen",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Crvena Zvezda vs Viktoria Plzen: 1X2 1.",
+                "competition": "UEFA Europa League Qualifying",
+                "kickoff": "2026-08-20T19:00:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Crvena Zvezda",
+                "away_team": "Viktoria Plzen",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Crvena Zvezda vs Viktoria Plzen: 1X2 1.",
+                "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
+                "kickoff": "2026-08-20T14:00:00"
+              }
+            ],
+            "explanation": "FreeSuperTips Full Time Result for Crvena Zvezda vs FK Viktoria Plzen (UEFA Europa League, 2026-08-20T18:00:00+00:00). | MyBets Today tip for Crvena Zvezda vs Viktoria Plzen: 1X2 1. | Statarea tip for Crvena Zvezda vs Viktoria Plzen: 1X2 1."
+          },
+          {
+            "match_id": "2bac3b93",
+            "home_team": "Crvena Zvezda",
+            "away_team": "FK Viktoria Plzen",
+            "competition": "UEFA Europa League",
+            "kickoff": "2026-08-20T18:00:00+00:00",
+            "market": "Correct Score",
+            "recommended_pick": "Crvena Zvezda 2-1",
+            "best_odds": 8.5,
+            "consensus_score": 0.333,
+            "price_edge_score": 1.0,
+            "source_count": 1,
+            "final_score": 0.395,
+            "sources": [
+              {
+                "source_name": "FreeSuperTips",
+                "source_url": "https://www.freesupertips.com/predictions/crvena-zvezda-vs-fk-viktoria-plzen-predictions-betting-tips-match-previews/",
+                "home_team": "Crvena Zvezda",
+                "away_team": "FK Viktoria Plzen",
+                "market": "Correct Score",
+                "pick": "Crvena Zvezda 2-1",
+                "quoted_odds": 8.5,
+                "confidence_text": "1",
+                "reason_summary": "FreeSuperTips Correct Score for Crvena Zvezda vs FK Viktoria Plzen (UEFA Europa League, 2026-08-20T18:00:00+00:00).",
+                "competition": "UEFA Europa League",
+                "kickoff": "2026-08-20T18:00:00+00:00"
+              }
+            ],
+            "explanation": "FreeSuperTips Correct Score for Crvena Zvezda vs FK Viktoria Plzen (UEFA Europa League, 2026-08-20T18:00:00+00:00)."
+          }
+        ]
+      },
+      {
+        "match_id": "123619b8",
+        "home_team": "Universitatea Craiova",
+        "away_team": "Ararat-Armenia",
+        "competition": "World: UEFA Europa League",
+        "kickoff": "2026-08-20T19:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "2868d978",
+            "home_team": "Universitatea Craiova",
+            "away_team": "Ararat-Armenia",
+            "competition": "World: UEFA Europa League",
+            "kickoff": "2026-08-20T19:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.34,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.526,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623440&league_id=3",
+                "home_team": "Universitatea Craiova",
+                "away_team": "Ararat-Armenia",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1.",
+                "competition": "World: UEFA Europa League",
+                "kickoff": "2026-08-20T19:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "dc329b03",
+        "home_team": "Jagiellonia",
+        "away_team": "Saburtalo",
+        "competition": "World: UEFA Europa League",
+        "kickoff": "2026-08-20T18:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "b52fa488",
+            "home_team": "Jagiellonia",
+            "away_team": "Saburtalo",
+            "competition": "World: UEFA Europa League",
+            "kickoff": "2026-08-20T18:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.33,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623434&league_id=3",
+                "home_team": "Jagiellonia",
+                "away_team": "Saburtalo",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1.",
+                "competition": "World: UEFA Europa League",
+                "kickoff": "2026-08-20T18:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1."
           }
         ]
       },
@@ -614,11 +878,11 @@
             "kickoff": "2026-08-20T14:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.57,
+            "best_odds": 1.48,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.533,
+            "final_score": 0.523,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -670,7 +934,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.528,
+            "final_score": 0.518,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -691,54 +955,67 @@
         ]
       },
       {
-        "match_id": "dc90e104",
-        "home_team": "Gornik Zabrze",
-        "away_team": "Monaco",
+        "match_id": "2e77f22c",
+        "home_team": "SC Braga",
+        "away_team": "Austria Vienna",
         "competition": "World: UEFA Europa Conference League",
-        "kickoff": "2026-08-20T20:00:00+02:00",
+        "kickoff": "2026-08-20T21:00:00+02:00",
         "picks": [
           {
-            "match_id": "08c3fd03",
-            "home_team": "Gornik Zabrze",
-            "away_team": "Monaco",
+            "match_id": "51cf0ff3",
+            "home_team": "SC Braga",
+            "away_team": "Austria Vienna",
             "competition": "World: UEFA Europa Conference League",
-            "kickoff": "2026-08-20T20:00:00+02:00",
+            "kickoff": "2026-08-20T21:00:00+02:00",
             "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.53,
+            "recommended_pick": "1",
+            "best_odds": 1.36,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.525,
+            "source_count": 3,
+            "final_score": 0.512,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623392&league_id=848",
-                "home_team": "Gornik Zabrze",
-                "away_team": "Monaco",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623387&league_id=848",
+                "home_team": "SC Braga",
+                "away_team": "Austria Vienna",
                 "market": "1X2",
-                "pick": "2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Gornik Zabrze vs Monaco: predicted score 0-1, tip 2.",
+                "reason_summary": "Vitibet statistical model for SC Braga vs Austria Vienna: predicted score 1-0, tip 1.",
                 "competition": "World: UEFA Europa Conference League",
-                "kickoff": "2026-08-20T20:00:00+02:00"
+                "kickoff": "2026-08-20T21:00:00+02:00"
+              },
+              {
+                "source_name": "Adibet",
+                "source_url": "https://www.adibet.com/",
+                "home_team": "Braga",
+                "away_team": "Austria \n\t\t\t\t\t\t\t\tVienna",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Adibet tip for Braga vs Austria \n\t\t\t\t\t\t\t\tVienna: 1X2 1.",
+                "competition": "Europe ",
+                "kickoff": "2026-08-20T12:00:00+00:00"
               },
               {
                 "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-gornik-zabrze-vs-monaco-betting-tip-dii3i4864/",
-                "home_team": "Gornik Zabrze",
-                "away_team": "Monaco",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-braga-vs-fk-austria-vienna-betting-tip-dii3i4877/",
+                "home_team": "Braga",
+                "away_team": "FK Austria Vienna",
                 "market": "1X2",
-                "pick": "2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Gornik Zabrze vs Monaco: 1X2 2.",
+                "reason_summary": "MyBets Today tip for Braga vs FK Austria Vienna: 1X2 1.",
                 "competition": "UEFA Conference League Qualifying",
-                "kickoff": "2026-08-20T19:00:00+01:00"
+                "kickoff": "2026-08-20T20:00:00+01:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Gornik Zabrze vs Monaco: predicted score 0-1, tip 2. | MyBets Today tip for Gornik Zabrze vs Monaco: 1X2 2."
+            "explanation": "Vitibet statistical model for SC Braga vs Austria Vienna: predicted score 1-0, tip 1. | Adibet tip for Braga vs Austria \n\t\t\t\t\t\t\t\tVienna: 1X2 1. | MyBets Today tip for Braga vs FK Austria Vienna: 1X2 1."
           }
         ]
       },
@@ -761,7 +1038,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.52,
+            "final_score": 0.51,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -778,201 +1055,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Shamrock Rovers FC vs KuPS: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "934a7753",
-        "home_team": "HNK Hajduk Split",
-        "away_team": "Raków Częstochowa",
-        "competition": "World: UEFA Europa Conference League",
-        "kickoff": "2026-08-20T21:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "f55f48f7",
-            "home_team": "HNK Hajduk Split",
-            "away_team": "Raków Częstochowa",
-            "competition": "World: UEFA Europa Conference League",
-            "kickoff": "2026-08-20T21:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.25,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.518,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623393&league_id=848",
-                "home_team": "HNK Hajduk Split",
-                "away_team": "Raków Częstochowa",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for HNK Hajduk Split vs Raków Częstochowa: predicted score 1-0, tip 1X.",
-                "competition": "World: UEFA Europa Conference League",
-                "kickoff": "2026-08-20T21:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for HNK Hajduk Split vs Raków Częstochowa: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "45048c91",
-        "home_team": "FC Midtjylland",
-        "away_team": "HNK Rijeka",
-        "competition": "World: UEFA Europa Conference League",
-        "kickoff": "2026-08-20T19:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "7765fdc7",
-            "home_team": "FC Midtjylland",
-            "away_team": "HNK Rijeka",
-            "competition": "World: UEFA Europa Conference League",
-            "kickoff": "2026-08-20T19:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.54,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 3,
-            "final_score": 0.517,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623398&league_id=848",
-                "home_team": "FC Midtjylland",
-                "away_team": "HNK Rijeka",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for FC Midtjylland vs HNK Rijeka: predicted score 1-0, tip 1.",
-                "competition": "World: UEFA Europa Conference League",
-                "kickoff": "2026-08-20T19:00:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-midtjylland-vs-hnk-rijeka-betting-tip-dii3i4859/",
-                "home_team": "Midtjylland",
-                "away_team": "HNK Rijeka",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Midtjylland vs HNK Rijeka: 1X2 1.",
-                "competition": "UEFA Conference League Qualifying",
-                "kickoff": "2026-08-20T18:00:00+01:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "FC Midtjylland",
-                "away_team": "HNK Rijeka",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for FC Midtjylland vs HNK Rijeka: 1X2 1.",
-                "competition": "INTERNATIONAL - CONFERENCE LEAGUE PLAYOFF ROUND",
-                "kickoff": "2026-08-20T12:00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for FC Midtjylland vs HNK Rijeka: predicted score 1-0, tip 1. | MyBets Today tip for Midtjylland vs HNK Rijeka: 1X2 1. | Statarea tip for FC Midtjylland vs HNK Rijeka: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "cdd3c085",
-        "home_team": "Getafe",
-        "away_team": "FK Partizan",
-        "competition": "World: UEFA Europa Conference League",
-        "kickoff": "2026-08-20T21:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "e7b275e9",
-            "home_team": "Getafe",
-            "away_team": "FK Partizan",
-            "competition": "World: UEFA Europa Conference League",
-            "kickoff": "2026-08-20T21:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.34,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.517,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623391&league_id=848",
-                "home_team": "Getafe",
-                "away_team": "FK Partizan",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Getafe vs FK Partizan: predicted score 2-0, tip 1.",
-                "competition": "World: UEFA Europa Conference League",
-                "kickoff": "2026-08-20T21:00:00+02:00"
-              },
-              {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Getafe",
-                "away_team": "Partizan",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Getafe vs Partizan: 1X2 1.",
-                "competition": "Europe ",
-                "kickoff": "2026-08-20T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Getafe vs FK Partizan: predicted score 2-0, tip 1. | Adibet tip for Getafe vs Partizan: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "e22dc175",
-        "home_team": "Arys",
-        "away_team": "Taraz",
-        "competition": "Kazakhstan: 1. Division",
-        "kickoff": "2026-08-20T14:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "01ddaf31",
-            "home_team": "Arys",
-            "away_team": "Taraz",
-            "competition": "Kazakhstan: 1. Division",
-            "kickoff": "2026-08-20T14:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.22,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.512,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1534829&league_id=388",
-                "home_team": "Arys",
-                "away_team": "Taraz",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Arys vs Taraz: predicted score 1-1, tip X2.",
-                "competition": "Kazakhstan: 1. Division",
-                "kickoff": "2026-08-20T14:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Arys vs Taraz: predicted score 1-1, tip X2."
           }
         ]
       }
@@ -998,7 +1080,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.472,
+              "final_score": 0.492,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1028,7 +1110,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.24,
+              "final_score": 0.233,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1051,84 +1133,6 @@
       ],
       "UEFA Europa League": [
         {
-          "match_id": "123619b8",
-          "home_team": "Universitatea Craiova",
-          "away_team": "Ararat-Armenia",
-          "competition": "World: UEFA Europa League",
-          "kickoff": "2026-08-20T19:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "2868d978",
-              "home_team": "Universitatea Craiova",
-              "away_team": "Ararat-Armenia",
-              "competition": "World: UEFA Europa League",
-              "kickoff": "2026-08-20T19:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.4,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.547,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623440&league_id=3",
-                  "home_team": "Universitatea Craiova",
-                  "away_team": "Ararat-Armenia",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1.",
-                  "competition": "World: UEFA Europa League",
-                  "kickoff": "2026-08-20T19:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1."
-            }
-          ]
-        },
-        {
-          "match_id": "dc329b03",
-          "home_team": "Jagiellonia",
-          "away_team": "Saburtalo",
-          "competition": "World: UEFA Europa League",
-          "kickoff": "2026-08-20T18:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "b52fa488",
-              "home_team": "Jagiellonia",
-              "away_team": "Saburtalo",
-              "competition": "World: UEFA Europa League",
-              "kickoff": "2026-08-20T18:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.33,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.534,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623434&league_id=3",
-                  "home_team": "Jagiellonia",
-                  "away_team": "Saburtalo",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1.",
-                  "competition": "World: UEFA Europa League",
-                  "kickoff": "2026-08-20T18:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1."
-            }
-          ]
-        },
-        {
           "match_id": "b4084f47",
           "home_team": "Trabzonspor",
           "away_team": "Ferencvarosi TC",
@@ -1147,7 +1151,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.533,
+              "final_score": 0.546,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1186,166 +1190,10 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Trabzonspor vs Ferencvarosi TC: 1X2 1.",
                   "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-                  "kickoff": "2026-08-20T12:00:00"
+                  "kickoff": "2026-08-20T13:00:00"
                 }
               ],
               "explanation": "Vitibet statistical model for Trabzonspor vs Ferencvarosi TC: predicted score 1-0, tip 1. | MyBets Today tip for Trabzonspor vs Ferencvarosi TC: 1X2 1. | Statarea tip for Trabzonspor vs Ferencvarosi TC: 1X2 1."
-            }
-          ]
-        },
-        {
-          "match_id": "b67e95c3",
-          "home_team": "Egnatia Rrogozhinë",
-          "away_team": "Lillestrom",
-          "competition": "World: UEFA Europa League",
-          "kickoff": "2026-08-20T19:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "e36b23ae",
-              "home_team": "Egnatia Rrogozhinë",
-              "away_team": "Lillestrom",
-              "competition": "World: UEFA Europa League",
-              "kickoff": "2026-08-20T19:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 1.3,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.528,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623433&league_id=3",
-                  "home_team": "Egnatia Rrogozhinë",
-                  "away_team": "Lillestrom",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Egnatia Rrogozhinë vs Lillestrom: predicted score 1-1, tip X2.",
-                  "competition": "World: UEFA Europa League",
-                  "kickoff": "2026-08-20T19:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Egnatia Rrogozhinë vs Lillestrom: predicted score 1-1, tip X2."
-            }
-          ]
-        },
-        {
-          "match_id": "4c8bf90f",
-          "home_team": "St. Truiden",
-          "away_team": "AC Omonia Nicosia",
-          "competition": "World: UEFA Europa League",
-          "kickoff": "2026-08-20T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "389f117a",
-              "home_team": "St. Truiden",
-              "away_team": "AC Omonia Nicosia",
-              "competition": "World: UEFA Europa League",
-              "kickoff": "2026-08-20T20:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.21,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.51,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623438&league_id=3",
-                  "home_team": "St. Truiden",
-                  "away_team": "AC Omonia Nicosia",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for St. Truiden vs AC Omonia Nicosia: predicted score 1-0, tip 1X.",
-                  "competition": "World: UEFA Europa League",
-                  "kickoff": "2026-08-20T20:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for St. Truiden vs AC Omonia Nicosia: predicted score 1-0, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "6ba5b546",
-          "home_team": "Mjallby AIF",
-          "away_team": "Red Bull Salzburg",
-          "competition": "World: UEFA Europa League",
-          "kickoff": "2026-08-20T18:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "4c2c31b0",
-              "home_team": "Mjallby AIF",
-              "away_team": "Red Bull Salzburg",
-              "competition": "World: UEFA Europa League",
-              "kickoff": "2026-08-20T18:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 1.2,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.508,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623436&league_id=3",
-                  "home_team": "Mjallby AIF",
-                  "away_team": "Red Bull Salzburg",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Mjallby AIF vs Red Bull Salzburg: predicted score 0-1, tip X2.",
-                  "competition": "World: UEFA Europa League",
-                  "kickoff": "2026-08-20T18:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Mjallby AIF vs Red Bull Salzburg: predicted score 0-1, tip X2."
-            }
-          ]
-        },
-        {
-          "match_id": "909a1234",
-          "home_team": "Red Star Belgrade",
-          "away_team": "Plzen",
-          "competition": "World: UEFA Europa League",
-          "kickoff": "2026-08-20T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "781854e5",
-              "home_team": "Red Star Belgrade",
-              "away_team": "Plzen",
-              "competition": "World: UEFA Europa League",
-              "kickoff": "2026-08-20T20:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.19,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.506,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1622632&league_id=3",
-                  "home_team": "Red Star Belgrade",
-                  "away_team": "Plzen",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Red Star Belgrade vs Plzen: predicted score 1-0, tip 1X.",
-                  "competition": "World: UEFA Europa League",
-                  "kickoff": "2026-08-20T20:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Red Star Belgrade vs Plzen: predicted score 1-0, tip 1X."
             }
           ]
         },
@@ -1368,7 +1216,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.504,
+              "final_score": 0.528,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -1407,7 +1255,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Crvena Zvezda vs Viktoria Plzen: 1X2 1.",
                   "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-                  "kickoff": "2026-08-20T13:00:00"
+                  "kickoff": "2026-08-20T14:00:00"
                 }
               ],
               "explanation": "FreeSuperTips Full Time Result for Crvena Zvezda vs FK Viktoria Plzen (UEFA Europa League, 2026-08-20T18:00:00+00:00). | MyBets Today tip for Crvena Zvezda vs Viktoria Plzen: 1X2 1. | Statarea tip for Crvena Zvezda vs Viktoria Plzen: 1X2 1."
@@ -1424,7 +1272,7 @@
               "consensus_score": 0.333,
               "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.38,
+              "final_score": 0.395,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -1441,6 +1289,240 @@
                 }
               ],
               "explanation": "FreeSuperTips Correct Score for Crvena Zvezda vs FK Viktoria Plzen (UEFA Europa League, 2026-08-20T18:00:00+00:00)."
+            }
+          ]
+        },
+        {
+          "match_id": "123619b8",
+          "home_team": "Universitatea Craiova",
+          "away_team": "Ararat-Armenia",
+          "competition": "World: UEFA Europa League",
+          "kickoff": "2026-08-20T19:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "2868d978",
+              "home_team": "Universitatea Craiova",
+              "away_team": "Ararat-Armenia",
+              "competition": "World: UEFA Europa League",
+              "kickoff": "2026-08-20T19:00:00+02:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": 1.34,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.526,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623440&league_id=3",
+                  "home_team": "Universitatea Craiova",
+                  "away_team": "Ararat-Armenia",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1.",
+                  "competition": "World: UEFA Europa League",
+                  "kickoff": "2026-08-20T19:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Universitatea Craiova vs Ararat-Armenia: predicted score 1-0, tip 1."
+            }
+          ]
+        },
+        {
+          "match_id": "dc329b03",
+          "home_team": "Jagiellonia",
+          "away_team": "Saburtalo",
+          "competition": "World: UEFA Europa League",
+          "kickoff": "2026-08-20T18:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "b52fa488",
+              "home_team": "Jagiellonia",
+              "away_team": "Saburtalo",
+              "competition": "World: UEFA Europa League",
+              "kickoff": "2026-08-20T18:00:00+02:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": 1.33,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.524,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623434&league_id=3",
+                  "home_team": "Jagiellonia",
+                  "away_team": "Saburtalo",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1.",
+                  "competition": "World: UEFA Europa League",
+                  "kickoff": "2026-08-20T18:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Jagiellonia vs Saburtalo: predicted score 2-0, tip 1."
+            }
+          ]
+        },
+        {
+          "match_id": "b67e95c3",
+          "home_team": "Egnatia Rrogozhinë",
+          "away_team": "Lillestrom",
+          "competition": "World: UEFA Europa League",
+          "kickoff": "2026-08-20T19:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "e36b23ae",
+              "home_team": "Egnatia Rrogozhinë",
+              "away_team": "Lillestrom",
+              "competition": "World: UEFA Europa League",
+              "kickoff": "2026-08-20T19:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": 1.3,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.518,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623433&league_id=3",
+                  "home_team": "Egnatia Rrogozhinë",
+                  "away_team": "Lillestrom",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Egnatia Rrogozhinë vs Lillestrom: predicted score 1-1, tip X2.",
+                  "competition": "World: UEFA Europa League",
+                  "kickoff": "2026-08-20T19:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Egnatia Rrogozhinë vs Lillestrom: predicted score 1-1, tip X2."
+            }
+          ]
+        },
+        {
+          "match_id": "4c8bf90f",
+          "home_team": "St. Truiden",
+          "away_team": "AC Omonia Nicosia",
+          "competition": "World: UEFA Europa League",
+          "kickoff": "2026-08-20T20:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "389f117a",
+              "home_team": "St. Truiden",
+              "away_team": "AC Omonia Nicosia",
+              "competition": "World: UEFA Europa League",
+              "kickoff": "2026-08-20T20:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": 1.21,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.5,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623438&league_id=3",
+                  "home_team": "St. Truiden",
+                  "away_team": "AC Omonia Nicosia",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for St. Truiden vs AC Omonia Nicosia: predicted score 1-0, tip 1X.",
+                  "competition": "World: UEFA Europa League",
+                  "kickoff": "2026-08-20T20:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for St. Truiden vs AC Omonia Nicosia: predicted score 1-0, tip 1X."
+            }
+          ]
+        },
+        {
+          "match_id": "6ba5b546",
+          "home_team": "Mjallby AIF",
+          "away_team": "Red Bull Salzburg",
+          "competition": "World: UEFA Europa League",
+          "kickoff": "2026-08-20T18:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "4c2c31b0",
+              "home_team": "Mjallby AIF",
+              "away_team": "Red Bull Salzburg",
+              "competition": "World: UEFA Europa League",
+              "kickoff": "2026-08-20T18:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": 1.2,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.498,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623436&league_id=3",
+                  "home_team": "Mjallby AIF",
+                  "away_team": "Red Bull Salzburg",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Mjallby AIF vs Red Bull Salzburg: predicted score 0-1, tip X2.",
+                  "competition": "World: UEFA Europa League",
+                  "kickoff": "2026-08-20T18:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Mjallby AIF vs Red Bull Salzburg: predicted score 0-1, tip X2."
+            }
+          ]
+        },
+        {
+          "match_id": "909a1234",
+          "home_team": "Red Star Belgrade",
+          "away_team": "Plzen",
+          "competition": "World: UEFA Europa League",
+          "kickoff": "2026-08-20T20:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "781854e5",
+              "home_team": "Red Star Belgrade",
+              "away_team": "Plzen",
+              "competition": "World: UEFA Europa League",
+              "kickoff": "2026-08-20T20:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": 1.19,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.496,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1622632&league_id=3",
+                  "home_team": "Red Star Belgrade",
+                  "away_team": "Plzen",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Red Star Belgrade vs Plzen: predicted score 1-0, tip 1X.",
+                  "competition": "World: UEFA Europa League",
+                  "kickoff": "2026-08-20T20:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Red Star Belgrade vs Plzen: predicted score 1-0, tip 1X."
             }
           ]
         },
@@ -1463,7 +1545,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.481,
+              "final_score": 0.493,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1506,7 +1588,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.213,
+              "final_score": 0.237,
               "sources": [
                 {
                   "source_name": "Adibet",
@@ -1545,7 +1627,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.472,
+              "final_score": 0.49,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -1575,7 +1657,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.171,
+              "final_score": 0.191,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1605,7 +1687,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.157,
+              "final_score": 0.175,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -1640,11 +1722,11 @@
               "kickoff": "2026-08-20T19:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.12,
+              "best_odds": 1.13,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.443,
+              "final_score": 0.453,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1682,21 +1764,21 @@
           "home_team": "St Truiden",
           "away_team": "Omonia",
           "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-          "kickoff": "2026-08-20T13:00:00",
+          "kickoff": "2026-08-20T14:00:00",
           "picks": [
             {
               "match_id": "1cee7e9f",
               "home_team": "St Truiden",
               "away_team": "Omonia",
               "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-              "kickoff": "2026-08-20T13:00:00",
+              "kickoff": "2026-08-20T14:00:00",
               "market": "Double Chance",
               "recommended_pick": "12",
               "best_odds": null,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.39,
+              "final_score": 0.411,
               "sources": [
                 {
                   "source_name": "Statarea",
@@ -1709,7 +1791,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for St Truiden vs Omonia: Double Chance 12.",
                   "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-                  "kickoff": "2026-08-20T13:00:00"
+                  "kickoff": "2026-08-20T14:00:00"
                 }
               ],
               "explanation": "Statarea tip for St Truiden vs Omonia: Double Chance 12."
@@ -1735,7 +1817,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1774,7 +1856,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1813,7 +1895,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1852,7 +1934,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1891,7 +1973,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1930,7 +2012,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1965,11 +2047,11 @@
               "kickoff": "2026-08-20T19:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.53,
+              "best_odds": 1.54,
               "consensus_score": 0.667,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.272,
+              "final_score": 0.28,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2005,14 +2087,14 @@
               "home_team": "Lech Poznan",
               "away_team": "FC Thun",
               "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-              "kickoff": "2026-08-20T12:00:00",
+              "kickoff": "2026-08-20T13:00:00",
               "market": "Double Chance",
               "recommended_pick": "1X",
               "best_odds": null,
               "consensus_score": 0.333,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.134,
+              "final_score": 0.146,
               "sources": [
                 {
                   "source_name": "Statarea",
@@ -2025,7 +2107,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Lech Poznan vs FC Thun: Double Chance 1X.",
                   "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-                  "kickoff": "2026-08-20T12:00:00"
+                  "kickoff": "2026-08-20T13:00:00"
                 }
               ],
               "explanation": "Statarea tip for Lech Poznan vs FC Thun: Double Chance 1X."
@@ -2047,11 +2129,11 @@
               "kickoff": "2026-08-20T20:00:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "X2",
-              "best_odds": 1.44,
+              "best_odds": 1.43,
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.24,
+              "final_score": 0.233,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2074,14 +2156,14 @@
               "home_team": "OFI",
               "away_team": "CSKA Sofia",
               "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-              "kickoff": "2026-08-20T13:00:00",
+              "kickoff": "2026-08-20T14:00:00",
               "market": "1X2",
               "recommended_pick": "2",
               "best_odds": null,
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.186,
+              "final_score": 0.2,
               "sources": [
                 {
                   "source_name": "Statarea",
@@ -2094,7 +2176,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for OFI vs CSKA Sofia: 1X2 2.",
                   "competition": "INTERNATIONAL - EUROPA LEAGUE PLAYOFF ROUND",
-                  "kickoff": "2026-08-20T13:00:00"
+                  "kickoff": "2026-08-20T14:00:00"
                 }
               ],
               "explanation": "Statarea tip for OFI vs CSKA Sofia: 1X2 2."
@@ -2118,11 +2200,11 @@
               "kickoff": "2026-08-20T19:45:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.7,
+              "best_odds": 1.69,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.569,
+              "final_score": 0.572,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2148,7 +2230,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for PAOK vs Brann: 1X2 1.",
                   "competition": "INTERNATIONAL - CONFERENCE LEAGUE PLAYOFF ROUND",
-                  "kickoff": "2026-08-20T12:45:00"
+                  "kickoff": "2026-08-20T13:45:00"
                 }
               ],
               "explanation": "Vitibet statistical model for PAOK vs Brann: predicted score 1-0, tip 1. | Statarea tip for PAOK vs Brann: 1X2 1."
@@ -2174,7 +2256,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.548,
+              "final_score": 0.566,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2221,45 +2303,6 @@
           ]
         },
         {
-          "match_id": "5b19967a",
-          "home_team": "Heart of Midlothian",
-          "away_team": "Rapid Vienna",
-          "competition": "World: UEFA Europa Conference League",
-          "kickoff": "2026-08-20T20:45:00+02:00",
-          "picks": [
-            {
-              "match_id": "9780ce18",
-              "home_team": "Heart of Midlothian",
-              "away_team": "Rapid Vienna",
-              "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T20:45:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.38,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.543,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623394&league_id=848",
-                  "home_team": "Heart of Midlothian",
-                  "away_team": "Rapid Vienna",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X.",
-                  "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T20:45:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X."
-            }
-          ]
-        },
-        {
           "match_id": "dd0979a1",
           "home_team": "Vikingur Reykjavik",
           "away_team": "Borac Banja Luka",
@@ -2278,7 +2321,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.537,
+              "final_score": 0.545,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2312,6 +2355,45 @@
           ]
         },
         {
+          "match_id": "5b19967a",
+          "home_team": "Heart of Midlothian",
+          "away_team": "Rapid Vienna",
+          "competition": "World: UEFA Europa Conference League",
+          "kickoff": "2026-08-20T20:45:00+02:00",
+          "picks": [
+            {
+              "match_id": "9780ce18",
+              "home_team": "Heart of Midlothian",
+              "away_team": "Rapid Vienna",
+              "competition": "World: UEFA Europa Conference League",
+              "kickoff": "2026-08-20T20:45:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": 1.38,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.534,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623394&league_id=848",
+                  "home_team": "Heart of Midlothian",
+                  "away_team": "Rapid Vienna",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X.",
+                  "competition": "World: UEFA Europa Conference League",
+                  "kickoff": "2026-08-20T20:45:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Heart of Midlothian vs Rapid Vienna: predicted score 1-1, tip 1X."
+            }
+          ]
+        },
+        {
           "match_id": "dc90e104",
           "home_team": "Gornik Zabrze",
           "away_team": "Monaco",
@@ -2330,7 +2412,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.525,
+              "final_score": 0.533,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2364,84 +2446,6 @@
           ]
         },
         {
-          "match_id": "90326312",
-          "home_team": "Shamrock Rovers FC",
-          "away_team": "KuPS",
-          "competition": "World: UEFA Europa Conference League",
-          "kickoff": "2026-08-20T21:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "5ac60491",
-              "home_team": "Shamrock Rovers FC",
-              "away_team": "KuPS",
-              "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T21:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.26,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.52,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623404&league_id=848",
-                  "home_team": "Shamrock Rovers FC",
-                  "away_team": "KuPS",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Shamrock Rovers FC vs KuPS: predicted score 1-0, tip 1X.",
-                  "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T21:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Shamrock Rovers FC vs KuPS: predicted score 1-0, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "934a7753",
-          "home_team": "HNK Hajduk Split",
-          "away_team": "Raków Częstochowa",
-          "competition": "World: UEFA Europa Conference League",
-          "kickoff": "2026-08-20T21:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "f55f48f7",
-              "home_team": "HNK Hajduk Split",
-              "away_team": "Raków Częstochowa",
-              "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T21:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.25,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.518,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623393&league_id=848",
-                  "home_team": "HNK Hajduk Split",
-                  "away_team": "Raków Częstochowa",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for HNK Hajduk Split vs Raków Częstochowa: predicted score 1-0, tip 1X.",
-                  "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T21:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for HNK Hajduk Split vs Raków Częstochowa: predicted score 1-0, tip 1X."
-            }
-          ]
-        },
-        {
           "match_id": "45048c91",
           "home_team": "FC Midtjylland",
           "away_team": "HNK Rijeka",
@@ -2460,7 +2464,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.517,
+              "final_score": 0.53,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2499,7 +2503,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for FC Midtjylland vs HNK Rijeka: 1X2 1.",
                   "competition": "INTERNATIONAL - CONFERENCE LEAGUE PLAYOFF ROUND",
-                  "kickoff": "2026-08-20T12:00:00"
+                  "kickoff": "2026-08-20T13:00:00"
                 }
               ],
               "explanation": "Vitibet statistical model for FC Midtjylland vs HNK Rijeka: predicted score 1-0, tip 1. | MyBets Today tip for Midtjylland vs HNK Rijeka: 1X2 1. | Statarea tip for FC Midtjylland vs HNK Rijeka: 1X2 1."
@@ -2525,7 +2529,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.517,
+              "final_score": 0.529,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2559,84 +2563,6 @@
           ]
         },
         {
-          "match_id": "aba2469a",
-          "home_team": "FC Nordsjaelland",
-          "away_team": "FC St. Gallen",
-          "competition": "World: UEFA Europa Conference League",
-          "kickoff": "2026-08-20T19:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "74cf0a2f",
-              "home_team": "FC Nordsjaelland",
-              "away_team": "FC St. Gallen",
-              "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T19:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.2,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.508,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623400&league_id=848",
-                  "home_team": "FC Nordsjaelland",
-                  "away_team": "FC St. Gallen",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for FC Nordsjaelland vs FC St. Gallen: predicted score 1-0, tip 1X.",
-                  "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T19:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for FC Nordsjaelland vs FC St. Gallen: predicted score 1-0, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "e80e2a89",
-          "home_team": "Atalanta BC",
-          "away_team": "Hapoel Tel Aviv FC",
-          "competition": "World: UEFA Europa Conference League",
-          "kickoff": "2026-08-20T20:30:00+02:00",
-          "picks": [
-            {
-              "match_id": "2fd76609",
-              "home_team": "Atalanta BC",
-              "away_team": "Hapoel Tel Aviv FC",
-              "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T20:30:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.16,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.499,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623111&league_id=848",
-                  "home_team": "Atalanta BC",
-                  "away_team": "Hapoel Tel Aviv FC",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Atalanta BC vs Hapoel Tel Aviv FC: predicted score 2-0, tip 1.",
-                  "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T20:30:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Atalanta BC vs Hapoel Tel Aviv FC: predicted score 2-0, tip 1."
-            }
-          ]
-        },
-        {
           "match_id": "2e77f22c",
           "home_team": "SC Braga",
           "away_team": "Austria Vienna",
@@ -2655,7 +2581,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.494,
+              "final_score": 0.512,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2702,6 +2628,84 @@
           ]
         },
         {
+          "match_id": "90326312",
+          "home_team": "Shamrock Rovers FC",
+          "away_team": "KuPS",
+          "competition": "World: UEFA Europa Conference League",
+          "kickoff": "2026-08-20T21:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "5ac60491",
+              "home_team": "Shamrock Rovers FC",
+              "away_team": "KuPS",
+              "competition": "World: UEFA Europa Conference League",
+              "kickoff": "2026-08-20T21:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": 1.26,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.51,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623404&league_id=848",
+                  "home_team": "Shamrock Rovers FC",
+                  "away_team": "KuPS",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Shamrock Rovers FC vs KuPS: predicted score 1-0, tip 1X.",
+                  "competition": "World: UEFA Europa Conference League",
+                  "kickoff": "2026-08-20T21:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Shamrock Rovers FC vs KuPS: predicted score 1-0, tip 1X."
+            }
+          ]
+        },
+        {
+          "match_id": "934a7753",
+          "home_team": "HNK Hajduk Split",
+          "away_team": "Raków Częstochowa",
+          "competition": "World: UEFA Europa Conference League",
+          "kickoff": "2026-08-20T21:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "f55f48f7",
+              "home_team": "HNK Hajduk Split",
+              "away_team": "Raków Częstochowa",
+              "competition": "World: UEFA Europa Conference League",
+              "kickoff": "2026-08-20T21:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": 1.25,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.508,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623393&league_id=848",
+                  "home_team": "HNK Hajduk Split",
+                  "away_team": "Raków Częstochowa",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for HNK Hajduk Split vs Raków Częstochowa: predicted score 1-0, tip 1X.",
+                  "competition": "World: UEFA Europa Conference League",
+                  "kickoff": "2026-08-20T21:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for HNK Hajduk Split vs Raków Częstochowa: predicted score 1-0, tip 1X."
+            }
+          ]
+        },
+        {
           "match_id": "cf3d9923",
           "home_team": "Atalanta",
           "away_team": "Hapoel Tel Aviv",
@@ -2720,7 +2724,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.472,
+              "final_score": 0.49,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -2750,7 +2754,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.171,
+              "final_score": 0.191,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -2780,7 +2784,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.053,
               "source_count": 1,
-              "final_score": 0.167,
+              "final_score": 0.184,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -2819,7 +2823,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.472,
+              "final_score": 0.49,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -2849,7 +2853,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.171,
+              "final_score": 0.191,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -2879,7 +2883,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.157,
+              "final_score": 0.175,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -2918,7 +2922,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.472,
+              "final_score": 0.49,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -2948,7 +2952,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.171,
+              "final_score": 0.191,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -2978,7 +2982,7 @@
               "consensus_score": 0.5,
               "price_edge_score": 0.026,
               "source_count": 1,
-              "final_score": 0.162,
+              "final_score": 0.18,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -2999,355 +3003,41 @@
           ]
         },
         {
-          "match_id": "a8919f5c",
-          "home_team": "Lincoln Red Imps FC",
-          "away_team": "Larne",
-          "competition": "Europa Conference League",
-          "kickoff": "2026-08-20T16:00:00+00:00",
+          "match_id": "e80e2a89",
+          "home_team": "Atalanta BC",
+          "away_team": "Hapoel Tel Aviv FC",
+          "competition": "World: UEFA Europa Conference League",
+          "kickoff": "2026-08-20T20:30:00+02:00",
           "picks": [
             {
-              "match_id": "36b54312",
-              "home_team": "Lincoln Red Imps FC",
-              "away_team": "Larne",
-              "competition": "Europa Conference League",
-              "kickoff": "2026-08-20T16:00:00+00:00",
-              "market": "Correct Score",
-              "recommended_pick": "Draw 0-0",
-              "best_odds": 10.0,
-              "consensus_score": 0.333,
-              "price_edge_score": 1.0,
-              "source_count": 1,
-              "final_score": 0.38,
-              "sources": [
-                {
-                  "source_name": "FreeSuperTips",
-                  "source_url": "https://www.freesupertips.com/predictions/lincoln-red-imps-fc-vs-larne-predictions-betting-tips-match-previews/",
-                  "home_team": "Lincoln Red Imps FC",
-                  "away_team": "Larne",
-                  "market": "Correct Score",
-                  "pick": "Draw 0-0",
-                  "quoted_odds": 10.0,
-                  "confidence_text": "1",
-                  "reason_summary": "FreeSuperTips Correct Score for Lincoln Red Imps FC vs Larne (Europa Conference League, 2026-08-20T16:00:00+00:00).",
-                  "competition": "Europa Conference League",
-                  "kickoff": "2026-08-20T16:00:00+00:00"
-                }
-              ],
-              "explanation": "FreeSuperTips Correct Score for Lincoln Red Imps FC vs Larne (Europa Conference League, 2026-08-20T16:00:00+00:00)."
-            },
-            {
-              "match_id": "e85cbd45",
-              "home_team": "Lincoln Red Imps FC",
-              "away_team": "Larne",
-              "competition": "Europa Conference League",
-              "kickoff": "2026-08-20T16:00:00+00:00",
-              "market": "Total Goals",
-              "recommended_pick": "Under 1.5 Match Goals",
-              "best_odds": 3.4,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.789,
-              "source_count": 1,
-              "final_score": 0.244,
-              "sources": [
-                {
-                  "source_name": "FreeSuperTips",
-                  "source_url": "https://www.freesupertips.com/predictions/lincoln-red-imps-fc-vs-larne-predictions-betting-tips-match-previews/",
-                  "home_team": "Lincoln Red Imps FC",
-                  "away_team": "Larne",
-                  "market": "Total Goals",
-                  "pick": "Under 1.5 Match Goals",
-                  "quoted_odds": 3.4,
-                  "confidence_text": "2",
-                  "reason_summary": "FreeSuperTips Total Goals for Lincoln Red Imps FC vs Larne (Europa Conference League, 2026-08-20T16:00:00+00:00).",
-                  "competition": "Europa Conference League",
-                  "kickoff": "2026-08-20T16:00:00+00:00"
-                }
-              ],
-              "explanation": "FreeSuperTips Total Goals for Lincoln Red Imps FC vs Larne (Europa Conference League, 2026-08-20T16:00:00+00:00)."
-            },
-            {
-              "match_id": "b72a40a5",
-              "home_team": "Lincoln Red Imps FC",
-              "away_team": "Larne",
+              "match_id": "2fd76609",
+              "home_team": "Atalanta BC",
+              "away_team": "Hapoel Tel Aviv FC",
               "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T18:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.25,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.18,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623396&league_id=848",
-                  "home_team": "Lincoln Red Imps FC",
-                  "away_team": "Larne",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Lincoln Red Imps FC vs Larne: predicted score 1-0, tip 1X.",
-                  "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T18:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Lincoln Red Imps FC vs Larne: predicted score 1-0, tip 1X."
-            },
-            {
-              "match_id": "a1b90631",
-              "home_team": "Lincoln Red Imps FC",
-              "away_team": "Larne",
-              "competition": "UEFA Conference League Qualifying",
-              "kickoff": "2026-08-20T17:00:00+01:00",
+              "kickoff": "2026-08-20T20:30:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": null,
-              "consensus_score": 0.333,
+              "best_odds": 1.16,
+              "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.122,
-              "sources": [
-                {
-                  "source_name": "MyBetsToday",
-                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-lincoln-red-imps-fc-vs-larne-betting-tip-dii3i4856/",
-                  "home_team": "Lincoln Red Imps FC",
-                  "away_team": "Larne",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "MyBets Today tip for Lincoln Red Imps FC vs Larne: 1X2 1.",
-                  "competition": "UEFA Conference League Qualifying",
-                  "kickoff": "2026-08-20T17:00:00+01:00"
-                }
-              ],
-              "explanation": "MyBets Today tip for Lincoln Red Imps FC vs Larne: 1X2 1."
-            }
-          ]
-        },
-        {
-          "match_id": "2fad6554",
-          "home_team": "Tromso",
-          "away_team": "Brighton",
-          "competition": "Europa Conference League",
-          "kickoff": "2026-08-20T17:00:00+00:00",
-          "picks": [
-            {
-              "match_id": "cfd61714",
-              "home_team": "Tromso",
-              "away_team": "Brighton",
-              "competition": "Europa Conference League",
-              "kickoff": "2026-08-20T17:00:00+00:00",
-              "market": "Correct Score",
-              "recommended_pick": "Brighton 3-0",
-              "best_odds": 13.0,
-              "consensus_score": 0.333,
-              "price_edge_score": 1.0,
-              "source_count": 1,
-              "final_score": 0.38,
-              "sources": [
-                {
-                  "source_name": "FreeSuperTips",
-                  "source_url": "https://www.freesupertips.com/predictions/tromso-vs-brighton-predictions-betting-tips-match-previews/",
-                  "home_team": "Tromso",
-                  "away_team": "Brighton",
-                  "market": "Correct Score",
-                  "pick": "Brighton 3-0",
-                  "quoted_odds": 13.0,
-                  "confidence_text": "1",
-                  "reason_summary": "FreeSuperTips Correct Score for Tromso vs Brighton (Europa Conference League, 2026-08-20T17:00:00+00:00).",
-                  "competition": "Europa Conference League",
-                  "kickoff": "2026-08-20T17:00:00+00:00"
-                }
-              ],
-              "explanation": "FreeSuperTips Correct Score for Tromso vs Brighton (Europa Conference League, 2026-08-20T17:00:00+00:00)."
-            },
-            {
-              "match_id": "98421a85",
-              "home_team": "Tromso",
-              "away_team": "Brighton",
-              "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T19:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "2",
-              "best_odds": 1.59,
-              "consensus_score": 0.667,
-              "price_edge_score": 0.0,
-              "source_count": 2,
-              "final_score": 0.278,
+              "final_score": 0.49,
               "sources": [
                 {
                   "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623406&league_id=848",
-                  "home_team": "Tromso",
-                  "away_team": "Brighton",
-                  "market": "1X2",
-                  "pick": "2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Tromso vs Brighton: predicted score 0-1, tip 2.",
-                  "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T19:00:00+02:00"
-                },
-                {
-                  "source_name": "MyBetsToday",
-                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-tromso-vs-brighton-betting-tip-dii3i4858/",
-                  "home_team": "Tromso",
-                  "away_team": "Brighton",
-                  "market": "1X2",
-                  "pick": "2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "MyBets Today tip for Tromso vs Brighton: 1X2 2.",
-                  "competition": "UEFA Conference League Qualifying",
-                  "kickoff": "2026-08-20T18:00:00+01:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Tromso vs Brighton: predicted score 0-1, tip 2. | MyBets Today tip for Tromso vs Brighton: 1X2 2."
-            },
-            {
-              "match_id": "17984084",
-              "home_team": "Tromso",
-              "away_team": "Brighton",
-              "competition": "Europa Conference League",
-              "kickoff": "2026-08-20T17:00:00+00:00",
-              "market": "Handicap - 3 Way",
-              "recommended_pick": "Brighton -1",
-              "best_odds": 2.6,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.368,
-              "source_count": 1,
-              "final_score": 0.165,
-              "sources": [
-                {
-                  "source_name": "FreeSuperTips",
-                  "source_url": "https://www.freesupertips.com/predictions/tromso-vs-brighton-predictions-betting-tips-match-previews/",
-                  "home_team": "Tromso",
-                  "away_team": "Brighton",
-                  "market": "Handicap - 3 Way",
-                  "pick": "Brighton -1",
-                  "quoted_odds": 2.6,
-                  "confidence_text": "2",
-                  "reason_summary": "FreeSuperTips Handicap - 3 Way for Tromso vs Brighton (Europa Conference League, 2026-08-20T17:00:00+00:00).",
-                  "competition": "Europa Conference League",
-                  "kickoff": "2026-08-20T17:00:00+00:00"
-                }
-              ],
-              "explanation": "FreeSuperTips Handicap - 3 Way for Tromso vs Brighton (Europa Conference League, 2026-08-20T17:00:00+00:00)."
-            }
-          ]
-        },
-        {
-          "match_id": "415a29da",
-          "home_team": "Rangers",
-          "away_team": "FK Jablonec",
-          "competition": "Europa Conference League",
-          "kickoff": "2026-08-20T18:45:00+00:00",
-          "picks": [
-            {
-              "match_id": "ae2c8aca",
-              "home_team": "Rangers",
-              "away_team": "FK Jablonec",
-              "competition": "Europa Conference League",
-              "kickoff": "2026-08-20T18:45:00+00:00",
-              "market": "Correct Score",
-              "recommended_pick": "Rangers 3-1",
-              "best_odds": 13.0,
-              "consensus_score": 0.333,
-              "price_edge_score": 1.0,
-              "source_count": 1,
-              "final_score": 0.38,
-              "sources": [
-                {
-                  "source_name": "FreeSuperTips",
-                  "source_url": "https://www.freesupertips.com/predictions/rangers-vs-fk-jablonec-predictions-betting-tips-match-previews/",
-                  "home_team": "Rangers",
-                  "away_team": "FK Jablonec",
-                  "market": "Correct Score",
-                  "pick": "Rangers 3-1",
-                  "quoted_odds": 13.0,
-                  "confidence_text": "1",
-                  "reason_summary": "FreeSuperTips Correct Score for Rangers vs FK Jablonec (Europa Conference League, 2026-08-20T18:45:00+00:00).",
-                  "competition": "Europa Conference League",
-                  "kickoff": "2026-08-20T18:45:00+00:00"
-                }
-              ],
-              "explanation": "FreeSuperTips Correct Score for Rangers vs FK Jablonec (Europa Conference League, 2026-08-20T18:45:00+00:00)."
-            },
-            {
-              "match_id": "ff508d71",
-              "home_team": "Rangers",
-              "away_team": "FK Jablonec",
-              "competition": "World: UEFA Europa Conference League",
-              "kickoff": "2026-08-20T20:45:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.37,
-              "consensus_score": 0.667,
-              "price_edge_score": 0.0,
-              "source_count": 2,
-              "final_score": 0.268,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623403&league_id=848",
-                  "home_team": "Rangers",
-                  "away_team": "FK Jablonec",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1623111&league_id=848",
+                  "home_team": "Atalanta BC",
+                  "away_team": "Hapoel Tel Aviv FC",
                   "market": "1X2",
                   "pick": "1",
                   "quoted_odds": null,
                   "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Rangers vs FK Jablonec: predicted score 1-0, tip 1.",
+                  "reason_summary": "Vitibet statistical model for Atalanta BC vs Hapoel Tel Aviv FC: predicted score 2-0, tip 1.",
                   "competition": "World: UEFA Europa Conference League",
-                  "kickoff": "2026-08-20T20:45:00+02:00"
-                },
-                {
-                  "source_name": "MyBetsToday",
-                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-rangers-vs-fk-jablonec-betting-tip-dii3i4873/",
-                  "home_team": "Rangers",
-                  "away_team": "FK Jablonec",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "MyBets Today tip for Rangers vs FK Jablonec: 1X2 1.",
-                  "competition": "UEFA Conference League Qualifying",
-                  "kickoff": "2026-08-20T19:45:00+01:00"
+                  "kickoff": "2026-08-20T20:30:00+02:00"
                 }
               ],
-              "explanation": "Vitibet statistical model for Rangers vs FK Jablonec: predicted score 1-0, tip 1. | MyBets Today tip for Rangers vs FK Jablonec: 1X2 1."
-            },
-            {
-              "match_id": "816c735f",
-              "home_team": "Rangers",
-              "away_team": "FK Jablonec",
-              "competition": "Europa Conference League",
-              "kickoff": "2026-08-20T18:45:00+00:00",
-              "market": "Both Teams To Score And Win",
-              "recommended_pick": "Rangers and Both Teams To Score",
-              "best_odds": 3.5,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.842,
-              "source_count": 1,
-              "final_score": 0.256,
-              "sources": [
-                {
-                  "source_name": "FreeSuperTips",
-                  "source_url": "https://www.freesupertips.com/predictions/rangers-vs-fk-jablonec-predictions-betting-tips-match-previews/",
-                  "home_team": "Rangers",
-                  "away_team": "FK Jablonec",
-                  "market": "Both Teams To Score And Win",
-                  "pick": "Rangers and Both Teams To Score",
-                  "quoted_odds": 3.5,
-                  "confidence_text": "2",
-                  "reason_summary": "FreeSuperTips Both Teams To Score And Win for Rangers vs FK Jablonec (Europa Conference League, 2026-08-20T18:45:00+00:00).",
-                  "competition": "Europa Conference League",
-                  "kickoff": "2026-08-20T18:45:00+00:00"
-                }
-              ],
-              "explanation": "FreeSuperTips Both Teams To Score And Win for Rangers vs FK Jablonec (Europa Conference League, 2026-08-20T18:45:00+00:00)."
+              "explanation": "Vitibet statistical model for Atalanta BC vs Hapoel Tel Aviv FC: predicted score 2-0, tip 1."
             }
           ]
         },
@@ -3370,7 +3060,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -3409,7 +3099,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -3426,6 +3116,162 @@
                 }
               ],
               "explanation": "MyBets Today tip for FC Nordsjaelland vs St Gallen: 1X2 1."
+            }
+          ]
+        },
+        {
+          "match_id": "fe5d6b0f",
+          "home_team": "PAOK Salonika",
+          "away_team": "SK Brann",
+          "competition": "UEFA Conference League Qualifying",
+          "kickoff": "2026-08-20T18:45:00+01:00",
+          "picks": [
+            {
+              "match_id": "0915f96e",
+              "home_team": "PAOK Salonika",
+              "away_team": "SK Brann",
+              "competition": "UEFA Conference League Qualifying",
+              "kickoff": "2026-08-20T18:45:00+01:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.397,
+              "sources": [
+                {
+                  "source_name": "MyBetsToday",
+                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-paok-salonika-vs-sk-brann-betting-tip-dii3i486d/",
+                  "home_team": "PAOK Salonika",
+                  "away_team": "SK Brann",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "MyBets Today tip for PAOK Salonika vs SK Brann: 1X2 1.",
+                  "competition": "UEFA Conference League Qualifying",
+                  "kickoff": "2026-08-20T18:45:00+01:00"
+                }
+              ],
+              "explanation": "MyBets Today tip for PAOK Salonika vs SK Brann: 1X2 1."
+            }
+          ]
+        },
+        {
+          "match_id": "f7f5cbd2",
+          "home_team": "KF Drita",
+          "away_team": "Inter Club dEscaldes",
+          "competition": "UEFA Conference League Qualifying",
+          "kickoff": "2026-08-20T19:00:00+01:00",
+          "picks": [
+            {
+              "match_id": "3718050e",
+              "home_team": "KF Drita",
+              "away_team": "Inter Club dEscaldes",
+              "competition": "UEFA Conference League Qualifying",
+              "kickoff": "2026-08-20T19:00:00+01:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.397,
+              "sources": [
+                {
+                  "source_name": "MyBetsToday",
+                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-kf-drita-vs-inter-club-descaldes-betting-tip-dii3i4863/",
+                  "home_team": "KF Drita",
+                  "away_team": "Inter Club dEscaldes",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "MyBets Today tip for KF Drita vs Inter Club dEscaldes: 1X2 1.",
+                  "competition": "UEFA Conference League Qualifying",
+                  "kickoff": "2026-08-20T19:00:00+01:00"
+                }
+              ],
+              "explanation": "MyBets Today tip for KF Drita vs Inter Club dEscaldes: 1X2 1."
+            }
+          ]
+        },
+        {
+          "match_id": "f201b47a",
+          "home_team": "Hajduk Split",
+          "away_team": "Rakow Czestochowa",
+          "competition": "UEFA Conference League Qualifying",
+          "kickoff": "2026-08-20T20:00:00+01:00",
+          "picks": [
+            {
+              "match_id": "03c1a777",
+              "home_team": "Hajduk Split",
+              "away_team": "Rakow Czestochowa",
+              "competition": "UEFA Conference League Qualifying",
+              "kickoff": "2026-08-20T20:00:00+01:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.397,
+              "sources": [
+                {
+                  "source_name": "MyBetsToday",
+                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-hajduk-split-vs-rakow-czestochowa-betting-tip-dii3i4875/",
+                  "home_team": "Hajduk Split",
+                  "away_team": "Rakow Czestochowa",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "MyBets Today tip for Hajduk Split vs Rakow Czestochowa: 1X2 1.",
+                  "competition": "UEFA Conference League Qualifying",
+                  "kickoff": "2026-08-20T20:00:00+01:00"
+                }
+              ],
+              "explanation": "MyBets Today tip for Hajduk Split vs Rakow Czestochowa: 1X2 1."
+            }
+          ]
+        },
+        {
+          "match_id": "9474d795",
+          "home_team": "FC Dinamo City",
+          "away_team": "Pafos FC",
+          "competition": "UEFA Conference League Qualifying",
+          "kickoff": "2026-08-20T20:00:00+01:00",
+          "picks": [
+            {
+              "match_id": "55c4337f",
+              "home_team": "FC Dinamo City",
+              "away_team": "Pafos FC",
+              "competition": "UEFA Conference League Qualifying",
+              "kickoff": "2026-08-20T20:00:00+01:00",
+              "market": "1X2",
+              "recommended_pick": "2",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.397,
+              "sources": [
+                {
+                  "source_name": "MyBetsToday",
+                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-fc-dinamo-city-vs-pafos-fc-betting-tip-dii3i4876/",
+                  "home_team": "FC Dinamo City",
+                  "away_team": "Pafos FC",
+                  "market": "1X2",
+                  "pick": "2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "MyBets Today tip for FC Dinamo City vs Pafos FC: 1X2 2.",
+                  "competition": "UEFA Conference League Qualifying",
+                  "kickoff": "2026-08-20T20:00:00+01:00"
+                }
+              ],
+              "explanation": "MyBets Today tip for FC Dinamo City vs Pafos FC: 1X2 2."
             }
           ]
         }
@@ -3449,11 +3295,11 @@
             "kickoff": "2026-08-20T16:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.44,
+            "best_odds": 1.43,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.556,
+            "final_score": 0.544,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3488,11 +3334,11 @@
             "kickoff": "2026-08-20T17:30:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.29,
+            "best_odds": 1.37,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.526,
+            "final_score": 0.532,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3531,7 +3377,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.512,
+            "final_score": 0.502,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3570,7 +3416,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.43,
+            "final_score": 0.464,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -3609,7 +3455,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.43,
+            "final_score": 0.464,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -3634,21 +3480,21 @@
         "home_team": "FC Bunyodkor",
         "away_team": "Kokand 1912",
         "competition": "UZBEKISTAN - SUPERLIGA",
-        "kickoff": "2026-08-20T09:00:00",
+        "kickoff": "2026-08-20T10:00:00",
         "picks": [
           {
             "match_id": "6b216992",
             "home_team": "FC Bunyodkor",
             "away_team": "Kokand 1912",
             "competition": "UZBEKISTAN - SUPERLIGA",
-            "kickoff": "2026-08-20T09:00:00",
+            "kickoff": "2026-08-20T10:00:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.39,
+            "final_score": 0.411,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -3661,7 +3507,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for FC Bunyodkor vs Kokand 1912: Double Chance X2.",
                 "competition": "UZBEKISTAN - SUPERLIGA",
-                "kickoff": "2026-08-20T09:00:00"
+                "kickoff": "2026-08-20T10:00:00"
               }
             ],
             "explanation": "Statarea tip for FC Bunyodkor vs Kokand 1912: Double Chance X2."
@@ -3673,21 +3519,21 @@
         "home_team": "Al-Wakrah",
         "away_team": "Qatar SC",
         "competition": "QATAR - QATAR STARS LEAGUE",
-        "kickoff": "2026-08-20T09:15:00",
+        "kickoff": "2026-08-20T10:15:00",
         "picks": [
           {
             "match_id": "4a9f11c7",
             "home_team": "Al-Wakrah",
             "away_team": "Qatar SC",
             "competition": "QATAR - QATAR STARS LEAGUE",
-            "kickoff": "2026-08-20T09:15:00",
+            "kickoff": "2026-08-20T10:15:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.39,
+            "final_score": 0.411,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -3700,7 +3546,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Al-Wakrah vs Qatar SC: Double Chance 1X.",
                 "competition": "QATAR - QATAR STARS LEAGUE",
-                "kickoff": "2026-08-20T09:15:00"
+                "kickoff": "2026-08-20T10:15:00"
               }
             ],
             "explanation": "Statarea tip for Al-Wakrah vs Qatar SC: Double Chance 1X."
@@ -3726,7 +3572,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -3765,7 +3611,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -3804,7 +3650,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -3843,7 +3689,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -3882,7 +3728,7 @@
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.24,
+            "final_score": 0.233,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3912,7 +3758,7 @@
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.171,
+            "final_score": 0.191,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -3947,11 +3793,11 @@
             "kickoff": "2026-08-20T17:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.22,
+            "best_odds": 1.21,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.24,
+            "final_score": 0.233,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3981,7 +3827,7 @@
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.171,
+            "final_score": 0.191,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4023,7 +3869,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.512,
+              "final_score": 0.502,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -4062,7 +3908,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.43,
+              "final_score": 0.464,
               "sources": [
                 {
                   "source_name": "Adibet",
@@ -4101,7 +3947,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.37,
+              "final_score": 0.397,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -4145,7 +3991,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.512,
+            "final_score": 0.502,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4184,7 +4030,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.49,
+            "final_score": 0.48,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4223,7 +4069,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.468,
+            "final_score": 0.458,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4262,7 +4108,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.468,
+            "final_score": 0.458,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4287,21 +4133,21 @@
         "home_team": "Corinthians",
         "away_team": "Rosario Central",
         "competition": "INTERNATIONAL - COPA LIBERTADORES KNOCKOUT STAGE",
-        "kickoff": "2026-08-20T19:30:00",
+        "kickoff": "2026-08-20T20:30:00",
         "picks": [
           {
             "match_id": "e763cfd9",
             "home_team": "Corinthians",
             "away_team": "Rosario Central",
             "competition": "INTERNATIONAL - COPA LIBERTADORES KNOCKOUT STAGE",
-            "kickoff": "2026-08-20T19:30:00",
+            "kickoff": "2026-08-20T20:30:00",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.39,
+            "final_score": 0.411,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -4314,7 +4160,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Corinthians vs Rosario Central: 1X2 1.",
                 "competition": "INTERNATIONAL - COPA LIBERTADORES KNOCKOUT STAGE",
-                "kickoff": "2026-08-20T19:30:00"
+                "kickoff": "2026-08-20T20:30:00"
               }
             ],
             "explanation": "Statarea tip for Corinthians vs Rosario Central: 1X2 1."
@@ -4326,21 +4172,21 @@
         "home_team": "Botafogo",
         "away_team": "Cienciano",
         "competition": "INTERNATIONAL - COPA SUDAMERICANA KNOCKOUT STAGE",
-        "kickoff": "2026-08-20T19:30:00",
+        "kickoff": "2026-08-20T20:30:00",
         "picks": [
           {
             "match_id": "081907c9",
             "home_team": "Botafogo",
             "away_team": "Cienciano",
             "competition": "INTERNATIONAL - COPA SUDAMERICANA KNOCKOUT STAGE",
-            "kickoff": "2026-08-20T19:30:00",
+            "kickoff": "2026-08-20T20:30:00",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.39,
+            "final_score": 0.411,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -4353,7 +4199,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Botafogo vs Cienciano: 1X2 1.",
                 "competition": "INTERNATIONAL - COPA SUDAMERICANA KNOCKOUT STAGE",
-                "kickoff": "2026-08-20T19:30:00"
+                "kickoff": "2026-08-20T20:30:00"
               }
             ],
             "explanation": "Statarea tip for Botafogo vs Cienciano: 1X2 1."
@@ -4365,21 +4211,21 @@
         "home_team": "Tacuary",
         "away_team": "Libertad",
         "competition": "PARAGUAY - CUP",
-        "kickoff": "2026-08-20T14:30:00",
+        "kickoff": "2026-08-20T15:30:00",
         "picks": [
           {
             "match_id": "7f2dd8a4",
             "home_team": "Tacuary",
             "away_team": "Libertad",
             "competition": "PARAGUAY - CUP",
-            "kickoff": "2026-08-20T14:30:00",
+            "kickoff": "2026-08-20T15:30:00",
             "market": "1X2",
             "recommended_pick": "2",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.39,
+            "final_score": 0.411,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -4392,7 +4238,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Tacuary vs Libertad: 1X2 2.",
                 "competition": "PARAGUAY - CUP",
-                "kickoff": "2026-08-20T14:30:00"
+                "kickoff": "2026-08-20T15:30:00"
               }
             ],
             "explanation": "Statarea tip for Tacuary vs Libertad: 1X2 2."
@@ -4404,21 +4250,21 @@
         "home_team": "Venados FC",
         "away_team": "Dorados",
         "competition": "MEXICO - LIGA DE EXPANSION MX APERTURA",
-        "kickoff": "2026-08-20T18:00:00",
+        "kickoff": "2026-08-20T19:00:00",
         "picks": [
           {
             "match_id": "2f9ea922",
             "home_team": "Venados FC",
             "away_team": "Dorados",
             "competition": "MEXICO - LIGA DE EXPANSION MX APERTURA",
-            "kickoff": "2026-08-20T18:00:00",
+            "kickoff": "2026-08-20T19:00:00",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.39,
+            "final_score": 0.411,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -4431,7 +4277,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Venados FC vs Dorados: 1X2 1.",
                 "competition": "MEXICO - LIGA DE EXPANSION MX APERTURA",
-                "kickoff": "2026-08-20T18:00:00"
+                "kickoff": "2026-08-20T19:00:00"
               }
             ],
             "explanation": "Statarea tip for Venados FC vs Dorados: 1X2 1."
@@ -4443,21 +4289,21 @@
         "home_team": "Atletico Morelia",
         "away_team": "Correcaminos UAT",
         "competition": "MEXICO - LIGA DE EXPANSION MX APERTURA",
-        "kickoff": "2026-08-20T20:00:00",
+        "kickoff": "2026-08-20T21:00:00",
         "picks": [
           {
             "match_id": "dd82cd4e",
             "home_team": "Atletico Morelia",
             "away_team": "Correcaminos UAT",
             "competition": "MEXICO - LIGA DE EXPANSION MX APERTURA",
-            "kickoff": "2026-08-20T20:00:00",
+            "kickoff": "2026-08-20T21:00:00",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.39,
+            "final_score": 0.411,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -4470,7 +4316,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Atletico Morelia vs Correcaminos UAT: 1X2 1.",
                 "competition": "MEXICO - LIGA DE EXPANSION MX APERTURA",
-                "kickoff": "2026-08-20T20:00:00"
+                "kickoff": "2026-08-20T21:00:00"
               }
             ],
             "explanation": "Statarea tip for Atletico Morelia vs Correcaminos UAT: 1X2 1."
@@ -4496,7 +4342,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.38,
+            "final_score": 0.404,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4522,7 +4368,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for LDU Quito vs Mirassol: 1X2 1.",
                 "competition": "INTERNATIONAL - COPA LIBERTADORES KNOCKOUT STAGE",
-                "kickoff": "2026-08-20T17:00:00"
+                "kickoff": "2026-08-20T18:00:00"
               }
             ],
             "explanation": "MyBets Today tip for LDU Quito vs Mirassol: 1X2 1. | Statarea tip for LDU Quito vs Mirassol: 1X2 1."
@@ -4548,7 +4394,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4587,7 +4433,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4626,7 +4472,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4665,7 +4511,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4704,7 +4550,7 @@
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.24,
+            "final_score": 0.233,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4734,7 +4580,7 @@
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.171,
+            "final_score": 0.191,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4759,21 +4605,21 @@
         "home_team": "Macara",
         "away_team": "Santos",
         "competition": "INTERNATIONAL - COPA SUDAMERICANA KNOCKOUT STAGE",
-        "kickoff": "2026-08-20T17:00:00",
+        "kickoff": "2026-08-20T18:00:00",
         "picks": [
           {
             "match_id": "2ddb0d0b",
             "home_team": "Macara",
             "away_team": "Santos",
             "competition": "INTERNATIONAL - COPA SUDAMERICANA KNOCKOUT STAGE",
-            "kickoff": "2026-08-20T17:00:00",
+            "kickoff": "2026-08-20T18:00:00",
             "market": "1X2",
             "recommended_pick": "X",
             "best_odds": null,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.186,
+            "final_score": 0.2,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -4786,7 +4632,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Macara vs Santos: 1X2 X.",
                 "competition": "INTERNATIONAL - COPA SUDAMERICANA KNOCKOUT STAGE",
-                "kickoff": "2026-08-20T17:00:00"
+                "kickoff": "2026-08-20T18:00:00"
               }
             ],
             "explanation": "Statarea tip for Macara vs Santos: 1X2 X."
@@ -4803,7 +4649,7 @@
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.171,
+            "final_score": 0.191,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4843,11 +4689,11 @@
             "kickoff": "2026-08-20T15:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.25,
+            "best_odds": 1.26,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.518,
+            "final_score": 0.51,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4882,11 +4728,11 @@
             "kickoff": "2026-08-20T17:30:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.12,
+            "best_odds": 1.11,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.492,
+            "final_score": 0.48,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4925,7 +4771,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -4964,7 +4810,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -5003,7 +4849,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
@@ -5042,7 +4888,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.37,
+            "final_score": 0.397,
             "sources": [
               {
                 "source_name": "MyBetsToday",
