@@ -5859,7 +5859,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T17:45:00+02:00",
-    "best_odds": 1.73,
+    "best_odds": 1.67,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -5879,7 +5879,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T18:00:00+02:00",
-    "best_odds": 1.88,
+    "best_odds": 1.93,
     "source_count": 3,
     "consensus_score": 1.0,
     "sources": [
@@ -6254,7 +6254,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T20:00:00+01:00",
-    "best_odds": 3.85,
+    "best_odds": 3.65,
     "source_count": 1,
     "consensus_score": 0.5,
     "sources": [
@@ -6374,7 +6374,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T21:00:00+02:00",
-    "best_odds": 1.16,
+    "best_odds": 1.15,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -6718,7 +6718,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T20:30:00+02:00",
-    "best_odds": 1.14,
+    "best_odds": 1.16,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -7847,7 +7847,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T22:30:00+02:00",
-    "best_odds": 1.11,
+    "best_odds": 1.14,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -7887,7 +7887,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T21:00:00+02:00",
-    "best_odds": null,
+    "best_odds": 1.14,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -7907,7 +7907,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T22:30:00+02:00",
-    "best_odds": 1.22,
+    "best_odds": 1.33,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -7927,7 +7927,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-08-20T01:40:11.841863+00:00",
     "kickoff": "2026-08-20T23:10:00+02:00",
-    "best_odds": null,
+    "best_odds": 1.34,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -9036,6 +9036,107 @@
     "consensus_score": 1.0,
     "sources": [
       "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "jagiellonia|iberia 1999|1X2|1|2026-08-20",
+    "match_id": "788b560b",
+    "home_team": "Jagiellonia",
+    "away_team": "FC Iberia 1999",
+    "competition": "World: UEFA Europa League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-20T15:40:55.822869+00:00",
+    "kickoff": "2026-08-20T18:00:00+02:00",
+    "best_odds": 1.33,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bunyodkor tashkent|kokand-1912|Double Chance|1X|unknown-date",
+    "match_id": "425a6513",
+    "home_team": "Bunyodkor Tashkent",
+    "away_team": "Kokand-1912",
+    "competition": "Uzbekistan: Super League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-20T15:40:55.822869+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.43,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ghaz al shamal|al-kahrabaa|Double Chance|1X|unknown-date",
+    "match_id": "0b0b3ea3",
+    "home_team": "Ghaz Al Shamal",
+    "away_team": "Al-Kahrabaa",
+    "competition": "Iraq: Iraqi League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-20T15:40:55.822869+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.36,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "xorazm|lokomotiv|Double Chance|X2|unknown-date",
+    "match_id": "f5070ca9",
+    "home_team": "Xorazm",
+    "away_team": "Lokomotiv",
+    "competition": "Uzbekistan: Super League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-20T15:40:55.822869+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.24,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "young africans|coastal union|1X2|1|unknown-date",
+    "match_id": "d21c6685",
+    "home_team": "Young Africans",
+    "away_team": "Coastal Union",
+    "competition": "Tanzania: Ligi kuu Bara",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-20T15:40:55.822869+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.07,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
     ],
     "final_score": null,
     "outcome": "pending",
