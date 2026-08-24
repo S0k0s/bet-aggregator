@@ -68,11 +68,11 @@
             "kickoff": "2026-08-24T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 1.95,
+            "best_odds": 2.05,
             "consensus_score": 1.0,
-            "price_edge_score": 0.026,
+            "price_edge_score": 0.079,
             "source_count": 2,
-            "final_score": 0.632,
+            "final_score": 0.655,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -110,14 +110,14 @@
         "home_team": "KAMAZ",
         "away_team": "FC Sochi",
         "competition": "Russia: First League",
-        "kickoff": "2026-08-24T16:30:00+02:00",
+        "kickoff": "2026-08-24T15:30:00+01:00",
         "picks": [
           {
             "match_id": "1a6e6703",
             "home_team": "KAMAZ",
             "away_team": "FC Sochi",
             "competition": "Russia: First League",
-            "kickoff": "2026-08-24T16:30:00+02:00",
+            "kickoff": "2026-08-24T15:30:00+01:00",
             "market": "1X2",
             "recommended_pick": "2",
             "best_odds": 1.84,
@@ -137,7 +137,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for KAMAZ vs FC Sochi: predicted score 1-2, tip 2.",
                 "competition": "Russia: First League",
-                "kickoff": "2026-08-24T16:30:00+02:00"
+                "kickoff": null
               },
               {
                 "source_name": "MyBetsToday",
@@ -158,93 +158,54 @@
         ]
       },
       {
-        "match_id": "263c2202",
-        "home_team": "Torpedo-BelAZ Zhodino",
-        "away_team": "Dnepr Mogilev",
-        "competition": "Belarus: Premier League",
-        "kickoff": "2026-08-24T19:30:00+02:00",
+        "match_id": "c22e5d21",
+        "home_team": "FC Botoșani",
+        "away_team": "Csikszereda",
+        "competition": "Romania: Liga I",
+        "kickoff": "2026-08-24T16:30:00",
         "picks": [
           {
-            "match_id": "f20d7004",
-            "home_team": "Torpedo-BelAZ Zhodino",
-            "away_team": "Dnepr Mogilev",
-            "competition": "Belarus: Premier League",
-            "kickoff": "2026-08-24T19:30:00+02:00",
+            "match_id": "f3a19728",
+            "home_team": "FC Botoșani",
+            "away_team": "Csikszereda",
+            "competition": "Romania: Liga I",
+            "kickoff": "2026-08-24T16:30:00",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": 1.75,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 1,
+            "source_count": 2,
             "final_score": 0.597,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1525958&league_id=116",
-                "home_team": "Torpedo-BelAZ Zhodino",
-                "away_team": "Dnepr Mogilev",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1565225&league_id=283",
+                "home_team": "FC Botoșani",
+                "away_team": "Csikszereda",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Torpedo-BelAZ Zhodino vs Dnepr Mogilev: predicted score 1-0, tip 1.",
-                "competition": "Belarus: Premier League",
-                "kickoff": "2026-08-24T19:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Torpedo-BelAZ Zhodino vs Dnepr Mogilev: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "c9ceda68",
-        "home_team": "Tallinna Kalev",
-        "away_team": "Maardu",
-        "competition": "Estonia: Esiliiga A",
-        "kickoff": "2026-08-24T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "137c30a7",
-            "home_team": "Tallinna Kalev",
-            "away_team": "Maardu",
-            "competition": "Estonia: Esiliiga A",
-            "kickoff": "2026-08-24T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.8,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.595,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1519625&league_id=328",
-                "home_team": "Tallinna Kalev",
-                "away_team": "Maardu",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Tallinna Kalev vs Maardu: predicted score 2-1, tip 1.",
-                "competition": "Estonia: Esiliiga A",
-                "kickoff": "2026-08-24T18:00:00+02:00"
+                "reason_summary": "Vitibet statistical model for FC Botoșani vs Csikszereda: predicted score 1-0, tip 1.",
+                "competition": "Romania: Liga I",
+                "kickoff": null
               },
               {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-tallinna-kalev-vs-maardu-betting-tip-dii3i6i59/",
-                "home_team": "Tallinna Kalev",
-                "away_team": "Maardu",
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "FC Botosani",
+                "away_team": "Csikszereda",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Tallinna Kalev vs Maardu: 1X2 1.",
-                "competition": "Estonia Esiliiga A",
-                "kickoff": "2026-08-24T17:00:00+01:00"
+                "reason_summary": "Statarea tip for FC Botosani vs Csikszereda: 1X2 1.",
+                "competition": "ROMANIA - SUPERLIGA",
+                "kickoff": "2026-08-24T16:30:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Tallinna Kalev vs Maardu: predicted score 2-1, tip 1. | MyBets Today tip for Tallinna Kalev vs Maardu: 1X2 1."
+            "explanation": "Vitibet statistical model for FC Botoșani vs Csikszereda: predicted score 1-0, tip 1. | Statarea tip for FC Botosani vs Csikszereda: 1X2 1."
           }
         ]
       },
@@ -288,6 +249,45 @@
         ]
       },
       {
+        "match_id": "263c2202",
+        "home_team": "Torpedo-BelAZ Zhodino",
+        "away_team": "Dnepr Mogilev",
+        "competition": "Belarus: Premier League",
+        "kickoff": "2026-08-24T19:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "f20d7004",
+            "home_team": "Torpedo-BelAZ Zhodino",
+            "away_team": "Dnepr Mogilev",
+            "competition": "Belarus: Premier League",
+            "kickoff": "2026-08-24T19:30:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.67,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.581,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1525958&league_id=116",
+                "home_team": "Torpedo-BelAZ Zhodino",
+                "away_team": "Dnepr Mogilev",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Torpedo-BelAZ Zhodino vs Dnepr Mogilev: predicted score 1-0, tip 1.",
+                "competition": "Belarus: Premier League",
+                "kickoff": "2026-08-24T19:30:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Torpedo-BelAZ Zhodino vs Dnepr Mogilev: predicted score 1-0, tip 1."
+          }
+        ]
+      },
+      {
         "match_id": "da3eaa6b",
         "home_team": "GIL Vicente",
         "away_team": "Casa Pia AC",
@@ -302,11 +302,11 @@
             "kickoff": "2026-08-24T21:15:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.73,
+            "best_odds": 1.7,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.585,
+            "final_score": 0.579,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -345,7 +345,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Gil Vicente vs Casa Pia: 1X2 1.",
                 "competition": "PORTUGAL - LIGA PORTUGAL",
-                "kickoff": "2026-08-24T12:15:00"
+                "kickoff": "2026-08-24T20:15:00"
               }
             ],
             "explanation": "Vitibet statistical model for GIL Vicente vs Casa Pia AC: predicted score 2-0, tip 1. | MyBets Today tip for Gil Vicente vs Casa Pia: 1X2 1. | Statarea tip for Gil Vicente vs Casa Pia: 1X2 1."
@@ -423,7 +423,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Osasuna vs Levante: 1X2 1.",
                 "competition": "SPAIN - LALIGA",
-                "kickoff": "2026-08-24T10:30:00"
+                "kickoff": "2026-08-24T18:30:00"
               }
             ],
             "explanation": "FreeSuperTips Full Time Result for Osasuna vs Levante (Spanish La Liga, 2026-08-24T17:30:00+00:00). | Vitibet statistical model for Osasuna vs Levante: predicted score 2-1, tip 1. | MyBets Today tip for Osasuna vs Levante: 1X2 1."
@@ -461,21 +461,60 @@
         ]
       },
       {
-        "match_id": "c22e5d21",
-        "home_team": "FC Botoșani",
-        "away_team": "Csikszereda",
-        "competition": "Romania: Liga I",
-        "kickoff": "2026-08-24T17:30:00+02:00",
+        "match_id": "4d872dcf",
+        "home_team": "Jong Utrecht",
+        "away_team": "Heracles",
+        "competition": "Netherlands: Eerste Divisie",
+        "kickoff": "2026-08-24T20:00:00+02:00",
         "picks": [
           {
-            "match_id": "f3a19728",
-            "home_team": "FC Botoșani",
-            "away_team": "Csikszereda",
-            "competition": "Romania: Liga I",
-            "kickoff": "2026-08-24T17:30:00+02:00",
+            "match_id": "2e2298c0",
+            "home_team": "Jong Utrecht",
+            "away_team": "Heracles",
+            "competition": "Netherlands: Eerste Divisie",
+            "kickoff": "2026-08-24T20:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.65,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.577,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551766&league_id=89",
+                "home_team": "Jong Utrecht",
+                "away_team": "Heracles",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Jong Utrecht vs Heracles: predicted score 0-2, tip 2.",
+                "competition": "Netherlands: Eerste Divisie",
+                "kickoff": "2026-08-24T20:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Jong Utrecht vs Heracles: predicted score 0-2, tip 2."
+          }
+        ]
+      },
+      {
+        "match_id": "c9ceda68",
+        "home_team": "Tallinna Kalev",
+        "away_team": "Maardu",
+        "competition": "Estonia: Esiliiga A",
+        "kickoff": "2026-08-24T18:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "137c30a7",
+            "home_team": "Tallinna Kalev",
+            "away_team": "Maardu",
+            "competition": "Estonia: Esiliiga A",
+            "kickoff": "2026-08-24T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.62,
+            "best_odds": 1.68,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
@@ -483,84 +522,32 @@
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1565225&league_id=283",
-                "home_team": "FC Botoșani",
-                "away_team": "Csikszereda",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1519625&league_id=328",
+                "home_team": "Tallinna Kalev",
+                "away_team": "Maardu",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for FC Botoșani vs Csikszereda: predicted score 1-0, tip 1.",
-                "competition": "Romania: Liga I",
-                "kickoff": "2026-08-24T17:30:00+02:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "FC Botosani",
-                "away_team": "Csikszereda",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for FC Botosani vs Csikszereda: 1X2 1.",
-                "competition": "ROMANIA - SUPERLIGA",
-                "kickoff": "2026-08-24T08:30:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for FC Botoșani vs Csikszereda: predicted score 1-0, tip 1. | Statarea tip for FC Botosani vs Csikszereda: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "5010615c",
-        "home_team": "Vardar Skopje",
-        "away_team": "Sileks",
-        "competition": "Macedonia: First League",
-        "kickoff": "2026-08-24T17:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "3643a6e5",
-            "home_team": "Vardar Skopje",
-            "away_team": "Sileks",
-            "competition": "Macedonia: First League",
-            "kickoff": "2026-08-24T17:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.65,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.565,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551444&league_id=371",
-                "home_team": "Vardar Skopje",
-                "away_team": "Sileks",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Vardar Skopje vs Sileks: predicted score 1-0, tip 1.",
-                "competition": "Macedonia: First League",
-                "kickoff": "2026-08-24T17:00:00+02:00"
+                "reason_summary": "Vitibet statistical model for Tallinna Kalev vs Maardu: predicted score 2-1, tip 1.",
+                "competition": "Estonia: Esiliiga A",
+                "kickoff": "2026-08-24T18:00:00+02:00"
               },
               {
                 "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-vardar-skopje-vs-sileks-betting-tip-dii3i586i/",
-                "home_team": "Vardar Skopje",
-                "away_team": "Sileks",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-tallinna-kalev-vs-maardu-betting-tip-dii3i6i59/",
+                "home_team": "Tallinna Kalev",
+                "away_team": "Maardu",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Vardar Skopje vs Sileks: 1X2 1.",
-                "competition": "Macedonia First League",
-                "kickoff": "2026-08-24T16:00:00+01:00"
+                "reason_summary": "MyBets Today tip for Tallinna Kalev vs Maardu: 1X2 1.",
+                "competition": "Estonia Esiliiga A",
+                "kickoff": "2026-08-24T17:00:00+01:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Vardar Skopje vs Sileks: predicted score 1-0, tip 1. | MyBets Today tip for Vardar Skopje vs Sileks: 1X2 1."
+            "explanation": "Vitibet statistical model for Tallinna Kalev vs Maardu: predicted score 2-1, tip 1. | MyBets Today tip for Tallinna Kalev vs Maardu: 1X2 1."
           }
         ]
       },
@@ -613,45 +600,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Hässleholms IF vs Laholm: predicted score 2-0, tip 1. | MyBets Today tip for Hässleholms IF vs Laholm: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "4d872dcf",
-        "home_team": "Jong Utrecht",
-        "away_team": "Heracles",
-        "competition": "Netherlands: Eerste Divisie",
-        "kickoff": "2026-08-24T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "2e2298c0",
-            "home_team": "Jong Utrecht",
-            "away_team": "Heracles",
-            "competition": "Netherlands: Eerste Divisie",
-            "kickoff": "2026-08-24T20:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.561,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551766&league_id=89",
-                "home_team": "Jong Utrecht",
-                "away_team": "Heracles",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Jong Utrecht vs Heracles: predicted score 0-2, tip 2.",
-                "competition": "Netherlands: Eerste Divisie",
-                "kickoff": "2026-08-24T20:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Jong Utrecht vs Heracles: predicted score 0-2, tip 2."
           }
         ]
       },
@@ -790,14 +738,14 @@
         "home_team": "Rotor Volgograd",
         "away_team": "FK Neftekhimik",
         "competition": "Russia: First League",
-        "kickoff": "2026-08-24T17:30:00+02:00",
+        "kickoff": "2026-08-24T16:30:00+01:00",
         "picks": [
           {
             "match_id": "01f49d45",
             "home_team": "Rotor Volgograd",
             "away_team": "FK Neftekhimik",
             "competition": "Russia: First League",
-            "kickoff": "2026-08-24T17:30:00+02:00",
+            "kickoff": "2026-08-24T16:30:00+01:00",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": 1.56,
@@ -817,7 +765,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Rotor Volgograd vs FK Neftekhimik: predicted score 2-0, tip 1.",
                 "competition": "Russia: First League",
-                "kickoff": "2026-08-24T17:30:00+02:00"
+                "kickoff": null
               },
               {
                 "source_name": "MyBetsToday",
@@ -843,62 +791,10 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Rotor Volgograd vs FK Neftekhimik: 1X2 1.",
                 "competition": "RUSSIA - FIRST LEAGUE",
-                "kickoff": "2026-08-24T08:30:00"
+                "kickoff": "2026-08-24T16:30:00"
               }
             ],
             "explanation": "Vitibet statistical model for Rotor Volgograd vs FK Neftekhimik: predicted score 2-0, tip 1. | MyBets Today tip for Rotor Volgograd vs FK Neftekhimik: 1X2 1. | Statarea tip for Rotor Volgograd vs FK Neftekhimik: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "9621f407",
-        "home_team": "IFK Norrkoping",
-        "away_team": "Falkenbergs FF",
-        "competition": "Sweden: Superettan",
-        "kickoff": "2026-08-24T19:05:00+02:00",
-        "picks": [
-          {
-            "match_id": "047654d4",
-            "home_team": "IFK Norrkoping",
-            "away_team": "Falkenbergs FF",
-            "competition": "Sweden: Superettan",
-            "kickoff": "2026-08-24T19:05:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.549,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1497667&league_id=114",
-                "home_team": "IFK Norrkoping",
-                "away_team": "Falkenbergs FF",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for IFK Norrkoping vs Falkenbergs FF: predicted score 2-0, tip 1.",
-                "competition": "Sweden: Superettan",
-                "kickoff": "2026-08-24T19:05:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-ifk-norrkoping-vs-falkenbergs-ff-betting-tip-dii3i5493/",
-                "home_team": "IFK Norrkoping",
-                "away_team": "Falkenbergs FF",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for IFK Norrkoping vs Falkenbergs FF: 1X2 1.",
-                "competition": "Sweden Superettan",
-                "kickoff": "2026-08-24T18:05:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for IFK Norrkoping vs Falkenbergs FF: predicted score 2-0, tip 1. | MyBets Today tip for IFK Norrkoping vs Falkenbergs FF: 1X2 1."
           }
         ]
       },
@@ -955,41 +851,106 @@
         ]
       },
       {
-        "match_id": "9eec8c2a",
-        "home_team": "Malmö FF",
-        "away_team": "Djurgårdens IF",
-        "competition": "Sweden: Allsvenskan",
-        "kickoff": "2026-08-24T19:00:00+02:00",
+        "match_id": "9621f407",
+        "home_team": "IFK Norrkoping",
+        "away_team": "Falkenbergs FF",
+        "competition": "Sweden: Superettan",
+        "kickoff": "2026-08-24T19:05:00+02:00",
         "picks": [
           {
-            "match_id": "63b6b3e0",
-            "home_team": "Malmö FF",
-            "away_team": "Djurgårdens IF",
-            "competition": "Sweden: Allsvenskan",
-            "kickoff": "2026-08-24T19:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.48,
+            "match_id": "047654d4",
+            "home_team": "IFK Norrkoping",
+            "away_team": "Falkenbergs FF",
+            "competition": "Sweden: Superettan",
+            "kickoff": "2026-08-24T19:05:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.55,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.543,
+            "source_count": 2,
+            "final_score": 0.545,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1494253&league_id=113",
-                "home_team": "Malmö FF",
-                "away_team": "Djurgårdens IF",
-                "market": "Double Chance",
-                "pick": "1X",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1497667&league_id=114",
+                "home_team": "IFK Norrkoping",
+                "away_team": "Falkenbergs FF",
+                "market": "1X2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Malmö FF vs Djurgårdens IF: predicted score 1-1, tip 1X.",
-                "competition": "Sweden: Allsvenskan",
-                "kickoff": "2026-08-24T19:00:00+02:00"
+                "reason_summary": "Vitibet statistical model for IFK Norrkoping vs Falkenbergs FF: predicted score 2-0, tip 1.",
+                "competition": "Sweden: Superettan",
+                "kickoff": "2026-08-24T19:05:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-ifk-norrkoping-vs-falkenbergs-ff-betting-tip-dii3i5493/",
+                "home_team": "IFK Norrkoping",
+                "away_team": "Falkenbergs FF",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for IFK Norrkoping vs Falkenbergs FF: 1X2 1.",
+                "competition": "Sweden Superettan",
+                "kickoff": "2026-08-24T18:05:00+01:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Malmö FF vs Djurgårdens IF: predicted score 1-1, tip 1X."
+            "explanation": "Vitibet statistical model for IFK Norrkoping vs Falkenbergs FF: predicted score 2-0, tip 1. | MyBets Today tip for IFK Norrkoping vs Falkenbergs FF: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "5010615c",
+        "home_team": "Vardar Skopje",
+        "away_team": "Sileks",
+        "competition": "Macedonia: First League",
+        "kickoff": "2026-08-24T16:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "3643a6e5",
+            "home_team": "Vardar Skopje",
+            "away_team": "Sileks",
+            "competition": "Macedonia: First League",
+            "kickoff": "2026-08-24T16:00:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.53,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.541,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551444&league_id=371",
+                "home_team": "Vardar Skopje",
+                "away_team": "Sileks",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Vardar Skopje vs Sileks: predicted score 1-0, tip 1.",
+                "competition": "Macedonia: First League",
+                "kickoff": null
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-vardar-skopje-vs-sileks-betting-tip-dii3i586i/",
+                "home_team": "Vardar Skopje",
+                "away_team": "Sileks",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Vardar Skopje vs Sileks: 1X2 1.",
+                "competition": "Macedonia First League",
+                "kickoff": "2026-08-24T16:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Vardar Skopje vs Sileks: predicted score 1-0, tip 1. | MyBets Today tip for Vardar Skopje vs Sileks: 1X2 1."
           }
         ]
       },
@@ -1008,11 +969,11 @@
             "kickoff": "2026-08-24T19:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.46,
+            "best_odds": 1.47,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.539,
+            "final_score": 0.541,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1038,16 +999,94 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for IFK Varnamo vs Landskrona BoIS: Double Chance X2.",
                 "competition": "SWEDEN - SUPERETTAN",
-                "kickoff": "2026-08-24T10:00:00"
+                "kickoff": "2026-08-24T18:00:00"
               }
             ],
             "explanation": "Vitibet statistical model for IFK Varnamo vs Landskrona BoIS: predicted score 1-1, tip X2. | Statarea tip for IFK Varnamo vs Landskrona BoIS: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "9eec8c2a",
+        "home_team": "Malmö FF",
+        "away_team": "Djurgårdens IF",
+        "competition": "Sweden: Allsvenskan",
+        "kickoff": "2026-08-24T19:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "63b6b3e0",
+            "home_team": "Malmö FF",
+            "away_team": "Djurgårdens IF",
+            "competition": "Sweden: Allsvenskan",
+            "kickoff": "2026-08-24T19:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.45,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.537,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1494253&league_id=113",
+                "home_team": "Malmö FF",
+                "away_team": "Djurgårdens IF",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Malmö FF vs Djurgårdens IF: predicted score 1-1, tip 1X.",
+                "competition": "Sweden: Allsvenskan",
+                "kickoff": "2026-08-24T19:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Malmö FF vs Djurgårdens IF: predicted score 1-1, tip 1X."
           }
         ]
       }
     ],
     "leagues": {
       "Premier League": [
+        {
+          "match_id": "485d1043",
+          "home_team": "Sunderland U21",
+          "away_team": "Nottingham Forest U21",
+          "competition": "England: Premier League 2 Division One",
+          "kickoff": "2026-08-24T20:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "0b86ee72",
+              "home_team": "Sunderland U21",
+              "away_team": "Nottingham Forest U21",
+              "competition": "England: Premier League 2 Division One",
+              "kickoff": "2026-08-24T20:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": 1.44,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.535,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1620998&league_id=702",
+                  "home_team": "Sunderland U21",
+                  "away_team": "Nottingham Forest U21",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Sunderland U21 vs Nottingham Forest U21: predicted score 1-1, tip X2.",
+                  "competition": "England: Premier League 2 Division One",
+                  "kickoff": "2026-08-24T20:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Sunderland U21 vs Nottingham Forest U21: predicted score 1-1, tip X2."
+            }
+          ]
+        },
         {
           "match_id": "dfb88763",
           "home_team": "Fulham",
@@ -1119,7 +1158,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Fulham vs Chelsea: 1X2 2.",
                   "competition": "ENGLAND - PREMIER LEAGUE",
-                  "kickoff": "2026-08-24T12:00:00"
+                  "kickoff": "2026-08-24T20:00:00"
                 }
               ],
               "explanation": "FreeSuperTips Full Time Result for Fulham vs Chelsea (England Premier League, 2026-08-24T19:00:00+00:00). | Vitibet statistical model for Fulham vs Chelsea: predicted score 1-2, tip 2. | MyBets Today tip for Fulham vs Chelsea: 1X2 2."
@@ -1155,36 +1194,6 @@
               "explanation": "FreeSuperTips Correct Score for Fulham vs Chelsea (England Premier League, 2026-08-24T19:00:00+00:00)."
             },
             {
-              "match_id": "a4f8e9ef",
-              "home_team": "Fulham",
-              "away_team": "Chelsea",
-              "competition": "England",
-              "kickoff": "2026-08-24T12:00:00+00:00",
-              "market": "BTTS",
-              "recommended_pick": "Yes",
-              "best_odds": null,
-              "consensus_score": 0.2,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.15,
-              "sources": [
-                {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Fulham",
-                  "away_team": "Chelsea",
-                  "market": "BTTS",
-                  "pick": "Yes",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Adibet tip for Fulham vs Chelsea: BTTS Yes.",
-                  "competition": "England",
-                  "kickoff": "2026-08-24T12:00:00+00:00"
-                }
-              ],
-              "explanation": "Adibet tip for Fulham vs Chelsea: BTTS Yes."
-            },
-            {
               "match_id": "8159a87f",
               "home_team": "Fulham",
               "away_team": "Chelsea",
@@ -1217,41 +1226,41 @@
           ]
         },
         {
-          "match_id": "485d1043",
-          "home_team": "Sunderland U21",
-          "away_team": "Nottingham Forest U21",
+          "match_id": "586303ce",
+          "home_team": "Newcastle United U21",
+          "away_team": "Tottenham Hotspur U21",
           "competition": "England: Premier League 2 Division One",
           "kickoff": "2026-08-24T20:00:00+02:00",
           "picks": [
             {
-              "match_id": "0b86ee72",
-              "home_team": "Sunderland U21",
-              "away_team": "Nottingham Forest U21",
+              "match_id": "15df1b45",
+              "home_team": "Newcastle United U21",
+              "away_team": "Tottenham Hotspur U21",
               "competition": "England: Premier League 2 Division One",
               "kickoff": "2026-08-24T20:00:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "X2",
-              "best_odds": 1.43,
+              "best_odds": 1.33,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.533,
+              "final_score": 0.513,
               "sources": [
                 {
                   "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1620998&league_id=702",
-                  "home_team": "Sunderland U21",
-                  "away_team": "Nottingham Forest U21",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1620996&league_id=702",
+                  "home_team": "Newcastle United U21",
+                  "away_team": "Tottenham Hotspur U21",
                   "market": "Double Chance",
                   "pick": "X2",
                   "quoted_odds": null,
                   "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Sunderland U21 vs Nottingham Forest U21: predicted score 1-1, tip X2.",
+                  "reason_summary": "Vitibet statistical model for Newcastle United U21 vs Tottenham Hotspur U21: predicted score 1-1, tip X2.",
                   "competition": "England: Premier League 2 Division One",
                   "kickoff": "2026-08-24T20:00:00+02:00"
                 }
               ],
-              "explanation": "Vitibet statistical model for Sunderland U21 vs Nottingham Forest U21: predicted score 1-1, tip X2."
+              "explanation": "Vitibet statistical model for Newcastle United U21 vs Tottenham Hotspur U21: predicted score 1-1, tip X2."
             }
           ]
         },
@@ -1270,11 +1279,11 @@
               "kickoff": "2026-08-24T20:00:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "1X",
-              "best_odds": 1.35,
+              "best_odds": 1.24,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.517,
+              "final_score": 0.495,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1291,45 +1300,6 @@
                 }
               ],
               "explanation": "Vitibet statistical model for Reading U21 vs Derby County U21: predicted score 1-1, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "586303ce",
-          "home_team": "Newcastle United U21",
-          "away_team": "Tottenham Hotspur U21",
-          "competition": "England: Premier League 2 Division One",
-          "kickoff": "2026-08-24T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "15df1b45",
-              "home_team": "Newcastle United U21",
-              "away_team": "Tottenham Hotspur U21",
-              "competition": "England: Premier League 2 Division One",
-              "kickoff": "2026-08-24T20:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 1.28,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.503,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1620996&league_id=702",
-                  "home_team": "Newcastle United U21",
-                  "away_team": "Tottenham Hotspur U21",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Newcastle United U21 vs Tottenham Hotspur U21: predicted score 1-1, tip X2.",
-                  "competition": "England: Premier League 2 Division One",
-                  "kickoff": "2026-08-24T20:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Newcastle United U21 vs Tottenham Hotspur U21: predicted score 1-1, tip X2."
             }
           ]
         },
@@ -1445,7 +1415,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Osasuna vs Levante: 1X2 1.",
                   "competition": "SPAIN - LALIGA",
-                  "kickoff": "2026-08-24T10:30:00"
+                  "kickoff": "2026-08-24T18:30:00"
                 }
               ],
               "explanation": "FreeSuperTips Full Time Result for Osasuna vs Levante (Spanish La Liga, 2026-08-24T17:30:00+00:00). | Vitibet statistical model for Osasuna vs Levante: predicted score 2-1, tip 1. | MyBets Today tip for Osasuna vs Levante: 1X2 1."
@@ -1557,7 +1527,7 @@
               "kickoff": "2026-08-24T21:30:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "1X",
-              "best_odds": 1.33,
+              "best_odds": 1.31,
               "consensus_score": 0.5,
               "price_edge_score": 0.0,
               "source_count": 1,
@@ -1676,11 +1646,11 @@
               "kickoff": "2026-08-24T18:30:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "1X",
-              "best_odds": 1.29,
+              "best_odds": 1.3,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.505,
+              "final_score": 0.507,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1717,11 +1687,11 @@
               "kickoff": "2026-08-24T21:15:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.73,
+              "best_odds": 1.7,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.585,
+              "final_score": 0.579,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1760,7 +1730,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Gil Vicente vs Casa Pia: 1X2 1.",
                   "competition": "PORTUGAL - LIGA PORTUGAL",
-                  "kickoff": "2026-08-24T12:15:00"
+                  "kickoff": "2026-08-24T20:15:00"
                 }
               ],
               "explanation": "Vitibet statistical model for GIL Vicente vs Casa Pia AC: predicted score 2-0, tip 1. | MyBets Today tip for Gil Vicente vs Casa Pia: 1X2 1. | Statarea tip for Gil Vicente vs Casa Pia: 1X2 1."
@@ -1813,14 +1783,14 @@
           "home_team": "Kocaelispor",
           "away_team": "Amedspor",
           "competition": "TURKEY - SUPER LIG",
-          "kickoff": "2026-08-24T11:30:00",
+          "kickoff": "2026-08-24T19:30:00",
           "picks": [
             {
               "match_id": "73129155",
               "home_team": "Kocaelispor",
               "away_team": "Amedspor",
               "competition": "TURKEY - SUPER LIG",
-              "kickoff": "2026-08-24T11:30:00",
+              "kickoff": "2026-08-24T19:30:00",
               "market": "Double Chance",
               "recommended_pick": "X2",
               "best_odds": null,
@@ -1840,7 +1810,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Kocaelispor vs Amedspor: Double Chance X2.",
                   "competition": "TURKEY - SUPER LIG",
-                  "kickoff": "2026-08-24T11:30:00"
+                  "kickoff": "2026-08-24T19:30:00"
                 }
               ],
               "explanation": "Statarea tip for Kocaelispor vs Amedspor: Double Chance X2."
@@ -2052,6 +2022,45 @@
   "Asia": {
     "all": [
       {
+        "match_id": "1008ed5e",
+        "home_team": "Al-Ittihad",
+        "away_team": "Al-Hazm",
+        "competition": "Saudi Arabia: Pro League",
+        "kickoff": "2026-08-24T20:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "198bb0f5",
+            "home_team": "Al-Ittihad",
+            "away_team": "Al-Hazm",
+            "competition": "Saudi Arabia: Pro League",
+            "kickoff": "2026-08-24T20:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.57,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.561,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602991&league_id=307",
+                "home_team": "Al-Ittihad",
+                "away_team": "Al-Hazm",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1.",
+                "competition": "Saudi Arabia: Pro League",
+                "kickoff": "2026-08-24T20:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1."
+          }
+        ]
+      },
+      {
         "match_id": "1a458f74",
         "home_team": "Malavan",
         "away_team": "Fajr Sepasi",
@@ -2066,11 +2075,11 @@
             "kickoff": "2026-08-24T18:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.29,
+            "best_odds": 1.28,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.505,
+            "final_score": 0.503,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -2130,110 +2139,80 @@
         ]
       },
       {
-        "match_id": "614fcd85",
-        "home_team": "Neom SC",
-        "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-        "competition": "Saudi Arabia",
-        "kickoff": "2026-08-24T12:00:00+00:00",
+        "match_id": "5e56cb09",
+        "home_team": "Bishkek City",
+        "away_team": "Alga",
+        "competition": "Kyrgyzstan: Premier League",
+        "kickoff": "TBD",
         "picks": [
           {
-            "match_id": "d4857ff8",
-            "home_team": "Neom SC",
-            "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-            "competition": "Saudi Arabia",
-            "kickoff": "2026-08-24T12:00:00+00:00",
-            "market": "BTTS",
-            "recommended_pick": "Yes",
-            "best_odds": null,
+            "match_id": "3202aeda",
+            "home_team": "Bishkek City",
+            "away_team": "Alga",
+            "competition": "Kyrgyzstan: Premier League",
+            "kickoff": "TBD",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.18,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.488,
+            "final_score": 0.483,
             "sources": [
               {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Neom SC",
-                "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-                "market": "BTTS",
-                "pick": "Yes",
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1632326&league_id=569",
+                "home_team": "Bishkek City",
+                "away_team": "Alga",
+                "market": "Double Chance",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: BTTS Yes.",
-                "competition": "Saudi Arabia",
-                "kickoff": "2026-08-24T12:00:00+00:00"
+                "reason_summary": "Vitibet statistical model for Bishkek City vs Alga: predicted score 1-1, tip X2.",
+                "competition": "Kyrgyzstan: Premier League",
+                "kickoff": null
               }
             ],
-            "explanation": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: BTTS Yes."
-          },
-          {
-            "match_id": "99988eb9",
-            "home_team": "Neom SC",
-            "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-            "competition": "Saudi Arabia",
-            "kickoff": "2026-08-24T12:00:00+00:00",
-            "market": "Total Goals",
-            "recommended_pick": "Over 2.5",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.488,
-            "sources": [
-              {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Neom SC",
-                "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-                "market": "Total Goals",
-                "pick": "Over 2.5",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: Total Goals Over 2.5.",
-                "competition": "Saudi Arabia",
-                "kickoff": "2026-08-24T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: Total Goals Over 2.5."
+            "explanation": "Vitibet statistical model for Bishkek City vs Alga: predicted score 1-1, tip X2."
           }
         ]
       },
       {
-        "match_id": "ffb0bf6d",
-        "home_team": "Al Ittihad",
-        "away_team": "Al \n\t\t\t\t\t\t\t\tHazem",
-        "competition": "Saudi Arabia",
-        "kickoff": "2026-08-24T12:00:00+00:00",
+        "match_id": "3148d989",
+        "home_team": "NEOM",
+        "away_team": "Al-Qadisiyah FC",
+        "competition": "Saudi Arabia: Pro League",
+        "kickoff": "2026-08-24T18:40:00+02:00",
         "picks": [
           {
-            "match_id": "1edf6d82",
-            "home_team": "Al Ittihad",
-            "away_team": "Al \n\t\t\t\t\t\t\t\tHazem",
-            "competition": "Saudi Arabia",
-            "kickoff": "2026-08-24T12:00:00+00:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
+            "match_id": "a39dc30d",
+            "home_team": "NEOM",
+            "away_team": "Al-Qadisiyah FC",
+            "competition": "Saudi Arabia: Pro League",
+            "kickoff": "2026-08-24T18:40:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.16,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.488,
+            "final_score": 0.479,
             "sources": [
               {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Al Ittihad",
-                "away_team": "Al \n\t\t\t\t\t\t\t\tHazem",
-                "market": "1X2",
-                "pick": "1",
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602990&league_id=307",
+                "home_team": "NEOM",
+                "away_team": "Al-Qadisiyah FC",
+                "market": "Double Chance",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Adibet tip for Al Ittihad vs Al \n\t\t\t\t\t\t\t\tHazem: 1X2 1.",
-                "competition": "Saudi Arabia",
-                "kickoff": "2026-08-24T12:00:00+00:00"
+                "reason_summary": "Vitibet statistical model for NEOM vs Al-Qadisiyah FC: predicted score 0-1, tip X2.",
+                "competition": "Saudi Arabia: Pro League",
+                "kickoff": "2026-08-24T18:40:00+02:00"
               }
             ],
-            "explanation": "Adibet tip for Al Ittihad vs Al \n\t\t\t\t\t\t\t\tHazem: 1X2 1."
+            "explanation": "Vitibet statistical model for NEOM vs Al-Qadisiyah FC: predicted score 0-1, tip X2."
           }
         ]
       },
@@ -2277,119 +2256,41 @@
         ]
       },
       {
-        "match_id": "3148d989",
-        "home_team": "NEOM",
-        "away_team": "Al-Qadisiyah FC",
-        "competition": "Saudi Arabia: Pro League",
-        "kickoff": "2026-08-24T18:40:00+02:00",
+        "match_id": "449f0900",
+        "home_team": "Kokand 1912",
+        "away_team": "FK Buxoro",
+        "competition": "UZBEKISTAN - SUPERLIGA",
+        "kickoff": "2026-08-24T15:00:00",
         "picks": [
           {
-            "match_id": "a39dc30d",
-            "home_team": "NEOM",
-            "away_team": "Al-Qadisiyah FC",
-            "competition": "Saudi Arabia: Pro League",
-            "kickoff": "2026-08-24T18:40:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.14,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.475,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602990&league_id=307",
-                "home_team": "NEOM",
-                "away_team": "Al-Qadisiyah FC",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for NEOM vs Al-Qadisiyah FC: predicted score 0-1, tip X2.",
-                "competition": "Saudi Arabia: Pro League",
-                "kickoff": "2026-08-24T18:40:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for NEOM vs Al-Qadisiyah FC: predicted score 0-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "1008ed5e",
-        "home_team": "Al-Ittihad",
-        "away_team": "Al-Hazm",
-        "competition": "Saudi Arabia: Pro League",
-        "kickoff": "2026-08-24T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "198bb0f5",
-            "home_team": "Al-Ittihad",
-            "away_team": "Al-Hazm",
-            "competition": "Saudi Arabia: Pro League",
-            "kickoff": "2026-08-24T20:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.447,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602991&league_id=307",
-                "home_team": "Al-Ittihad",
-                "away_team": "Al-Hazm",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1.",
-                "competition": "Saudi Arabia: Pro League",
-                "kickoff": "2026-08-24T20:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "5e56cb09",
-        "home_team": "Bishkek City",
-        "away_team": "Alga",
-        "competition": "Kyrgyzstan: Premier League",
-        "kickoff": "2026-08-24T16:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "3202aeda",
-            "home_team": "Bishkek City",
-            "away_team": "Alga",
-            "competition": "Kyrgyzstan: Premier League",
-            "kickoff": "2026-08-24T16:30:00+02:00",
+            "match_id": "dd8f3a76",
+            "home_team": "Kokand 1912",
+            "away_team": "FK Buxoro",
+            "competition": "UZBEKISTAN - SUPERLIGA",
+            "kickoff": "2026-08-24T15:00:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.447,
+            "final_score": 0.448,
             "sources": [
               {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1632326&league_id=569",
-                "home_team": "Bishkek City",
-                "away_team": "Alga",
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Kokand 1912",
+                "away_team": "FK Buxoro",
                 "market": "Double Chance",
                 "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Bishkek City vs Alga: predicted score 1-1, tip X2.",
-                "competition": "Kyrgyzstan: Premier League",
-                "kickoff": "2026-08-24T16:30:00+02:00"
+                "reason_summary": "Statarea tip for Kokand 1912 vs FK Buxoro: Double Chance X2.",
+                "competition": "UZBEKISTAN - SUPERLIGA",
+                "kickoff": "2026-08-24T15:00:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Bishkek City vs Alga: predicted score 1-1, tip X2."
+            "explanation": "Statarea tip for Kokand 1912 vs FK Buxoro: Double Chance X2."
           }
         ]
       },
@@ -2398,14 +2299,14 @@
         "home_team": "Toktogul",
         "away_team": "OshMU Aldier",
         "competition": "Kyrgyzstan: Premier League",
-        "kickoff": "2026-08-24T16:30:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "0aeef2bd",
             "home_team": "Toktogul",
             "away_team": "OshMU Aldier",
             "competition": "Kyrgyzstan: Premier League",
-            "kickoff": "2026-08-24T16:30:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": null,
@@ -2425,7 +2326,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Toktogul vs OshMU Aldier: predicted score 2-1, tip 1.",
                 "competition": "Kyrgyzstan: Premier League",
-                "kickoff": "2026-08-24T16:30:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Toktogul vs OshMU Aldier: predicted score 2-1, tip 1."
@@ -2515,14 +2416,14 @@
         "home_team": "Kokand-1912",
         "away_team": "Buxoro",
         "competition": "Uzbekistan: Super League",
-        "kickoff": "2026-08-24T16:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "035a841f",
             "home_team": "Kokand-1912",
             "away_team": "Buxoro",
             "competition": "Uzbekistan: Super League",
-            "kickoff": "2026-08-24T16:00:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "2",
             "best_odds": 2.55,
@@ -2542,7 +2443,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Kokand-1912 vs Buxoro: predicted score 0-1, tip 2.",
                 "competition": "Uzbekistan: Super League",
-                "kickoff": "2026-08-24T16:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Kokand-1912 vs Buxoro: predicted score 0-1, tip 2."
@@ -2584,17 +2485,17 @@
         "home_team": "Tractor Sazi",
         "away_team": "Persepolis FC",
         "competition": "Iran: Persian Gulf Pro League",
-        "kickoff": "2026-08-24T17:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "035a31d0",
             "home_team": "Tractor Sazi",
             "away_team": "Persepolis FC",
             "competition": "Iran: Persian Gulf Pro League",
-            "kickoff": "2026-08-24T17:00:00+02:00",
+            "kickoff": "TBD",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.32,
+            "best_odds": 1.3,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
@@ -2611,7 +2512,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Tractor Sazi vs Persepolis FC: predicted score 1-1, tip 1X.",
                 "competition": "Iran: Persian Gulf Pro League",
-                "kickoff": "2026-08-24T17:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Tractor Sazi vs Persepolis FC: predicted score 1-1, tip 1X."
@@ -2790,110 +2691,41 @@
     "leagues": {
       "Saudi Pro League": [
         {
-          "match_id": "614fcd85",
-          "home_team": "Neom SC",
-          "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-          "competition": "Saudi Arabia",
-          "kickoff": "2026-08-24T12:00:00+00:00",
+          "match_id": "1008ed5e",
+          "home_team": "Al-Ittihad",
+          "away_team": "Al-Hazm",
+          "competition": "Saudi Arabia: Pro League",
+          "kickoff": "2026-08-24T20:00:00+02:00",
           "picks": [
             {
-              "match_id": "d4857ff8",
-              "home_team": "Neom SC",
-              "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-              "competition": "Saudi Arabia",
-              "kickoff": "2026-08-24T12:00:00+00:00",
-              "market": "BTTS",
-              "recommended_pick": "Yes",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.488,
-              "sources": [
-                {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Neom SC",
-                  "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-                  "market": "BTTS",
-                  "pick": "Yes",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: BTTS Yes.",
-                  "competition": "Saudi Arabia",
-                  "kickoff": "2026-08-24T12:00:00+00:00"
-                }
-              ],
-              "explanation": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: BTTS Yes."
-            },
-            {
-              "match_id": "99988eb9",
-              "home_team": "Neom SC",
-              "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-              "competition": "Saudi Arabia",
-              "kickoff": "2026-08-24T12:00:00+00:00",
-              "market": "Total Goals",
-              "recommended_pick": "Over 2.5",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.488,
-              "sources": [
-                {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Neom SC",
-                  "away_team": "Al \n\t\t\t\t\t\t\t\tQadsiah",
-                  "market": "Total Goals",
-                  "pick": "Over 2.5",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: Total Goals Over 2.5.",
-                  "competition": "Saudi Arabia",
-                  "kickoff": "2026-08-24T12:00:00+00:00"
-                }
-              ],
-              "explanation": "Adibet tip for Neom SC vs Al \n\t\t\t\t\t\t\t\tQadsiah: Total Goals Over 2.5."
-            }
-          ]
-        },
-        {
-          "match_id": "ffb0bf6d",
-          "home_team": "Al Ittihad",
-          "away_team": "Al \n\t\t\t\t\t\t\t\tHazem",
-          "competition": "Saudi Arabia",
-          "kickoff": "2026-08-24T12:00:00+00:00",
-          "picks": [
-            {
-              "match_id": "1edf6d82",
-              "home_team": "Al Ittihad",
-              "away_team": "Al \n\t\t\t\t\t\t\t\tHazem",
-              "competition": "Saudi Arabia",
-              "kickoff": "2026-08-24T12:00:00+00:00",
+              "match_id": "198bb0f5",
+              "home_team": "Al-Ittihad",
+              "away_team": "Al-Hazm",
+              "competition": "Saudi Arabia: Pro League",
+              "kickoff": "2026-08-24T20:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": null,
+              "best_odds": 1.57,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.488,
+              "final_score": 0.561,
               "sources": [
                 {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Al Ittihad",
-                  "away_team": "Al \n\t\t\t\t\t\t\t\tHazem",
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602991&league_id=307",
+                  "home_team": "Al-Ittihad",
+                  "away_team": "Al-Hazm",
                   "market": "1X2",
                   "pick": "1",
                   "quoted_odds": null,
                   "confidence_text": null,
-                  "reason_summary": "Adibet tip for Al Ittihad vs Al \n\t\t\t\t\t\t\t\tHazem: 1X2 1.",
-                  "competition": "Saudi Arabia",
-                  "kickoff": "2026-08-24T12:00:00+00:00"
+                  "reason_summary": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1.",
+                  "competition": "Saudi Arabia: Pro League",
+                  "kickoff": "2026-08-24T20:00:00+02:00"
                 }
               ],
-              "explanation": "Adibet tip for Al Ittihad vs Al \n\t\t\t\t\t\t\t\tHazem: 1X2 1."
+              "explanation": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1."
             }
           ]
         },
@@ -2912,11 +2744,11 @@
               "kickoff": "2026-08-24T18:40:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "X2",
-              "best_odds": 1.14,
+              "best_odds": 1.16,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.475,
+              "final_score": 0.479,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2933,45 +2765,6 @@
                 }
               ],
               "explanation": "Vitibet statistical model for NEOM vs Al-Qadisiyah FC: predicted score 0-1, tip X2."
-            }
-          ]
-        },
-        {
-          "match_id": "1008ed5e",
-          "home_team": "Al-Ittihad",
-          "away_team": "Al-Hazm",
-          "competition": "Saudi Arabia: Pro League",
-          "kickoff": "2026-08-24T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "198bb0f5",
-              "home_team": "Al-Ittihad",
-              "away_team": "Al-Hazm",
-              "competition": "Saudi Arabia: Pro League",
-              "kickoff": "2026-08-24T20:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.447,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602991&league_id=307",
-                  "home_team": "Al-Ittihad",
-                  "away_team": "Al-Hazm",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1.",
-                  "competition": "Saudi Arabia: Pro League",
-                  "kickoff": "2026-08-24T20:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Al-Ittihad vs Al-Hazm: predicted score 2-0, tip 1."
             }
           ]
         },
@@ -3125,11 +2918,11 @@
             "kickoff": "2026-08-24T21:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.39,
+            "best_odds": 1.37,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.525,
+            "final_score": 0.521,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3150,57 +2943,18 @@
         ]
       },
       {
-        "match_id": "d56ab99d",
-        "home_team": "Botafogo",
-        "away_team": "Atletico Paranaense",
-        "competition": "BRAZIL - SERIE A",
-        "kickoff": "2026-08-24T16:00:00",
-        "picks": [
-          {
-            "match_id": "725d3473",
-            "home_team": "Botafogo",
-            "away_team": "Atletico Paranaense",
-            "competition": "BRAZIL - SERIE A",
-            "kickoff": "2026-08-24T16:00:00",
-            "market": "Double Chance",
-            "recommended_pick": "12",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.448,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Botafogo",
-                "away_team": "Atletico Paranaense",
-                "market": "Double Chance",
-                "pick": "12",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Botafogo vs Atletico Paranaense: Double Chance 12.",
-                "competition": "BRAZIL - SERIE A",
-                "kickoff": "2026-08-24T16:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Botafogo vs Atletico Paranaense: Double Chance 12."
-          }
-        ]
-      },
-      {
         "match_id": "8b838165",
         "home_team": "Club Nacional",
         "away_team": "Sportivo Luqueno",
         "competition": "PARAGUAY - DIVISION PROFESIONAL - CLAUSURA",
-        "kickoff": "2026-08-24T12:00:00",
+        "kickoff": "2026-08-24T20:00:00",
         "picks": [
           {
             "match_id": "b6d437e5",
             "home_team": "Club Nacional",
             "away_team": "Sportivo Luqueno",
             "competition": "PARAGUAY - DIVISION PROFESIONAL - CLAUSURA",
-            "kickoff": "2026-08-24T12:00:00",
+            "kickoff": "2026-08-24T20:00:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": null,
@@ -3220,49 +2974,10 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Club Nacional vs Sportivo Luqueno: Double Chance 1X.",
                 "competition": "PARAGUAY - DIVISION PROFESIONAL - CLAUSURA",
-                "kickoff": "2026-08-24T12:00:00"
+                "kickoff": "2026-08-24T20:00:00"
               }
             ],
             "explanation": "Statarea tip for Club Nacional vs Sportivo Luqueno: Double Chance 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "53b496c0",
-        "home_team": "Charleston Battery",
-        "away_team": "Miami FC",
-        "competition": "USA - USL CHAMPIONSHIP EASTERN CONFERENCE",
-        "kickoff": "2026-08-24T16:00:00",
-        "picks": [
-          {
-            "match_id": "0f849fec",
-            "home_team": "Charleston Battery",
-            "away_team": "Miami FC",
-            "competition": "USA - USL CHAMPIONSHIP EASTERN CONFERENCE",
-            "kickoff": "2026-08-24T16:00:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.448,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Charleston Battery",
-                "away_team": "Miami FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Charleston Battery vs Miami FC: 1X2 1.",
-                "competition": "USA - USL CHAMPIONSHIP EASTERN CONFERENCE",
-                "kickoff": "2026-08-24T16:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Charleston Battery vs Miami FC: 1X2 1."
           }
         ]
       },
@@ -3593,7 +3308,7 @@
             "kickoff": "2026-08-24T22:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.15,
+            "best_odds": 1.21,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
@@ -3662,7 +3377,7 @@
             "kickoff": "2026-08-24T22:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.55,
+            "best_odds": 1.42,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
@@ -3726,14 +3441,14 @@
         "home_team": "Young Africans",
         "away_team": "JKT Tanzania",
         "competition": "Tanzania: Ligi kuu Bara",
-        "kickoff": "2026-08-24T17:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "d546fb1d",
             "home_team": "Young Africans",
             "away_team": "JKT Tanzania",
             "competition": "Tanzania: Ligi kuu Bara",
-            "kickoff": "2026-08-24T17:00:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": 1.12,
@@ -3753,7 +3468,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Young Africans vs JKT Tanzania: predicted score 2-0, tip 1.",
                 "competition": "Tanzania: Ligi kuu Bara",
-                "kickoff": "2026-08-24T17:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Young Africans vs JKT Tanzania: predicted score 2-0, tip 1."
