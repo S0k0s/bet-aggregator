@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-08-28T18:47:00.038851+00:00",
-  "total": 2125,
+  "generated_at": "2026-08-29T12:43:54.753776+00:00",
+  "total": 2415,
   "counts": {
-    "hit": 625,
-    "miss": 415,
+    "hit": 666,
+    "miss": 453,
     "push": 1,
-    "unknown": 262,
-    "pending": 822
+    "unknown": 312,
+    "pending": 983
   },
-  "hit_rate": 0.601,
+  "hit_rate": 0.595,
   "by_market": {
     "Correct Score": {
       "hit": 2,
-      "miss": 40,
+      "miss": 42,
       "push": 0,
-      "unknown": 15,
-      "pending": 29
+      "unknown": 16,
+      "pending": 43
     },
     "Double Chance": {
-      "hit": 229,
-      "miss": 111,
+      "hit": 241,
+      "miss": 118,
       "push": 0,
-      "unknown": 47,
-      "pending": 257
+      "unknown": 58,
+      "pending": 322
     },
     "1X2": {
-      "hit": 372,
-      "miss": 257,
+      "hit": 400,
+      "miss": 285,
       "push": 0,
-      "unknown": 150,
-      "pending": 489
+      "unknown": 183,
+      "pending": 565
     },
     "Total Goals": {
-      "hit": 18,
-      "miss": 5,
+      "hit": 19,
+      "miss": 6,
       "push": 0,
-      "unknown": 7,
-      "pending": 25
+      "unknown": 10,
+      "pending": 24
     },
     "Draw No Bet": {
       "hit": 0,
       "miss": 2,
       "push": 1,
       "unknown": 0,
-      "pending": 0
+      "pending": 1
     },
     "Goal Scorer - Anytime": {
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 16,
-      "pending": 4
+      "unknown": 17,
+      "pending": 7
     },
     "Win To Nil": {
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 8,
+      "unknown": 9,
       "pending": 1
     },
     "Both Teams To Score": {
@@ -64,7 +64,7 @@
       "miss": 0,
       "push": 0,
       "unknown": 8,
-      "pending": 4
+      "pending": 5
     },
     "BTTS": {
       "hit": 3,
@@ -92,7 +92,7 @@
       "miss": 0,
       "push": 0,
       "unknown": 4,
-      "pending": 4
+      "pending": 6
     },
     "Both Teams To Score And Total Goals": {
       "hit": 0,
