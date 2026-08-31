@@ -56610,8 +56610,8 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-08-30T23:30:37.015452+00:00",
-    "kickoff": "2026-08-31T21:30:00+02:00",
-    "best_odds": 1.12,
+    "kickoff": "2026-08-31T20:30:00+01:00",
+    "best_odds": 1.09,
     "source_count": 3,
     "consensus_score": 0.75,
     "sources": [
@@ -56718,7 +56718,7 @@
     "kickoff": "2026-08-31T20:15:00+01:00",
     "best_odds": null,
     "source_count": 1,
-    "consensus_score": 1.0,
+    "consensus_score": 0.5,
     "sources": [
       "MyBetsToday"
     ],
@@ -57656,8 +57656,8 @@
     "market": "1X2",
     "recommended_pick": "2",
     "predicted_at": "2026-08-31T05:34:04.616595+00:00",
-    "kickoff": "2026-08-31T21:00:00+02:00",
-    "best_odds": 1.61,
+    "kickoff": "2026-08-31T20:00:00+01:00",
+    "best_odds": 1.64,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -59283,7 +59283,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-31T13:47:28.976217+00:00",
     "kickoff": "2026-08-31T22:00:00+02:00",
-    "best_odds": 1.44,
+    "best_odds": 1.45,
     "source_count": 1,
     "consensus_score": 0.5,
     "sources": [
@@ -59323,7 +59323,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-08-31T13:47:28.976217+00:00",
     "kickoff": "2026-08-31T23:30:00+02:00",
-    "best_odds": 1.22,
+    "best_odds": 1.3,
     "source_count": 1,
     "consensus_score": 0.5,
     "sources": [
@@ -59368,6 +59368,308 @@
     "consensus_score": 0.333,
     "sources": [
       "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "celta de vigo ii|castellon|Double Chance|1X|unknown-date",
+    "match_id": "4ab71b13",
+    "home_team": "Celta de Vigo II",
+    "away_team": "Castellón",
+    "competition": "Spain: Segunda División",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.94,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "braga|vitoria|1X2|1|unknown-date",
+    "match_id": "0d65a9d2",
+    "home_team": "SC Braga",
+    "away_team": "Vitória SC",
+    "competition": "Portugal: Primeira Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.75,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "celta fortuna|castellon|1X2|2|2026-08-31",
+    "match_id": "18098f7a",
+    "home_team": "Celta Fortuna",
+    "away_team": "CD Castellon",
+    "competition": "Spain Segunda",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "breidablik|stjarnan|1X2|1|2026-08-31",
+    "match_id": "5561eda6",
+    "home_team": "Breidablik",
+    "away_team": "Stjarnan",
+    "competition": "Iceland Úrvalsdeild",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:15:00+01:00",
+    "best_odds": null,
+    "source_count": 2,
+    "consensus_score": 0.667,
+    "sources": [
+      "MyBetsToday",
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "breidablik|stjarnan|Double Chance|1X|unknown-date",
+    "match_id": "ee37e5ec",
+    "home_team": "Breidablik",
+    "away_team": "Stjarnan",
+    "competition": "Iceland: Úrvalsdeild",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.41,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "renate|cittadella|1X2|2|2026-08-31",
+    "match_id": "af580f44",
+    "home_team": "Renate",
+    "away_team": "Cittadella",
+    "competition": "Italy Serie C - Girone A",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 2,
+    "consensus_score": 0.667,
+    "sources": [
+      "MyBetsToday",
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "renate|cittadella|Double Chance|X2|unknown-date",
+    "match_id": "c512a28d",
+    "home_team": "Renate",
+    "away_team": "Cittadella",
+    "competition": "Italy: Serie C - Girone A",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.34,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "skenderbeu korce|dinamo tirana|Double Chance|X2|unknown-date",
+    "match_id": "9d1783d1",
+    "home_team": "Skenderbeu Korce",
+    "away_team": "Dinamo Tirana",
+    "competition": "Albania: Superliga",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.38,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "skenderbeu korce|dinamo tirana|1X2|X|2026-08-31",
+    "match_id": "1f66727c",
+    "home_team": "Skenderbeu Korce",
+    "away_team": "Dinamo Tirana",
+    "competition": "Albania Superliga",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "desenzano calvina|trento|Double Chance|X2|unknown-date",
+    "match_id": "73d5a13b",
+    "home_team": "Desenzano Calvina",
+    "away_team": "Trento",
+    "competition": "Italy: Serie C - Girone A",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.3,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "desenzano calvina|trento|1X2|2|2026-08-31",
+    "match_id": "a66c7ee4",
+    "home_team": "Desenzano Calvina",
+    "away_team": "Trento",
+    "competition": "Italy Serie C - Girone A",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "teruel|real madrid castilla|1X2|2|2026-08-31",
+    "match_id": "e2caa06d",
+    "home_team": "Teruel",
+    "away_team": "Real Madrid Castilla",
+    "competition": "Spain Primera Division RFEF Group 2",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:15:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "treviso|lecco|Double Chance|1X|unknown-date",
+    "match_id": "8ca31e0f",
+    "home_team": "Treviso",
+    "away_team": "Lecco",
+    "competition": "Italy: Serie C - Girone A",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.27,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "treviso|lecco|1X2|2|2026-08-31",
+    "match_id": "01a5da00",
+    "home_team": "Treviso",
+    "away_team": "Lecco",
+    "competition": "Italy Serie C - Girone A",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "albinoleffe|ospitaletto|1X2|1|2026-08-31",
+    "match_id": "bba40b28",
+    "home_team": "Albinoleffe",
+    "away_team": "Ospitaletto",
+    "competition": "Italy Serie C - Girone A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-08-31T20:51:26.430116+00:00",
+    "kickoff": "2026-08-31T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "MyBetsToday"
     ],
     "final_score": null,
     "outcome": "pending",
