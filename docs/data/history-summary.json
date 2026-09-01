@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-08-31T13:59:21.997211+00:00",
-  "total": 2942,
+  "generated_at": "2026-09-01T11:44:06.947258+00:00",
+  "total": 3066,
   "counts": {
-    "hit": 863,
-    "miss": 598,
+    "hit": 921,
+    "miss": 633,
     "push": 1,
-    "unknown": 523,
-    "pending": 957
+    "unknown": 561,
+    "pending": 950
   },
-  "hit_rate": 0.591,
+  "hit_rate": 0.593,
   "by_market": {
     "Correct Score": {
-      "hit": 4,
-      "miss": 51,
+      "hit": 5,
+      "miss": 53,
       "push": 0,
       "unknown": 35,
-      "pending": 29
+      "pending": 27
     },
     "Double Chance": {
-      "hit": 315,
-      "miss": 154,
+      "hit": 334,
+      "miss": 159,
       "push": 0,
-      "unknown": 92,
-      "pending": 331
+      "unknown": 103,
+      "pending": 329
     },
     "1X2": {
-      "hit": 513,
-      "miss": 380,
+      "hit": 549,
+      "miss": 407,
       "push": 0,
-      "unknown": 315,
-      "pending": 548
+      "unknown": 338,
+      "pending": 545
     },
     "Total Goals": {
-      "hit": 26,
-      "miss": 9,
+      "hit": 28,
+      "miss": 10,
       "push": 0,
       "unknown": 13,
-      "pending": 28
+      "pending": 29
     },
     "Draw No Bet": {
       "hit": 0,
@@ -49,8 +49,8 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 26,
-      "pending": 4
+      "unknown": 28,
+      "pending": 3
     },
     "Win To Nil": {
       "hit": 0,
@@ -64,14 +64,14 @@
       "miss": 0,
       "push": 0,
       "unknown": 15,
-      "pending": 2
+      "pending": 3
     },
     "BTTS": {
       "hit": 3,
       "miss": 2,
       "push": 0,
       "unknown": 5,
-      "pending": 3
+      "pending": 4
     },
     "Team Total Goals": {
       "hit": 0,
@@ -84,8 +84,8 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 3,
-      "pending": 3
+      "unknown": 5,
+      "pending": 1
     },
     "Both Teams To Score And Win": {
       "hit": 0,
