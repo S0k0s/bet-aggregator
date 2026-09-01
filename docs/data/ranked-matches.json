@@ -115,11 +115,11 @@
             "kickoff": "2026-09-01T20:45:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 2.56,
+            "best_odds": 2.55,
             "consensus_score": 1.0,
-            "price_edge_score": 0.347,
+            "price_edge_score": 0.342,
             "source_count": 1,
-            "final_score": 0.729,
+            "final_score": 0.728,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -140,58 +140,6 @@
         ]
       },
       {
-        "match_id": "41198984",
-        "home_team": "Rapperswil",
-        "away_team": "SC Kriens",
-        "competition": "Switzerland: Challenge League",
-        "kickoff": "2026-09-01T19:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "8fdcf16d",
-            "home_team": "Rapperswil",
-            "away_team": "SC Kriens",
-            "competition": "Switzerland: Challenge League",
-            "kickoff": "2026-09-01T19:30:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 2.45,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.289,
-            "source_count": 2,
-            "final_score": 0.703,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555044&league_id=208",
-                "home_team": "Rapperswil",
-                "away_team": "SC Kriens",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Rapperswil vs SC Kriens: predicted score 1-2, tip 2.",
-                "competition": "Switzerland: Challenge League",
-                "kickoff": "2026-09-01T19:30:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-rapperswil-vs-sc-kriens-betting-tip-dii3i8d63/",
-                "home_team": "Rapperswil",
-                "away_team": "SC Kriens",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Rapperswil vs SC Kriens: 1X2 2.",
-                "competition": "Switzerland Challenge League",
-                "kickoff": "2026-09-01T18:30:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Rapperswil vs SC Kriens: predicted score 1-2, tip 2. | MyBets Today tip for Rapperswil vs SC Kriens: 1X2 2."
-          }
-        ]
-      },
-      {
         "match_id": "f590cd68",
         "home_team": "Bristol Rovers FC",
         "away_team": "Colchester",
@@ -206,11 +154,11 @@
             "kickoff": "2026-09-01T20:45:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.85,
+            "best_odds": 1.81,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.605,
+            "final_score": 0.597,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -249,10 +197,62 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Bristol Rovers vs Colchester: 1X2 1.",
                 "competition": "ENGLAND - LEAGUE TWO",
-                "kickoff": "2026-09-01T20:45:00"
+                "kickoff": "2026-09-01T11:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for Bristol Rovers FC vs Colchester: predicted score 1-0, tip 1. | MyBets Today tip for Bristol Rovers vs Colchester: 1X2 1. | Statarea tip for Bristol Rovers vs Colchester: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "7cfcbe37",
+        "home_team": "Sheffield Utd",
+        "away_team": "Bolton",
+        "competition": "England: Championship",
+        "kickoff": "2026-09-01T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "f7f1722a",
+            "home_team": "Sheffield Utd",
+            "away_team": "Bolton",
+            "competition": "England: Championship",
+            "kickoff": "2026-09-01T20:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.7,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.584,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1563123&league_id=40",
+                "home_team": "Sheffield Utd",
+                "away_team": "Bolton",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Sheffield Utd vs Bolton: predicted score 2-0, tip 1.",
+                "competition": "England: Championship",
+                "kickoff": "2026-09-01T20:45:00+02:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Sheffield Utd",
+                "away_team": "Bolton",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Sheffield Utd vs Bolton: 1X2 1.",
+                "competition": "ENGLAND - CHAMPIONSHIP",
+                "kickoff": "2026-09-01T11:45:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Sheffield Utd vs Bolton: predicted score 2-0, tip 1. | Statarea tip for Sheffield Utd vs Bolton: 1X2 1."
           }
         ]
       },
@@ -271,11 +271,11 @@
             "kickoff": "2026-09-01T19:30:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 1.75,
+            "best_odds": 1.73,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.58,
+            "final_score": 0.576,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -309,54 +309,67 @@
         ]
       },
       {
-        "match_id": "7cfcbe37",
-        "home_team": "Sheffield Utd",
-        "away_team": "Bolton",
-        "competition": "England: Championship",
-        "kickoff": "2026-09-01T20:45:00+02:00",
+        "match_id": "64c29d8a",
+        "home_team": "Stade Nyonnais",
+        "away_team": "FC Winterthur",
+        "competition": "Switzerland: Challenge League",
+        "kickoff": "2026-09-01T19:30:00+02:00",
         "picks": [
           {
-            "match_id": "f7f1722a",
-            "home_team": "Sheffield Utd",
-            "away_team": "Bolton",
-            "competition": "England: Championship",
-            "kickoff": "2026-09-01T20:45:00+02:00",
+            "match_id": "c8a2ed2e",
+            "home_team": "Stade Nyonnais",
+            "away_team": "FC Winterthur",
+            "competition": "Switzerland: Challenge League",
+            "kickoff": "2026-09-01T19:30:00+02:00",
             "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.66,
+            "recommended_pick": "2",
+            "best_odds": 1.67,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.576,
+            "source_count": 3,
+            "final_score": 0.569,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1563123&league_id=40",
-                "home_team": "Sheffield Utd",
-                "away_team": "Bolton",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555045&league_id=208",
+                "home_team": "Stade Nyonnais",
+                "away_team": "FC Winterthur",
                 "market": "1X2",
-                "pick": "1",
+                "pick": "2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Sheffield Utd vs Bolton: predicted score 2-0, tip 1.",
-                "competition": "England: Championship",
-                "kickoff": "2026-09-01T20:45:00+02:00"
+                "reason_summary": "Vitibet statistical model for Stade Nyonnais vs FC Winterthur: predicted score 0-2, tip 2.",
+                "competition": "Switzerland: Challenge League",
+                "kickoff": "2026-09-01T19:30:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-stade-nyonnais-vs-fc-winterthur-betting-tip-dii3i8d64/",
+                "home_team": "Stade Nyonnais",
+                "away_team": "FC Winterthur",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Stade Nyonnais vs FC Winterthur: 1X2 2.",
+                "competition": "Switzerland Challenge League",
+                "kickoff": "2026-09-01T18:30:00+01:00"
               },
               {
                 "source_name": "Statarea",
                 "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Sheffield Utd",
-                "away_team": "Bolton",
+                "home_team": "Stade Nyonnais",
+                "away_team": "FC Winterthur",
                 "market": "1X2",
-                "pick": "1",
+                "pick": "2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Statarea tip for Sheffield Utd vs Bolton: 1X2 1.",
-                "competition": "ENGLAND - CHAMPIONSHIP",
-                "kickoff": "2026-09-01T20:45:00"
+                "reason_summary": "Statarea tip for Stade Nyonnais vs FC Winterthur: 1X2 2.",
+                "competition": "SWITZERLAND - CHALLENGE LEAGUE",
+                "kickoff": "2026-09-01T10:30:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Sheffield Utd vs Bolton: predicted score 2-0, tip 1. | Statarea tip for Sheffield Utd vs Bolton: 1X2 1."
+            "explanation": "Vitibet statistical model for Stade Nyonnais vs FC Winterthur: predicted score 0-2, tip 2. | MyBets Today tip for Stade Nyonnais vs FC Winterthur: 1X2 2. | Statarea tip for Stade Nyonnais vs FC Winterthur: 1X2 2."
           }
         ]
       },
@@ -405,7 +418,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for FC Zurich vs BSC Young Boys: 1X2 2.",
                 "competition": "SWITZERLAND - SUPER LEAGUE",
-                "kickoff": "2026-09-01T20:30:00"
+                "kickoff": "2026-09-01T11:30:00"
               }
             ],
             "explanation": "Vitibet statistical model for FC Zurich vs BSC Young Boys: predicted score 1-3, tip 2. | Statarea tip for FC Zurich vs BSC Young Boys: 1X2 2."
@@ -413,93 +426,54 @@
         ]
       },
       {
-        "match_id": "64c29d8a",
-        "home_team": "Stade Nyonnais",
-        "away_team": "FC Winterthur",
+        "match_id": "0eb01aa4",
+        "home_team": "Stade Lausanne-Ouchy",
+        "away_team": "Étoile Carouge",
         "competition": "Switzerland: Challenge League",
         "kickoff": "2026-09-01T19:30:00+02:00",
         "picks": [
           {
-            "match_id": "c8a2ed2e",
-            "home_team": "Stade Nyonnais",
-            "away_team": "FC Winterthur",
+            "match_id": "02577763",
+            "home_team": "Stade Lausanne-Ouchy",
+            "away_team": "Étoile Carouge",
             "competition": "Switzerland: Challenge League",
             "kickoff": "2026-09-01T19:30:00+02:00",
             "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.67,
+            "recommended_pick": "1",
+            "best_odds": 1.57,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.564,
+            "final_score": 0.544,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555045&league_id=208",
-                "home_team": "Stade Nyonnais",
-                "away_team": "FC Winterthur",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555043&league_id=208",
+                "home_team": "Stade Lausanne-Ouchy",
+                "away_team": "Étoile Carouge",
                 "market": "1X2",
-                "pick": "2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Stade Nyonnais vs FC Winterthur: predicted score 0-2, tip 2.",
+                "reason_summary": "Vitibet statistical model for Stade Lausanne-Ouchy vs Étoile Carouge: predicted score 1-0, tip 1.",
                 "competition": "Switzerland: Challenge League",
                 "kickoff": "2026-09-01T19:30:00+02:00"
               },
               {
                 "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-stade-nyonnais-vs-fc-winterthur-betting-tip-dii3i8d64/",
-                "home_team": "Stade Nyonnais",
-                "away_team": "FC Winterthur",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-stade-lausanne-ouchy-vs-Étoile-carouge-betting-tip-dii3i7944/",
+                "home_team": "Stade Lausanne-Ouchy",
+                "away_team": "Étoile Carouge",
                 "market": "1X2",
-                "pick": "2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Stade Nyonnais vs FC Winterthur: 1X2 2.",
+                "reason_summary": "MyBets Today tip for Stade Lausanne-Ouchy vs Étoile Carouge: 1X2 1.",
                 "competition": "Switzerland Challenge League",
                 "kickoff": "2026-09-01T18:30:00+01:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Stade Nyonnais vs FC Winterthur: predicted score 0-2, tip 2. | MyBets Today tip for Stade Nyonnais vs FC Winterthur: 1X2 2."
-          }
-        ]
-      },
-      {
-        "match_id": "51e6f4b9",
-        "home_team": "Boluspor SK",
-        "away_team": "Keçiörengücü",
-        "competition": "Turkey: 1. Lig",
-        "kickoff": "2026-09-01T19:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "7eed039e",
-            "home_team": "Boluspor SK",
-            "away_team": "Keçiörengücü",
-            "competition": "Turkey: 1. Lig",
-            "kickoff": "2026-09-01T19:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.53,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.548,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1585731&league_id=204",
-                "home_team": "Boluspor SK",
-                "away_team": "Keçiörengücü",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Boluspor SK vs Keçiörengücü: predicted score 0-1, tip 2.",
-                "competition": "Turkey: 1. Lig",
-                "kickoff": "2026-09-01T19:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Boluspor SK vs Keçiörengücü: predicted score 0-1, tip 2."
+            "explanation": "Vitibet statistical model for Stade Lausanne-Ouchy vs Étoile Carouge: predicted score 1-0, tip 1. | MyBets Today tip for Stade Lausanne-Ouchy vs Étoile Carouge: 1X2 1."
           }
         ]
       },
@@ -561,10 +535,49 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Chesterfield vs Gillingham: 1X2 1.",
                 "competition": "ENGLAND - LEAGUE TWO",
-                "kickoff": "2026-09-01T20:45:00"
+                "kickoff": "2026-09-01T11:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for Chesterfield vs Gillingham: predicted score 1-0, tip 1. | MyBets Today tip for Chesterfield vs Gillingham: 1X2 1. | Statarea tip for Chesterfield vs Gillingham: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "51e6f4b9",
+        "home_team": "Boluspor SK",
+        "away_team": "Keçiörengücü",
+        "competition": "Turkey: 1. Lig",
+        "kickoff": "2026-09-01T19:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "7eed039e",
+            "home_team": "Boluspor SK",
+            "away_team": "Keçiörengücü",
+            "competition": "Turkey: 1. Lig",
+            "kickoff": "2026-09-01T19:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.5,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.542,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1585731&league_id=204",
+                "home_team": "Boluspor SK",
+                "away_team": "Keçiörengücü",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Boluspor SK vs Keçiörengücü: predicted score 0-1, tip 2.",
+                "competition": "Turkey: 1. Lig",
+                "kickoff": "2026-09-01T19:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Boluspor SK vs Keçiörengücü: predicted score 0-1, tip 2."
           }
         ]
       },
@@ -626,62 +639,10 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Salford City vs Newport County: 1X2 1.",
                 "competition": "ENGLAND - LEAGUE TWO",
-                "kickoff": "2026-09-01T20:45:00"
+                "kickoff": "2026-09-01T11:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for Salford City vs Newport County AFC: predicted score 1-0, tip 1. | MyBets Today tip for Salford City vs Newport County: 1X2 1. | Statarea tip for Salford City vs Newport County: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "0eb01aa4",
-        "home_team": "Stade Lausanne-Ouchy",
-        "away_team": "Étoile Carouge",
-        "competition": "Switzerland: Challenge League",
-        "kickoff": "2026-09-01T19:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "02577763",
-            "home_team": "Stade Lausanne-Ouchy",
-            "away_team": "Étoile Carouge",
-            "competition": "Switzerland: Challenge League",
-            "kickoff": "2026-09-01T19:30:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.55,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.54,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555043&league_id=208",
-                "home_team": "Stade Lausanne-Ouchy",
-                "away_team": "Étoile Carouge",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Stade Lausanne-Ouchy vs Étoile Carouge: predicted score 1-0, tip 1.",
-                "competition": "Switzerland: Challenge League",
-                "kickoff": "2026-09-01T19:30:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-stade-lausanne-ouchy-vs-Étoile-carouge-betting-tip-dii3i7944/",
-                "home_team": "Stade Lausanne-Ouchy",
-                "away_team": "Étoile Carouge",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Stade Lausanne-Ouchy vs Étoile Carouge: 1X2 1.",
-                "competition": "Switzerland Challenge League",
-                "kickoff": "2026-09-01T18:30:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Stade Lausanne-Ouchy vs Étoile Carouge: predicted score 1-0, tip 1. | MyBets Today tip for Stade Lausanne-Ouchy vs Étoile Carouge: 1X2 1."
           }
         ]
       },
@@ -693,18 +654,18 @@
         "kickoff": "2026-09-01T15:00:00+02:00",
         "picks": [
           {
-            "match_id": "ccbf66f4",
+            "match_id": "f1ebc8e7",
             "home_team": "Bandırmaspor",
             "away_team": "Antalyaspor",
             "competition": "Turkey: 1. Lig",
             "kickoff": "2026-09-01T15:00:00+02:00",
             "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.4,
+            "recommended_pick": "1X",
+            "best_odds": 1.37,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.522,
+            "final_score": 0.516,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -712,15 +673,15 @@
                 "home_team": "Bandırmaspor",
                 "away_team": "Antalyaspor",
                 "market": "Double Chance",
-                "pick": "X2",
+                "pick": "1X",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Bandırmaspor vs Antalyaspor: predicted score 1-1, tip X2.",
+                "reason_summary": "Vitibet statistical model for Bandırmaspor vs Antalyaspor: predicted score 1-1, tip 1X.",
                 "competition": "Turkey: 1. Lig",
                 "kickoff": "2026-09-01T15:00:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Bandırmaspor vs Antalyaspor: predicted score 1-1, tip X2."
+            "explanation": "Vitibet statistical model for Bandırmaspor vs Antalyaspor: predicted score 1-1, tip 1X."
           }
         ]
       },
@@ -739,11 +700,11 @@
             "kickoff": "2026-09-01T20:45:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.31,
+            "best_odds": 1.32,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.504,
+            "final_score": 0.506,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -817,11 +778,11 @@
             "kickoff": "2026-09-01T20:45:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.26,
+            "best_odds": 1.27,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.496,
+            "final_score": 0.498,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -847,10 +808,62 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Accrington St vs Grimsby: Double Chance X2.",
                 "competition": "ENGLAND - LEAGUE TWO",
-                "kickoff": "2026-09-01T20:45:00"
+                "kickoff": "2026-09-01T11:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for Accrington ST vs Grimsby: predicted score 0-1, tip X2. | Statarea tip for Accrington St vs Grimsby: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "16bc2582",
+        "home_team": "Zrinjski",
+        "away_team": "BSK Banja Luka",
+        "competition": "Bosnia: Premijer Liga",
+        "kickoff": "2026-09-01T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "7314fb7f",
+            "home_team": "Zrinjski",
+            "away_team": "BSK Banja Luka",
+            "competition": "Bosnia: Premijer Liga",
+            "kickoff": "2026-09-01T20:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.3,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.49,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1582789&league_id=315",
+                "home_team": "Zrinjski",
+                "away_team": "BSK Banja Luka",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Zrinjski vs BSK Banja Luka: predicted score 2-0, tip 1.",
+                "competition": "Bosnia: Premijer Liga",
+                "kickoff": "2026-09-01T20:45:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-zrinjski-vs-bsk-banja-luka-betting-tip-dii3i82d9/",
+                "home_team": "Zrinjski",
+                "away_team": "BSK Banja Luka",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Zrinjski vs BSK Banja Luka: 1X2 1.",
+                "competition": "Bosnia Premijer Liga",
+                "kickoff": "2026-09-01T19:45:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Zrinjski vs BSK Banja Luka: predicted score 2-0, tip 1. | MyBets Today tip for Zrinjski vs BSK Banja Luka: 1X2 1."
           }
         ]
       },
@@ -899,7 +912,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Huddersfield vs Oxford United: Double Chance 1X.",
                 "competition": "ENGLAND - LEAGUE ONE",
-                "kickoff": "2026-09-01T20:45:00"
+                "kickoff": "2026-09-01T11:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for Huddersfield vs Oxford United FC: predicted score 1-0, tip 1X. | Statarea tip for Huddersfield vs Oxford United: Double Chance 1X."
@@ -1041,11 +1054,11 @@
               "kickoff": "2026-09-01T19:30:00+02:00",
               "market": "1X2",
               "recommended_pick": "2",
-              "best_odds": 1.75,
+              "best_odds": 1.73,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.58,
+              "final_score": 0.576,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1075,6 +1088,224 @@
                 }
               ],
               "explanation": "Vitibet statistical model for Wolfsberger AC vs LASK Linz: predicted score 0-2, tip 2. | MyBets Today tip for Wolfsberger AC vs LASK Linz: 1X2 2."
+            }
+          ]
+        }
+      ],
+      "FA Cup": [
+        {
+          "match_id": "4d45bbeb",
+          "home_team": "MKS Kluczbork",
+          "away_team": "Lechia Gdansk",
+          "competition": "POLAND - FA CUP",
+          "kickoff": "2026-09-01T10:00:00",
+          "picks": [
+            {
+              "match_id": "315da920",
+              "home_team": "MKS Kluczbork",
+              "away_team": "Lechia Gdansk",
+              "competition": "POLAND - FA CUP",
+              "kickoff": "2026-09-01T10:00:00",
+              "market": "Double Chance",
+              "recommended_pick": "12",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.445,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "MKS Kluczbork",
+                  "away_team": "Lechia Gdansk",
+                  "market": "Double Chance",
+                  "pick": "12",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for MKS Kluczbork vs Lechia Gdansk: Double Chance 12.",
+                  "competition": "POLAND - FA CUP",
+                  "kickoff": "2026-09-01T10:00:00"
+                }
+              ],
+              "explanation": "Statarea tip for MKS Kluczbork vs Lechia Gdansk: Double Chance 12."
+            }
+          ]
+        },
+        {
+          "match_id": "db587738",
+          "home_team": "Wigry Suwalki",
+          "away_team": "Termalica Nieciecza",
+          "competition": "POLAND - FA CUP",
+          "kickoff": "2026-09-01T10:47:00",
+          "picks": [
+            {
+              "match_id": "6ab3534f",
+              "home_team": "Wigry Suwalki",
+              "away_team": "Termalica Nieciecza",
+              "competition": "POLAND - FA CUP",
+              "kickoff": "2026-09-01T10:47:00",
+              "market": "1X2",
+              "recommended_pick": "2",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.445,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Wigry Suwalki",
+                  "away_team": "Termalica Nieciecza",
+                  "market": "1X2",
+                  "pick": "2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Wigry Suwalki vs Termalica Nieciecza: 1X2 2.",
+                  "competition": "POLAND - FA CUP",
+                  "kickoff": "2026-09-01T10:47:00"
+                }
+              ],
+              "explanation": "Statarea tip for Wigry Suwalki vs Termalica Nieciecza: 1X2 2."
+            }
+          ]
+        },
+        {
+          "match_id": "27bee93f",
+          "home_team": "Odra Opole",
+          "away_team": "Wisla Krakow",
+          "competition": "POLAND - FA CUP",
+          "kickoff": "2026-09-01T08:30:00",
+          "picks": [
+            {
+              "match_id": "fb1464e7",
+              "home_team": "Odra Opole",
+              "away_team": "Wisla Krakow",
+              "competition": "POLAND - FA CUP",
+              "kickoff": "2026-09-01T08:30:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": null,
+              "consensus_score": 0.5,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.224,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Odra Opole",
+                  "away_team": "Wisla Krakow",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Odra Opole vs Wisla Krakow: Double Chance X2.",
+                  "competition": "POLAND - FA CUP",
+                  "kickoff": "2026-09-01T08:30:00"
+                }
+              ],
+              "explanation": "Statarea tip for Odra Opole vs Wisla Krakow: Double Chance X2."
+            },
+            {
+              "match_id": "d074c35c",
+              "home_team": "Odra Opole",
+              "away_team": "Wisla Krakow",
+              "competition": "Poland Cup",
+              "kickoff": "2026-09-01T16:30:00+01:00",
+              "market": "1X2",
+              "recommended_pick": "2",
+              "best_odds": null,
+              "consensus_score": 0.5,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.205,
+              "sources": [
+                {
+                  "source_name": "MyBetsToday",
+                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-odra-opole-vs-wisla-krakow-betting-tip-dii3i8d79/",
+                  "home_team": "Odra Opole",
+                  "away_team": "Wisla Krakow",
+                  "market": "1X2",
+                  "pick": "2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "MyBets Today tip for Odra Opole vs Wisla Krakow: 1X2 2.",
+                  "competition": "Poland Cup",
+                  "kickoff": "2026-09-01T16:30:00+01:00"
+                }
+              ],
+              "explanation": "MyBets Today tip for Odra Opole vs Wisla Krakow: 1X2 2."
+            }
+          ]
+        },
+        {
+          "match_id": "365d848c",
+          "home_team": "Stal Rzeszow",
+          "away_team": "Podbeskidzie",
+          "competition": "POLAND - FA CUP",
+          "kickoff": "2026-09-01T10:00:00",
+          "picks": [
+            {
+              "match_id": "d9b5824b",
+              "home_team": "Stal Rzeszow",
+              "away_team": "Podbeskidzie",
+              "competition": "POLAND - FA CUP",
+              "kickoff": "2026-09-01T10:00:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": null,
+              "consensus_score": 0.5,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.224,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Stal Rzeszow",
+                  "away_team": "Podbeskidzie",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Stal Rzeszow vs Podbeskidzie: Double Chance X2.",
+                  "competition": "POLAND - FA CUP",
+                  "kickoff": "2026-09-01T10:00:00"
+                }
+              ],
+              "explanation": "Statarea tip for Stal Rzeszow vs Podbeskidzie: Double Chance X2."
+            },
+            {
+              "match_id": "1b0a62b5",
+              "home_team": "Stal Rzeszów",
+              "away_team": "Podbeskidzie",
+              "competition": "Poland Cup",
+              "kickoff": "2026-09-01T18:00:00+01:00",
+              "market": "1X2",
+              "recommended_pick": "2",
+              "best_odds": null,
+              "consensus_score": 0.5,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.205,
+              "sources": [
+                {
+                  "source_name": "MyBetsToday",
+                  "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-stal-rzeszów-vs-podbeskidzie-betting-tip-dii3i8d84/",
+                  "home_team": "Stal Rzeszów",
+                  "away_team": "Podbeskidzie",
+                  "market": "1X2",
+                  "pick": "2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "MyBets Today tip for Stal Rzeszów vs Podbeskidzie: 1X2 2.",
+                  "competition": "Poland Cup",
+                  "kickoff": "2026-09-01T18:00:00+01:00"
+                }
+              ],
+              "explanation": "MyBets Today tip for Stal Rzeszów vs Podbeskidzie: 1X2 2."
             }
           ]
         }
@@ -1125,7 +1356,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Parma vs Cremonese: 1X2 1.",
                   "competition": "ITALY - COPPA ITALIA",
-                  "kickoff": "2026-09-01T18:00:00"
+                  "kickoff": "2026-09-01T09:00:00"
                 }
               ],
               "explanation": "MyBets Today tip for Parma vs Cremonese: 1X2 1. | Statarea tip for Parma vs Cremonese: 1X2 1."
@@ -1207,7 +1438,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Torino vs Monza: 1X2 1.",
                   "competition": "ITALY - COPPA ITALIA",
-                  "kickoff": "2026-09-01T21:00:00"
+                  "kickoff": "2026-09-01T12:00:00"
                 }
               ],
               "explanation": "MyBets Today tip for Torino vs Monza: 1X2 1. | Statarea tip for Torino vs Monza: 1X2 1."
@@ -1528,14 +1759,14 @@
           "home_team": "Volos NPS",
           "away_team": "Kalamata",
           "competition": "GREECE - CUP MAIN ROUND",
-          "kickoff": "2026-09-01T17:00:00",
+          "kickoff": "2026-09-01T08:00:00",
           "picks": [
             {
               "match_id": "03302bf2",
               "home_team": "Volos NPS",
               "away_team": "Kalamata",
               "competition": "GREECE - CUP MAIN ROUND",
-              "kickoff": "2026-09-01T17:00:00",
+              "kickoff": "2026-09-01T08:00:00",
               "market": "1X2",
               "recommended_pick": "2",
               "best_odds": null,
@@ -1555,7 +1786,7 @@
                   "confidence_text": null,
                   "reason_summary": "Statarea tip for Volos NPS vs Kalamata: 1X2 2.",
                   "competition": "GREECE - CUP MAIN ROUND",
-                  "kickoff": "2026-09-01T17:00:00"
+                  "kickoff": "2026-09-01T08:00:00"
                 }
               ],
               "explanation": "Statarea tip for Volos NPS vs Kalamata: 1X2 2."
@@ -1621,11 +1852,11 @@
             "kickoff": "2026-09-01T20:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.68,
+            "best_odds": 1.64,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.578,
+            "final_score": 0.57,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1642,6 +1873,201 @@
               }
             ],
             "explanation": "Vitibet statistical model for Al-Hilal Saudi FC vs Al-Ahli Jeddah: predicted score 1-0, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "73ce6e86",
+        "home_team": "Al Tadhamon",
+        "away_team": "Al Salmiyah",
+        "competition": "Kuwait: Premier League",
+        "kickoff": "2026-09-01T19:55:00+02:00",
+        "picks": [
+          {
+            "match_id": "334ef8aa",
+            "home_team": "Al Tadhamon",
+            "away_team": "Al Salmiyah",
+            "competition": "Kuwait: Premier League",
+            "kickoff": "2026-09-01T19:55:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.67,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.564,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1622642&league_id=330",
+                "home_team": "Al Tadhamon",
+                "away_team": "Al Salmiyah",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Al Tadhamon vs Al Salmiyah: predicted score 0-1, tip 2.",
+                "competition": "Kuwait: Premier League",
+                "kickoff": "2026-09-01T19:55:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-al-tadhamon-vs-al-salmiyah-betting-tip-dii3i8d86/",
+                "home_team": "Al Tadhamon",
+                "away_team": "Al Salmiyah",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Al Tadhamon vs Al Salmiyah: 1X2 2.",
+                "competition": "Kuwait Premier League",
+                "kickoff": "2026-09-01T18:55:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Al Tadhamon vs Al Salmiyah: predicted score 0-1, tip 2. | MyBets Today tip for Al Tadhamon vs Al Salmiyah: 1X2 2."
+          }
+        ]
+      },
+      {
+        "match_id": "0e663654",
+        "home_team": "Shams Azar Qazvin",
+        "away_team": "Tractor Sazi",
+        "competition": "Iran: Persian Gulf Pro League",
+        "kickoff": "2026-09-01T17:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "a7ffc791",
+            "home_team": "Shams Azar Qazvin",
+            "away_team": "Tractor Sazi",
+            "competition": "Iran: Persian Gulf Pro League",
+            "kickoff": "2026-09-01T17:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.5,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.544,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1631572&league_id=290",
+                "home_team": "Shams Azar Qazvin",
+                "away_team": "Tractor Sazi",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Shams Azar Qazvin vs Tractor Sazi: predicted score 0-1, tip 2.",
+                "competition": "Iran: Persian Gulf Pro League",
+                "kickoff": "2026-09-01T17:45:00+02:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Shams Azar Qazvin",
+                "away_team": "Tractor Sazi",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Shams Azar Qazvin vs Tractor Sazi: 1X2 2.",
+                "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
+                "kickoff": "2026-09-01T08:45:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Shams Azar Qazvin vs Tractor Sazi: predicted score 0-1, tip 2. | Statarea tip for Shams Azar Qazvin vs Tractor Sazi: 1X2 2."
+          }
+        ]
+      },
+      {
+        "match_id": "80571c7c",
+        "home_team": "Esteghlal Khuzestan",
+        "away_team": "Chadormalu SC",
+        "competition": "Iran: Persian Gulf Pro League",
+        "kickoff": "2026-09-01T17:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "a5a4cd17",
+            "home_team": "Esteghlal Khuzestan",
+            "away_team": "Chadormalu SC",
+            "competition": "Iran: Persian Gulf Pro League",
+            "kickoff": "2026-09-01T17:30:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.29,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.5,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1631570&league_id=290",
+                "home_team": "Esteghlal Khuzestan",
+                "away_team": "Chadormalu SC",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Esteghlal Khuzestan vs Chadormalu SC: predicted score 1-1, tip X2.",
+                "competition": "Iran: Persian Gulf Pro League",
+                "kickoff": "2026-09-01T17:30:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Esteghlal Khuzestan vs Chadormalu SC: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "2c22501d",
+        "home_team": "Gol Gohar",
+        "away_team": "Aluminium Arak",
+        "competition": "Iran: Persian Gulf Pro League",
+        "kickoff": "2026-09-01T17:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "6a723258",
+            "home_team": "Gol Gohar",
+            "away_team": "Aluminium Arak",
+            "competition": "Iran: Persian Gulf Pro League",
+            "kickoff": "2026-09-01T17:30:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.16,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.475,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1631571&league_id=290",
+                "home_team": "Gol Gohar",
+                "away_team": "Aluminium Arak",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Gol Gohar vs Aluminium Arak: predicted score 1-0, tip 1X.",
+                "competition": "Iran: Persian Gulf Pro League",
+                "kickoff": "2026-09-01T17:30:00+02:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Gol Gohar",
+                "away_team": "Aluminium Arak",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Gol Gohar vs Aluminium Arak: Double Chance 1X.",
+                "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
+                "kickoff": "2026-09-01T08:30:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Gol Gohar vs Aluminium Arak: predicted score 1-0, tip 1X. | Statarea tip for Gol Gohar vs Aluminium Arak: Double Chance 1X."
           }
         ]
       },
@@ -1940,96 +2366,18 @@
         ]
       },
       {
-        "match_id": "2c22501d",
-        "home_team": "Gol Gohar",
-        "away_team": "Aluminium Arak",
-        "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-        "kickoff": "2026-09-01T17:30:00",
-        "picks": [
-          {
-            "match_id": "6a723258",
-            "home_team": "Gol Gohar",
-            "away_team": "Aluminium Arak",
-            "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-            "kickoff": "2026-09-01T17:30:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.445,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Gol Gohar",
-                "away_team": "Aluminium Arak",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Gol Gohar vs Aluminium Arak: Double Chance 1X.",
-                "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-                "kickoff": "2026-09-01T17:30:00"
-              }
-            ],
-            "explanation": "Statarea tip for Gol Gohar vs Aluminium Arak: Double Chance 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "0e663654",
-        "home_team": "Shams Azar Qazvin",
-        "away_team": "Tractor Sazi",
-        "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-        "kickoff": "2026-09-01T17:45:00",
-        "picks": [
-          {
-            "match_id": "a7ffc791",
-            "home_team": "Shams Azar Qazvin",
-            "away_team": "Tractor Sazi",
-            "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-            "kickoff": "2026-09-01T17:45:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.445,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Shams Azar Qazvin",
-                "away_team": "Tractor Sazi",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Shams Azar Qazvin vs Tractor Sazi: 1X2 2.",
-                "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-                "kickoff": "2026-09-01T17:45:00"
-              }
-            ],
-            "explanation": "Statarea tip for Shams Azar Qazvin vs Tractor Sazi: 1X2 2."
-          }
-        ]
-      },
-      {
         "match_id": "8ca39430",
         "home_team": "Esteghlal Khuzestan",
         "away_team": "Chadormalu Ardakan Sc",
         "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-        "kickoff": "2026-09-01T17:30:00",
+        "kickoff": "2026-09-01T08:30:00",
         "picks": [
           {
             "match_id": "792d373b",
             "home_team": "Esteghlal Khuzestan",
             "away_team": "Chadormalu Ardakan Sc",
             "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-            "kickoff": "2026-09-01T17:30:00",
+            "kickoff": "2026-09-01T08:30:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
             "best_odds": null,
@@ -2049,10 +2397,88 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Esteghlal Khuzestan vs Chadormalu Ardakan Sc: Double Chance X2.",
                 "competition": "IRAN - PERSIAN GULF PRO LEAGUE",
-                "kickoff": "2026-09-01T17:30:00"
+                "kickoff": "2026-09-01T08:30:00"
               }
             ],
             "explanation": "Statarea tip for Esteghlal Khuzestan vs Chadormalu Ardakan Sc: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "2f37601b",
+        "home_team": "Al-Shamal",
+        "away_team": "Al-Rayyan SC",
+        "competition": "QATAR - QATAR CUP",
+        "kickoff": "2026-09-01T09:30:00",
+        "picks": [
+          {
+            "match_id": "ee0d4c84",
+            "home_team": "Al-Shamal",
+            "away_team": "Al-Rayyan SC",
+            "competition": "QATAR - QATAR CUP",
+            "kickoff": "2026-09-01T09:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.445,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Al-Shamal",
+                "away_team": "Al-Rayyan SC",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Al-Shamal vs Al-Rayyan SC: Double Chance X2.",
+                "competition": "QATAR - QATAR CUP",
+                "kickoff": "2026-09-01T09:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Al-Shamal vs Al-Rayyan SC: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "bb1cbd6e",
+        "home_team": "Al-Orobah FC",
+        "away_team": "Al-Zulfi",
+        "competition": "SAUDI ARABIA - DIVISION 1",
+        "kickoff": "2026-09-01T09:20:00",
+        "picks": [
+          {
+            "match_id": "4286849d",
+            "home_team": "Al-Orobah FC",
+            "away_team": "Al-Zulfi",
+            "competition": "SAUDI ARABIA - DIVISION 1",
+            "kickoff": "2026-09-01T09:20:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.445,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Al-Orobah FC",
+                "away_team": "Al-Zulfi",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Al-Orobah FC vs Al-Zulfi: 1X2 2.",
+                "competition": "SAUDI ARABIA - DIVISION 1",
+                "kickoff": "2026-09-01T09:20:00"
+              }
+            ],
+            "explanation": "Statarea tip for Al-Orobah FC vs Al-Zulfi: 1X2 2."
           }
         ]
       },
@@ -2252,45 +2678,6 @@
         ]
       },
       {
-        "match_id": "73ce6e86",
-        "home_team": "Al Tadhamon",
-        "away_team": "Al Salmiyah",
-        "competition": "Kuwait Premier League",
-        "kickoff": "2026-09-01T18:55:00+01:00",
-        "picks": [
-          {
-            "match_id": "334ef8aa",
-            "home_team": "Al Tadhamon",
-            "away_team": "Al Salmiyah",
-            "competition": "Kuwait Premier League",
-            "kickoff": "2026-09-01T18:55:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-al-tadhamon-vs-al-salmiyah-betting-tip-dii3i8d86/",
-                "home_team": "Al Tadhamon",
-                "away_team": "Al Salmiyah",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Al Tadhamon vs Al Salmiyah: 1X2 2.",
-                "competition": "Kuwait Premier League",
-                "kickoff": "2026-09-01T18:55:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Al Tadhamon vs Al Salmiyah: 1X2 2."
-          }
-        ]
-      },
-      {
         "match_id": "bd2dc646",
         "home_team": "DPMM FC Brunei",
         "away_team": "Terengganu",
@@ -2328,123 +2715,6 @@
             "explanation": "MyBets Today tip for DPMM FC Brunei vs Terengganu: 1X2 2."
           }
         ]
-      },
-      {
-        "match_id": "fa460dc5",
-        "home_team": "Al Hilal Riyadh",
-        "away_team": "Al Ahli Jeddah",
-        "competition": "Saudi Arabia Pro League",
-        "kickoff": "2026-09-01T19:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "a606e27a",
-            "home_team": "Al Hilal Riyadh",
-            "away_team": "Al Ahli Jeddah",
-            "competition": "Saudi Arabia Pro League",
-            "kickoff": "2026-09-01T19:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-al-hilal-riyadh-vs-al-ahli-jeddah-betting-tip-dii3i8ddd/",
-                "home_team": "Al Hilal Riyadh",
-                "away_team": "Al Ahli Jeddah",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Al Hilal Riyadh vs Al Ahli Jeddah: 1X2 1.",
-                "competition": "Saudi Arabia Pro League",
-                "kickoff": "2026-09-01T19:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Al Hilal Riyadh vs Al Ahli Jeddah: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "1b7e8639",
-        "home_team": "Al Jeel",
-        "away_team": "Jeddah Club",
-        "competition": "Saudi Arabia Division 1",
-        "kickoff": "2026-09-01T16:40:00+01:00",
-        "picks": [
-          {
-            "match_id": "5a10c730",
-            "home_team": "Al Jeel",
-            "away_team": "Jeddah Club",
-            "competition": "Saudi Arabia Division 1",
-            "kickoff": "2026-09-01T16:40:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-al-jeel-vs-jeddah-club-betting-tip-dii3i8d7d/",
-                "home_team": "Al Jeel",
-                "away_team": "Jeddah Club",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Al Jeel vs Jeddah Club: 1X2 1.",
-                "competition": "Saudi Arabia Division 1",
-                "kickoff": "2026-09-01T16:40:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Al Jeel vs Jeddah Club: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "c89d5d36",
-        "home_team": "Al Orubah",
-        "away_team": "Al Zulfi",
-        "competition": "Saudi Arabia Division 1",
-        "kickoff": "2026-09-01T17:20:00+01:00",
-        "picks": [
-          {
-            "match_id": "a40af87b",
-            "home_team": "Al Orubah",
-            "away_team": "Al Zulfi",
-            "competition": "Saudi Arabia Division 1",
-            "kickoff": "2026-09-01T17:20:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-al-orubah-vs-al-zulfi-betting-tip-dii3i8d72/",
-                "home_team": "Al Orubah",
-                "away_team": "Al Zulfi",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Al Orubah vs Al Zulfi: 1X2 1.",
-                "competition": "Saudi Arabia Division 1",
-                "kickoff": "2026-09-01T17:20:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Al Orubah vs Al Zulfi: 1X2 1."
-          }
-        ]
       }
     ],
     "leagues": {
@@ -2464,11 +2734,11 @@
               "kickoff": "2026-09-01T20:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.68,
+              "best_odds": 1.64,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.578,
+              "final_score": 0.57,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2554,6 +2824,45 @@
                 }
               ],
               "explanation": "Adibet tip for Al Hilal vs Al Ahli \n\t\t\t\t\t\t\t\tSC: Total Goals Over 2.5."
+            }
+          ]
+        },
+        {
+          "match_id": "bb1cbd6e",
+          "home_team": "Al-Orobah FC",
+          "away_team": "Al-Zulfi",
+          "competition": "SAUDI ARABIA - DIVISION 1",
+          "kickoff": "2026-09-01T09:20:00",
+          "picks": [
+            {
+              "match_id": "4286849d",
+              "home_team": "Al-Orobah FC",
+              "away_team": "Al-Zulfi",
+              "competition": "SAUDI ARABIA - DIVISION 1",
+              "kickoff": "2026-09-01T09:20:00",
+              "market": "1X2",
+              "recommended_pick": "2",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.445,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Al-Orobah FC",
+                  "away_team": "Al-Zulfi",
+                  "market": "1X2",
+                  "pick": "2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Al-Orobah FC vs Al-Zulfi: 1X2 2.",
+                  "competition": "SAUDI ARABIA - DIVISION 1",
+                  "kickoff": "2026-09-01T09:20:00"
+                }
+              ],
+              "explanation": "Statarea tip for Al-Orobah FC vs Al-Zulfi: 1X2 2."
             }
           ]
         },
@@ -2838,314 +3147,80 @@
   "Americas": {
     "all": [
       {
-        "match_id": "ad217bd6",
-        "home_team": "Instituto Cordoba",
-        "away_team": "San Lorenzo de Almagro",
-        "competition": "Argentina: Liga Profesional Argentina",
-        "kickoff": "TBD",
+        "match_id": "2918aba5",
+        "home_team": "Atletico Grau",
+        "away_team": "FBC Melgar",
+        "competition": "Peru: Primera División",
+        "kickoff": "2026-09-01T22:00:00+02:00",
         "picks": [
           {
-            "match_id": "1efc1182",
-            "home_team": "Instituto Cordoba",
-            "away_team": "San Lorenzo de Almagro",
-            "competition": "Argentina: Liga Profesional Argentina",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.88,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.618,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1493102&league_id=128",
-                "home_team": "Instituto Cordoba",
-                "away_team": "San Lorenzo de Almagro",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Instituto Cordoba vs San Lorenzo de Almagro: predicted score 1-0, tip 1.",
-                "competition": "Argentina: Liga Profesional Argentina",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Instituto Cordoba vs San Lorenzo de Almagro: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "e4e11999",
-        "home_team": "Tigre",
-        "away_team": "Barracas Central",
-        "competition": "Argentina: Liga Profesional Argentina",
-        "kickoff": "2026-09-01T01:15:00+01:00",
-        "picks": [
-          {
-            "match_id": "1a6caa04",
-            "home_team": "Tigre",
-            "away_team": "Barracas Central",
-            "competition": "Argentina: Liga Profesional Argentina",
-            "kickoff": "2026-09-01T01:15:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.85,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.6,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1493105&league_id=128",
-                "home_team": "Tigre",
-                "away_team": "Barracas Central",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Tigre vs Barracas Central: predicted score 1-0, tip 1.",
-                "competition": "Argentina: Liga Profesional Argentina",
-                "kickoff": null
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-tigre-vs-barracas-central-betting-tip-dii3i4835/",
-                "home_team": "Tigre",
-                "away_team": "Barracas Central",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Tigre vs Barracas Central: 1X2 1.",
-                "competition": "Argentina Liga Profesional",
-                "kickoff": "2026-09-01T01:15:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Tigre vs Barracas Central: predicted score 1-0, tip 1. | MyBets Today tip for Tigre vs Barracas Central: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "713eaf7f",
-        "home_team": "Cobreloa",
-        "away_team": "San Marcos de Arica",
-        "competition": "Chile: Primera B",
-        "kickoff": "2026-09-01T01:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "2cd73691",
-            "home_team": "Cobreloa",
-            "away_team": "San Marcos de Arica",
-            "competition": "Chile: Primera B",
-            "kickoff": "2026-09-01T01:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.85,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.6,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1511665&league_id=266",
-                "home_team": "Cobreloa",
-                "away_team": "San Marcos de Arica",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Cobreloa vs San Marcos de Arica: predicted score 1-0, tip 1.",
-                "competition": "Chile: Primera B",
-                "kickoff": null
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-cobreloa-vs-san-marcos-de-arica-betting-tip-dii3i7574/",
-                "home_team": "Cobreloa",
-                "away_team": "San Marcos de Arica",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Cobreloa vs San Marcos de Arica: 1X2 1.",
-                "competition": "Chile Primera B",
-                "kickoff": "2026-09-01T01:00:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Cobreloa vs San Marcos de Arica: predicted score 1-0, tip 1. | MyBets Today tip for Cobreloa vs San Marcos de Arica: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "d05e58ba",
-        "home_team": "U. Catolica",
-        "away_team": "O'Higgins",
-        "competition": "Chile: Primera División",
-        "kickoff": "2026-09-01T02:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "93f16dd8",
-            "home_team": "U. Catolica",
-            "away_team": "O'Higgins",
-            "competition": "Chile: Primera División",
-            "kickoff": "2026-09-01T02:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.73,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.588,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1505512&league_id=265",
-                "home_team": "U. Catolica",
-                "away_team": "O'Higgins",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for U. Catolica vs O'Higgins: predicted score 2-1, tip 1.",
-                "competition": "Chile: Primera División",
-                "kickoff": "2026-09-01T02:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for U. Catolica vs O'Higgins: predicted score 2-1, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "f37fb502",
-        "home_team": "Deportes Tolima",
-        "away_team": "Cucuta",
-        "competition": "Colombia: Primera A",
-        "kickoff": "2026-09-01T03:05:00+02:00",
-        "picks": [
-          {
-            "match_id": "451c0f14",
-            "home_team": "Deportes Tolima",
-            "away_team": "Cucuta",
-            "competition": "Colombia: Primera A",
-            "kickoff": "2026-09-01T03:05:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.38,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.518,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1549756&league_id=239",
-                "home_team": "Deportes Tolima",
-                "away_team": "Cucuta",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Deportes Tolima vs Cucuta: predicted score 1-0, tip 1.",
-                "competition": "Colombia: Primera A",
-                "kickoff": "2026-09-01T03:05:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Deportes Tolima vs Cucuta: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "e05a0fce",
-        "home_team": "Puerto Cabello",
-        "away_team": "Anzoátegui FC",
-        "competition": "Venezuela: Primera División",
-        "kickoff": "2026-09-01T00:30:00+01:00",
-        "picks": [
-          {
-            "match_id": "7fc8f1ed",
-            "home_team": "Puerto Cabello",
-            "away_team": "Anzoátegui FC",
-            "competition": "Venezuela: Primera División",
-            "kickoff": "2026-09-01T00:30:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.4,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.51,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1635241&league_id=299",
-                "home_team": "Puerto Cabello",
-                "away_team": "Anzoátegui FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Puerto Cabello vs Anzoátegui FC: predicted score 2-0, tip 1.",
-                "competition": "Venezuela: Primera División",
-                "kickoff": null
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-puerto-cabello-vs-anzoátegui-fc-betting-tip-dii3i7692/",
-                "home_team": "Puerto Cabello",
-                "away_team": "Anzoátegui FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Puerto Cabello vs Anzoátegui FC: 1X2 1.",
-                "competition": "Venezuela Primera División",
-                "kickoff": "2026-09-01T00:30:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Puerto Cabello vs Anzoátegui FC: predicted score 2-0, tip 1. | MyBets Today tip for Puerto Cabello vs Anzoátegui FC: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "a52e62c2",
-        "home_team": "Bahia W",
-        "away_team": "Palmeiras W",
-        "competition": "Brazil: Brasileiro Women",
-        "kickoff": "2026-09-01T02:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "ea3911f4",
-            "home_team": "Bahia W",
-            "away_team": "Palmeiras W",
-            "competition": "Brazil: Brasileiro Women",
-            "kickoff": "2026-09-01T02:30:00+02:00",
+            "match_id": "106b6f05",
+            "home_team": "Atletico Grau",
+            "away_team": "FBC Melgar",
+            "competition": "Peru: Primera División",
+            "kickoff": "2026-09-01T22:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.15,
+            "best_odds": 1.45,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.472,
+            "final_score": 0.532,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1634044&league_id=74",
-                "home_team": "Bahia W",
-                "away_team": "Palmeiras W",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1549469&league_id=281",
+                "home_team": "Atletico Grau",
+                "away_team": "FBC Melgar",
                 "market": "Double Chance",
                 "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Bahia W vs Palmeiras W: predicted score 1-1, tip X2.",
-                "competition": "Brazil: Brasileiro Women",
-                "kickoff": "2026-09-01T02:30:00+02:00"
+                "reason_summary": "Vitibet statistical model for Atletico Grau vs FBC Melgar: predicted score 1-1, tip X2.",
+                "competition": "Peru: Primera División",
+                "kickoff": "2026-09-01T22:00:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Bahia W vs Palmeiras W: predicted score 1-1, tip X2."
+            "explanation": "Vitibet statistical model for Atletico Grau vs FBC Melgar: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "d3742f95",
+        "home_team": "Montevideo City Torque",
+        "away_team": "Danubio",
+        "competition": "URUGUAY - COPA URUGUAY GROUP A",
+        "kickoff": "2026-09-01T16:15:00",
+        "picks": [
+          {
+            "match_id": "5cb2bf9a",
+            "home_team": "Montevideo City Torque",
+            "away_team": "Danubio",
+            "competition": "URUGUAY - COPA URUGUAY GROUP A",
+            "kickoff": "2026-09-01T16:15:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.445,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Montevideo City Torque",
+                "away_team": "Danubio",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Montevideo City Torque vs Danubio: 1X2 1.",
+                "competition": "URUGUAY - COPA URUGUAY GROUP A",
+                "kickoff": "2026-09-01T16:15:00"
+              }
+            ],
+            "explanation": "Statarea tip for Montevideo City Torque vs Danubio: 1X2 1."
           }
         ]
       },
@@ -3189,84 +3264,6 @@
         ]
       },
       {
-        "match_id": "7f05bdfb",
-        "home_team": "Boston Legacy W",
-        "away_team": "Angel City W",
-        "competition": "United States: NWSL Women",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "d0959852",
-            "home_team": "Boston Legacy W",
-            "away_team": "Angel City W",
-            "competition": "United States: NWSL Women",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.442,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1508529&league_id=254",
-                "home_team": "Boston Legacy W",
-                "away_team": "Angel City W",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Boston Legacy W vs Angel City W: predicted score 1-1, tip X2.",
-                "competition": "United States: NWSL Women",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Boston Legacy W vs Angel City W: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "f0cacaa8",
-        "home_team": "Instituto AC Cordoba",
-        "away_team": "San Lorenzo",
-        "competition": "Argentina Liga Profesional",
-        "kickoff": "2026-09-01T01:15:00+01:00",
-        "picks": [
-          {
-            "match_id": "e62d508a",
-            "home_team": "Instituto AC Cordoba",
-            "away_team": "San Lorenzo",
-            "competition": "Argentina Liga Profesional",
-            "kickoff": "2026-09-01T01:15:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-instituto-ac-cordoba-vs-san-lorenzo-betting-tip-dii3i4834/",
-                "home_team": "Instituto AC Cordoba",
-                "away_team": "San Lorenzo",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Instituto AC Cordoba vs San Lorenzo: 1X2 1.",
-                "competition": "Argentina Liga Profesional",
-                "kickoff": "2026-09-01T01:15:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Instituto AC Cordoba vs San Lorenzo: 1X2 1."
-          }
-        ]
-      },
-      {
         "match_id": "0af30e83",
         "home_team": "Londrina",
         "away_team": "Juventude",
@@ -3306,84 +3303,6 @@
         ]
       },
       {
-        "match_id": "048554b5",
-        "home_team": "Universidad Catolica",
-        "away_team": "OHiggins",
-        "competition": "Chile Liga de Primera",
-        "kickoff": "2026-09-01T01:45:00+01:00",
-        "picks": [
-          {
-            "match_id": "f10b937b",
-            "home_team": "Universidad Catolica",
-            "away_team": "OHiggins",
-            "competition": "Chile Liga de Primera",
-            "kickoff": "2026-09-01T01:45:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-universidad-catolica-vs-ohiggins-betting-tip-dii3i7433/",
-                "home_team": "Universidad Catolica",
-                "away_team": "OHiggins",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Universidad Catolica vs OHiggins: 1X2 1.",
-                "competition": "Chile Liga de Primera",
-                "kickoff": "2026-09-01T01:45:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Universidad Catolica vs OHiggins: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "e7f7ec34",
-        "home_team": "Deportes Tolima",
-        "away_team": "Cucuta Deportivo",
-        "competition": "Colombia Primera A",
-        "kickoff": "2026-09-01T02:05:00+01:00",
-        "picks": [
-          {
-            "match_id": "cf1180cf",
-            "home_team": "Deportes Tolima",
-            "away_team": "Cucuta Deportivo",
-            "competition": "Colombia Primera A",
-            "kickoff": "2026-09-01T02:05:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-deportes-tolima-vs-cucuta-deportivo-betting-tip-dii3i7625/",
-                "home_team": "Deportes Tolima",
-                "away_team": "Cucuta Deportivo",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Deportes Tolima vs Cucuta Deportivo: 1X2 1.",
-                "competition": "Colombia Primera A",
-                "kickoff": "2026-09-01T02:05:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Deportes Tolima vs Cucuta Deportivo: 1X2 1."
-          }
-        ]
-      },
-      {
         "match_id": "680ee0be",
         "home_team": "Barranquilla",
         "away_team": "Popayan",
@@ -3419,84 +3338,6 @@
               }
             ],
             "explanation": "MyBets Today tip for Barranquilla vs Popayan: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "2db8dab0",
-        "home_team": "Pitbulls Santa Barbara FC",
-        "away_team": "Santa Ana",
-        "competition": "Costa Rica Liga de Ascenso",
-        "kickoff": "2026-09-01T02:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "3cd3a6fd",
-            "home_team": "Pitbulls Santa Barbara FC",
-            "away_team": "Santa Ana",
-            "competition": "Costa Rica Liga de Ascenso",
-            "kickoff": "2026-09-01T02:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-pitbulls-santa-barbara-fc-vs-santa-ana-betting-tip-dii3i8d7i/",
-                "home_team": "Pitbulls Santa Barbara FC",
-                "away_team": "Santa Ana",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Pitbulls Santa Barbara FC vs Santa Ana: 1X2 1.",
-                "competition": "Costa Rica Liga de Ascenso",
-                "kickoff": "2026-09-01T02:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Pitbulls Santa Barbara FC vs Santa Ana: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "52180f15",
-        "home_team": "UMECIT",
-        "away_team": "Veraguas",
-        "competition": "Panama Liga Panameña de Fútbol",
-        "kickoff": "2026-09-01T02:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "bae42152",
-            "home_team": "UMECIT",
-            "away_team": "Veraguas",
-            "competition": "Panama Liga Panameña de Fútbol",
-            "kickoff": "2026-09-01T02:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-umecit-vs-veraguas-betting-tip-dii3i759d/",
-                "home_team": "UMECIT",
-                "away_team": "Veraguas",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for UMECIT vs Veraguas: 1X2 1.",
-                "competition": "Panama Liga Panameña de Fútbol",
-                "kickoff": "2026-09-01T02:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for UMECIT vs Veraguas: 1X2 1."
           }
         ]
       },
@@ -3583,14 +3424,14 @@
         "home_team": "2 De Mayo",
         "away_team": "Sportivo Luqueno",
         "competition": "PARAGUAY - DIVISION PROFESIONAL - CLAUSURA",
-        "kickoff": "2026-09-01T23:30:00",
+        "kickoff": "2026-09-01T14:30:00",
         "picks": [
           {
             "match_id": "29cc61d5",
             "home_team": "2 De Mayo",
             "away_team": "Sportivo Luqueno",
             "competition": "PARAGUAY - DIVISION PROFESIONAL - CLAUSURA",
-            "kickoff": "2026-09-01T23:30:00",
+            "kickoff": "2026-09-01T14:30:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": null,
@@ -3610,7 +3451,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for 2 De Mayo vs Sportivo Luqueno: Double Chance 1X.",
                 "competition": "PARAGUAY - DIVISION PROFESIONAL - CLAUSURA",
-                "kickoff": "2026-09-01T23:30:00"
+                "kickoff": "2026-09-01T14:30:00"
               }
             ],
             "explanation": "Statarea tip for 2 De Mayo vs Sportivo Luqueno: Double Chance 1X."
@@ -3648,21 +3489,21 @@
         ]
       },
       {
-        "match_id": "06b7bc70",
-        "home_team": "Remo",
-        "away_team": "Coritiba",
-        "competition": "Brazil: Serie A",
-        "kickoff": "TBD",
+        "match_id": "90d46ad4",
+        "home_team": "Delfin SC",
+        "away_team": "Tecnico Universitario",
+        "competition": "Ecuador: Liga Pro",
+        "kickoff": "2026-09-01T23:30:00+02:00",
         "picks": [
           {
-            "match_id": "6d39135c",
-            "home_team": "Remo",
-            "away_team": "Coritiba",
-            "competition": "Brazil: Serie A",
-            "kickoff": "TBD",
+            "match_id": "a6202e32",
+            "home_team": "Delfin SC",
+            "away_team": "Tecnico Universitario",
+            "competition": "Ecuador: Liga Pro",
+            "kickoff": "2026-09-01T23:30:00+02:00",
             "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.66,
+            "recommended_pick": "1X",
+            "best_odds": 1.22,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
@@ -3670,26 +3511,26 @@
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1492357&league_id=71",
-                "home_team": "Remo",
-                "away_team": "Coritiba",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1519473&league_id=242",
+                "home_team": "Delfin SC",
+                "away_team": "Tecnico Universitario",
                 "market": "Double Chance",
-                "pick": "X2",
+                "pick": "1X",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Remo vs Coritiba: predicted score 1-1, tip X2.",
-                "competition": "Brazil: Serie A",
-                "kickoff": null
+                "reason_summary": "Vitibet statistical model for Delfin SC vs Tecnico Universitario: predicted score 1-0, tip 1X.",
+                "competition": "Ecuador: Liga Pro",
+                "kickoff": "2026-09-01T23:30:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Remo vs Coritiba: predicted score 1-1, tip X2."
+            "explanation": "Vitibet statistical model for Delfin SC vs Tecnico Universitario: predicted score 1-0, tip 1X."
           },
           {
-            "match_id": "01b7efc2",
-            "home_team": "Remo",
-            "away_team": "Coritiba",
-            "competition": "Brazil Serie A",
-            "kickoff": "2026-09-01T00:00:00+01:00",
+            "match_id": "e101b500",
+            "home_team": "Delfin SC",
+            "away_team": "Tecnico Universitario",
+            "competition": "Ecuador LigaPro Serie A",
+            "kickoff": "2026-09-01T22:30:00+01:00",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": null,
@@ -3700,19 +3541,19 @@
             "sources": [
               {
                 "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-remo-vs-coritiba-betting-tip-dii3i4989/",
-                "home_team": "Remo",
-                "away_team": "Coritiba",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-delfin-sc-vs-tecnico-universitario-betting-tip-dii3i8di4/",
+                "home_team": "Delfin SC",
+                "away_team": "Tecnico Universitario",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Remo vs Coritiba: 1X2 1.",
-                "competition": "Brazil Serie A",
-                "kickoff": "2026-09-01T00:00:00+01:00"
+                "reason_summary": "MyBets Today tip for Delfin SC vs Tecnico Universitario: 1X2 1.",
+                "competition": "Ecuador LigaPro Serie A",
+                "kickoff": "2026-09-01T22:30:00+01:00"
               }
             ],
-            "explanation": "MyBets Today tip for Remo vs Coritiba: 1X2 1."
+            "explanation": "MyBets Today tip for Delfin SC vs Tecnico Universitario: 1X2 1."
           }
         ]
       }
@@ -3721,6 +3562,45 @@
   },
   "Africa": {
     "all": [
+      {
+        "match_id": "9ca2187b",
+        "home_team": "Singida Black Stars",
+        "away_team": "Namungo",
+        "competition": "Tanzania: Ligi kuu Bara",
+        "kickoff": "2026-09-01T18:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "6c4f41b0",
+            "home_team": "Singida Black Stars",
+            "away_team": "Namungo",
+            "competition": "Tanzania: Ligi kuu Bara",
+            "kickoff": "2026-09-01T18:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.45,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.532,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1600767&league_id=567",
+                "home_team": "Singida Black Stars",
+                "away_team": "Namungo",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Singida Black Stars vs Namungo: predicted score 1-0, tip 1.",
+                "competition": "Tanzania: Ligi kuu Bara",
+                "kickoff": "2026-09-01T18:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Singida Black Stars vs Namungo: predicted score 1-0, tip 1."
+          }
+        ]
+      },
       {
         "match_id": "6928583d",
         "home_team": "GOR Mahia",
@@ -3775,11 +3655,11 @@
             "kickoff": "2026-09-01T19:30:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 1.36,
+            "best_odds": 1.35,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.502,
+            "final_score": 0.5,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3817,14 +3697,14 @@
         "home_team": "Ghazl El-Mahalla",
         "away_team": "ENPPI",
         "competition": "EGYPT - PREMIER LEAGUE",
-        "kickoff": "2026-09-01T16:00:00",
+        "kickoff": "2026-09-01T07:00:00",
         "picks": [
           {
             "match_id": "a9b9c18f",
             "home_team": "Ghazl El-Mahalla",
             "away_team": "ENPPI",
             "competition": "EGYPT - PREMIER LEAGUE",
-            "kickoff": "2026-09-01T16:00:00",
+            "kickoff": "2026-09-01T07:00:00",
             "market": "1X2",
             "recommended_pick": "X",
             "best_odds": null,
@@ -3844,49 +3724,10 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Ghazl El-Mahalla vs ENPPI: 1X2 X.",
                 "competition": "EGYPT - PREMIER LEAGUE",
-                "kickoff": "2026-09-01T16:00:00"
+                "kickoff": "2026-09-01T07:00:00"
               }
             ],
             "explanation": "Statarea tip for Ghazl El-Mahalla vs ENPPI: 1X2 X."
-          }
-        ]
-      },
-      {
-        "match_id": "a89a2575",
-        "home_team": "Wadi Degla",
-        "away_team": "Olympic El Qanah",
-        "competition": "Egypt Premier League",
-        "kickoff": "2026-09-01T18:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "6222aad3",
-            "home_team": "Wadi Degla",
-            "away_team": "Olympic El Qanah",
-            "competition": "Egypt Premier League",
-            "kickoff": "2026-09-01T18:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.418,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-wadi-degla-vs-olympic-el-qanah-betting-tip-dii3i8d74/",
-                "home_team": "Wadi Degla",
-                "away_team": "Olympic El Qanah",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Wadi Degla vs Olympic El Qanah: 1X2 1.",
-                "competition": "Egypt Premier League",
-                "kickoff": "2026-09-01T18:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Wadi Degla vs Olympic El Qanah: 1X2 1."
           }
         ]
       },
@@ -3970,11 +3811,54 @@
       },
       {
         "match_id": "1c37605c",
-        "home_team": "Durban City FC",
+        "home_team": "Durban City",
         "away_team": "Stellenbosch",
-        "competition": "South Africa: Premier Soccer League",
-        "kickoff": "2026-09-01T19:30:00+02:00",
+        "competition": "South Africa Premier",
+        "kickoff": "2026-09-01T18:30:00+01:00",
         "picks": [
+          {
+            "match_id": "2effb020",
+            "home_team": "Durban City",
+            "away_team": "Stellenbosch",
+            "competition": "South Africa Premier",
+            "kickoff": "2026-09-01T18:30:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "X",
+            "best_odds": null,
+            "consensus_score": 0.667,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.279,
+            "sources": [
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-durban-city-vs-stellenbosch-betting-tip-dii3i8d67/",
+                "home_team": "Durban City",
+                "away_team": "Stellenbosch",
+                "market": "1X2",
+                "pick": "X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Durban City vs Stellenbosch: 1X2 X.",
+                "competition": "South Africa Premier",
+                "kickoff": "2026-09-01T18:30:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Durban City",
+                "away_team": "Stellenbosch FC",
+                "market": "1X2",
+                "pick": "X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Durban City vs Stellenbosch FC: 1X2 X.",
+                "competition": "SOUTH AFRICA - PREMIERSHIP",
+                "kickoff": "2026-09-01T10:30:00"
+              }
+            ],
+            "explanation": "MyBets Today tip for Durban City vs Stellenbosch: 1X2 X. | Statarea tip for Durban City vs Stellenbosch FC: 1X2 X."
+          },
           {
             "match_id": "b0f3cf1d",
             "home_team": "Durban City FC",
@@ -3984,10 +3868,10 @@
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": 1.39,
-            "consensus_score": 0.5,
+            "consensus_score": 0.333,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.222,
+            "final_score": 0.165,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4004,36 +3888,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Durban City FC vs Stellenbosch: predicted score 1-0, tip 1X."
-          },
-          {
-            "match_id": "2effb020",
-            "home_team": "Durban City",
-            "away_team": "Stellenbosch",
-            "competition": "South Africa Premier",
-            "kickoff": "2026-09-01T18:30:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "X",
-            "best_odds": null,
-            "consensus_score": 0.5,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.205,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-durban-city-vs-stellenbosch-betting-tip-dii3i8d67/",
-                "home_team": "Durban City",
-                "away_team": "Stellenbosch",
-                "market": "1X2",
-                "pick": "X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Durban City vs Stellenbosch: 1X2 X.",
-                "competition": "South Africa Premier",
-                "kickoff": "2026-09-01T18:30:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Durban City vs Stellenbosch: 1X2 X."
           }
         ]
       },
@@ -4052,7 +3906,7 @@
             "kickoff": "2026-09-01T16:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.23,
+            "best_odds": 1.24,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
@@ -4121,7 +3975,7 @@
             "kickoff": "2026-09-01T16:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.34,
+            "best_odds": 1.32,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
@@ -4172,6 +4026,75 @@
               }
             ],
             "explanation": "MyBets Today tip for Ghazl El Mehalla vs Enppi: 1X2 X."
+          }
+        ]
+      },
+      {
+        "match_id": "a89a2575",
+        "home_team": "Wadi Degla",
+        "away_team": "Olympic El Qanah",
+        "competition": "Egypt: Premier League",
+        "kickoff": "2026-09-01T19:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "f2f0a07d",
+            "home_team": "Wadi Degla",
+            "away_team": "Olympic El Qanah",
+            "competition": "Egypt: Premier League",
+            "kickoff": "2026-09-01T19:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.28,
+            "consensus_score": 0.5,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.222,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1612225&league_id=233",
+                "home_team": "Wadi Degla",
+                "away_team": "Olympic El Qanah",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Wadi Degla vs Olympic El Qanah: predicted score 1-1, tip 1X.",
+                "competition": "Egypt: Premier League",
+                "kickoff": "2026-09-01T19:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Wadi Degla vs Olympic El Qanah: predicted score 1-1, tip 1X."
+          },
+          {
+            "match_id": "6222aad3",
+            "home_team": "Wadi Degla",
+            "away_team": "Olympic El Qanah",
+            "competition": "Egypt Premier League",
+            "kickoff": "2026-09-01T18:00:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": null,
+            "consensus_score": 0.5,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.205,
+            "sources": [
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-wadi-degla-vs-olympic-el-qanah-betting-tip-dii3i8d74/",
+                "home_team": "Wadi Degla",
+                "away_team": "Olympic El Qanah",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Wadi Degla vs Olympic El Qanah: 1X2 1.",
+                "competition": "Egypt Premier League",
+                "kickoff": "2026-09-01T18:00:00+01:00"
+              }
+            ],
+            "explanation": "MyBets Today tip for Wadi Degla vs Olympic El Qanah: 1X2 1."
           }
         ]
       }
