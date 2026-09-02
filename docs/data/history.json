@@ -64706,7 +64706,7 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-09-02T04:32:07.306530+00:00",
-    "kickoff": "2026-09-02T17:30:00",
+    "kickoff": "2026-09-02T22:30:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -64726,7 +64726,7 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-09-02T04:32:07.306530+00:00",
-    "kickoff": "2026-09-02T15:00:00",
+    "kickoff": "2026-09-02T20:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -64746,7 +64746,7 @@
     "market": "1X2",
     "recommended_pick": "2",
     "predicted_at": "2026-09-02T04:32:07.306530+00:00",
-    "kickoff": "2026-09-02T16:00:00",
+    "kickoff": "2026-09-02T21:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -65373,6 +65373,66 @@
     "consensus_score": 0.5,
     "sources": [
       "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "grasshopper-club|st. gallen|1X2|2|2026-09-02",
+    "match_id": "ac3cfff1",
+    "home_team": "Grasshopper-Club",
+    "away_team": "FC St. Gallen",
+    "competition": "SWITZERLAND - SUPER LEAGUE",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-02T21:02:48.364848+00:00",
+    "kickoff": "2026-09-02T19:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "luton|stockport|Double Chance|1X|2026-09-02",
+    "match_id": "8d809d5e",
+    "home_team": "Luton",
+    "away_team": "Stockport",
+    "competition": "ENGLAND - LEAGUE ONE",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-02T21:02:48.364848+00:00",
+    "kickoff": "2026-09-02T19:45:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "reading|mansfield|Double Chance|12|2026-09-02",
+    "match_id": "30ad2956",
+    "home_team": "Reading",
+    "away_team": "Mansfield",
+    "competition": "ENGLAND - LEAGUE ONE",
+    "market": "Double Chance",
+    "recommended_pick": "12",
+    "predicted_at": "2026-09-02T21:02:48.364848+00:00",
+    "kickoff": "2026-09-02T20:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
