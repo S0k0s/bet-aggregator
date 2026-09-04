@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-03T11:21:05.175664+00:00",
-  "total": 3372,
+  "generated_at": "2026-09-04T11:24:21.171488+00:00",
+  "total": 3546,
   "counts": {
-    "hit": 1005,
-    "miss": 711,
+    "hit": 1052,
+    "miss": 733,
     "push": 1,
-    "unknown": 698,
-    "pending": 957
+    "unknown": 743,
+    "pending": 1017
   },
-  "hit_rate": 0.586,
+  "hit_rate": 0.589,
   "by_market": {
     "Correct Score": {
       "hit": 6,
-      "miss": 53,
+      "miss": 55,
       "push": 0,
-      "unknown": 41,
+      "unknown": 45,
       "pending": 24
     },
     "Double Chance": {
-      "hit": 366,
-      "miss": 178,
+      "hit": 381,
+      "miss": 183,
       "push": 0,
-      "unknown": 115,
-      "pending": 364
+      "unknown": 120,
+      "pending": 376
     },
     "1X2": {
-      "hit": 598,
-      "miss": 465,
+      "hit": 629,
+      "miss": 480,
       "push": 0,
-      "unknown": 438,
-      "pending": 530
+      "unknown": 468,
+      "pending": 570
     },
     "Total Goals": {
-      "hit": 30,
+      "hit": 31,
       "miss": 11,
       "push": 0,
       "unknown": 26,
-      "pending": 18
+      "pending": 24
     },
     "Draw No Bet": {
       "hit": 0,
@@ -49,8 +49,8 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 29,
-      "pending": 6
+      "unknown": 32,
+      "pending": 5
     },
     "Win To Nil": {
       "hit": 0,
@@ -63,15 +63,15 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 15,
-      "pending": 4
+      "unknown": 16,
+      "pending": 5
     },
     "BTTS": {
       "hit": 3,
       "miss": 2,
       "push": 0,
       "unknown": 6,
-      "pending": 4
+      "pending": 6
     },
     "Team Total Goals": {
       "hit": 0,
@@ -92,7 +92,7 @@
       "miss": 0,
       "push": 0,
       "unknown": 9,
-      "pending": 3
+      "pending": 5
     },
     "Both Teams To Score And Total Goals": {
       "hit": 0,
@@ -105,15 +105,15 @@
       "hit": 2,
       "miss": 0,
       "push": 0,
-      "unknown": 0,
-      "pending": 1
+      "unknown": 1,
+      "pending": 0
     },
     "Half Time - Full Time": {
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 0,
-      "pending": 2
+      "unknown": 1,
+      "pending": 1
     }
   }
 }
