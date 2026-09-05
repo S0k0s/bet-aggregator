@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-04T11:24:21.171488+00:00",
-  "total": 3546,
+  "generated_at": "2026-09-05T10:41:30.540208+00:00",
+  "total": 3883,
   "counts": {
-    "hit": 1052,
-    "miss": 733,
+    "hit": 1117,
+    "miss": 775,
     "push": 1,
-    "unknown": 743,
-    "pending": 1017
+    "unknown": 817,
+    "pending": 1173
   },
-  "hit_rate": 0.589,
+  "hit_rate": 0.59,
   "by_market": {
     "Correct Score": {
-      "hit": 6,
-      "miss": 55,
+      "hit": 7,
+      "miss": 56,
       "push": 0,
-      "unknown": 45,
-      "pending": 24
+      "unknown": 49,
+      "pending": 38
     },
     "Double Chance": {
-      "hit": 381,
-      "miss": 183,
+      "hit": 402,
+      "miss": 187,
       "push": 0,
-      "unknown": 120,
-      "pending": 376
+      "unknown": 131,
+      "pending": 434
     },
     "1X2": {
-      "hit": 629,
-      "miss": 480,
+      "hit": 670,
+      "miss": 515,
       "push": 0,
-      "unknown": 468,
-      "pending": 570
+      "unknown": 515,
+      "pending": 643
     },
     "Total Goals": {
-      "hit": 31,
-      "miss": 11,
+      "hit": 33,
+      "miss": 12,
       "push": 0,
-      "unknown": 26,
-      "pending": 24
+      "unknown": 30,
+      "pending": 27
     },
     "Draw No Bet": {
       "hit": 0,
@@ -49,8 +49,8 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 32,
-      "pending": 5
+      "unknown": 34,
+      "pending": 11
     },
     "Win To Nil": {
       "hit": 0,
@@ -63,15 +63,15 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 16,
-      "pending": 5
+      "unknown": 17,
+      "pending": 8
     },
     "BTTS": {
       "hit": 3,
-      "miss": 2,
+      "miss": 3,
       "push": 0,
-      "unknown": 6,
-      "pending": 6
+      "unknown": 7,
+      "pending": 8
     },
     "Team Total Goals": {
       "hit": 0,
@@ -85,14 +85,14 @@
       "miss": 0,
       "push": 0,
       "unknown": 6,
-      "pending": 0
+      "pending": 1
     },
     "Both Teams To Score And Win": {
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 9,
-      "pending": 5
+      "unknown": 12,
+      "pending": 2
     },
     "Both Teams To Score And Total Goals": {
       "hit": 0,
@@ -112,8 +112,8 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 1,
-      "pending": 1
+      "unknown": 2,
+      "pending": 0
     }
   }
 }
