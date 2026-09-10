@@ -95927,10 +95927,11 @@
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T19:00:00+02:00",
     "best_odds": 1.9,
-    "source_count": 2,
+    "source_count": 3,
     "consensus_score": 1.0,
     "sources": [
       "MyBetsToday",
+      "Statarea",
       "Vitibet"
     ],
     "final_score": null,
@@ -95969,9 +95970,10 @@
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T20:00:00+02:00",
     "best_odds": 1.61,
-    "source_count": 1,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
+      "Statarea",
       "Vitibet"
     ],
     "final_score": null,
@@ -96052,7 +96054,7 @@
     "kickoff": "2026-09-10T21:00:00+02:00",
     "best_odds": 1.47,
     "source_count": 1,
-    "consensus_score": 1.0,
+    "consensus_score": 0.5,
     "sources": [
       "Vitibet"
     ],
@@ -96072,7 +96074,7 @@
     "kickoff": "2026-09-10T20:15:00+02:00",
     "best_odds": 1.28,
     "source_count": 2,
-    "consensus_score": 1.0,
+    "consensus_score": 0.667,
     "sources": [
       "Adibet",
       "Vitibet"
@@ -96131,7 +96133,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T17:00:00+02:00",
-    "best_odds": 1.29,
+    "best_odds": 1.33,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -96373,10 +96375,11 @@
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T18:00:00+01:00",
     "best_odds": null,
-    "source_count": 1,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
-      "MyBetsToday"
+      "MyBetsToday",
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
@@ -96411,12 +96414,14 @@
     "market": "1X2",
     "recommended_pick": "2",
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
-    "kickoff": "2026-09-10T17:45:00+01:00",
-    "best_odds": null,
-    "source_count": 1,
+    "kickoff": "2026-09-10T16:45:00+00:00",
+    "best_odds": 2.25,
+    "source_count": 3,
     "consensus_score": 1.0,
     "sources": [
-      "MyBetsToday"
+      "FreeSuperTips",
+      "MyBetsToday",
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
@@ -96434,7 +96439,7 @@
     "kickoff": "2026-09-10T17:45:00+01:00",
     "best_odds": null,
     "source_count": 1,
-    "consensus_score": 1.0,
+    "consensus_score": 0.5,
     "sources": [
       "MyBetsToday"
     ],
@@ -96453,10 +96458,11 @@
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T20:00:00+01:00",
     "best_odds": null,
-    "source_count": 1,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
-      "MyBetsToday"
+      "MyBetsToday",
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
@@ -96493,10 +96499,11 @@
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T15:45:00+01:00",
     "best_odds": null,
-    "source_count": 1,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
-      "MyBetsToday"
+      "MyBetsToday",
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
@@ -96532,7 +96539,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T15:40:00+02:00",
-    "best_odds": 1.44,
+    "best_odds": 1.54,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -96572,7 +96579,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T18:00:00+02:00",
-    "best_odds": 1.29,
+    "best_odds": 1.22,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -96754,9 +96761,10 @@
     "predicted_at": "2026-09-09T23:14:22.617960+00:00",
     "kickoff": "2026-09-10T16:00:00+02:00",
     "best_odds": 1.1,
-    "source_count": 1,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
+      "Statarea",
       "Vitibet"
     ],
     "final_score": null,
@@ -97509,6 +97517,991 @@
     "consensus_score": 0.5,
     "sources": [
       "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bayern munich|bodo glimt|Correct Score|Bayern Munich 5-1|2026-09-10",
+    "match_id": "dc84ba3e",
+    "home_team": "Bayern Munich",
+    "away_team": "Bodo Glimt",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Bayern Munich 5-1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 15.0,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bayern munich|bodo glimt|Team Total Goals|Bayern Munich Over 3.5 Team Goals|2026-09-10",
+    "match_id": "b25f2bfe",
+    "home_team": "Bayern Munich",
+    "away_team": "Bodo Glimt",
+    "competition": "UEFA Champions League",
+    "market": "Team Total Goals",
+    "recommended_pick": "Bayern Munich Over 3.5 Team Goals",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 1.8,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bayern munich|bodo glimt|Goal Scorer - Anytime|Harry Kane To Score Anytime|2026-09-10",
+    "match_id": "9807b4ed",
+    "home_team": "Bayern Munich",
+    "away_team": "Bodo Glimt",
+    "competition": "UEFA Champions League",
+    "market": "Goal Scorer - Anytime",
+    "recommended_pick": "Harry Kane To Score Anytime",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 1.3,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "manchester united|sabah|Correct Score|Manchester United 5-1|2026-09-10",
+    "match_id": "bf8685d9",
+    "home_team": "Manchester United",
+    "away_team": "Sabah FK",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Manchester United 5-1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 19.0,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "manchester united|sabah|Both Teams To Score And Win|Manchester United and Both Teams To Score|2026-09-10",
+    "match_id": "f6c7e14a",
+    "home_team": "Manchester United",
+    "away_team": "Sabah FK",
+    "competition": "UEFA Champions League",
+    "market": "Both Teams To Score And Win",
+    "recommended_pick": "Manchester United and Both Teams To Score",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 2.38,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "manchester united|sabah|Goal Scorer - Anytime|Marcus Rashford To Score Anytime|2026-09-10",
+    "match_id": "6987a46b",
+    "home_team": "Manchester United",
+    "away_team": "Sabah FK",
+    "competition": "UEFA Champions League",
+    "market": "Goal Scorer - Anytime",
+    "recommended_pick": "Marcus Rashford To Score Anytime",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 1.83,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fenerbahce|roma|Correct Score|Roma 2-1|2026-09-10",
+    "match_id": "4c414b42",
+    "home_team": "Fenerbahce",
+    "away_team": "Roma",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Roma 2-1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T16:45:00+00:00",
+    "best_odds": 9.0,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fenerbahce|roma|Goal Scorer - Anytime|Donyell Malen To Score Anytime|2026-09-10",
+    "match_id": "ac2b2799",
+    "home_team": "Fenerbahce",
+    "away_team": "Roma",
+    "competition": "UEFA Champions League",
+    "market": "Goal Scorer - Anytime",
+    "recommended_pick": "Donyell Malen To Score Anytime",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T16:45:00+00:00",
+    "best_odds": 2.05,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slavia prague|lens|1X2|X|2026-09-10",
+    "match_id": "eae471b2",
+    "home_team": "Slavia Prague",
+    "away_team": "Lens",
+    "competition": "UEFA Champions League",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 3.5,
+    "source_count": 2,
+    "consensus_score": 0.667,
+    "sources": [
+      "FreeSuperTips",
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slavia prague|lens|Correct Score|Draw 1-1|2026-09-10",
+    "match_id": "c362f71c",
+    "home_team": "Slavia Prague",
+    "away_team": "Lens",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Draw 1-1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 6.5,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slavia prague|lens|Total Goals|Over 1.5|2026-09-10",
+    "match_id": "eec0a9b3",
+    "home_team": "Slavia Prague",
+    "away_team": "Lens",
+    "competition": "Europe ",
+    "market": "Total Goals",
+    "recommended_pick": "Over 1.5",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ironi modi'in|bnei yehuda|1X2|2|2026-09-10",
+    "match_id": "a539576f",
+    "home_team": "Ironi Modi'in",
+    "away_team": "Bnei Yehuda",
+    "competition": "Israel: Liga Leumit",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T18:00:00+02:00",
+    "best_odds": 1.55,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hapoel kfar saba|maccabi kiryat gat|Double Chance|1X|2026-09-10",
+    "match_id": "751c956c",
+    "home_team": "Hapoel Kfar Saba",
+    "away_team": "Maccabi Kiryat Gat",
+    "competition": "Israel: Liga Leumit",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T18:00:00+02:00",
+    "best_odds": 1.41,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "maccabi kabilio jaffa|hapoel ra'anana|Double Chance|X2|2026-09-10",
+    "match_id": "835bdfea",
+    "home_team": "Maccabi Kabilio Jaffa",
+    "away_team": "Hapoel Ra'anana",
+    "competition": "Israel: Liga Leumit",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T18:00:00+02:00",
+    "best_odds": 1.37,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "panathinaikos|kifisia|Double Chance|1X|2026-09-10",
+    "match_id": "77d535df",
+    "home_team": "Panathinaikos",
+    "away_team": "Kifisia",
+    "competition": "GREECE - SUPER LEAGUE",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T14:15:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "psv|shakhtar donetsk|Correct Score|PSV 3-2|2026-09-10",
+    "match_id": "85137928",
+    "home_team": "PSV",
+    "away_team": "Shakhtar Donetsk",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "PSV 3-2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T16:45:00+00:00",
+    "best_odds": 19.0,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "psv|shakhtar donetsk|Total Goals|Over 3.5 Match Goals|2026-09-10",
+    "match_id": "2f03a328",
+    "home_team": "PSV",
+    "away_team": "Shakhtar Donetsk",
+    "competition": "UEFA Champions League",
+    "market": "Total Goals",
+    "recommended_pick": "Over 3.5 Match Goals",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T16:45:00+00:00",
+    "best_odds": 2.1,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "psv|shakhtar donetsk|Goal Scorer - Anytime|Ricardo Pepi To Score Anytime|2026-09-10",
+    "match_id": "52844774",
+    "home_team": "PSV",
+    "away_team": "Shakhtar Donetsk",
+    "competition": "UEFA Champions League",
+    "market": "Goal Scorer - Anytime",
+    "recommended_pick": "Ricardo Pepi To Score Anytime",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T16:45:00+00:00",
+    "best_odds": 1.9100000000000001,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "como|rb leipzig|1X2|1|2026-09-10",
+    "match_id": "d19e8c6b",
+    "home_team": "Como",
+    "away_team": "RB Leipzig",
+    "competition": "UEFA Champions League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 1.85,
+    "source_count": 3,
+    "consensus_score": 0.75,
+    "sources": [
+      "FreeSuperTips",
+      "MyBetsToday",
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "como|rb leipzig|Correct Score|Como 2-0|2026-09-10",
+    "match_id": "6afaf821",
+    "home_team": "Como",
+    "away_team": "RB Leipzig",
+    "competition": "UEFA Champions League",
+    "market": "Correct Score",
+    "recommended_pick": "Como 2-0",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00+00:00",
+    "best_odds": 11.0,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "como|rb leipzig|BTTS|Yes|2026-09-10",
+    "match_id": "c3bc1575",
+    "home_team": "Como",
+    "away_team": "RB Leipzig",
+    "competition": "Europe ",
+    "market": "BTTS",
+    "recommended_pick": "Yes",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "slavia praha|lens|1X2|2|2026-09-10",
+    "match_id": "436c6fe9",
+    "home_team": "Slavia Praha",
+    "away_team": "Lens",
+    "competition": "INTERNATIONAL - CHAMPIONS LEAGUE",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T15:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dubai united|shabab al ahli dubai|1X2|2|2026-09-10",
+    "match_id": "ee63196c",
+    "home_team": "Dubai United",
+    "away_team": "Shabab Al Ahli Dubai",
+    "competition": "United-Arab-Emirates: Pro League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T15:40:00+02:00",
+    "best_odds": 1.25,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "al-sailiya|al-sadd|1X2|2|2026-09-10",
+    "match_id": "991de2be",
+    "home_team": "Al-Sailiya",
+    "away_team": "Al-Sadd",
+    "competition": "QATAR - QATAR STARS LEAGUE",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T12:15:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "al-jazeera amman|shabab al-ordon|1X2|X|2026-09-10",
+    "match_id": "ffcbd73b",
+    "home_team": "Al-Jazeera Amman",
+    "away_team": "Shabab Al-Ordon",
+    "competition": "JORDAN - PRO LEAGUE",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T12:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "andijan|kokand 1912|Double Chance|1X|2026-09-10",
+    "match_id": "cc981dd5",
+    "home_team": "FK Andijan",
+    "away_team": "Kokand 1912",
+    "competition": "UZBEKISTAN - SUPERLIGA",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T10:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "san diego|san jose earthquakes|1X2|1|unknown-date",
+    "match_id": "57e81167",
+    "home_team": "San Diego",
+    "away_team": "San Jose Earthquakes",
+    "competition": "United States: Major League Soccer",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.73,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "independiente del valle|flamengo|Double Chance|1X|2026-09-10",
+    "match_id": "920d1487",
+    "home_team": "Independiente Del Valle",
+    "away_team": "Flamengo",
+    "competition": "INTERNATIONAL - COPA LIBERTADORES KNOCKOUT STAGE",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T20:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "millonarios|deportivo cali|1X2|1|2026-09-10",
+    "match_id": "b7a466d9",
+    "home_team": "Millonarios",
+    "away_team": "Deportivo Cali",
+    "competition": "COLOMBIA - PRIMERA A APERTURA FINALIZACION",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T21:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "u.n.a.m. - pumas|leon|Double Chance|12|2026-09-10",
+    "match_id": "346dcceb",
+    "home_team": "U.N.A.M. - Pumas",
+    "away_team": "Leon",
+    "competition": "MEXICO - LIGA MX APERTURA",
+    "market": "Double Chance",
+    "recommended_pick": "12",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T23:05:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "antofagasta|cobreloa|Double Chance|1X|2026-09-10",
+    "match_id": "9094c804",
+    "home_team": "Antofagasta",
+    "away_team": "Cobreloa",
+    "competition": "CHILE - PRIMERA B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T19:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ca cerro|cerrito|Double Chance|1X|2026-09-10",
+    "match_id": "e4bc2519",
+    "home_team": "CA Cerro",
+    "away_team": "Cerrito",
+    "competition": "URUGUAY - COPA URUGUAY GROUP C",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T15:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cienciano|montevideo city torque|1X2|1|2026-09-10",
+    "match_id": "3ef2edcc",
+    "home_team": "Cienciano",
+    "away_team": "Montevideo City Torque",
+    "competition": "INTERNATIONAL - COPA SUDAMERICANA KNOCKOUT STAGE",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T20:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "12 de junio vh|atletico tembetary|1X2|1|2026-09-10",
+    "match_id": "fc5689d8",
+    "home_team": "12 de Junio VH",
+    "away_team": "Atlético Tembetary",
+    "competition": "Paraguay Division Intermedia",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T23:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cerro|cerrito|1X2|1|2026-09-10",
+    "match_id": "8a13755a",
+    "home_team": "Cerro",
+    "away_team": "Cerrito",
+    "competition": "Uruguay Copa Uruguay",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "the town|ventura county|1X2|1|2026-09-10",
+    "match_id": "084bf8d7",
+    "home_team": "The Town",
+    "away_team": "Ventura County",
+    "competition": "USA MLS Next Pro",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T21:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sportivo carapegua|benjamin aceval|1X2|2|2026-09-10",
+    "match_id": "3e47c371",
+    "home_team": "Sportivo Carapeguá",
+    "away_team": "Benjamín Aceval",
+    "competition": "Paraguay Division Intermedia",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T20:30:00+01:00",
+    "best_odds": null,
+    "source_count": 2,
+    "consensus_score": 0.667,
+    "sources": [
+      "MyBetsToday",
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sportivo carapegua|benjamin aceval|Double Chance|X2|2026-09-10",
+    "match_id": "dc7b7737",
+    "home_team": "Sportivo Carapeguá",
+    "away_team": "Benjamín Aceval",
+    "competition": "Paraguay: Division Intermedia",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T21:30:00+02:00",
+    "best_odds": 1.2,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "portland timbers|st. louis city|Double Chance|X2|unknown-date",
+    "match_id": "b79eb241",
+    "home_team": "Portland Timbers",
+    "away_team": "St. Louis City",
+    "competition": "United States: Major League Soccer",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cumbaya|gualaceo|Double Chance|X2|2026-09-10",
+    "match_id": "e50cd7fc",
+    "home_team": "Cumbayá",
+    "away_team": "Gualaceo SC",
+    "competition": "Ecuador: Liga Pro Serie B",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T22:30:00+02:00",
+    "best_odds": 1.54,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cumbaya|gualaceo|1X2|1|2026-09-10",
+    "match_id": "4bfb087b",
+    "home_team": "Cumbayá",
+    "away_team": "Gualaceo SC",
+    "competition": "Ecuador Liga Pro Serie B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T21:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sao bernardo|londrina|Double Chance|1X|2026-09-10",
+    "match_id": "1585cf03",
+    "home_team": "Sao Bernardo",
+    "away_team": "Londrina",
+    "competition": "BRAZIL - SERIE B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T18:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sao bernardo|londrina|1X2|1|2026-09-10",
+    "match_id": "1a7b3889",
+    "home_team": "Sao Bernardo",
+    "away_team": "Londrina",
+    "competition": "Brazil Serie B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T23:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "vila nova|goias|Double Chance|1X|2026-09-10",
+    "match_id": "656cbb7b",
+    "home_team": "Vila Nova",
+    "away_team": "Goias",
+    "competition": "BRAZIL - SERIE B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T18:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "vila nova|goias|1X2|1|2026-09-10",
+    "match_id": "468c7219",
+    "home_team": "Vila Nova",
+    "away_team": "Goias",
+    "competition": "Brazil Serie B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T23:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "orsomarso|tigres|Double Chance|1X|2026-09-10",
+    "match_id": "34ac2ce1",
+    "home_team": "Orsomarso",
+    "away_team": "Tigres FC",
+    "competition": "COLOMBIA - PRIMERA B CLAUSURA",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T18:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "orsomarso|tigres|1X2|1|2026-09-10",
+    "match_id": "3f36dc02",
+    "home_team": "Orsomarso",
+    "away_team": "Tigres FC",
+    "competition": "Colombia Primera B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T23:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "kahrbaa alasmalia|el dakhleya|Double Chance|1X|2026-09-10",
+    "match_id": "517822df",
+    "home_team": "Kahrbaa Alasmalia",
+    "away_team": "El Dakhleya",
+    "competition": "EGYPT - 2. DIVISION",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T09:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "pharco|baladiyat el mahalla|Double Chance|X2|2026-09-10",
+    "match_id": "b59e92c2",
+    "home_team": "Pharco FC",
+    "away_team": "Baladiyat El Mahalla Sc",
+    "competition": "EGYPT - 2. DIVISION",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-10T04:41:03.077230+00:00",
+    "kickoff": "2026-09-10T09:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
