@@ -103991,7 +103991,7 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-09-11T23:18:23.207724+00:00",
-    "kickoff": "2026-09-12T21:00:00+02:00",
+    "kickoff": "2026-09-12T20:00:00+01:00",
     "best_odds": 1.15,
     "source_count": 3,
     "consensus_score": 0.75,
@@ -104197,10 +104197,11 @@
     "predicted_at": "2026-09-11T23:18:23.207724+00:00",
     "kickoff": "2026-09-12T19:45:00+01:00",
     "best_odds": null,
-    "source_count": 1,
-    "consensus_score": 1.0,
+    "source_count": 2,
+    "consensus_score": 0.667,
     "sources": [
-      "MyBetsToday"
+      "MyBetsToday",
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
@@ -106516,7 +106517,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-11T23:18:23.207724+00:00",
     "kickoff": "2026-09-12T23:30:00+02:00",
-    "best_odds": 1.65,
+    "best_odds": 1.62,
     "source_count": 3,
     "consensus_score": 1.0,
     "sources": [
@@ -106921,7 +106922,7 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-09-11T23:18:23.207724+00:00",
-    "kickoff": "2026-09-12T22:00:00+02:00",
+    "kickoff": "2026-09-12T21:00:00+01:00",
     "best_odds": null,
     "source_count": 2,
     "consensus_score": 1.0,
@@ -110327,6 +110328,666 @@
     "consensus_score": 0.5,
     "sources": [
       "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "academico viseu|vitoria|1X2|1|unknown-date",
+    "match_id": "acc315be",
+    "home_team": "Academico Viseu",
+    "away_team": "Vitória SC",
+    "competition": "Portugal: Primeira Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 3.7,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atalanta bc|cagliari calcio|1X2|1|unknown-date",
+    "match_id": "04bedac9",
+    "home_team": "Atalanta BC",
+    "away_team": "Cagliari Calcio",
+    "competition": "Italy: Serie A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.67,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cambuur|nec nijmegen|1X2|2|unknown-date",
+    "match_id": "90ac6fa1",
+    "home_team": "Cambuur",
+    "away_team": "NEC Nijmegen",
+    "competition": "Netherlands: Eredivisie",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.57,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "union saint-gilloise|lommel united|1X2|1|unknown-date",
+    "match_id": "abebb297",
+    "home_team": "Union Saint-Gilloise",
+    "away_team": "Lommel United",
+    "competition": "Belgium: Jupiler Pro League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.2,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "union saint gilloise|lommel|1X2|1|2026-09-12",
+    "match_id": "92e568c5",
+    "home_team": "Union Saint Gilloise",
+    "away_team": "Lommel",
+    "competition": "Belgium First Division A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T19:45:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "merida|mirandes|1X2|X|2026-09-12",
+    "match_id": "2e5ff5a8",
+    "home_team": "Merida",
+    "away_team": "Mirandes",
+    "competition": "Spain Primera Division RFEF Group 1",
+    "market": "1X2",
+    "recommended_pick": "X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atalanta|cagliari|Correct Score|Atalanta 2-0|2026-09-12",
+    "match_id": "64279e66",
+    "home_team": "Atalanta",
+    "away_team": "Cagliari",
+    "competition": "Italian Serie A",
+    "market": "Correct Score",
+    "recommended_pick": "Atalanta 2-0",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T18:45:00+00:00",
+    "best_odds": 7.0,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atalanta|cagliari|Win To Nil|Atalanta To Win To Nil|2026-09-12",
+    "match_id": "7e99fd29",
+    "home_team": "Atalanta",
+    "away_team": "Cagliari",
+    "competition": "Italian Serie A",
+    "market": "Win To Nil",
+    "recommended_pick": "Atalanta To Win To Nil",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T18:45:00+00:00",
+    "best_odds": 2.5,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "le havre|angers|Double Chance|1X|unknown-date",
+    "match_id": "b2c53a04",
+    "home_team": "Le Havre",
+    "away_team": "Angers",
+    "competition": "France: Ligue 1",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.38,
+    "source_count": 1,
+    "consensus_score": 0.25,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "oh leuven|cercle brugge|Double Chance|X2|unknown-date",
+    "match_id": "3c90eb9e",
+    "home_team": "OH Leuven",
+    "away_team": "Cercle Brugge",
+    "competition": "Belgium: Jupiler Pro League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.48,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "borac banja luka|zrinjski|Double Chance|X2|unknown-date",
+    "match_id": "780e0309",
+    "home_team": "Borac Banja Luka",
+    "away_team": "Zrinjski",
+    "competition": "Bosnia: Premijer Liga",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "borac banja luka|zrinjski|1X2|1|2026-09-12",
+    "match_id": "770bcc3d",
+    "home_team": "Borac Banja Luka",
+    "away_team": "Zrinjski",
+    "competition": "Bosnia Premijer Liga",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T19:45:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "rayo majadahonda|cartagena|1X2|2|2026-09-12",
+    "match_id": "77ee63d8",
+    "home_team": "Rayo Majadahonda",
+    "away_team": "FC Cartagena",
+    "competition": "Spain Primera Division RFEF Group 2",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "paris|lyon|Double Chance|X2|unknown-date",
+    "match_id": "3b5fa9f6",
+    "home_team": "Paris FC",
+    "away_team": "Lyon",
+    "competition": "France: Ligue 1",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.44,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cordoba|almeria|Double Chance|X2|unknown-date",
+    "match_id": "768bd53e",
+    "home_team": "Cordoba",
+    "away_team": "Almeria",
+    "competition": "Spain: Segunda División",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.47,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cordoba|almeria|1X2|1|2026-09-12",
+    "match_id": "1337a0db",
+    "home_team": "Cordoba",
+    "away_team": "Almeria",
+    "competition": "Spain Segunda",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T20:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "wanderers|club nacional|Double Chance|1X|unknown-date",
+    "match_id": "432b3e74",
+    "home_team": "Wanderers",
+    "away_team": "Club Nacional",
+    "competition": "Uruguay: Primera División",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.91,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "chapecoense-|internacional|Double Chance|1X|unknown-date",
+    "match_id": "b6209e1d",
+    "home_team": "Chapecoense-sc",
+    "away_team": "Internacional",
+    "competition": "Brazil: Serie A",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.74,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "gualberto villarroel sj|nacional potosi|Double Chance|X2|unknown-date",
+    "match_id": "5b867742",
+    "home_team": "Gualberto Villarroel SJ",
+    "away_team": "Nacional Potosí",
+    "competition": "Bolivia: Primera División",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.34,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atletico-mg|fluminense|Double Chance|1X|unknown-date",
+    "match_id": "fc1a78bf",
+    "home_team": "Atletico-MG",
+    "away_team": "Fluminense",
+    "competition": "Brazil: Serie A",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.22,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "all boys|san telmo|Double Chance|1X|unknown-date",
+    "match_id": "40ead57b",
+    "home_team": "All Boys",
+    "away_team": "San Telmo",
+    "competition": "Argentina: Primera Nacional",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ciudad de bolivar|central norte|Double Chance|1X|unknown-date",
+    "match_id": "aa2b0a88",
+    "home_team": "Ciudad de Bolívar",
+    "away_team": "Central Norte",
+    "competition": "Argentina: Primera Nacional",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "quilmes|san martin s.j.|Double Chance|X2|unknown-date",
+    "match_id": "8dd569c2",
+    "home_team": "Quilmes",
+    "away_team": "San Martin S.J.",
+    "competition": "Argentina: Primera Nacional",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "manta|aucas|Double Chance|X2|unknown-date",
+    "match_id": "a8454011",
+    "home_team": "Manta FC",
+    "away_team": "Aucas",
+    "competition": "Ecuador: Liga Pro",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "brown de adrogue|san martin burzaco|Double Chance|1X|unknown-date",
+    "match_id": "446e4f4d",
+    "home_team": "Brown DE Adrogue",
+    "away_team": "San Martín Burzaco",
+    "competition": "Argentina: Primera B Metropolitana",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "paysandu|la luz|1X2|1|2026-09-12",
+    "match_id": "7b171497",
+    "home_team": "Paysandu",
+    "away_team": "La Luz",
+    "competition": "Uruguay: Segunda División",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T23:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "envigado|leones|1X2|1|unknown-date",
+    "match_id": "046d01af",
+    "home_team": "Envigado",
+    "away_team": "Leones FC",
+    "competition": "Colombia: Primera B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "atletico balboa|club atletico platense|Double Chance|X2|2026-09-12",
+    "match_id": "0942e419",
+    "home_team": "Atletico Balboa",
+    "away_team": "Club Atletico Platense",
+    "competition": "El Salvador: Primera Division",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T23:00:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "aguila|inca aruba|1X2|1|2026-09-12",
+    "match_id": "e5a5282a",
+    "home_team": "Águila",
+    "away_team": "Inca Aruba",
+    "competition": "El Salvador: Primera Division",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T23:30:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "flamengo w|sao paulo w|Double Chance|X2|2026-09-12",
+    "match_id": "088a4fdc",
+    "home_team": "Flamengo W",
+    "away_team": "São Paulo W",
+    "competition": "Brazil: Brasileiro Women",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T21:30:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "estudiantil cni|bentin tacna heroica|Double Chance|X2|unknown-date",
+    "match_id": "aaed17df",
+    "home_team": "Estudiantil CNI",
+    "away_team": "Bentín Tacna Heroica",
+    "competition": "Peru: Segunda División",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cruz azul|club america|Double Chance|X2|2026-09-12",
+    "match_id": "c0bb07a9",
+    "home_team": "Cruz Azul",
+    "away_team": "Club America",
+    "competition": "MEXICO - LIGA MX APERTURA",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T20:15:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "los angeles galaxy|seattle sounders|Double Chance|1X|2026-09-12",
+    "match_id": "77b848af",
+    "home_team": "Los Angeles Galaxy",
+    "away_team": "Seattle Sounders",
+    "competition": "USA - MAJOR LEAGUE SOCCER",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-12T20:34:13.585089+00:00",
+    "kickoff": "2026-09-12T19:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
     ],
     "final_score": null,
     "outcome": "pending",
