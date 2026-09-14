@@ -117557,7 +117557,7 @@
     "kickoff": "2026-09-14T19:45:00+01:00",
     "best_odds": null,
     "source_count": 1,
-    "consensus_score": 1.0,
+    "consensus_score": 0.5,
     "sources": [
       "MyBetsToday"
     ],
@@ -117637,8 +117637,8 @@
     "market": "Double Chance",
     "recommended_pick": "X2",
     "predicted_at": "2026-09-13T23:10:21.830684+00:00",
-    "kickoff": "2026-09-14T21:15:00+02:00",
-    "best_odds": 1.43,
+    "kickoff": "2026-09-14T19:15:00",
+    "best_odds": 1.39,
     "source_count": 2,
     "consensus_score": 0.667,
     "sources": [
@@ -118023,7 +118023,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-13T23:10:21.830684+00:00",
     "kickoff": "2026-09-14T23:00:00+02:00",
-    "best_odds": 1.5,
+    "best_odds": 1.47,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -118548,7 +118548,7 @@
     "market": "Double Chance",
     "recommended_pick": "1X",
     "predicted_at": "2026-09-14T04:54:23.676671+00:00",
-    "kickoff": "2026-09-14T14:00:00",
+    "kickoff": "2026-09-14T19:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 0.2,
@@ -118748,7 +118748,7 @@
     "market": "Double Chance",
     "recommended_pick": "X2",
     "predicted_at": "2026-09-14T04:54:23.676671+00:00",
-    "kickoff": "2026-09-14T18:30:00",
+    "kickoff": "2026-09-14T23:30:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -118768,7 +118768,7 @@
     "market": "Double Chance",
     "recommended_pick": "X2",
     "predicted_at": "2026-09-14T04:54:23.676671+00:00",
-    "kickoff": "2026-09-14T16:00:00",
+    "kickoff": "2026-09-14T21:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -118949,8 +118949,8 @@
     "market": "Double Chance",
     "recommended_pick": "1X",
     "predicted_at": "2026-09-14T04:54:23.676671+00:00",
-    "kickoff": "2026-09-14T21:30:00+02:00",
-    "best_odds": 1.22,
+    "kickoff": "2026-09-14T19:30:00",
+    "best_odds": 1.23,
     "source_count": 2,
     "consensus_score": 0.667,
     "sources": [
@@ -119278,6 +119278,510 @@
     "consensus_score": 1.0,
     "sources": [
       "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nottingham forest u21|burnley u21|1X2|1|unknown-date",
+    "match_id": "67cf19d0",
+    "home_team": "Nottingham Forest U21",
+    "away_team": "Burnley U21",
+    "competition": "England: Premier League 2 Division One",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.55,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "jong psv u21|jong az|Double Chance|X2|unknown-date",
+    "match_id": "29244cd1",
+    "home_team": "Jong PSV U21",
+    "away_team": "Jong AZ",
+    "competition": "Netherlands: Eerste Divisie",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.45,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "west ham united u21|liverpool u21|Double Chance|1X|unknown-date",
+    "match_id": "720d99e7",
+    "home_team": "West Ham United U21",
+    "away_team": "Liverpool U21",
+    "competition": "England: Premier League 2 Division One",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.39,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "celta de vigo ii|eibar|Double Chance|X2|unknown-date",
+    "match_id": "41b2b3a7",
+    "home_team": "Celta de Vigo II",
+    "away_team": "Eibar",
+    "competition": "Spain: Segunda División",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.3,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dundalk|st patrick's athl.|Double Chance|X2|unknown-date",
+    "match_id": "d4dd0864",
+    "home_team": "Dundalk",
+    "away_team": "St Patrick's Athl.",
+    "competition": "Ireland: Premier Division",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.29,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "blackburn rovers u21|reading u21|Double Chance|X2|unknown-date",
+    "match_id": "0dfb5e8d",
+    "home_team": "Blackburn Rovers U21",
+    "away_team": "Reading U21",
+    "competition": "England: Premier League 2 Division One",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.29,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "inter milan|udinese calcio|1X2|1|unknown-date",
+    "match_id": "06fb1070",
+    "home_team": "Inter Milan",
+    "away_team": "Udinese Calcio",
+    "competition": "Italy: Serie A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.2,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "vikingur reykjavik|keflavik|1X2|1|2026-09-14",
+    "match_id": "2336a17b",
+    "home_team": "Vikingur Reykjavik",
+    "away_team": "Keflavik",
+    "competition": "Iceland: Úrvalsdeild",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T20:15:00+01:00",
+    "best_odds": 1.22,
+    "source_count": 3,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday",
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "inter milan|udinese|Correct Score|Inter Milan 2-1|2026-09-14",
+    "match_id": "439cb24a",
+    "home_team": "Inter Milan",
+    "away_team": "Udinese",
+    "competition": "Italian Serie A",
+    "market": "Correct Score",
+    "recommended_pick": "Inter Milan 2-1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T18:45:00+00:00",
+    "best_odds": 9.0,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "inter milan|udinese|Both Teams To Score|Both Teams To Score|2026-09-14",
+    "match_id": "4ae9c575",
+    "home_team": "Inter Milan",
+    "away_team": "Udinese",
+    "competition": "Italian Serie A",
+    "market": "Both Teams To Score",
+    "recommended_pick": "Both Teams To Score",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T18:45:00+00:00",
+    "best_odds": 2.0,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "FreeSuperTips"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dundalk|st. patricks athletic|Double Chance|X2|2026-09-14",
+    "match_id": "fd3924f7",
+    "home_team": "Dundalk",
+    "away_team": "St. Patricks Athletic",
+    "competition": "REP. OF IRELAND - PREMIER DIVISION",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T18:45:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ifk haninge|syrianska|1X2|1|2026-09-14",
+    "match_id": "aba4ded6",
+    "home_team": "IFK Haninge",
+    "away_team": "Syrianska FC",
+    "competition": "SWEDEN - 2. DIVISION SODRA SVEALAND",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T18:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "psv reserves|az reserves|1X2|2|2026-09-14",
+    "match_id": "d1bd920d",
+    "home_team": "PSV Reserves",
+    "away_team": "AZ Reserves",
+    "competition": "Netherlands Eerste Divisie",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T19:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "utrecht reserves|ajax reserves|1X2|1|2026-09-14",
+    "match_id": "f23011bb",
+    "home_team": "FC Utrecht Reserves",
+    "away_team": "Ajax Reserves",
+    "competition": "Netherlands Eerste Divisie",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T19:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "dundalk|st patricks athletic|1X2|2|2026-09-14",
+    "match_id": "ba959473",
+    "home_team": "Dundalk",
+    "away_team": "St Patricks Athletic",
+    "competition": "Republic of Ireland Premier Division",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T19:45:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "celta fortuna|eibar|1X2|2|2026-09-14",
+    "match_id": "2ef11856",
+    "home_team": "Celta Fortuna",
+    "away_team": "Eibar",
+    "competition": "Spain Segunda",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T19:30:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "haninge|syrianska|1X2|1|2026-09-14",
+    "match_id": "37c45062",
+    "home_team": "Haninge",
+    "away_team": "Syrianska FC",
+    "competition": "Sweden Division 2 - Södra Svealand",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T19:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "villarreal|real betis|Double Chance|X2|unknown-date",
+    "match_id": "e69aa24e",
+    "home_team": "Villarreal",
+    "away_team": "Real Betis",
+    "competition": "Spain: La Liga",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.77,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sligo rovers|galway united|Double Chance|X2|2026-09-14",
+    "match_id": "b7559bd3",
+    "home_team": "Sligo Rovers FC",
+    "away_team": "Galway United FC",
+    "competition": "Ireland: Premier Division",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T18:45:00",
+    "best_odds": 1.3,
+    "source_count": 2,
+    "consensus_score": 0.667,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sligo rovers|galway united|1X2|2|2026-09-14",
+    "match_id": "048c7095",
+    "home_team": "Sligo Rovers",
+    "away_team": "Galway United",
+    "competition": "Republic of Ireland Premier Division",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T19:45:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "red star 93|metz|Double Chance|X2|2026-09-14",
+    "match_id": "9175e7d2",
+    "home_team": "RED Star FC 93",
+    "away_team": "Metz",
+    "competition": "France: Ligue 2",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T18:45:00",
+    "best_odds": 1.46,
+    "source_count": 2,
+    "consensus_score": 0.667,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "red star 93|metz|1X2|1|2026-09-14",
+    "match_id": "665c745c",
+    "home_team": "Red Star FC 93",
+    "away_team": "Metz",
+    "competition": "France Ligue 2",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "2026-09-14T19:45:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.333,
+    "sources": [
+      "MyBetsToday"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "leeds|newcastle|Double Chance|X2|unknown-date",
+    "match_id": "ecaf42ef",
+    "home_team": "Leeds",
+    "away_team": "Newcastle",
+    "competition": "England: Premier League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.6,
+    "source_count": 1,
+    "consensus_score": 0.2,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "erbil|al-karma|Double Chance|1X|unknown-date",
+    "match_id": "ee07f781",
+    "home_team": "Erbil SC",
+    "away_team": "Al-Karma",
+    "competition": "Iraq: Iraqi League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.32,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "defensores de belgrano|deportivo madryn|Double Chance|X2|unknown-date",
+    "match_id": "97c5cf3d",
+    "home_team": "Defensores De Belgrano",
+    "away_team": "Deportivo Madryn",
+    "competition": "Argentina: Primera Nacional",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-14T19:51:35.744280+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.56,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Vitibet"
     ],
     "final_score": null,
     "outcome": "pending",
