@@ -20,7 +20,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 1.0,
             "source_count": 1,
-            "final_score": 0.785,
+            "final_score": 0.788,
             "sources": [
               {
                 "source_name": "FreeSuperTips",
@@ -50,7 +50,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.711,
             "source_count": 1,
-            "final_score": 0.713,
+            "final_score": 0.715,
             "sources": [
               {
                 "source_name": "FreeSuperTips",
@@ -89,7 +89,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 1.0,
             "source_count": 1,
-            "final_score": 0.785,
+            "final_score": 0.788,
             "sources": [
               {
                 "source_name": "FreeSuperTips",
@@ -119,7 +119,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.105,
             "source_count": 1,
-            "final_score": 0.562,
+            "final_score": 0.564,
             "sources": [
               {
                 "source_name": "FreeSuperTips",
@@ -149,7 +149,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.487,
+            "final_score": 0.49,
             "sources": [
               {
                 "source_name": "FreeSuperTips",
@@ -222,6 +222,45 @@
         ]
       },
       {
+        "match_id": "9f298485",
+        "home_team": "Aldershot Town",
+        "away_team": "Yeovil Town",
+        "competition": "England: National League",
+        "kickoff": "2026-09-15T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "6460c7ca",
+            "home_team": "Aldershot Town",
+            "away_team": "Yeovil Town",
+            "competition": "England: National League",
+            "kickoff": "2026-09-15T20:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 2.1,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.105,
+            "source_count": 1,
+            "final_score": 0.667,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1585221&league_id=43",
+                "home_team": "Aldershot Town",
+                "away_team": "Yeovil Town",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Aldershot Town vs Yeovil Town: predicted score 2-1, tip 1.",
+                "competition": "England: National League",
+                "kickoff": "2026-09-15T20:45:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Aldershot Town vs Yeovil Town: predicted score 2-1, tip 1."
+          }
+        ]
+      },
+      {
         "match_id": "5c0b96f0",
         "home_team": "SV Meppen",
         "away_team": "FC Viktoria Köln",
@@ -236,11 +275,11 @@
             "kickoff": "2026-09-15T19:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 2.25,
+            "best_odds": 2.15,
             "consensus_score": 1.0,
-            "price_edge_score": 0.184,
+            "price_edge_score": 0.132,
             "source_count": 3,
-            "final_score": 0.676,
+            "final_score": 0.663,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -283,45 +322,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for SV Meppen vs FC Viktoria Köln: predicted score 1-3, tip 2. | MyBets Today tip for SV Meppen vs FC Viktoria Köln: 1X2 2. | Statarea tip for SV Meppen vs Viktoria Koln: 1X2 2."
-          }
-        ]
-      },
-      {
-        "match_id": "9f298485",
-        "home_team": "Aldershot Town",
-        "away_team": "Yeovil Town",
-        "competition": "England: National League",
-        "kickoff": "2026-09-15T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "6460c7ca",
-            "home_team": "Aldershot Town",
-            "away_team": "Yeovil Town",
-            "competition": "England: National League",
-            "kickoff": "2026-09-15T20:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 2.1,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.105,
-            "source_count": 1,
-            "final_score": 0.667,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1585221&league_id=43",
-                "home_team": "Aldershot Town",
-                "away_team": "Yeovil Town",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Aldershot Town vs Yeovil Town: predicted score 2-1, tip 1.",
-                "competition": "England: National League",
-                "kickoff": "2026-09-15T20:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Aldershot Town vs Yeovil Town: predicted score 2-1, tip 1."
           }
         ]
       },
@@ -396,7 +396,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.026,
             "source_count": 3,
-            "final_score": 0.627,
+            "final_score": 0.626,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -495,45 +495,6 @@
         ]
       },
       {
-        "match_id": "0fc26a5f",
-        "home_team": "Falkirk",
-        "away_team": "Heart of Midlothian",
-        "competition": "Scotland: Premiership",
-        "kickoff": "2026-09-15T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "05384274",
-            "home_team": "Falkirk",
-            "away_team": "Heart of Midlothian",
-            "competition": "Scotland: Premiership",
-            "kickoff": "2026-09-15T20:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.85,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.611,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1556641&league_id=179",
-                "home_team": "Falkirk",
-                "away_team": "Heart of Midlothian",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Falkirk vs Heart of Midlothian: predicted score 1-2, tip 2.",
-                "competition": "Scotland: Premiership",
-                "kickoff": "2026-09-15T20:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Falkirk vs Heart of Midlothian: predicted score 1-2, tip 2."
-          }
-        ]
-      },
-      {
         "match_id": "39839093",
         "home_team": "Trefelin",
         "away_team": "Cambrian & Clydach",
@@ -569,6 +530,45 @@
               }
             ],
             "explanation": "Vitibet statistical model for Trefelin vs Cambrian & Clydach: predicted score 0-2, tip 2."
+          }
+        ]
+      },
+      {
+        "match_id": "0fc26a5f",
+        "home_team": "Falkirk",
+        "away_team": "Heart of Midlothian",
+        "competition": "Scotland: Premiership",
+        "kickoff": "2026-09-15T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "05384274",
+            "home_team": "Falkirk",
+            "away_team": "Heart of Midlothian",
+            "competition": "Scotland: Premiership",
+            "kickoff": "2026-09-15T20:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.83,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.607,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1556641&league_id=179",
+                "home_team": "Falkirk",
+                "away_team": "Heart of Midlothian",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Falkirk vs Heart of Midlothian: predicted score 1-2, tip 2.",
+                "competition": "Scotland: Premiership",
+                "kickoff": "2026-09-15T20:45:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Falkirk vs Heart of Midlothian: predicted score 1-2, tip 2."
           }
         ]
       },
@@ -626,11 +626,11 @@
             "kickoff": "2026-09-15T20:45:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.83,
+            "best_odds": 1.8,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.596,
+            "final_score": 0.59,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -730,11 +730,11 @@
             "kickoff": "2026-09-15T20:45:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.65,
+            "best_odds": 1.62,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.557,
+            "final_score": 0.551,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -764,71 +764,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Larne vs Cliftonville FC: predicted score 2-0, tip 1. | MyBets Today tip for Larne vs Cliftonville FC: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "9d422a2d",
-        "home_team": "Fram Reykjavik",
-        "away_team": "Breidablik",
-        "competition": "Iceland: Úrvalsdeild",
-        "kickoff": "2026-09-15T21:15:00+02:00",
-        "picks": [
-          {
-            "match_id": "ba3850ca",
-            "home_team": "Fram Reykjavik",
-            "away_team": "Breidablik",
-            "competition": "Iceland: Úrvalsdeild",
-            "kickoff": "2026-09-15T21:15:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.62,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 3,
-            "final_score": 0.554,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638622&league_id=164",
-                "home_team": "Fram Reykjavik",
-                "away_team": "Breidablik",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Fram Reykjavik vs Breidablik: predicted score 3-1, tip 1.",
-                "competition": "Iceland: Úrvalsdeild",
-                "kickoff": "2026-09-15T21:15:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-fram-reykjavik-vs-breidablik-betting-tip-dii3di82i/",
-                "home_team": "Fram Reykjavik",
-                "away_team": "Breidablik",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Fram Reykjavik vs Breidablik: 1X2 1.",
-                "competition": "Iceland Úrvalsdeild",
-                "kickoff": "2026-09-15T20:15:00+01:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Fram Reykjavik",
-                "away_team": "Breidablik",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Fram Reykjavik vs Breidablik: 1X2 1.",
-                "competition": "ICELAND - BESTA DEILDIN CHAMPIONSHIP ROUND",
-                "kickoff": "2026-09-15T15:15:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Fram Reykjavik vs Breidablik: predicted score 3-1, tip 1. | MyBets Today tip for Fram Reykjavik vs Breidablik: 1X2 1. | Statarea tip for Fram Reykjavik vs Breidablik: 1X2 1."
           }
         ]
       },
@@ -890,7 +825,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.547,
+            "final_score": 0.546,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -920,71 +855,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Wealdstone vs FC Halifax Town: predicted score 1-1, tip X2. | Statarea tip for Wealdstone vs FC Halifax Town: Double Chance X2."
-          }
-        ]
-      },
-      {
-        "match_id": "24c283b6",
-        "home_team": "Penybont",
-        "away_team": "Briton Ferry",
-        "competition": "Wales: Premier League",
-        "kickoff": "2026-09-15T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "bb559ab1",
-            "home_team": "Penybont",
-            "away_team": "Briton Ferry",
-            "competition": "Wales: Premier League",
-            "kickoff": "2026-09-15T20:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 3,
-            "final_score": 0.544,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1575952&league_id=110",
-                "home_team": "Penybont",
-                "away_team": "Briton Ferry",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Penybont vs Briton Ferry: predicted score 2-0, tip 1.",
-                "competition": "Wales: Premier League",
-                "kickoff": "2026-09-15T20:45:00+02:00"
-              },
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-penybont-vs-briton-ferry-betting-tip-dii3dd2d3/",
-                "home_team": "Penybont",
-                "away_team": "Briton Ferry",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Penybont vs Briton Ferry: 1X2 1.",
-                "competition": "Wales Premier League",
-                "kickoff": "2026-09-15T19:45:00+01:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Penybont FC",
-                "away_team": "Briton Ferry",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Penybont FC vs Briton Ferry: 1X2 1.",
-                "competition": "WALES - PREMIER LEAGUE",
-                "kickoff": "2026-09-15T14:45:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Penybont vs Briton Ferry: predicted score 2-0, tip 1. | MyBets Today tip for Penybont vs Briton Ferry: 1X2 1. | Statarea tip for Penybont FC vs Briton Ferry: 1X2 1."
           }
         ]
       },
@@ -1054,6 +924,71 @@
         ]
       },
       {
+        "match_id": "9d422a2d",
+        "home_team": "Fram Reykjavik",
+        "away_team": "Breidablik",
+        "competition": "Iceland: Úrvalsdeild",
+        "kickoff": "2026-09-15T21:15:00+02:00",
+        "picks": [
+          {
+            "match_id": "ba3850ca",
+            "home_team": "Fram Reykjavik",
+            "away_team": "Breidablik",
+            "competition": "Iceland: Úrvalsdeild",
+            "kickoff": "2026-09-15T21:15:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.57,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 3,
+            "final_score": 0.544,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638622&league_id=164",
+                "home_team": "Fram Reykjavik",
+                "away_team": "Breidablik",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Fram Reykjavik vs Breidablik: predicted score 3-1, tip 1.",
+                "competition": "Iceland: Úrvalsdeild",
+                "kickoff": "2026-09-15T21:15:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-fram-reykjavik-vs-breidablik-betting-tip-dii3di82i/",
+                "home_team": "Fram Reykjavik",
+                "away_team": "Breidablik",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Fram Reykjavik vs Breidablik: 1X2 1.",
+                "competition": "Iceland Úrvalsdeild",
+                "kickoff": "2026-09-15T20:15:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Fram Reykjavik",
+                "away_team": "Breidablik",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Fram Reykjavik vs Breidablik: 1X2 1.",
+                "competition": "ICELAND - BESTA DEILDIN CHAMPIONSHIP ROUND",
+                "kickoff": "2026-09-15T15:15:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Fram Reykjavik vs Breidablik: predicted score 3-1, tip 1. | MyBets Today tip for Fram Reykjavik vs Breidablik: 1X2 1. | Statarea tip for Fram Reykjavik vs Breidablik: 1X2 1."
+          }
+        ]
+      },
+      {
         "match_id": "e882a23a",
         "home_team": "FSV Zwickau",
         "away_team": "Altglienicke",
@@ -1068,11 +1003,11 @@
             "kickoff": "2026-09-15T19:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.46,
+            "best_odds": 1.49,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.533,
+            "final_score": 0.539,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1089,6 +1024,71 @@
               }
             ],
             "explanation": "Vitibet statistical model for FSV Zwickau vs Altglienicke: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "24c283b6",
+        "home_team": "Penybont",
+        "away_team": "Briton Ferry",
+        "competition": "Wales: Premier League",
+        "kickoff": "2026-09-15T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "bb559ab1",
+            "home_team": "Penybont",
+            "away_team": "Briton Ferry",
+            "competition": "Wales: Premier League",
+            "kickoff": "2026-09-15T20:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.5,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 3,
+            "final_score": 0.53,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1575952&league_id=110",
+                "home_team": "Penybont",
+                "away_team": "Briton Ferry",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Penybont vs Briton Ferry: predicted score 2-0, tip 1.",
+                "competition": "Wales: Premier League",
+                "kickoff": "2026-09-15T20:45:00+02:00"
+              },
+              {
+                "source_name": "MyBetsToday",
+                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-penybont-vs-briton-ferry-betting-tip-dii3dd2d3/",
+                "home_team": "Penybont",
+                "away_team": "Briton Ferry",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "MyBets Today tip for Penybont vs Briton Ferry: 1X2 1.",
+                "competition": "Wales Premier League",
+                "kickoff": "2026-09-15T19:45:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Penybont FC",
+                "away_team": "Briton Ferry",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Penybont FC vs Briton Ferry: 1X2 1.",
+                "competition": "WALES - PREMIER LEAGUE",
+                "kickoff": "2026-09-15T14:45:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Penybont vs Briton Ferry: predicted score 2-0, tip 1. | MyBets Today tip for Penybont vs Briton Ferry: 1X2 1. | Statarea tip for Penybont FC vs Briton Ferry: 1X2 1."
           }
         ]
       }
@@ -1190,7 +1190,7 @@
               "kickoff": "2026-09-15T21:30:00+02:00",
               "market": "1X2",
               "recommended_pick": "2",
-              "best_odds": 1.22,
+              "best_odds": 1.2,
               "consensus_score": 0.8,
               "price_edge_score": 0.0,
               "source_count": 4,
@@ -1263,7 +1263,7 @@
               "consensus_score": 0.2,
               "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.304,
+              "final_score": 0.306,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -1282,36 +1282,6 @@
               "explanation": "FreeSuperTips Correct Score for Elche vs Real Madrid (Spanish La Liga, 2026-09-15T19:30:00+00:00)."
             },
             {
-              "match_id": "93e2dea1",
-              "home_team": "Elche",
-              "away_team": "Real \n\t\t\t\t\t\t\t\tMadrid",
-              "competition": "Spain",
-              "kickoff": "2026-09-15T12:00:00+00:00",
-              "market": "Total Goals",
-              "recommended_pick": "Over 1.5",
-              "best_odds": null,
-              "consensus_score": 0.2,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.145,
-              "sources": [
-                {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Elche",
-                  "away_team": "Real \n\t\t\t\t\t\t\t\tMadrid",
-                  "market": "Total Goals",
-                  "pick": "Over 1.5",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Adibet tip for Elche vs Real \n\t\t\t\t\t\t\t\tMadrid: Total Goals Over 1.5.",
-                  "competition": "Spain",
-                  "kickoff": "2026-09-15T12:00:00+00:00"
-                }
-              ],
-              "explanation": "Adibet tip for Elche vs Real \n\t\t\t\t\t\t\t\tMadrid: Total Goals Over 1.5."
-            },
-            {
               "match_id": "ec423f34",
               "home_team": "Elche",
               "away_team": "Real Madrid",
@@ -1323,7 +1293,7 @@
               "consensus_score": 0.2,
               "price_edge_score": 0.263,
               "source_count": 1,
-              "final_score": 0.105,
+              "final_score": 0.106,
               "sources": [
                 {
                   "source_name": "FreeSuperTips",
@@ -1358,11 +1328,11 @@
               "kickoff": "2026-09-15T20:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.85,
+              "best_odds": 1.73,
               "consensus_score": 0.667,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.312,
+              "final_score": 0.299,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1392,36 +1362,6 @@
                 }
               ],
               "explanation": "Vitibet statistical model for Alaves vs Valencia: predicted score 3-0, tip 1. | MyBets Today tip for CD Alaves vs Valencia: 1X2 1."
-            },
-            {
-              "match_id": "5be9dbff",
-              "home_team": "Alaves",
-              "away_team": "Valencia",
-              "competition": "Spain",
-              "kickoff": "2026-09-15T12:00:00+00:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": null,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.187,
-              "sources": [
-                {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Alaves",
-                  "away_team": "Valencia",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Adibet tip for Alaves vs Valencia: Double Chance 1X.",
-                  "competition": "Spain",
-                  "kickoff": "2026-09-15T12:00:00+00:00"
-                }
-              ],
-              "explanation": "Adibet tip for Alaves vs Valencia: Double Chance 1X."
             }
           ]
         },
@@ -1461,36 +1401,6 @@
                 }
               ],
               "explanation": "Vitibet statistical model for Rayo Vallecano vs Espanyol: predicted score 1-2, tip X2."
-            },
-            {
-              "match_id": "6467ae9f",
-              "home_team": "Rayo Vallecano",
-              "away_team": "Espanyol",
-              "competition": "SPAIN - LALIGA",
-              "kickoff": "2026-09-15T13:00:00",
-              "market": "1X2",
-              "recommended_pick": "2",
-              "best_odds": null,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.162,
-              "sources": [
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Rayo Vallecano",
-                  "away_team": "Espanyol",
-                  "market": "1X2",
-                  "pick": "2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Rayo Vallecano vs Espanyol: 1X2 2.",
-                  "competition": "SPAIN - LALIGA",
-                  "kickoff": "2026-09-15T13:00:00"
-                }
-              ],
-              "explanation": "Statarea tip for Rayo Vallecano vs Espanyol: 1X2 2."
             },
             {
               "match_id": "ece79ae3",
@@ -1545,7 +1455,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.466,
+              "final_score": 0.467,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1588,36 +1498,6 @@
                 }
               ],
               "explanation": "Vitibet statistical model for Ajax vs Willem II: predicted score 3-0, tip 1. | Adibet tip for Ajax vs Willem II: 1X2 1. | MyBets Today tip for Ajax vs Willem II: 1X2 1."
-            },
-            {
-              "match_id": "bf00030f",
-              "home_team": "Ajax",
-              "away_team": "Willem II",
-              "competition": "Netherlands",
-              "kickoff": "2026-09-15T12:00:00+00:00",
-              "market": "Total Goals",
-              "recommended_pick": "Over 2.5",
-              "best_odds": null,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.187,
-              "sources": [
-                {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Ajax",
-                  "away_team": "Willem II",
-                  "market": "Total Goals",
-                  "pick": "Over 2.5",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Adibet tip for Ajax vs Willem II: Total Goals Over 2.5.",
-                  "competition": "Netherlands",
-                  "kickoff": "2026-09-15T12:00:00+00:00"
-                }
-              ],
-              "explanation": "Adibet tip for Ajax vs Willem II: Total Goals Over 2.5."
             }
           ]
         }
@@ -1638,11 +1518,11 @@
               "kickoff": "2026-09-15T20:45:00+02:00",
               "market": "1X2",
               "recommended_pick": "2",
-              "best_odds": 1.85,
+              "best_odds": 1.83,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.611,
+              "final_score": 0.607,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1677,11 +1557,11 @@
               "kickoff": "2026-09-15T20:45:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.83,
+              "best_odds": 1.8,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.596,
+              "final_score": 0.59,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1742,11 +1622,11 @@
               "kickoff": "2026-09-15T20:45:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.44,
+              "best_odds": 1.4,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 3,
-              "final_score": 0.518,
+              "final_score": 0.51,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1841,36 +1721,6 @@
                 }
               ],
               "explanation": "MyBets Today tip for Falkirk vs Hearts: 1X2 2. | Statarea tip for Falkirk vs Hearts: 1X2 2."
-            },
-            {
-              "match_id": "932af550",
-              "home_team": "Falkirk",
-              "away_team": "Hearts",
-              "competition": "Scotland",
-              "kickoff": "2026-09-15T12:00:00+00:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": null,
-              "consensus_score": 0.333,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.187,
-              "sources": [
-                {
-                  "source_name": "Adibet",
-                  "source_url": "https://www.adibet.com/",
-                  "home_team": "Falkirk",
-                  "away_team": "Hearts",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Adibet tip for Falkirk vs Hearts: Double Chance X2.",
-                  "competition": "Scotland",
-                  "kickoff": "2026-09-15T12:00:00+00:00"
-                }
-              ],
-              "explanation": "Adibet tip for Falkirk vs Hearts: Double Chance X2."
             }
           ]
         }
@@ -1895,7 +1745,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.425,
+              "final_score": 0.424,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -1932,39 +1782,9 @@
           "match_id": "4271cee7",
           "home_team": "Peterborough",
           "away_team": "Barnsley",
-          "competition": "ENGLAND - EFL CUP",
-          "kickoff": "2026-09-15T14:30:00",
+          "competition": "England EFL Cup",
+          "kickoff": "2026-09-15T19:30:00+01:00",
           "picks": [
-            {
-              "match_id": "9f92d652",
-              "home_team": "Peterborough",
-              "away_team": "Barnsley",
-              "competition": "ENGLAND - EFL CUP",
-              "kickoff": "2026-09-15T14:30:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": null,
-              "consensus_score": 0.5,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.218,
-              "sources": [
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Peterborough",
-                  "away_team": "Barnsley",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Peterborough vs Barnsley: Double Chance X2.",
-                  "competition": "ENGLAND - EFL CUP",
-                  "kickoff": "2026-09-15T14:30:00"
-                }
-              ],
-              "explanation": "Statarea tip for Peterborough vs Barnsley: Double Chance X2."
-            },
             {
               "match_id": "a3725990",
               "home_team": "Peterborough",
@@ -2001,39 +1821,9 @@
           "match_id": "c221aee1",
           "home_team": "West Ham",
           "away_team": "Fulham",
-          "competition": "ENGLAND - EFL CUP",
-          "kickoff": "2026-09-15T14:45:00",
+          "competition": "England EFL Cup",
+          "kickoff": "2026-09-15T19:45:00+01:00",
           "picks": [
-            {
-              "match_id": "07c74bb4",
-              "home_team": "West Ham",
-              "away_team": "Fulham",
-              "competition": "ENGLAND - EFL CUP",
-              "kickoff": "2026-09-15T14:45:00",
-              "market": "1X2",
-              "recommended_pick": "X",
-              "best_odds": null,
-              "consensus_score": 0.5,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.218,
-              "sources": [
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "West Ham",
-                  "away_team": "Fulham",
-                  "market": "1X2",
-                  "pick": "X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for West Ham vs Fulham: 1X2 X.",
-                  "competition": "ENGLAND - EFL CUP",
-                  "kickoff": "2026-09-15T14:45:00"
-                }
-              ],
-              "explanation": "Statarea tip for West Ham vs Fulham: 1X2 X."
-            },
             {
               "match_id": "370bdd0e",
               "home_team": "West Ham",
@@ -2087,7 +1877,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.425,
+              "final_score": 0.424,
               "sources": [
                 {
                   "source_name": "MyBetsToday",
@@ -2202,123 +1992,6 @@
             "explanation": "MyBets Today tip for Al Orubah vs Al Jeel: 1X2 1."
           }
         ]
-      },
-      {
-        "match_id": "b1d62c56",
-        "home_team": "Chiangmai United",
-        "away_team": "Khon Kaen United",
-        "competition": "Thailand Thai League 2",
-        "kickoff": "2026-09-15T12:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "72b78be0",
-            "home_team": "Chiangmai United",
-            "away_team": "Khon Kaen United",
-            "competition": "Thailand Thai League 2",
-            "kickoff": "2026-09-15T12:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.413,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-chiangmai-united-vs-khon-kaen-united-betting-tip-dii3dd676/",
-                "home_team": "Chiangmai United",
-                "away_team": "Khon Kaen United",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Chiangmai United vs Khon Kaen United: 1X2 2.",
-                "competition": "Thailand Thai League 2",
-                "kickoff": "2026-09-15T12:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Chiangmai United vs Khon Kaen United: 1X2 2."
-          }
-        ]
-      },
-      {
-        "match_id": "3eab7f0d",
-        "home_team": "Police Tero",
-        "away_team": "Songkhla",
-        "competition": "Thailand Thai League 2",
-        "kickoff": "2026-09-15T12:30:00+01:00",
-        "picks": [
-          {
-            "match_id": "af1bf156",
-            "home_team": "Police Tero",
-            "away_team": "Songkhla",
-            "competition": "Thailand Thai League 2",
-            "kickoff": "2026-09-15T12:30:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.413,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-police-tero-vs-songkhla-betting-tip-dii3dd677/",
-                "home_team": "Police Tero",
-                "away_team": "Songkhla",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Police Tero vs Songkhla: 1X2 1.",
-                "competition": "Thailand Thai League 2",
-                "kickoff": "2026-09-15T12:30:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Police Tero vs Songkhla: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "e10d4e50",
-        "home_team": "Satun",
-        "away_team": "Muangthong United",
-        "competition": "Thailand Thai League 2",
-        "kickoff": "2026-09-15T13:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "0630c9e5",
-            "home_team": "Satun",
-            "away_team": "Muangthong United",
-            "competition": "Thailand Thai League 2",
-            "kickoff": "2026-09-15T13:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.413,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-satun-vs-muangthong-united-betting-tip-dii3dd678/",
-                "home_team": "Satun",
-                "away_team": "Muangthong United",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Satun vs Muangthong United: 1X2 1.",
-                "competition": "Thailand Thai League 2",
-                "kickoff": "2026-09-15T13:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Satun vs Muangthong United: 1X2 1."
-          }
-        ]
       }
     ],
     "leagues": {
@@ -2421,11 +2094,11 @@
             "kickoff": "2026-09-15T21:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 2.4,
+            "best_odds": 2.1,
             "consensus_score": 1.0,
-            "price_edge_score": 0.263,
+            "price_edge_score": 0.105,
             "source_count": 2,
-            "final_score": 0.693,
+            "final_score": 0.653,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -2529,7 +2202,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.436,
+            "final_score": 0.435,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -2568,7 +2241,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.436,
+            "final_score": 0.435,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -2607,7 +2280,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.436,
+            "final_score": 0.435,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -2646,7 +2319,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.436,
+            "final_score": 0.435,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -2685,7 +2358,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.436,
+            "final_score": 0.435,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -2724,7 +2397,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.436,
+            "final_score": 0.435,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -2954,7 +2627,7 @@
             "kickoff": "2026-09-15T21:30:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.34,
+            "best_odds": 1.27,
             "consensus_score": 0.667,
             "price_edge_score": 0.0,
             "source_count": 2,
@@ -3096,45 +2769,6 @@
   "Africa": {
     "all": [
       {
-        "match_id": "347927ad",
-        "home_team": "Al Ahly",
-        "away_team": "Abu Qir",
-        "competition": "Egypt",
-        "kickoff": "2026-09-15T12:00:00+00:00",
-        "picks": [
-          {
-            "match_id": "6c0b9d4a",
-            "home_team": "Al Ahly",
-            "away_team": "Abu Qir",
-            "competition": "Egypt",
-            "kickoff": "2026-09-15T12:00:00+00:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.479,
-            "sources": [
-              {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Al Ahly",
-                "away_team": "Abu Qir",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Al Ahly vs Abu Qir: 1X2 1.",
-                "competition": "Egypt",
-                "kickoff": "2026-09-15T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Adibet tip for Al Ahly vs Abu Qir: 1X2 1."
-          }
-        ]
-      },
-      {
         "match_id": "a862cec3",
         "home_team": "Al Ahly",
         "away_team": "Abu Qair Semad",
@@ -3191,14 +2825,14 @@
         "home_team": "Young Africans",
         "away_team": "Geita Gold",
         "competition": "Tanzania: Ligi kuu Bara",
-        "kickoff": "2026-09-15T18:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "c1260165",
             "home_team": "Young Africans",
             "away_team": "Geita Gold",
             "competition": "Tanzania: Ligi kuu Bara",
-            "kickoff": "2026-09-15T18:00:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": 1.06,
@@ -3218,226 +2852,10 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Young Africans vs Geita Gold: predicted score 2-0, tip 1.",
                 "competition": "Tanzania: Ligi kuu Bara",
-                "kickoff": "2026-09-15T18:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Young Africans vs Geita Gold: predicted score 2-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "dc25242f",
-        "home_team": "Wadi Degla",
-        "away_team": "Al Mokawloon",
-        "competition": "EGYPT - PREMIER LEAGUE",
-        "kickoff": "2026-09-15T10:00:00",
-        "picks": [
-          {
-            "match_id": "ce70c666",
-            "home_team": "Wadi Degla",
-            "away_team": "Al Mokawloon",
-            "competition": "EGYPT - PREMIER LEAGUE",
-            "kickoff": "2026-09-15T10:00:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.436,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Wadi Degla",
-                "away_team": "Al Mokawloon",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Wadi Degla vs Al Mokawloon: Double Chance 1X.",
-                "competition": "EGYPT - PREMIER LEAGUE",
-                "kickoff": "2026-09-15T10:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Wadi Degla vs Al Mokawloon: Double Chance 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "d790a2ee",
-        "home_team": "Asyut Petroleum",
-        "away_team": "FUTURE FC",
-        "competition": "EGYPT - PREMIER LEAGUE",
-        "kickoff": "2026-09-15T10:00:00",
-        "picks": [
-          {
-            "match_id": "68f483db",
-            "home_team": "Asyut Petroleum",
-            "away_team": "FUTURE FC",
-            "competition": "EGYPT - PREMIER LEAGUE",
-            "kickoff": "2026-09-15T10:00:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.436,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Asyut Petroleum",
-                "away_team": "FUTURE FC",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Asyut Petroleum vs FUTURE FC: Double Chance X2.",
-                "competition": "EGYPT - PREMIER LEAGUE",
-                "kickoff": "2026-09-15T10:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Asyut Petroleum vs FUTURE FC: Double Chance X2."
-          }
-        ]
-      },
-      {
-        "match_id": "43e64b2e",
-        "home_team": "Asyut Petrol",
-        "away_team": "Future FC",
-        "competition": "Egypt: Premier League",
-        "kickoff": "2026-09-15T16:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "2d0052c7",
-            "home_team": "Asyut Petrol",
-            "away_team": "Future FC",
-            "competition": "Egypt: Premier League",
-            "kickoff": "2026-09-15T16:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.19,
-            "consensus_score": 0.5,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.221,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1612242&league_id=233",
-                "home_team": "Asyut Petrol",
-                "away_team": "Future FC",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Asyut Petrol vs Future FC: predicted score 0-1, tip X2.",
-                "competition": "Egypt: Premier League",
-                "kickoff": "2026-09-15T16:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Asyut Petrol vs Future FC: predicted score 0-1, tip X2."
-          },
-          {
-            "match_id": "ccac1a81",
-            "home_team": "Asyut Petrol",
-            "away_team": "Future FC",
-            "competition": "Egypt Premier League",
-            "kickoff": "2026-09-15T15:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": null,
-            "consensus_score": 0.5,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.202,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-asyut-petrol-vs-future-fc-betting-tip-dii3dd559/",
-                "home_team": "Asyut Petrol",
-                "away_team": "Future FC",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Asyut Petrol vs Future FC: 1X2 2.",
-                "competition": "Egypt Premier League",
-                "kickoff": "2026-09-15T15:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Asyut Petrol vs Future FC: 1X2 2."
-          }
-        ]
-      },
-      {
-        "match_id": "af967c0f",
-        "home_team": "Wadi Degla",
-        "away_team": "El Mokawloon",
-        "competition": "Egypt: Premier League",
-        "kickoff": "2026-09-15T16:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "6e1f614d",
-            "home_team": "Wadi Degla",
-            "away_team": "El Mokawloon",
-            "competition": "Egypt: Premier League",
-            "kickoff": "2026-09-15T16:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.18,
-            "consensus_score": 0.5,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.221,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1612243&league_id=233",
-                "home_team": "Wadi Degla",
-                "away_team": "El Mokawloon",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Wadi Degla vs El Mokawloon: predicted score 1-0, tip 1X.",
-                "competition": "Egypt: Premier League",
-                "kickoff": "2026-09-15T16:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Wadi Degla vs El Mokawloon: predicted score 1-0, tip 1X."
-          },
-          {
-            "match_id": "eee84a78",
-            "home_team": "Wadi Degla",
-            "away_team": "El Mokawloon",
-            "competition": "Egypt Premier League",
-            "kickoff": "2026-09-15T15:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": null,
-            "consensus_score": 0.5,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.202,
-            "sources": [
-              {
-                "source_name": "MyBetsToday",
-                "source_url": "https://www.mybets.today/soccer-predictions/match-prediction-analysis-wadi-degla-vs-el-mokawloon-betting-tip-dii3di93i/",
-                "home_team": "Wadi Degla",
-                "away_team": "El Mokawloon",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "MyBets Today tip for Wadi Degla vs El Mokawloon: 1X2 1.",
-                "competition": "Egypt Premier League",
-                "kickoff": "2026-09-15T15:00:00+01:00"
-              }
-            ],
-            "explanation": "MyBets Today tip for Wadi Degla vs El Mokawloon: 1X2 1."
           }
         ]
       },
@@ -3456,7 +2874,7 @@
             "kickoff": "2026-09-15T19:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.16,
+            "best_odds": 1.17,
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
