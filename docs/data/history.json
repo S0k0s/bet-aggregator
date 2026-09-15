@@ -120810,7 +120810,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-09-14T23:53:32.207008+00:00",
     "kickoff": "2026-09-15T23:15:00+02:00",
-    "best_odds": 1.8,
+    "best_odds": 1.62,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -121596,7 +121596,7 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-09-15T04:53:18.142681+00:00",
-    "kickoff": "2026-09-15T19:00:00",
+    "kickoff": "2026-09-15T23:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -121676,8 +121676,8 @@
     "market": "Double Chance",
     "recommended_pick": "1X",
     "predicted_at": "2026-09-15T04:53:18.142681+00:00",
-    "kickoff": "2026-09-15T21:30:00+02:00",
-    "best_odds": 1.27,
+    "kickoff": "2026-09-15T19:30:00",
+    "best_odds": 1.25,
     "source_count": 2,
     "consensus_score": 0.667,
     "sources": [
@@ -121877,7 +121877,7 @@
     "market": "Double Chance",
     "recommended_pick": "1X",
     "predicted_at": "2026-09-15T11:44:03.183192+00:00",
-    "kickoff": "2026-09-15T18:30:00",
+    "kickoff": "2026-09-15T22:30:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -121897,7 +121897,7 @@
     "market": "1X2",
     "recommended_pick": "X",
     "predicted_at": "2026-09-15T11:44:03.183192+00:00",
-    "kickoff": "2026-09-15T18:00:00",
+    "kickoff": "2026-09-15T22:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -121941,6 +121941,26 @@
     "best_odds": 1.06,
     "source_count": 1,
     "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "san luis|antofagasta|Double Chance|1X|unknown-date",
+    "match_id": "ffa602e7",
+    "home_team": "San Luis",
+    "away_team": "Antofagasta",
+    "competition": "Chile: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-15T21:20:26.341055+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.39,
+    "source_count": 1,
+    "consensus_score": 0.5,
     "sources": [
       "Vitibet"
     ],
