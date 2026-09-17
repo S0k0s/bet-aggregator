@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-09-17T16:59:16.798292+00:00",
+  "generated_at": "2026-09-17T18:55:19.852290+00:00",
   "sources": [
     {
       "name": "PredictZ",
       "pick_count": 0,
       "error": "Client error '403 Forbidden' for url 'https://www.predictz.com/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
-    },
-    {
-      "name": "FreeSuperTips",
-      "pick_count": 17,
-      "error": null
     },
     {
       "name": "StatsBet",
@@ -27,23 +22,18 @@
       "error": null
     },
     {
-      "name": "MyBetsToday",
-      "pick_count": 99,
-      "error": null
-    },
-    {
       "name": "Statarea",
-      "pick_count": 65,
+      "pick_count": 59,
       "error": null
     }
   ],
-  "total_raw_picks": 303,
-  "ranked_count": 81,
-  "match_count": 51,
+  "total_raw_picks": 181,
+  "ranked_count": 29,
+  "match_count": 29,
   "ranked_by_continent": {
     "Europe": 20,
-    "Asia": 4,
-    "Americas": 6,
-    "Africa": 6
+    "Asia": 2,
+    "Americas": 5,
+    "Africa": 2
   }
 }
