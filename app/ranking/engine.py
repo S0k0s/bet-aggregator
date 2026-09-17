@@ -31,11 +31,9 @@ CONSENSUS_CONFIDENCE_FLOOR = 0.4
 
 SOURCE_RELIABILITY = {
     "PredictZ": 0.65,
-    "FreeSuperTips": 0.70,
     "StatsBet": 0.72,
     "Vitibet": 0.68,
     "Adibet": 0.60,
-    "MyBetsToday": 0.60,
     "Statarea": 0.65,
 }
 

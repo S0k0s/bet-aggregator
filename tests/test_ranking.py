@@ -54,7 +54,7 @@ def test_normalize_team_strips_suffix_case_and_whitespace():
 
 
 def test_normalize_team_strips_accents_and_fk_suffix():
-    # Real gap found by running the live pipeline: FreeSuperTips wrote
+    # Real gap found by running the live pipeline: one source wrote
     # "Fenerbahce"/"Viking FK", Vitibet wrote "Fenerbahçe"/"Viking" for the
     # same two fixtures — both must normalize to the same key.
     assert _normalize_team("Fenerbahçe") == _normalize_team("Fenerbahce")
@@ -63,7 +63,7 @@ def test_normalize_team_strips_accents_and_fk_suffix():
 
 def test_same_fixture_from_different_sources_shares_match_key():
     a = _pick("PredictZ", "Arsenal FC", "Chelsea")
-    b = _pick("FreeSuperTips", "arsenal", " Chelsea ")
+    b = _pick("Adibet", "arsenal", " Chelsea ")
     assert _match_key(a) == _match_key(b)
 
 
@@ -71,7 +71,7 @@ def test_same_fixture_from_different_sources_shares_match_key():
 async def test_three_sources_agreeing_produce_one_ranked_match_with_real_teams():
     picks = [
         _pick("PredictZ", "Arsenal FC", "Chelsea"),
-        _pick("FreeSuperTips", "Arsenal", "Chelsea"),
+        _pick("Adibet", "Arsenal", "Chelsea"),
         _pick("StatsBet", "arsenal", "chelsea"),
     ]
     ranked = (await build_ranked_matches(picks))["Europe"]["all"]
@@ -91,10 +91,10 @@ async def test_higher_agreement_ranks_above_lower_agreement():
     # consensus + source_quality.
     high_agreement = [
         _pick("PredictZ", "Arsenal", "Chelsea", pick="1"),
-        _pick("FreeSuperTips", "Arsenal", "Chelsea", pick="1"),
+        _pick("Vitibet", "Arsenal", "Chelsea", pick="1"),
         _pick("StatsBet", "Arsenal", "Chelsea", pick="1"),
     ]
-    low_agreement = [_pick("Vitibet", "Liverpool", "Everton", pick="1")]
+    low_agreement = [_pick("Adibet", "Liverpool", "Everton", pick="1")]
     ranked = (await build_ranked_matches(high_agreement + low_agreement))["Europe"]["all"]
     assert len(ranked) == 2
     assert ranked[0].home_team == "Arsenal"
@@ -108,7 +108,7 @@ async def test_higher_agreement_ranks_above_lower_agreement():
 async def test_consensus_reflects_disagreeing_sources_not_just_count():
     picks = [
         _pick("PredictZ", "Arsenal", "Chelsea", pick="1"),
-        _pick("FreeSuperTips", "Arsenal", "Chelsea", pick="1"),
+        _pick("Adibet", "Arsenal", "Chelsea", pick="1"),
         _pick("StatsBet", "Arsenal", "Chelsea", pick="1"),
         _pick("PredictZ", "Arsenal", "Chelsea", pick="X"),
     ]
@@ -151,12 +151,12 @@ async def test_low_consensus_longshot_no_longer_beats_high_consensus_safe_pick()
     # regardless of how many sources actually back the pick.
     longshot_fixture = [
         _pick("PredictZ", "LongshotFC", "Rival", market="Correct Score", pick="LongshotFC 2-1", odds=8.50),
-        _pick("FreeSuperTips", "LongshotFC", "Rival", market="1X2", pick="X", odds=3.2),
+        _pick("Adibet", "LongshotFC", "Rival", market="1X2", pick="X", odds=3.2),
         _pick("StatsBet", "LongshotFC", "Rival", market="1X2", pick="2", odds=2.5),
     ]
     safe_fixture = [
         _pick("PredictZ", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
-        _pick("FreeSuperTips", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
+        _pick("Adibet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
         _pick("StatsBet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
     ]
     ranked = (await build_ranked_matches(longshot_fixture + safe_fixture))["Europe"]["all"]

@@ -14,11 +14,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from app.collectors.predictz import PredictZCollector
-from app.collectors.freesupertips import FreeSuperTipsCollector
 from app.collectors.statsbet import StatsBetCollector
 from app.collectors.vitibet import VitibetCollector
 from app.collectors.adibet import AdibetCollector
-from app.collectors.mybets_today import MyBetsTodayCollector
 from app.collectors.statarea import StatareaCollector
 from app.models.schemas import SourcePick
 from app.ranking.engine import build_ranked_matches
@@ -29,8 +27,8 @@ OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 
 async def main() -> None:
     collectors = [
-        PredictZCollector(), FreeSuperTipsCollector(), StatsBetCollector(), VitibetCollector(),
-        AdibetCollector(), MyBetsTodayCollector(), StatareaCollector(),
+        PredictZCollector(), StatsBetCollector(), VitibetCollector(),
+        AdibetCollector(), StatareaCollector(),
     ]
     all_picks: list[SourcePick] = []
     source_status: list[dict] = []
