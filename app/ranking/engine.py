@@ -9,6 +9,11 @@ import unicodedata
 
 MIN_SOURCES = 1
 TARGET_COUNT = 20
+MIN_FINAL_SCORE = 0.45  # cards whose best pick scores below this are dropped
+# entirely rather than just ranked lower - a real confidence bar on top of
+# TARGET_COUNT's cap, not a raw source-count cutoff (which we deliberately
+# don't do: a single strong-consensus source shouldn't be excluded just for
+# being alone).
 STALE_KICKOFF_HOURS = 2  # a match this far past its kickoff is assumed over
 MAX_ODDS_CALLS = 30  # protects the free-tier 500 req/month odds API quota
 MAX_VITIBET_ODDS_CALLS = 150  # generous safety net, not a quota (free site)
@@ -405,6 +410,8 @@ async def build_ranked_matches(
     for fixture_key, picks in by_fixture.items():
         picks_sorted = sorted(picks, key=lambda m: m.final_score, reverse=True)
         top = picks_sorted[0]
+        if top.final_score < MIN_FINAL_SCORE:
+            continue
         cards.append(MatchCard(
             match_id=hashlib.md5(fixture_key.encode()).hexdigest()[:8],
             home_team=top.home_team,

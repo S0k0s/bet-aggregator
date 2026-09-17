@@ -1,6 +1,6 @@
 import pytest
 from app.models.schemas import SourcePick
-from app.ranking.engine import build_ranked_matches, _normalize_team, _match_key, _odds_for_pick
+from app.ranking.engine import build_ranked_matches, _normalize_team, _match_key, _odds_for_pick, MIN_FINAL_SCORE
 
 
 def _pick(source_name, home, away, market="1X2", pick="1", odds=1.9):
@@ -148,23 +148,43 @@ async def test_low_consensus_longshot_no_longer_beats_high_consensus_safe_pick()
     # single-agreeing-source, high-odds "long shot" (Correct Score) was
     # outranking a genuine 3-source consensus pick on a safer market,
     # purely because price_edge/ev_score saturate fast on high odds
-    # regardless of how many sources actually back the pick.
+    # regardless of how many sources actually back the pick. Now that
+    # MIN_FINAL_SCORE drops low-confidence cards outright, the longshot
+    # doesn't just rank lower - it's excluded from the results entirely.
     longshot_fixture = [
         _pick("PredictZ", "LongshotFC", "Rival", market="Correct Score", pick="LongshotFC 2-1", odds=8.50),
         _pick("Adibet", "LongshotFC", "Rival", market="1X2", pick="X", odds=3.2),
         _pick("StatsBet", "LongshotFC", "Rival", market="1X2", pick="2", odds=2.5),
     ]
     safe_fixture = [
-        _pick("PredictZ", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
-        _pick("Adibet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
-        _pick("StatsBet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.3),
+        _pick("PredictZ", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.6),
+        _pick("Adibet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.6),
+        _pick("StatsBet", "Favourite", "Underdog", market="Double Chance", pick="1X", odds=1.6),
     ]
     ranked = (await build_ranked_matches(longshot_fixture + safe_fixture))["Europe"]["all"]
-    longshot = next(m for m in ranked if m.home_team == "LongshotFC").picks[0]
+    assert {m.home_team for m in ranked} == {"Favourite"}
     safe = next(m for m in ranked if m.home_team == "Favourite").picks[0]
-    assert longshot.consensus_score < 0.5
     assert safe.consensus_score == 1.0
-    assert safe.final_score > longshot.final_score
+    assert safe.final_score >= MIN_FINAL_SCORE
+
+
+@pytest.mark.asyncio
+async def test_min_final_score_drops_low_confidence_cards():
+    # Two sources disagreeing on the same fixture (consensus 0.5) at
+    # unremarkable odds scores well below MIN_FINAL_SCORE and must not
+    # appear at all - not just rank last.
+    low_confidence = [
+        _pick("Adibet", "WeakFC", "Rival", pick="1", odds=1.5),
+        _pick("Statarea", "WeakFC", "Rival", pick="X", odds=1.5),
+    ]
+    high_confidence = [
+        _pick("PredictZ", "StrongFC", "Rival", pick="1", odds=1.7),
+        _pick("Adibet", "StrongFC", "Rival", pick="1", odds=1.7),
+        _pick("StatsBet", "StrongFC", "Rival", pick="1", odds=1.7),
+    ]
+    ranked = (await build_ranked_matches(low_confidence + high_confidence))["Europe"]["all"]
+    assert {m.home_team for m in ranked} == {"StrongFC"}
+    assert all(m.picks[0].final_score >= MIN_FINAL_SCORE for m in ranked)
 
 
 @pytest.mark.asyncio
