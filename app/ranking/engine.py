@@ -9,7 +9,7 @@ import unicodedata
 
 MIN_SOURCES = 1
 TARGET_COUNT = 20
-MIN_FINAL_SCORE = 0.45  # cards whose best pick scores below this are dropped
+MIN_FINAL_SCORE = 0.50  # cards whose best pick scores below this are dropped
 # entirely rather than just ranked lower - a real confidence bar on top of
 # TARGET_COUNT's cap, not a raw source-count cutoff (which we deliberately
 # don't do: a single strong-consensus source shouldn't be excluded just for
