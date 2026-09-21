@@ -16,11 +16,11 @@
             "kickoff": "2026-09-21T19:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 2.6,
+            "best_odds": 2.45,
             "consensus_score": 1.0,
-            "price_edge_score": 0.368,
+            "price_edge_score": 0.289,
             "source_count": 1,
-            "final_score": 0.732,
+            "final_score": 0.713,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -119,45 +119,6 @@
         ]
       },
       {
-        "match_id": "d36d9995",
-        "home_team": "Nõmme Kalju II",
-        "away_team": "Nõmme United II",
-        "competition": "Estonia: Esiliiga A",
-        "kickoff": "2026-09-21T16:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "abd9a117",
-            "home_team": "Nõmme Kalju II",
-            "away_team": "Nõmme United II",
-            "competition": "Estonia: Esiliiga A",
-            "kickoff": "2026-09-21T16:30:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.9,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.62,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1519651&league_id=328",
-                "home_team": "Nõmme Kalju II",
-                "away_team": "Nõmme United II",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Nõmme Kalju II vs Nõmme United II: predicted score 1-2, tip 2.",
-                "competition": "Estonia: Esiliiga A",
-                "kickoff": "2026-09-21T16:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Nõmme Kalju II vs Nõmme United II: predicted score 1-2, tip 2."
-          }
-        ]
-      },
-      {
         "match_id": "cd342663",
         "home_team": "Metalac GM",
         "away_team": "Grafičar",
@@ -250,11 +211,11 @@
             "kickoff": "2026-09-21T20:30:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.8,
+            "best_odds": 1.73,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.598,
+            "final_score": 0.584,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -280,10 +241,49 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for AC Trento vs Pro Vercelli: 1X2 1.",
                 "competition": "ITALY - SERIE C GRP. A",
-                "kickoff": "2026-09-21T20:30:00"
+                "kickoff": "2026-09-21T18:30:00"
               }
             ],
             "explanation": "Vitibet statistical model for Trento vs Pro Vercelli: predicted score 1-0, tip 1. | Statarea tip for AC Trento vs Pro Vercelli: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "d36d9995",
+        "home_team": "Nõmme Kalju II",
+        "away_team": "Nõmme United II",
+        "competition": "Estonia: Esiliiga A",
+        "kickoff": "2026-09-21T16:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "abd9a117",
+            "home_team": "Nõmme Kalju II",
+            "away_team": "Nõmme United II",
+            "competition": "Estonia: Esiliiga A",
+            "kickoff": "2026-09-21T16:30:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.7,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.58,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1519651&league_id=328",
+                "home_team": "Nõmme Kalju II",
+                "away_team": "Nõmme United II",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Nõmme Kalju II vs Nõmme United II: predicted score 1-2, tip 2.",
+                "competition": "Estonia: Esiliiga A",
+                "kickoff": "2026-09-21T16:30:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Nõmme Kalju II vs Nõmme United II: predicted score 1-2, tip 2."
           }
         ]
       },
@@ -302,11 +302,11 @@
             "kickoff": "2026-09-21T20:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.75,
+            "best_odds": 1.7,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.588,
+            "final_score": 0.578,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -332,49 +332,10 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Petrolul Ploiesti vs Csikszereda: 1X2 1.",
                 "competition": "ROMANIA - SUPERLIGA",
-                "kickoff": "2026-09-21T20:00:00"
+                "kickoff": "2026-09-21T18:00:00"
               }
             ],
             "explanation": "Vitibet statistical model for Petrolul Ploiești vs Csikszereda: predicted score 2-0, tip 1. | Statarea tip for Petrolul Ploiesti vs Csikszereda: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "59b12755",
-        "home_team": "Napredak",
-        "away_team": "Semendrija 1924",
-        "competition": "Serbia: Prva Liga",
-        "kickoff": "2026-09-21T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "6775666d",
-            "home_team": "Napredak",
-            "away_team": "Semendrija 1924",
-            "competition": "Serbia: Prva Liga",
-            "kickoff": "2026-09-21T18:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.67,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.574,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1554165&league_id=287",
-                "home_team": "Napredak",
-                "away_team": "Semendrija 1924",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Napredak vs Semendrija 1924: predicted score 1-1, tip X2.",
-                "competition": "Serbia: Prva Liga",
-                "kickoff": "2026-09-21T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Napredak vs Semendrija 1924: predicted score 1-1, tip X2."
           }
         ]
       },
@@ -418,6 +379,45 @@
         ]
       },
       {
+        "match_id": "59b12755",
+        "home_team": "Napredak",
+        "away_team": "Semendrija 1924",
+        "competition": "Serbia: Prva Liga",
+        "kickoff": "2026-09-21T18:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "6775666d",
+            "home_team": "Napredak",
+            "away_team": "Semendrija 1924",
+            "competition": "Serbia: Prva Liga",
+            "kickoff": "2026-09-21T18:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.56,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.552,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1554165&league_id=287",
+                "home_team": "Napredak",
+                "away_team": "Semendrija 1924",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Napredak vs Semendrija 1924: predicted score 1-1, tip X2.",
+                "competition": "Serbia: Prva Liga",
+                "kickoff": "2026-09-21T18:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Napredak vs Semendrija 1924: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
         "match_id": "cf6c44a4",
         "home_team": "HB Koge",
         "away_team": "Hobro",
@@ -432,11 +432,11 @@
             "kickoff": "2026-09-21T19:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.5,
+            "best_odds": 1.46,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.538,
+            "final_score": 0.53,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -462,7 +462,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for HB Koge vs Hobro: Double Chance X2.",
                 "competition": "DENMARK - 1. DIVISION",
-                "kickoff": "2026-09-21T19:00:00"
+                "kickoff": "2026-09-21T17:00:00"
               }
             ],
             "explanation": "Vitibet statistical model for HB Koge vs Hobro: predicted score 1-1, tip X2. | Statarea tip for HB Koge vs Hobro: Double Chance X2."
@@ -484,11 +484,11 @@
             "kickoff": "2026-09-21T17:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.47,
+            "best_odds": 1.43,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.534,
+            "final_score": 0.526,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -523,11 +523,11 @@
             "kickoff": "2026-09-21T18:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.35,
+            "best_odds": 1.38,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.51,
+            "final_score": 0.516,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -544,6 +544,84 @@
               }
             ],
             "explanation": "Vitibet statistical model for Jedinstvo Ub vs Loznica: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "848b7073",
+        "home_team": "Spaeri",
+        "away_team": "Dila",
+        "competition": "Georgia: Erovnuli Liga",
+        "kickoff": "2026-09-21T19:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "56f58e60",
+            "home_team": "Spaeri",
+            "away_team": "Dila",
+            "competition": "Georgia: Erovnuli Liga",
+            "kickoff": "2026-09-21T19:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.33,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.506,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1509192&league_id=327",
+                "home_team": "Spaeri",
+                "away_team": "Dila",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Spaeri vs Dila: predicted score 1-1, tip X2.",
+                "competition": "Georgia: Erovnuli Liga",
+                "kickoff": "2026-09-21T19:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Spaeri vs Dila: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "867915f0",
+        "home_team": "Rustavi",
+        "away_team": "FC Iberia 1999",
+        "competition": "Georgia: Erovnuli Liga",
+        "kickoff": "2026-09-21T17:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "15857de0",
+            "home_team": "Rustavi",
+            "away_team": "FC Iberia 1999",
+            "competition": "Georgia: Erovnuli Liga",
+            "kickoff": "2026-09-21T17:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.31,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.502,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1509190&league_id=327",
+                "home_team": "Rustavi",
+                "away_team": "FC Iberia 1999",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Rustavi vs FC Iberia 1999: predicted score 1-0, tip 1X.",
+                "competition": "Georgia: Erovnuli Liga",
+                "kickoff": "2026-09-21T17:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Rustavi vs FC Iberia 1999: predicted score 1-0, tip 1X."
           }
         ]
       }
@@ -571,11 +649,11 @@
             "kickoff": "2026-09-21T20:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.91,
+            "best_odds": 1.95,
             "consensus_score": 1.0,
-            "price_edge_score": 0.005,
+            "price_edge_score": 0.026,
             "source_count": 1,
-            "final_score": 0.624,
+            "final_score": 0.637,
             "sources": [
               {
                 "source_name": "Vitibet",
