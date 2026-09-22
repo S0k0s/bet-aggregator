@@ -2,46 +2,168 @@
   "Europe": {
     "all": [
       {
-        "match_id": "4acd4ec4",
-        "home_team": "Dumbrăviţa",
-        "away_team": "CSM Reşiţa",
-        "competition": "Romania: Liga II",
-        "kickoff": "2026-09-22T16:30:00+02:00",
+        "match_id": "33ae703c",
+        "home_team": "Juventus W",
+        "away_team": "SL Benfica W",
+        "competition": "World: UEFA Champions League Women",
+        "kickoff": "2026-09-22T21:00:00+02:00",
         "picks": [
           {
-            "match_id": "20acf225",
-            "home_team": "Dumbrăviţa",
-            "away_team": "CSM Reşiţa",
-            "competition": "Romania: Liga II",
-            "kickoff": "2026-09-22T16:30:00+02:00",
+            "match_id": "c0126e45",
+            "home_team": "Juventus W",
+            "away_team": "SL Benfica W",
+            "competition": "World: UEFA Champions League Women",
+            "kickoff": "2026-09-22T21:00:00+02:00",
             "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.53,
+            "recommended_pick": "1",
+            "best_odds": 1.62,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.546,
+            "final_score": 0.563,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602487&league_id=284",
-                "home_team": "Dumbrăviţa",
-                "away_team": "CSM Reşiţa",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638310&league_id=525",
+                "home_team": "Juventus W",
+                "away_team": "SL Benfica W",
                 "market": "1X2",
-                "pick": "2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Dumbrăviţa vs CSM Reşiţa: predicted score 1-2, tip 2.",
-                "competition": "Romania: Liga II",
-                "kickoff": "2026-09-22T16:30:00+02:00"
+                "reason_summary": "Vitibet statistical model for Juventus W vs SL Benfica W: predicted score 1-0, tip 1.",
+                "competition": "World: UEFA Champions League Women",
+                "kickoff": "2026-09-22T21:00:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Dumbrăviţa vs CSM Reşiţa: predicted score 1-2, tip 2."
+            "explanation": "Vitibet statistical model for Juventus W vs SL Benfica W: predicted score 1-0, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "21c4b7e0",
+        "home_team": "Dagenham & Redbridge",
+        "away_team": "Waltham Abbey",
+        "competition": "England: FA Cup",
+        "kickoff": "2026-09-22T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "254dd4dd",
+            "home_team": "Dagenham & Redbridge",
+            "away_team": "Waltham Abbey",
+            "competition": "England: FA Cup",
+            "kickoff": "2026-09-22T20:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.36,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.511,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1640759&league_id=45",
+                "home_team": "Dagenham & Redbridge",
+                "away_team": "Waltham Abbey",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Dagenham & Redbridge vs Waltham Abbey: predicted score 1-0, tip 1.",
+                "competition": "England: FA Cup",
+                "kickoff": "2026-09-22T20:45:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Dagenham & Redbridge vs Waltham Abbey: predicted score 1-0, tip 1."
           }
         ]
       }
     ],
-    "leagues": {}
+    "leagues": {
+      "UEFA Champions League": [
+        {
+          "match_id": "33ae703c",
+          "home_team": "Juventus W",
+          "away_team": "SL Benfica W",
+          "competition": "World: UEFA Champions League Women",
+          "kickoff": "2026-09-22T21:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "c0126e45",
+              "home_team": "Juventus W",
+              "away_team": "SL Benfica W",
+              "competition": "World: UEFA Champions League Women",
+              "kickoff": "2026-09-22T21:00:00+02:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": 1.62,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.563,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638310&league_id=525",
+                  "home_team": "Juventus W",
+                  "away_team": "SL Benfica W",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Juventus W vs SL Benfica W: predicted score 1-0, tip 1.",
+                  "competition": "World: UEFA Champions League Women",
+                  "kickoff": "2026-09-22T21:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Juventus W vs SL Benfica W: predicted score 1-0, tip 1."
+            }
+          ]
+        }
+      ],
+      "FA Cup": [
+        {
+          "match_id": "21c4b7e0",
+          "home_team": "Dagenham & Redbridge",
+          "away_team": "Waltham Abbey",
+          "competition": "England: FA Cup",
+          "kickoff": "2026-09-22T20:45:00+02:00",
+          "picks": [
+            {
+              "match_id": "254dd4dd",
+              "home_team": "Dagenham & Redbridge",
+              "away_team": "Waltham Abbey",
+              "competition": "England: FA Cup",
+              "kickoff": "2026-09-22T20:45:00+02:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": 1.36,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.511,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1640759&league_id=45",
+                  "home_team": "Dagenham & Redbridge",
+                  "away_team": "Waltham Abbey",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Dagenham & Redbridge vs Waltham Abbey: predicted score 1-0, tip 1.",
+                  "competition": "England: FA Cup",
+                  "kickoff": "2026-09-22T20:45:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Dagenham & Redbridge vs Waltham Abbey: predicted score 1-0, tip 1."
+            }
+          ]
+        }
+      ]
+    }
   },
   "Asia": {
     "all": [],
@@ -68,7 +190,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.506,
+            "final_score": 0.505,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -108,11 +230,11 @@
             "kickoff": "2026-09-22T21:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.54,
+            "best_odds": 1.51,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.546,
+            "final_score": 0.539,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -138,7 +260,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for MC Alger vs MC Oran: 1X2 1.",
                 "competition": "ALGERIA - LIGUE 1",
-                "kickoff": "2026-09-22T21:00:00"
+                "kickoff": "2026-09-22T12:00:00"
               }
             ],
             "explanation": "Vitibet statistical model for MC Alger vs MC Oran: predicted score 1-0, tip 1. | Statarea tip for MC Alger vs MC Oran: 1X2 1."
