@@ -135671,7 +135671,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-09-23T04:43:19.786127+00:00",
     "kickoff": "2026-09-23T22:00:00+02:00",
-    "best_odds": 2.2,
+    "best_odds": 2.1,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -135752,12 +135752,72 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-09-23T04:43:19.786127+00:00",
-    "kickoff": "2026-09-23T17:00:00+02:00",
-    "best_odds": 1.36,
+    "kickoff": "2026-09-23T15:00:00",
+    "best_odds": 1.4,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
       "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "oh leuven w|roma w|Double Chance|1X|unknown-date",
+    "match_id": "ec41bc11",
+    "home_team": "OH Leuven W",
+    "away_team": "Roma W",
+    "competition": "World: UEFA Champions League Women",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-23T16:56:08.008034+00:00",
+    "kickoff": "TBD",
+    "best_odds": 2.0,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bregalnica stip|skopje|1X2|1|unknown-date",
+    "match_id": "99a6a599",
+    "home_team": "Bregalnica Štip",
+    "away_team": "Skopje",
+    "competition": "Macedonia: First League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-23T16:56:08.008034+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.57,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "inter lagos|kano pillars|1X2|1|unknown-date",
+    "match_id": "097b7891",
+    "home_team": "Inter Lagos",
+    "away_team": "Kano Pillars FC",
+    "competition": "Nigeria: NPFL",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-23T16:56:08.008034+00:00",
+    "kickoff": "TBD",
+    "best_odds": 3.0,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
       "Vitibet"
     ],
     "final_score": null,
