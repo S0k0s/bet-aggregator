@@ -1,128 +1,7 @@
 {
   "Europe": {
-    "all": [
-      {
-        "match_id": "92ff35e9",
-        "home_team": "OH Leuven W",
-        "away_team": "Roma W",
-        "competition": "World: UEFA Champions League Women",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "ec41bc11",
-            "home_team": "OH Leuven W",
-            "away_team": "Roma W",
-            "competition": "World: UEFA Champions League Women",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 2.0,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.053,
-            "source_count": 1,
-            "final_score": 0.652,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638317&league_id=525",
-                "home_team": "OH Leuven W",
-                "away_team": "Roma W",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for OH Leuven W vs Roma W: predicted score 1-1, tip 1X.",
-                "competition": "World: UEFA Champions League Women",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for OH Leuven W vs Roma W: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "8b90f66c",
-        "home_team": "Bregalnica Štip",
-        "away_team": "Skopje",
-        "competition": "Macedonia: First League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "99a6a599",
-            "home_team": "Bregalnica Štip",
-            "away_team": "Skopje",
-            "competition": "Macedonia: First League",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.553,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551460&league_id=371",
-                "home_team": "Bregalnica Štip",
-                "away_team": "Skopje",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Bregalnica Štip vs Skopje: predicted score 2-1, tip 1.",
-                "competition": "Macedonia: First League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Bregalnica Štip vs Skopje: predicted score 2-1, tip 1."
-          }
-        ]
-      }
-    ],
-    "leagues": {
-      "UEFA Champions League": [
-        {
-          "match_id": "92ff35e9",
-          "home_team": "OH Leuven W",
-          "away_team": "Roma W",
-          "competition": "World: UEFA Champions League Women",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "ec41bc11",
-              "home_team": "OH Leuven W",
-              "away_team": "Roma W",
-              "competition": "World: UEFA Champions League Women",
-              "kickoff": "TBD",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 2.0,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.053,
-              "source_count": 1,
-              "final_score": 0.652,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638317&league_id=525",
-                  "home_team": "OH Leuven W",
-                  "away_team": "Roma W",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for OH Leuven W vs Roma W: predicted score 1-1, tip 1X.",
-                  "competition": "World: UEFA Champions League Women",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for OH Leuven W vs Roma W: predicted score 1-1, tip 1X."
-            }
-          ]
-        }
-      ]
-    }
+    "all": [],
+    "leagues": {}
   },
   "Asia": {
     "all": [],
@@ -135,21 +14,21 @@
         "home_team": "ADT",
         "away_team": "Cienciano",
         "competition": "Peru: Primera División",
-        "kickoff": "2026-09-23T22:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "02221ca3",
             "home_team": "ADT",
             "away_team": "Cienciano",
             "competition": "Peru: Primera División",
-            "kickoff": "2026-09-23T22:00:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 2.1,
+            "best_odds": 1.95,
             "consensus_score": 1.0,
-            "price_edge_score": 0.105,
+            "price_edge_score": 0.026,
             "source_count": 1,
-            "final_score": 0.666,
+            "final_score": 0.636,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -162,7 +41,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for ADT vs Cienciano: predicted score 1-2, tip 2.",
                 "competition": "Peru: Primera División",
-                "kickoff": "2026-09-23T22:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for ADT vs Cienciano: predicted score 1-2, tip 2."
@@ -173,99 +52,7 @@
     "leagues": {}
   },
   "Africa": {
-    "all": [
-      {
-        "match_id": "bf7752ee",
-        "home_team": "Inter Lagos",
-        "away_team": "Kano Pillars FC",
-        "competition": "Nigeria: NPFL",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "097b7891",
-            "home_team": "Inter Lagos",
-            "away_team": "Kano Pillars FC",
-            "competition": "Nigeria: NPFL",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 3.0,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.579,
-            "source_count": 1,
-            "final_score": 0.784,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628515&league_id=399",
-                "home_team": "Inter Lagos",
-                "away_team": "Kano Pillars FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Inter Lagos vs Kano Pillars FC: predicted score 1-0, tip 1.",
-                "competition": "Nigeria: NPFL",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Inter Lagos vs Kano Pillars FC: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "bf375e9b",
-        "home_team": "Shooting Stars SC",
-        "away_team": "Katsina United FC",
-        "competition": "Nigeria: NPFL",
-        "kickoff": "2026-09-23T15:00:00",
-        "picks": [
-          {
-            "match_id": "084dcc4c",
-            "home_team": "Shooting Stars SC",
-            "away_team": "Katsina United FC",
-            "competition": "Nigeria: NPFL",
-            "kickoff": "2026-09-23T15:00:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.4,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.517,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628520&league_id=399",
-                "home_team": "Shooting Stars SC",
-                "away_team": "Katsina United FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Shooting Stars SC vs Katsina United FC: predicted score 1-0, tip 1.",
-                "competition": "Nigeria: NPFL",
-                "kickoff": null
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Shooting Stars",
-                "away_team": "Katsina United",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Shooting Stars vs Katsina United: 1X2 1.",
-                "competition": "NIGERIA - NPFL",
-                "kickoff": "2026-09-23T15:00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Shooting Stars SC vs Katsina United FC: predicted score 1-0, tip 1. | Statarea tip for Shooting Stars vs Katsina United: 1X2 1."
-          }
-        ]
-      }
-    ],
+    "all": [],
     "leagues": {}
   }
 }
