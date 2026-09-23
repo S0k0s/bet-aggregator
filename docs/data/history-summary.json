@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T11:45:28.477448+00:00",
-  "total": 6710,
+  "generated_at": "2026-09-23T11:44:50.410527+00:00",
+  "total": 6720,
   "counts": {
-    "hit": 2177,
-    "miss": 1535,
+    "hit": 2180,
+    "miss": 1537,
     "push": 1,
-    "unknown": 2122,
-    "pending": 875
+    "unknown": 2148,
+    "pending": 854
   },
   "hit_rate": 0.586,
   "by_market": {
@@ -14,22 +14,22 @@
       "hit": 12,
       "miss": 105,
       "push": 0,
-      "unknown": 121,
-      "pending": 3
+      "unknown": 123,
+      "pending": 1
     },
     "Double Chance": {
-      "hit": 804,
-      "miss": 356,
+      "hit": 805,
+      "miss": 357,
       "push": 0,
-      "unknown": 370,
-      "pending": 500
+      "unknown": 372,
+      "pending": 498
     },
     "1X2": {
-      "hit": 1295,
-      "miss": 1046,
+      "hit": 1297,
+      "miss": 1047,
       "push": 0,
-      "unknown": 1362,
-      "pending": 368
+      "unknown": 1383,
+      "pending": 352
     },
     "Total Goals": {
       "hit": 52,
@@ -49,8 +49,8 @@
       "hit": 0,
       "miss": 0,
       "push": 0,
-      "unknown": 76,
-      "pending": 1
+      "unknown": 77,
+      "pending": 0
     },
     "Win To Nil": {
       "hit": 0,
