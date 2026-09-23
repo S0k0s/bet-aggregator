@@ -55,11 +55,11 @@
             "kickoff": "2026-09-23T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.45,
+            "best_odds": 1.62,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.529,
+            "final_score": 0.563,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -145,11 +145,11 @@
             "kickoff": "2026-09-23T22:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 2.3,
+            "best_odds": 2.2,
             "consensus_score": 1.0,
-            "price_edge_score": 0.211,
+            "price_edge_score": 0.158,
             "source_count": 1,
-            "final_score": 0.692,
+            "final_score": 0.679,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -174,58 +174,6 @@
   },
   "Africa": {
     "all": [
-      {
-        "match_id": "ee2ad8d9",
-        "home_team": "Barau FC",
-        "away_team": "Abia Warriors FC",
-        "competition": "Nigeria: NPFL",
-        "kickoff": "2026-09-23T17:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "55d49a9d",
-            "home_team": "Barau FC",
-            "away_team": "Abia Warriors FC",
-            "competition": "Nigeria: NPFL",
-            "kickoff": "2026-09-23T17:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.62,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.561,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628511&league_id=399",
-                "home_team": "Barau FC",
-                "away_team": "Abia Warriors FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Barau FC vs Abia Warriors FC: predicted score 1-0, tip 1.",
-                "competition": "Nigeria: NPFL",
-                "kickoff": "2026-09-23T17:00:00+02:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Barau",
-                "away_team": "Abia Warriors",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Barau vs Abia Warriors: 1X2 1.",
-                "competition": "NIGERIA - NPFL",
-                "kickoff": "2026-09-23T16:00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Barau FC vs Abia Warriors FC: predicted score 1-0, tip 1. | Statarea tip for Barau vs Abia Warriors: 1X2 1."
-          }
-        ]
-      },
       {
         "match_id": "bf7752ee",
         "home_team": "Inter Lagos",
@@ -262,6 +210,58 @@
               }
             ],
             "explanation": "Vitibet statistical model for Inter Lagos vs Kano Pillars FC: predicted score 1-0, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "ee2ad8d9",
+        "home_team": "Barau FC",
+        "away_team": "Abia Warriors FC",
+        "competition": "Nigeria: NPFL",
+        "kickoff": "2026-09-23T17:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "55d49a9d",
+            "home_team": "Barau FC",
+            "away_team": "Abia Warriors FC",
+            "competition": "Nigeria: NPFL",
+            "kickoff": "2026-09-23T17:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.45,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628511&league_id=399",
+                "home_team": "Barau FC",
+                "away_team": "Abia Warriors FC",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Barau FC vs Abia Warriors FC: predicted score 1-0, tip 1.",
+                "competition": "Nigeria: NPFL",
+                "kickoff": "2026-09-23T17:00:00+02:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Barau",
+                "away_team": "Abia Warriors",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Barau vs Abia Warriors: 1X2 1.",
+                "competition": "NIGERIA - NPFL",
+                "kickoff": "2026-09-23T16:00:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Barau FC vs Abia Warriors FC: predicted score 1-0, tip 1. | Statarea tip for Barau vs Abia Warriors: 1X2 1."
           }
         ]
       },
