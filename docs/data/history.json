@@ -136425,7 +136425,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T18:00:00+02:00",
-    "best_odds": 1.95,
+    "best_odds": 1.89,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -136445,7 +136445,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T21:00:00+02:00",
-    "best_odds": 1.91,
+    "best_odds": 2.0,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -136485,7 +136485,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T17:00:00+02:00",
-    "best_odds": 1.7,
+    "best_odds": 1.65,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -136505,7 +136505,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T20:45:00+02:00",
-    "best_odds": 1.65,
+    "best_odds": 1.67,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -136546,7 +136546,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T15:30:00+02:00",
-    "best_odds": 1.6,
+    "best_odds": 1.63,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -136566,7 +136566,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T19:00:00+02:00",
-    "best_odds": 1.57,
+    "best_odds": 1.5,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -136606,7 +136606,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T19:00:00+02:00",
-    "best_odds": 1.53,
+    "best_odds": 1.45,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -136627,7 +136627,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T19:00:00+02:00",
-    "best_odds": 1.52,
+    "best_odds": 1.54,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -136687,10 +136687,11 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T19:00:00+02:00",
-    "best_odds": 1.42,
-    "source_count": 1,
+    "best_odds": 1.45,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
+      "Adibet",
       "Vitibet"
     ],
     "final_score": null,
@@ -136727,6 +136728,67 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-25T04:56:19.183479+00:00",
     "kickoff": "2026-09-25T23:30:00+02:00",
+    "best_odds": 1.57,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "egypt|angola|1X2|1|2026-09-25",
+    "match_id": "1857256d",
+    "home_team": "Egypt",
+    "away_team": "Angola",
+    "competition": "World: Africa Cup of Nations - Qualification",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-25T11:49:34.897250+00:00",
+    "kickoff": "2026-09-25T21:00:00+02:00",
+    "best_odds": 1.35,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "karvina ii|lisen ii|1X2|2|2026-09-25",
+    "match_id": "87668847",
+    "home_team": "Karviná II",
+    "away_team": "Líšeň II",
+    "competition": "Czech Republic: 3. liga - MSFL",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-25T11:49:34.897250+00:00",
+    "kickoff": "2026-09-25T15:30:00+02:00",
+    "best_odds": 1.42,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "wuxi wugou|guangxi hengchen|Double Chance|1X|unknown-date",
+    "match_id": "f3d76b61",
+    "home_team": "Wuxi Wugou",
+    "away_team": "Guangxi Hengchen",
+    "competition": "China: League One",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-25T11:49:34.897250+00:00",
+    "kickoff": "TBD",
     "best_odds": 1.57,
     "source_count": 1,
     "consensus_score": 1.0,
