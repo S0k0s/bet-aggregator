@@ -137051,7 +137051,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-09-26T04:57:43.658006+00:00",
     "kickoff": "2026-09-26T20:00:00+02:00",
-    "best_odds": 3.7,
+    "best_odds": 3.0,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -137251,7 +137251,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-09-26T04:57:43.658006+00:00",
     "kickoff": "2026-09-26T18:30:00+02:00",
-    "best_odds": 2.3,
+    "best_odds": 2.1,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -137311,7 +137311,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-26T04:57:43.658006+00:00",
     "kickoff": "2026-09-26T20:00:00+02:00",
-    "best_odds": 2.08,
+    "best_odds": 1.79,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -137453,7 +137453,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-26T04:57:43.658006+00:00",
     "kickoff": "2026-09-26T21:30:00+02:00",
-    "best_odds": 2.15,
+    "best_odds": 2.1,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -137515,7 +137515,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-26T04:57:43.658006+00:00",
     "kickoff": "2026-09-26T18:30:00+02:00",
-    "best_odds": 1.63,
+    "best_odds": 1.64,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -137555,7 +137555,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-26T04:57:43.658006+00:00",
     "kickoff": "2026-09-26T21:00:00+02:00",
-    "best_odds": 1.52,
+    "best_odds": 1.47,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -137616,7 +137616,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-26T04:57:43.658006+00:00",
     "kickoff": "2026-09-26T21:00:00+02:00",
-    "best_odds": 1.42,
+    "best_odds": 1.36,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -137798,11 +137798,175 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-26T11:24:43.204242+00:00",
     "kickoff": "2026-09-26T20:30:00+02:00",
-    "best_odds": 1.75,
+    "best_odds": 1.73,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
       "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "desenzano calvina|juventus u23|1X2|1|unknown-date",
+    "match_id": "5b4410b6",
+    "home_team": "Desenzano Calvina",
+    "away_team": "Juventus U23",
+    "competition": "Italy: Serie C - Girone A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "TBD",
+    "best_odds": 2.4,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "longford town|cork city|1X2|2|2026-09-26",
+    "match_id": "c0f6d8f9",
+    "home_team": "Longford Town",
+    "away_team": "Cork City",
+    "competition": "Ireland: First Division",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "2026-09-26T20:30:00+02:00",
+    "best_odds": 1.7,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "livorno|pianese|1X2|1|2026-09-26",
+    "match_id": "dfaf1d09",
+    "home_team": "Livorno",
+    "away_team": "Pianese",
+    "competition": "Italy: Serie C - Girone B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "2026-09-26T17:30:00",
+    "best_odds": 1.67,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "oldham|salford city|Double Chance|X2|2026-09-26",
+    "match_id": "78471376",
+    "home_team": "Oldham",
+    "away_team": "Salford City",
+    "competition": "England: League Two",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "2026-09-26T18:30:00+02:00",
+    "best_odds": 1.47,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "utsikten|jonkopings sodra|1X2|2|unknown-date",
+    "match_id": "35c29a69",
+    "home_team": "Utsikten",
+    "away_team": "Jonkopings Sodra",
+    "competition": "Sweden: Ettan - Södra",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.44,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "fyr macedonia|switzerland|1X2|2|2026-09-26",
+    "match_id": "43b05933",
+    "home_team": "FYR Macedonia",
+    "away_team": "Switzerland",
+    "competition": "World: UEFA Nations League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "2026-09-26T20:45:00+02:00",
+    "best_odds": 1.33,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sambenedettese|campobasso|Double Chance|X2|2026-09-26",
+    "match_id": "8b521325",
+    "home_team": "Sambenedettese",
+    "away_team": "Campobasso FC",
+    "competition": "Italy: Serie C - Girone B",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "2026-09-26T20:30:00+02:00",
+    "best_odds": 1.31,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "wydad|widad temara|1X2|1|2026-09-26",
+    "match_id": "b168ba3c",
+    "home_team": "Wydad AC",
+    "away_team": "Widad Témara",
+    "competition": "Morocco: Botola Pro",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-26T16:23:05.120390+00:00",
+    "kickoff": "2026-09-26T22:00:00+02:00",
+    "best_odds": 1.44,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
       "Vitibet"
     ],
     "final_score": null,
