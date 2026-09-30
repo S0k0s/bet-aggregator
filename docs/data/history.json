@@ -140750,7 +140750,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-09-30T00:25:59.914295+00:00",
     "kickoff": "2026-09-30T20:45:00+02:00",
-    "best_odds": 1.51,
+    "best_odds": 1.54,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -140810,7 +140810,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-09-30T00:25:59.914295+00:00",
     "kickoff": "2026-09-30T23:00:00+02:00",
-    "best_odds": 2.25,
+    "best_odds": 2.05,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -140830,7 +140830,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-30T00:25:59.914295+00:00",
     "kickoff": "2026-09-30T22:00:00+02:00",
-    "best_odds": 1.36,
+    "best_odds": 1.44,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -140855,6 +140855,46 @@
     "consensus_score": 1.0,
     "sources": [
       "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "lyon w|chelsea w|1X2|1|2026-09-30",
+    "match_id": "1326a000",
+    "home_team": "Lyon W",
+    "away_team": "Chelsea W",
+    "competition": "World: UEFA Champions League Women",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-09-30T18:00:28.620510+00:00",
+    "kickoff": "2026-09-30T21:00:00+02:00",
+    "best_odds": 1.4,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hacken w|juventus w|Double Chance|1X|unknown-date",
+    "match_id": "d88c4de1",
+    "home_team": "Häcken W",
+    "away_team": "Juventus W",
+    "competition": "World: UEFA Champions League Women",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-09-30T18:00:28.620510+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.36,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
       "Vitibet"
     ],
     "final_score": null,
