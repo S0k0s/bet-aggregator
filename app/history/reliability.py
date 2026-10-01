@@ -40,6 +40,41 @@ def compute_reliability(
     return reliability
 
 
+def compute_market_reliability(
+    history: list[dict],
+    prior_weight: float = PRIOR_WEIGHT,
+    prior_value: float = PRIOR_VALUE,
+) -> dict[str, float]:
+    """Bayesian-shrunk hit rate per market (1X2, Double Chance, ...), same
+    shrinkage as compute_reliability() but grouped by entry["market"]
+    instead of source. Lets the ranking engine favor markets with a real
+    track record (Double Chance/Total Goals/BTTS have run well above 1X2
+    and far above Correct Score) over a flat per-source score alone.
+    """
+    hits: dict[str, int] = defaultdict(int)
+    misses: dict[str, int] = defaultdict(int)
+
+    for entry in history:
+        outcome = entry.get("outcome")
+        if outcome not in ("hit", "miss"):
+            continue
+        market = entry.get("market")
+        if not market:
+            continue
+        if outcome == "hit":
+            hits[market] += 1
+        else:
+            misses[market] += 1
+
+    reliability: dict[str, float] = {}
+    for market in set(hits) | set(misses):
+        h, m = hits[market], misses[market]
+        reliability[market] = round(
+            (h + prior_weight * prior_value) / (h + m + prior_weight), 3
+        )
+    return reliability
+
+
 def compute_source_stats(
     history: list[dict],
     reliability: dict[str, float] | None = None,

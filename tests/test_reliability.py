@@ -1,8 +1,8 @@
-from app.history.reliability import compute_reliability, compute_source_stats
+from app.history.reliability import compute_reliability, compute_source_stats, compute_market_reliability
 
 
-def _entry(outcome, sources):
-    return {"outcome": outcome, "sources": sources}
+def _entry(outcome, sources, market="1X2"):
+    return {"outcome": outcome, "sources": sources, "market": market}
 
 
 def test_no_graded_history_yields_empty():
@@ -76,3 +76,23 @@ def test_source_stats_includes_reliability_score():
     reliability = compute_reliability(history)
     stats = {s["name"]: s for s in compute_source_stats(history, reliability)}
     assert stats["A"]["reliability_score"] == reliability["A"]
+
+
+def test_market_reliability_groups_by_market_not_source():
+    history = [
+        _entry("hit", ["A"], market="Double Chance"),
+        _entry("hit", ["B"], market="Double Chance"),
+        _entry("miss", ["A"], market="1X2"),
+    ]
+    result = compute_market_reliability(history, prior_weight=4, prior_value=0.5)
+    assert result["Double Chance"] == round((2 + 2) / (2 + 4), 3)
+    assert result["1X2"] == round((0 + 2) / (1 + 4), 3)
+
+
+def test_market_reliability_ignores_push_pending_and_entries_without_market():
+    history = [
+        {"outcome": "hit", "sources": ["A"]},  # no "market" key at all
+        _entry("push", ["A"], market="Double Chance"),
+        _entry("pending", ["A"], market="Double Chance"),
+    ]
+    assert compute_market_reliability(history) == {}

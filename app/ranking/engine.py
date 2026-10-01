@@ -19,10 +19,11 @@ MAX_ODDS_CALLS = 30  # protects the free-tier 500 req/month odds API quota
 MAX_VITIBET_ODDS_CALLS = 150  # generous safety net, not a quota (free site)
 
 WEIGHTS = {
-    "source_quality": 0.30,
+    "source_quality": 0.25,
     "consensus": 0.25,
-    "price_edge": 0.25,
-    "ev_score": 0.20,
+    "price_edge": 0.20,
+    "ev_score": 0.15,
+    "market_quality": 0.15,
 }
 
 # price_edge/ev_score both saturate at 1.0 fast for naturally high-odds
@@ -42,6 +43,21 @@ SOURCE_RELIABILITY = {
     "Statarea": 0.65,
 }
 
+# Starting priors from the real by-market breakdown in history-summary.json
+# at the time this was added (Double Chance ~68%, Total Goals ~71%, BTTS
+# ~73% graded hit rate, vs. 1X2 ~55% and Correct Score ~10%) - overridden
+# per market once docs/data/market-reliability.json has graded samples,
+# same Bayesian-shrink pattern as SOURCE_RELIABILITY.
+MARKET_RELIABILITY = {
+    "1X2": 0.55,
+    "Double Chance": 0.68,
+    "Total Goals": 0.70,
+    "BTTS": 0.70,
+    "Draw No Bet": 0.55,
+    "Correct Score": 0.35,
+}
+DEFAULT_MARKET_RELIABILITY = 0.5  # markets with no prior and no graded history yet
+
 _CLUB_SUFFIXES = re.compile(r"\b(fc|cf|afc|sc|cd|ac|fk)\b", re.IGNORECASE)
 
 CONTINENTS = ("Europe", "Asia", "Americas", "Africa")
@@ -56,7 +72,14 @@ _CONTINENT_KEYWORDS = [
     # Champions League" (Asia) or "CAF Champions League" (Africa) would
     # get misclassified as Europe just for containing that substring.
     ("afc champions league", "Asia"), ("afc cup", "Asia"),
-    ("caf champions league", "Africa"), ("concacaf champions", "Americas"),
+    ("caf champions league", "Africa"),
+    # "concacaf" must be checked before the generic "caf " catch-all below,
+    # otherwise its own "...con-CAF-..." substring misclassifies every
+    # CONCACAF competition (e.g. "World: CONCACAF Nations League") as
+    # Africa - a real bug found live once national-team fixtures started
+    # showing up from Vitibet/Statarea.
+    ("concacaf", "Americas"), ("copa america", "Americas"), ("gold cup", "Americas"),
+    ("africa cup of nations", "Africa"), ("afcon", "Africa"), ("asean", "Asia"),
     ("uefa", "Europe"), ("champions league", "Europe"), ("europa league", "Europe"),
     ("conference league", "Europe"), ("conmebol", "Americas"), ("copa libertadores", "Americas"),
     ("copa sudamericana", "Americas"), ("caf ", "Africa"), ("afc ", "Asia"),
@@ -251,6 +274,10 @@ def _source_quality(picks: list[SourcePick], reliability: dict[str, float]) -> f
     return sum(scores) / len(scores) if scores else 0.0
 
 
+def _market_quality(market: str, market_reliability: dict[str, float]) -> float:
+    return market_reliability.get(market, MARKET_RELIABILITY.get(market, DEFAULT_MARKET_RELIABILITY))
+
+
 def _price_edge(best_odds: float | None, market_avg: float = 1.90) -> float:
     if best_odds is None or best_odds <= 1.0:
         return 0.0
@@ -289,8 +316,10 @@ async def build_ranked_matches(
     all_picks: list[SourcePick],
     reliability_overrides: dict[str, float] | None = None,
     finished_fixture_keys: set[str] | None = None,
+    market_reliability_overrides: dict[str, float] | None = None,
 ) -> dict[str, dict]:
     reliability = reliability_overrides or {}
+    market_reliability = market_reliability_overrides or {}
     grouped: dict[str, list[SourcePick]] = defaultdict(list)
     for pick in all_picks:
         grouped[_match_key(pick)].append(pick)
@@ -353,12 +382,14 @@ async def build_ranked_matches(
         con = _consensus(picks, fixture_source_totals)
         pe = _price_edge(best_odds)
         ev = _ev_score(best_odds, con)
+        mq = _market_quality(market, market_reliability)
 
         raw_score = (
             WEIGHTS["source_quality"] * sq +
             WEIGHTS["consensus"] * con +
             WEIGHTS["price_edge"] * pe +
-            WEIGHTS["ev_score"] * ev
+            WEIGHTS["ev_score"] * ev +
+            WEIGHTS["market_quality"] * mq
         )
         confidence_multiplier = CONSENSUS_CONFIDENCE_FLOOR + (1 - CONSENSUS_CONFIDENCE_FLOOR) * con
         final_score = raw_score * confidence_multiplier

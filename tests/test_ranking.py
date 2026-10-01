@@ -1,6 +1,8 @@
 import pytest
 from app.models.schemas import SourcePick
-from app.ranking.engine import build_ranked_matches, _normalize_team, _match_key, _odds_for_pick, MIN_FINAL_SCORE
+from app.ranking.engine import (
+    build_ranked_matches, _normalize_team, _match_key, _odds_for_pick, MIN_FINAL_SCORE, _continent_for,
+)
 
 
 def _pick(source_name, home, away, market="1X2", pick="1", odds=1.9):
@@ -202,3 +204,32 @@ async def test_finished_fixture_keys_drops_stale_pick_regardless_of_kickoff():
     finished = {f"{_normalize_team('Fenerbahce')}|{_normalize_team('Lyon')}"}
     ranked = (await build_ranked_matches(picks, finished_fixture_keys=finished))["Europe"]["all"]
     assert {m.home_team for m in ranked} == {"Arsenal"}
+
+
+def test_concacaf_competitions_bucket_as_americas_not_africa():
+    # Regression test for a real bug found live: the generic "caf " Africa
+    # catch-all matched a substring inside "CONCACAF" itself (con-CAF-...),
+    # so every CONCACAF competition (national-team fixtures start showing
+    # up once Vitibet/Statarea carry international windows) was
+    # misclassified as Africa.
+    assert _continent_for("World: CONCACAF Nations League") == "Americas"
+    assert _continent_for("CONCACAF Gold Cup") == "Americas"
+    assert _continent_for("CAF Champions League") == "Africa"
+
+
+def test_national_team_tournament_keywords_bucket_correctly():
+    assert _continent_for("World: Africa Cup of Nations - Qualification") == "Africa"
+    assert _continent_for("Copa America") == "Americas"
+    assert _continent_for("World: FIFA Asean Cup") == "Asia"
+
+
+@pytest.mark.asyncio
+async def test_market_quality_favors_historically_reliable_markets():
+    # Same consensus/odds/source on two different markets - Double Chance's
+    # higher real-world hit rate should push its final_score above 1X2's.
+    double_chance = [_pick("Vitibet", "DCTeam", "Rival", market="Double Chance", pick="1X", odds=1.9)]
+    one_x_two = [_pick("Vitibet", "OneXTwoTeam", "Rival", market="1X2", pick="1", odds=1.9)]
+    ranked = (await build_ranked_matches(double_chance + one_x_two))["Europe"]["all"]
+    dc = next(m for m in ranked if m.home_team == "DCTeam").picks[0]
+    oxt = next(m for m in ranked if m.home_team == "OneXTwoTeam").picks[0]
+    assert dc.final_score > oxt.final_score
