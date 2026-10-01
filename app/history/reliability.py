@@ -75,6 +75,61 @@ def compute_market_reliability(
     return reliability
 
 
+def source_market_key(source_name: str, market: str) -> str:
+    return f"{source_name}|{market}"
+
+
+def compute_source_market_reliability(
+    history: list[dict],
+    prior_weight: float = PRIOR_WEIGHT,
+    prior_value: float = PRIOR_VALUE,
+    min_samples: int = 10,
+) -> dict[str, float]:
+    """Bayesian-shrunk hit rate per (source, market) combo, key'd as
+    "Source|Market" (flat, so it loads with the same generic
+    load_reliability() as every other *-reliability.json file).
+
+    A real audit found this combo can diverge sharply from either the
+    source's or the market's own average alone - e.g. Adibet's 1X2 ran
+    ~82% (well above Vitibet/Statarea's ~58-60% on the same market) while
+    Adibet's own Double Chance ran ~54% (below Vitibet/Statarea's ~67-71%
+    on *that* market). A flat per-source or per-market score can't capture
+    that; this can.
+
+    `min_samples` guards against noise: a combo with fewer than this many
+    graded picks is left out entirely, so a 2-sample fluke doesn't
+    override the coarser per-source/per-market fallback the engine already
+    has. 10 is a judgment call, not a measured threshold - tune it once
+    more data exists.
+    """
+    hits: dict[str, int] = defaultdict(int)
+    misses: dict[str, int] = defaultdict(int)
+
+    for entry in history:
+        outcome = entry.get("outcome")
+        if outcome not in ("hit", "miss"):
+            continue
+        market = entry.get("market")
+        if not market:
+            continue
+        for source_name in entry.get("sources", []):
+            key = source_market_key(source_name, market)
+            if outcome == "hit":
+                hits[key] += 1
+            else:
+                misses[key] += 1
+
+    reliability: dict[str, float] = {}
+    for key in set(hits) | set(misses):
+        h, m = hits[key], misses[key]
+        if h + m < min_samples:
+            continue
+        reliability[key] = round(
+            (h + prior_weight * prior_value) / (h + m + prior_weight), 3
+        )
+    return reliability
+
+
 def compute_source_stats(
     history: list[dict],
     reliability: dict[str, float] | None = None,

@@ -3,6 +3,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from app.models.schemas import SourcePick, RankedMatch, MatchCard
 from app.odds.adapter import OddsAdapter, _sport_key_for
+from app.history.reliability import source_market_key
 import hashlib
 import re
 import unicodedata
@@ -269,8 +270,24 @@ def _consensus(picks: list[SourcePick], fixture_source_counts: dict[str, int]) -
     return min(agreeing_sources / eligible_sources, 1.0)
 
 
-def _source_quality(picks: list[SourcePick], reliability: dict[str, float]) -> float:
-    scores = [reliability.get(p.source_name, SOURCE_RELIABILITY.get(p.source_name, 0.5)) for p in picks]
+def _source_quality(
+    picks: list[SourcePick],
+    reliability: dict[str, float],
+    market: str,
+    source_market_reliability: dict[str, float],
+) -> float:
+    """Per-pick score, preferring the most specific data available: a
+    source's own track record on *this* market (e.g. Adibet's 1X2 runs
+    ~82%, well above its own Double Chance ~54% and above every other
+    source's 1X2) over its flat overall reliability, over the static
+    per-source default."""
+    scores = []
+    for p in picks:
+        combo = source_market_reliability.get(source_market_key(p.source_name, market))
+        if combo is not None:
+            scores.append(combo)
+        else:
+            scores.append(reliability.get(p.source_name, SOURCE_RELIABILITY.get(p.source_name, 0.5)))
     return sum(scores) / len(scores) if scores else 0.0
 
 
@@ -317,9 +334,11 @@ async def build_ranked_matches(
     reliability_overrides: dict[str, float] | None = None,
     finished_fixture_keys: set[str] | None = None,
     market_reliability_overrides: dict[str, float] | None = None,
+    source_market_reliability_overrides: dict[str, float] | None = None,
 ) -> dict[str, dict]:
     reliability = reliability_overrides or {}
     market_reliability = market_reliability_overrides or {}
+    source_market_reliability = source_market_reliability_overrides or {}
     grouped: dict[str, list[SourcePick]] = defaultdict(list)
     for pick in all_picks:
         grouped[_match_key(pick)].append(pick)
@@ -378,7 +397,7 @@ async def build_ranked_matches(
             odds_calls_made += 1
         best_odds = best_odds_vitibet or best_odds_live or best_odds_from_picks  # None if no real price found
 
-        sq = _source_quality(picks, reliability)
+        sq = _source_quality(picks, reliability, market, source_market_reliability)
         con = _consensus(picks, fixture_source_totals)
         pe = _price_edge(best_odds)
         ev = _ev_score(best_odds, con)

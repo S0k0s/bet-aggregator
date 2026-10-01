@@ -233,3 +233,27 @@ async def test_market_quality_favors_historically_reliable_markets():
     dc = next(m for m in ranked if m.home_team == "DCTeam").picks[0]
     oxt = next(m for m in ranked if m.home_team == "OneXTwoTeam").picks[0]
     assert dc.final_score > oxt.final_score
+
+
+@pytest.mark.asyncio
+async def test_source_market_reliability_overrides_flat_source_score():
+    # Same source, same odds, two markets - a source-market combo override
+    # saying this source is excellent at 1X2 but poor at Double Chance must
+    # flip the ranking even though the flat per-source reliability is
+    # identical for both picks.
+    from app.history.reliability import source_market_key
+
+    one_x_two = [_pick("SomeSource", "StrongAt1X2", "Rival", market="1X2", pick="1", odds=1.9)]
+    double_chance = [_pick("SomeSource", "WeakAtDC", "Rival", market="Double Chance", pick="1X", odds=1.9)]
+    combo_overrides = {
+        source_market_key("SomeSource", "1X2"): 0.9,
+        source_market_key("SomeSource", "Double Chance"): 0.2,
+    }
+    ranked = (await build_ranked_matches(
+        one_x_two + double_chance,
+        reliability_overrides={"SomeSource": 0.5},
+        source_market_reliability_overrides=combo_overrides,
+    ))["Europe"]["all"]
+    strong = next(m for m in ranked if m.home_team == "StrongAt1X2").picks[0]
+    weak = next(m for m in ranked if m.home_team == "WeakAtDC").picks[0]
+    assert strong.final_score > weak.final_score

@@ -61,9 +61,11 @@ async def main() -> None:
 
     reliability = load_reliability(OUTPUT_DIR / "source-reliability.json")
     market_reliability = load_reliability(OUTPUT_DIR / "market-reliability.json")
+    source_market_reliability = load_reliability(OUTPUT_DIR / "source-market-reliability.json")
     ranked_by_continent = await build_ranked_matches(
         all_picks, reliability_overrides=reliability, finished_fixture_keys=finished_fixture_keys,
         market_reliability_overrides=market_reliability,
+        source_market_reliability_overrides=source_market_reliability,
     )
 
     # Flatten cards for counts, deduped by match_id since a card can

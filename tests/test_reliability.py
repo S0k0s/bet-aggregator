@@ -1,4 +1,7 @@
-from app.history.reliability import compute_reliability, compute_source_stats, compute_market_reliability
+from app.history.reliability import (
+    compute_reliability, compute_source_stats, compute_market_reliability,
+    compute_source_market_reliability, source_market_key,
+)
 
 
 def _entry(outcome, sources, market="1X2"):
@@ -96,3 +99,29 @@ def test_market_reliability_ignores_push_pending_and_entries_without_market():
         _entry("pending", ["A"], market="Double Chance"),
     ]
     assert compute_market_reliability(history) == {}
+
+
+def test_source_market_reliability_diverges_from_either_flat_average():
+    # Real pattern found live: Adibet's 1X2 ran far above its own Double
+    # Chance, and far above every other source's 1X2 - a flat per-source
+    # or per-market score alone can't capture that, the combo can.
+    history = (
+        [_entry("hit", ["Adibet"], market="1X2")] * 16
+        + [_entry("miss", ["Adibet"], market="1X2")] * 4  # 16/20 = 80% combo
+        + [_entry("hit", ["Adibet"], market="Double Chance")] * 2
+        + [_entry("miss", ["Adibet"], market="Double Chance")] * 8  # 2/10 = 20% combo
+    )
+    result = compute_source_market_reliability(history, prior_weight=4, prior_value=0.5)
+    key_1x2 = source_market_key("Adibet", "1X2")
+    key_dc = source_market_key("Adibet", "Double Chance")
+    assert result[key_1x2] > 0.7
+    assert result[key_dc] < 0.3
+    assert result[key_1x2] > result[key_dc]
+
+
+def test_source_market_reliability_drops_combos_below_min_samples():
+    # Only 3 graded picks for this combo - too noisy to trust, even though
+    # 100% of them hit.
+    history = [_entry("hit", ["NewSource"], market="BTTS")] * 3
+    result = compute_source_market_reliability(history, min_samples=10)
+    assert source_market_key("NewSource", "BTTS") not in result
