@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:49:57.395380+00:00",
+  "generated_at": "2026-10-01T10:09:48.479829+00:00",
   "sources": [
     {
       "name": "PredictZ",
@@ -23,17 +23,17 @@
     },
     {
       "name": "Statarea",
-      "pick_count": 0,
-      "error": ""
+      "pick_count": 10,
+      "error": null
     }
   ],
-  "total_raw_picks": 60,
-  "ranked_count": 15,
-  "match_count": 15,
+  "total_raw_picks": 70,
+  "ranked_count": 36,
+  "match_count": 31,
   "ranked_by_continent": {
-    "Europe": 12,
-    "Asia": 0,
+    "Europe": 20,
+    "Asia": 5,
     "Americas": 3,
-    "Africa": 0
+    "Africa": 2
   }
 }

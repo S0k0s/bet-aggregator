@@ -140911,7 +140911,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-30T22:14:37.917188+00:00",
     "kickoff": "2026-10-01T18:00:00+02:00",
-    "best_odds": 2.0,
+    "best_odds": 2.05,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -140951,7 +140951,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-09-30T22:14:37.917188+00:00",
     "kickoff": "2026-10-01T18:45:00+02:00",
-    "best_odds": 1.91,
+    "best_odds": 1.98,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -141032,10 +141032,11 @@
     "predicted_at": "2026-09-30T22:14:37.917188+00:00",
     "kickoff": "2026-10-01T20:45:00+02:00",
     "best_odds": 1.4,
-    "source_count": 2,
+    "source_count": 3,
     "consensus_score": 1.0,
     "sources": [
       "Adibet",
+      "Statarea",
       "Vitibet"
     ],
     "final_score": null,
@@ -141114,11 +141115,12 @@
     "recommended_pick": "1",
     "predicted_at": "2026-09-30T22:14:37.917188+00:00",
     "kickoff": "2026-10-01T20:45:00+02:00",
-    "best_odds": 1.22,
-    "source_count": 2,
+    "best_odds": 1.2,
+    "source_count": 3,
     "consensus_score": 1.0,
     "sources": [
       "Adibet",
+      "Statarea",
       "Vitibet"
     ],
     "final_score": null,
@@ -141137,7 +141139,7 @@
     "kickoff": "2026-10-01T12:00:00+00:00",
     "best_odds": null,
     "source_count": 1,
-    "consensus_score": 0.5,
+    "consensus_score": 0.333,
     "sources": [
       "Adibet"
     ],
@@ -141396,6 +141398,407 @@
     "predicted_at": "2026-10-01T05:49:57.480508+00:00",
     "kickoff": "2026-10-01T18:00:00+02:00",
     "best_odds": 1.65,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "hapoel afula|hapoel rishon lezion|Double Chance|X2|2026-10-01",
+    "match_id": "78787790",
+    "home_team": "Hapoel Afula",
+    "away_team": "Hapoel Rishon LeZion",
+    "competition": "Israel: Liga Leumit",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T18:00:00+02:00",
+    "best_odds": 1.29,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bastia|orleans|Double Chance|1X|2026-10-01",
+    "match_id": "65dec706",
+    "home_team": "Bastia",
+    "away_team": "Orleans",
+    "competition": "France: Ligue 3",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T20:45:00+02:00",
+    "best_odds": 1.27,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "baerum|lillestrom|Total Goals|Over 2.5|2026-10-01",
+    "match_id": "1345d067",
+    "home_team": "Baerum",
+    "away_team": "Lillestrom",
+    "competition": "Norway",
+    "market": "Total Goals",
+    "recommended_pick": "Over 2.5",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "baerum|lillestrom|1X2|2|2026-10-01",
+    "match_id": "30e84af4",
+    "home_team": "Baerum",
+    "away_team": "Lillestrom",
+    "competition": "Norway",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "madla|viking|Total Goals|Over 2.5|2026-10-01",
+    "match_id": "fe5096a7",
+    "home_team": "Madla",
+    "away_team": "Viking",
+    "competition": "Norway",
+    "market": "Total Goals",
+    "recommended_pick": "Over 2.5",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "madla|viking|1X2|2|2026-10-01",
+    "match_id": "41f3c217",
+    "home_team": "Madla",
+    "away_team": "Viking",
+    "competition": "Norway",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "rep. of ireland|austria|Double Chance|X2|2026-10-01",
+    "match_id": "4f819320",
+    "home_team": "Rep. Of Ireland",
+    "away_team": "Austria",
+    "competition": "World: UEFA Nations League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T20:45:00+02:00",
+    "best_odds": 1.24,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ireland|austria|Double Chance|X2|2026-10-01",
+    "match_id": "47ee0274",
+    "home_team": "Ireland",
+    "away_team": "Austria",
+    "competition": "Europe ",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bnei yehuda|maccabi kiryat gat|1X2|1|2026-10-01",
+    "match_id": "6d3b8369",
+    "home_team": "Bnei Yehuda",
+    "away_team": "Maccabi Kiryat Gat",
+    "competition": "Israel: Liga Leumit",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T18:00:00+02:00",
+    "best_odds": 1.29,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "azerbaijan|liechtenstein|1X2|1|2026-10-01",
+    "match_id": "0da26e8a",
+    "home_team": "Azerbaijan",
+    "away_team": "Liechtenstein",
+    "competition": "World: UEFA Nations League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T18:00:00+02:00",
+    "best_odds": 1.12,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "azerbaijan|liechtenstein|Total Goals|Over 2.5|2026-10-01",
+    "match_id": "dab9a8dd",
+    "home_team": "Azerbaijan",
+    "away_team": "Liechtenstein",
+    "competition": "Europe ",
+    "market": "Total Goals",
+    "recommended_pick": "Over 2.5",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 0.5,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bnei|kiryat gat|1X2|1|2026-10-01",
+    "match_id": "0f3197b6",
+    "home_team": "Bnei",
+    "away_team": "Kiryat Gat",
+    "competition": "European",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "paris saint germain w|oh leuven w|1X2|1|2026-10-01",
+    "match_id": "688e0a86",
+    "home_team": "Paris Saint Germain W",
+    "away_team": "OH Leuven W",
+    "competition": "World: UEFA Champions League Women",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T21:00:00+02:00",
+    "best_odds": 1.15,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bahla|fanja|Total Goals|Over 1.5|2026-10-01",
+    "match_id": "dc35a584",
+    "home_team": "Bahla",
+    "away_team": "Fanja SC",
+    "competition": "Oman",
+    "market": "Total Goals",
+    "recommended_pick": "Over 1.5",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bahla|fanja|1X2|1|2026-10-01",
+    "match_id": "74a36f7b",
+    "home_team": "Bahla",
+    "away_team": "Fanja SC",
+    "competition": "Oman",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "bani yas|al wahda|Double Chance|X2|2026-10-01",
+    "match_id": "5608713b",
+    "home_team": "Bani Yas",
+    "away_team": "Al \n\t\t\t\t\t\t\t\tWahda",
+    "competition": "United Arab Emirates",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "al nasr|al-samail|1X2|1|2026-10-01",
+    "match_id": "79d682de",
+    "home_team": "Al Nasr",
+    "away_team": "Al-Samail",
+    "competition": "Oman",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "shamal|muaither|1X2|1|2026-10-01",
+    "match_id": "256f7f70",
+    "home_team": "Shamal",
+    "away_team": "Muaither",
+    "competition": "Qatar",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "al sharjah|al dhafra|1X2|1|2026-10-01",
+    "match_id": "fd399082",
+    "home_team": "Al Sharjah",
+    "away_team": "Al \n\t\t\t\t\t\t\t\tDhafra",
+    "competition": "United Arab Emirates",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T12:00:00+00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "asante kotoko|karela|Double Chance|1X|2026-10-01",
+    "match_id": "ea2509a4",
+    "home_team": "Asante Kotoko SC",
+    "away_team": "Karela",
+    "competition": "Ghana: Premier League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-01T10:09:48.513970+00:00",
+    "kickoff": "2026-10-01T18:00:00+02:00",
+    "best_odds": 1.13,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
