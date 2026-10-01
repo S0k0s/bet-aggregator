@@ -16,11 +16,11 @@
             "kickoff": "2026-10-01T18:45:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.98,
+            "best_odds": 1.87,
             "consensus_score": 1.0,
-            "price_edge_score": 0.042,
+            "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.676,
+            "final_score": 0.651,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -172,11 +172,11 @@
             "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.67,
+            "best_odds": 1.73,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.58,
+            "final_score": 0.589,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -410,7 +410,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Wales vs Norway: 1X2 2.",
                 "competition": "INTERNATIONAL - UEFA NATIONS LEAGUE A GRP. 4",
-                "kickoff": "2026-10-01T11:45:00"
+                "kickoff": "2026-10-01T18:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for Wales vs Norway: predicted score 1-2, tip 2. | Adibet tip for Wales vs Norway: 1X2 2. | Statarea tip for Wales vs Norway: 1X2 2."
@@ -821,7 +821,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Germany vs Serbia: 1X2 1.",
                 "competition": "INTERNATIONAL - UEFA NATIONS LEAGUE A GRP. 2",
-                "kickoff": "2026-10-01T11:45:00"
+                "kickoff": "2026-10-01T18:45:00"
               }
             ],
             "explanation": "Vitibet statistical model for Germany vs Serbia: predicted score 2-0, tip 1. | Adibet tip for Germany vs Serbia: 1X2 1. | Statarea tip for Germany vs Serbia: 1X2 1."
@@ -855,6 +855,45 @@
               }
             ],
             "explanation": "Adibet tip for Germany vs Serbia: Total Goals Over 1.5."
+          }
+        ]
+      },
+      {
+        "match_id": "a243ff5e",
+        "home_team": "Maccabi Yavne",
+        "away_team": "Ironi Beit Shemesh",
+        "competition": "ISRAEL - LIGA ALEF SOUTH",
+        "kickoff": "2026-10-01T15:30:00",
+        "picks": [
+          {
+            "match_id": "36848971",
+            "home_team": "Maccabi Yavne",
+            "away_team": "Ironi Beit Shemesh",
+            "competition": "ISRAEL - LIGA ALEF SOUTH",
+            "kickoff": "2026-10-01T15:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.529,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Maccabi Yavne",
+                "away_team": "Ironi Beit Shemesh",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Maccabi Yavne vs Ironi Beit Shemesh: Double Chance 1X.",
+                "competition": "ISRAEL - LIGA ALEF SOUTH",
+                "kickoff": "2026-10-01T15:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Maccabi Yavne vs Ironi Beit Shemesh: Double Chance 1X."
           }
         ]
       },
@@ -939,45 +978,6 @@
             "explanation": "Adibet tip for Azerbaijan vs Liechtenstein: Total Goals Over 2.5."
           }
         ]
-      },
-      {
-        "match_id": "57c11830",
-        "home_team": "Bnei Yehuda",
-        "away_team": "Maccabi Kiryat Gat",
-        "competition": "Israel: Liga Leumit",
-        "kickoff": "2026-10-01T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "6d3b8369",
-            "home_team": "Bnei Yehuda",
-            "away_team": "Maccabi Kiryat Gat",
-            "competition": "Israel: Liga Leumit",
-            "kickoff": "2026-10-01T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.29,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.523,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555163&league_id=382",
-                "home_team": "Bnei Yehuda",
-                "away_team": "Maccabi Kiryat Gat",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Bnei Yehuda vs Maccabi Kiryat Gat: predicted score 2-0, tip 1.",
-                "competition": "Israel: Liga Leumit",
-                "kickoff": "2026-10-01T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Bnei Yehuda vs Maccabi Kiryat Gat: predicted score 2-0, tip 1."
-          }
-        ]
       }
     ],
     "leagues": {
@@ -997,11 +997,11 @@
               "kickoff": "2026-10-01T18:45:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "1X",
-              "best_odds": 1.98,
+              "best_odds": 1.87,
               "consensus_score": 1.0,
-              "price_edge_score": 0.042,
+              "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.676,
+              "final_score": 0.651,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1432,11 +1432,11 @@
             "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.65,
+            "best_odds": 1.62,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.577,
+            "final_score": 0.572,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1471,11 +1471,11 @@
             "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.13,
+            "best_odds": 1.11,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.54,
+            "final_score": 0.537,
             "sources": [
               {
                 "source_name": "Vitibet",
