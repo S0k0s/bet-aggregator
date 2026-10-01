@@ -20,7 +20,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.042,
             "source_count": 1,
-            "final_score": 0.663,
+            "final_score": 0.676,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -59,7 +59,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.079,
             "source_count": 1,
-            "final_score": 0.654,
+            "final_score": 0.645,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -94,11 +94,11 @@
             "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.95,
+            "best_odds": 2.0,
             "consensus_score": 1.0,
-            "price_edge_score": 0.026,
+            "price_edge_score": 0.053,
             "source_count": 1,
-            "final_score": 0.636,
+            "final_score": 0.64,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -133,11 +133,11 @@
             "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.75,
+            "best_odds": 1.8,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.6,
+            "final_score": 0.599,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -176,7 +176,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.588,
+            "final_score": 0.58,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -215,7 +215,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.578,
+            "final_score": 0.569,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -236,41 +236,119 @@
         ]
       },
       {
-        "match_id": "356c5c70",
-        "home_team": "Ashdod",
-        "away_team": "Maccabi Herzliya",
+        "match_id": "00fc33ce",
+        "home_team": "Maccabi Ahi Nazareth",
+        "away_team": "Ironi Modi'in",
         "competition": "Israel: Liga Leumit",
         "kickoff": "2026-10-01T18:00:00+02:00",
         "picks": [
           {
-            "match_id": "0e16bd70",
-            "home_team": "Ashdod",
-            "away_team": "Maccabi Herzliya",
+            "match_id": "69fb56c6",
+            "home_team": "Maccabi Ahi Nazareth",
+            "away_team": "Ironi Modi'in",
             "competition": "Israel: Liga Leumit",
             "kickoff": "2026-10-01T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.5,
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.32,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.563,
+            "final_score": 0.568,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555170&league_id=382",
-                "home_team": "Ashdod",
-                "away_team": "Maccabi Herzliya",
-                "market": "1X2",
-                "pick": "1",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555169&league_id=382",
+                "home_team": "Maccabi Ahi Nazareth",
+                "away_team": "Ironi Modi'in",
+                "market": "Double Chance",
+                "pick": "1X",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Ashdod vs Maccabi Herzliya: predicted score 2-0, tip 1.",
+                "reason_summary": "Vitibet statistical model for Maccabi Ahi Nazareth vs Ironi Modi'in: predicted score 1-1, tip 1X.",
                 "competition": "Israel: Liga Leumit",
                 "kickoff": "2026-10-01T18:00:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Ashdod vs Maccabi Herzliya: predicted score 2-0, tip 1."
+            "explanation": "Vitibet statistical model for Maccabi Ahi Nazareth vs Ironi Modi'in: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "7cb9ecbb",
+        "home_team": "Hapoel Afula",
+        "away_team": "Hapoel Rishon LeZion",
+        "competition": "Israel: Liga Leumit",
+        "kickoff": "2026-10-01T18:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "78787790",
+            "home_team": "Hapoel Afula",
+            "away_team": "Hapoel Rishon LeZion",
+            "competition": "Israel: Liga Leumit",
+            "kickoff": "2026-10-01T18:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.28,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.562,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555164&league_id=382",
+                "home_team": "Hapoel Afula",
+                "away_team": "Hapoel Rishon LeZion",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Hapoel Afula vs Hapoel Rishon LeZion: predicted score 1-2, tip X2.",
+                "competition": "Israel: Liga Leumit",
+                "kickoff": "2026-10-01T18:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Hapoel Afula vs Hapoel Rishon LeZion: predicted score 1-2, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "389f474b",
+        "home_team": "Bastia",
+        "away_team": "Orleans",
+        "competition": "France: Ligue 3",
+        "kickoff": "2026-10-01T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "65dec706",
+            "home_team": "Bastia",
+            "away_team": "Orleans",
+            "competition": "France: Ligue 3",
+            "kickoff": "2026-10-01T20:45:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.27,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.561,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1574751&league_id=63",
+                "home_team": "Bastia",
+                "away_team": "Orleans",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Bastia vs Orleans: predicted score 1-0, tip 1X.",
+                "competition": "France: Ligue 3",
+                "kickoff": "2026-10-01T20:45:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Bastia vs Orleans: predicted score 1-0, tip 1X."
           }
         ]
       },
@@ -293,7 +371,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.56,
+            "final_score": 0.559,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -340,119 +418,132 @@
         ]
       },
       {
-        "match_id": "00fc33ce",
-        "home_team": "Maccabi Ahi Nazareth",
-        "away_team": "Ironi Modi'in",
-        "competition": "Israel: Liga Leumit",
-        "kickoff": "2026-10-01T18:00:00+02:00",
+        "match_id": "19101f74",
+        "home_team": "Rep. Of Ireland",
+        "away_team": "Austria",
+        "competition": "World: UEFA Nations League",
+        "kickoff": "2026-10-01T20:45:00+02:00",
         "picks": [
           {
-            "match_id": "69fb56c6",
-            "home_team": "Maccabi Ahi Nazareth",
-            "away_team": "Ironi Modi'in",
-            "competition": "Israel: Liga Leumit",
-            "kickoff": "2026-10-01T18:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.32,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.555,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555169&league_id=382",
-                "home_team": "Maccabi Ahi Nazareth",
-                "away_team": "Ironi Modi'in",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Maccabi Ahi Nazareth vs Ironi Modi'in: predicted score 1-1, tip 1X.",
-                "competition": "Israel: Liga Leumit",
-                "kickoff": "2026-10-01T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Maccabi Ahi Nazareth vs Ironi Modi'in: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "7cb9ecbb",
-        "home_team": "Hapoel Afula",
-        "away_team": "Hapoel Rishon LeZion",
-        "competition": "Israel: Liga Leumit",
-        "kickoff": "2026-10-01T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "78787790",
-            "home_team": "Hapoel Afula",
-            "away_team": "Hapoel Rishon LeZion",
-            "competition": "Israel: Liga Leumit",
-            "kickoff": "2026-10-01T18:00:00+02:00",
+            "match_id": "4f819320",
+            "home_team": "Rep. Of Ireland",
+            "away_team": "Austria",
+            "competition": "World: UEFA Nations League",
+            "kickoff": "2026-10-01T20:45:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.29,
+            "best_odds": 1.24,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.551,
+            "final_score": 0.556,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555164&league_id=382",
-                "home_team": "Hapoel Afula",
-                "away_team": "Hapoel Rishon LeZion",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528921&league_id=5",
+                "home_team": "Rep. Of Ireland",
+                "away_team": "Austria",
                 "market": "Double Chance",
                 "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Hapoel Afula vs Hapoel Rishon LeZion: predicted score 1-2, tip X2.",
-                "competition": "Israel: Liga Leumit",
-                "kickoff": "2026-10-01T18:00:00+02:00"
+                "reason_summary": "Vitibet statistical model for Rep. Of Ireland vs Austria: predicted score 1-1, tip X2.",
+                "competition": "World: UEFA Nations League",
+                "kickoff": "2026-10-01T20:45:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Hapoel Afula vs Hapoel Rishon LeZion: predicted score 1-2, tip X2."
+            "explanation": "Vitibet statistical model for Rep. Of Ireland vs Austria: predicted score 1-1, tip X2."
           }
         ]
       },
       {
-        "match_id": "389f474b",
-        "home_team": "Bastia",
-        "away_team": "Orleans",
-        "competition": "France: Ligue 3",
-        "kickoff": "2026-10-01T20:45:00+02:00",
+        "match_id": "356c5c70",
+        "home_team": "Ashdod",
+        "away_team": "Maccabi Herzliya",
+        "competition": "Israel: Liga Leumit",
+        "kickoff": "2026-10-01T18:00:00+02:00",
         "picks": [
           {
-            "match_id": "65dec706",
-            "home_team": "Bastia",
-            "away_team": "Orleans",
-            "competition": "France: Ligue 3",
-            "kickoff": "2026-10-01T20:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.27,
+            "match_id": "0e16bd70",
+            "home_team": "Ashdod",
+            "away_team": "Maccabi Herzliya",
+            "competition": "Israel: Liga Leumit",
+            "kickoff": "2026-10-01T18:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.5,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.548,
+            "final_score": 0.554,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1574751&league_id=63",
-                "home_team": "Bastia",
-                "away_team": "Orleans",
-                "market": "Double Chance",
-                "pick": "1X",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555170&league_id=382",
+                "home_team": "Ashdod",
+                "away_team": "Maccabi Herzliya",
+                "market": "1X2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Bastia vs Orleans: predicted score 1-0, tip 1X.",
-                "competition": "France: Ligue 3",
-                "kickoff": "2026-10-01T20:45:00+02:00"
+                "reason_summary": "Vitibet statistical model for Ashdod vs Maccabi Herzliya: predicted score 2-0, tip 1.",
+                "competition": "Israel: Liga Leumit",
+                "kickoff": "2026-10-01T18:00:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Bastia vs Orleans: predicted score 1-0, tip 1X."
+            "explanation": "Vitibet statistical model for Ashdod vs Maccabi Herzliya: predicted score 2-0, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "ded2cb25",
+        "home_team": "Malta",
+        "away_team": "Gibraltar",
+        "competition": "World: UEFA Nations League",
+        "kickoff": "2026-10-01T20:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "dbb777e2",
+            "home_team": "Malta",
+            "away_team": "Gibraltar",
+            "competition": "World: UEFA Nations League",
+            "kickoff": "2026-10-01T20:45:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.25,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.544,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1545607&league_id=5",
+                "home_team": "Malta",
+                "away_team": "Gibraltar",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Malta vs Gibraltar: predicted score 2-1, tip 1.",
+                "competition": "World: UEFA Nations League",
+                "kickoff": "2026-10-01T20:45:00+02:00"
+              },
+              {
+                "source_name": "Adibet",
+                "source_url": "https://www.adibet.com/",
+                "home_team": "Malta",
+                "away_team": "Gibraltar",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Adibet tip for Malta vs Gibraltar: 1X2 1.",
+                "competition": "Europe ",
+                "kickoff": "2026-10-01T12:00:00+00:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Malta vs Gibraltar: predicted score 2-1, tip 1. | Adibet tip for Malta vs Gibraltar: 1X2 1."
           }
         ]
       },
@@ -475,7 +566,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.545,
+            "final_score": 0.54,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -505,7 +596,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.534,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -544,7 +635,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.545,
+            "final_score": 0.54,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -574,7 +665,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.534,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -595,171 +686,80 @@
         ]
       },
       {
-        "match_id": "19101f74",
-        "home_team": "Rep. Of Ireland",
-        "away_team": "Austria",
-        "competition": "World: UEFA Nations League",
-        "kickoff": "2026-10-01T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "4f819320",
-            "home_team": "Rep. Of Ireland",
-            "away_team": "Austria",
-            "competition": "World: UEFA Nations League",
-            "kickoff": "2026-10-01T20:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.24,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.543,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528921&league_id=5",
-                "home_team": "Rep. Of Ireland",
-                "away_team": "Austria",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Rep. Of Ireland vs Austria: predicted score 1-1, tip X2.",
-                "competition": "World: UEFA Nations League",
-                "kickoff": "2026-10-01T20:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Rep. Of Ireland vs Austria: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "ded2cb25",
-        "home_team": "Malta",
-        "away_team": "Gibraltar",
-        "competition": "World: UEFA Nations League",
-        "kickoff": "2026-10-01T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "dbb777e2",
-            "home_team": "Malta",
-            "away_team": "Gibraltar",
-            "competition": "World: UEFA Nations League",
-            "kickoff": "2026-10-01T20:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.25,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.543,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1545607&league_id=5",
-                "home_team": "Malta",
-                "away_team": "Gibraltar",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Malta vs Gibraltar: predicted score 2-1, tip 1.",
-                "competition": "World: UEFA Nations League",
-                "kickoff": "2026-10-01T20:45:00+02:00"
-              },
-              {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Malta",
-                "away_team": "Gibraltar",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Malta vs Gibraltar: 1X2 1.",
-                "competition": "Europe ",
-                "kickoff": "2026-10-01T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Malta vs Gibraltar: predicted score 2-1, tip 1. | Adibet tip for Malta vs Gibraltar: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "a8044d5f",
-        "home_team": "Ireland",
-        "away_team": "Austria",
-        "competition": "Europe ",
+        "match_id": "97ab5648",
+        "home_team": "Bnei",
+        "away_team": "Kiryat Gat",
+        "competition": "European",
         "kickoff": "2026-10-01T12:00:00+00:00",
         "picks": [
           {
-            "match_id": "47ee0274",
-            "home_team": "Ireland",
-            "away_team": "Austria",
-            "competition": "Europe ",
+            "match_id": "0f3197b6",
+            "home_team": "Bnei",
+            "away_team": "Kiryat Gat",
+            "competition": "European",
             "kickoff": "2026-10-01T12:00:00+00:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
+            "market": "1X2",
+            "recommended_pick": "1",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.542,
+            "final_score": 0.534,
             "sources": [
               {
                 "source_name": "Adibet",
                 "source_url": "https://www.adibet.com/",
-                "home_team": "Ireland",
-                "away_team": "Austria",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Ireland vs Austria: Double Chance X2.",
-                "competition": "Europe ",
-                "kickoff": "2026-10-01T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Adibet tip for Ireland vs Austria: Double Chance X2."
-          }
-        ]
-      },
-      {
-        "match_id": "57c11830",
-        "home_team": "Bnei Yehuda",
-        "away_team": "Maccabi Kiryat Gat",
-        "competition": "Israel: Liga Leumit",
-        "kickoff": "2026-10-01T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "6d3b8369",
-            "home_team": "Bnei Yehuda",
-            "away_team": "Maccabi Kiryat Gat",
-            "competition": "Israel: Liga Leumit",
-            "kickoff": "2026-10-01T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.29,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.531,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555163&league_id=382",
-                "home_team": "Bnei Yehuda",
-                "away_team": "Maccabi Kiryat Gat",
+                "home_team": "Bnei",
+                "away_team": "Kiryat Gat",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Bnei Yehuda vs Maccabi Kiryat Gat: predicted score 2-0, tip 1.",
-                "competition": "Israel: Liga Leumit",
-                "kickoff": "2026-10-01T18:00:00+02:00"
+                "reason_summary": "Adibet tip for Bnei vs Kiryat Gat: 1X2 1.",
+                "competition": null,
+                "kickoff": "2026-10-01T12:00:00+00:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Bnei Yehuda vs Maccabi Kiryat Gat: predicted score 2-0, tip 1."
+            "explanation": "Adibet tip for Bnei vs Kiryat Gat: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "d1a8df7d",
+        "home_team": "Ashdod",
+        "away_team": "M. \n\t\t\t\t\t\t\t\tHerzliya",
+        "competition": "European",
+        "kickoff": "2026-10-01T12:00:00+00:00",
+        "picks": [
+          {
+            "match_id": "82d1ddc8",
+            "home_team": "Ashdod",
+            "away_team": "M. \n\t\t\t\t\t\t\t\tHerzliya",
+            "competition": "European",
+            "kickoff": "2026-10-01T12:00:00+00:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.534,
+            "sources": [
+              {
+                "source_name": "Adibet",
+                "source_url": "https://www.adibet.com/",
+                "home_team": "Ashdod",
+                "away_team": "M. \n\t\t\t\t\t\t\t\tHerzliya",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Adibet tip for Ashdod vs M. \n\t\t\t\t\t\t\t\tHerzliya: 1X2 1.",
+                "competition": null,
+                "kickoff": "2026-10-01T12:00:00+00:00"
+              }
+            ],
+            "explanation": "Adibet tip for Ashdod vs M. \n\t\t\t\t\t\t\t\tHerzliya: 1X2 1."
           }
         ]
       },
@@ -782,7 +782,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 3,
-            "final_score": 0.53,
+            "final_score": 0.529,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -838,7 +838,7 @@
             "consensus_score": 0.333,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.227,
+            "final_score": 0.224,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -877,7 +877,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.523,
+            "final_score": 0.525,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -920,7 +920,7 @@
             "consensus_score": 0.5,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.294,
+            "final_score": 0.291,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -941,41 +941,41 @@
         ]
       },
       {
-        "match_id": "97ab5648",
-        "home_team": "Bnei",
-        "away_team": "Kiryat Gat",
-        "competition": "European",
-        "kickoff": "2026-10-01T12:00:00+00:00",
+        "match_id": "57c11830",
+        "home_team": "Bnei Yehuda",
+        "away_team": "Maccabi Kiryat Gat",
+        "competition": "Israel: Liga Leumit",
+        "kickoff": "2026-10-01T18:00:00+02:00",
         "picks": [
           {
-            "match_id": "0f3197b6",
-            "home_team": "Bnei",
-            "away_team": "Kiryat Gat",
-            "competition": "European",
-            "kickoff": "2026-10-01T12:00:00+00:00",
+            "match_id": "6d3b8369",
+            "home_team": "Bnei Yehuda",
+            "away_team": "Maccabi Kiryat Gat",
+            "competition": "Israel: Liga Leumit",
+            "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": null,
+            "best_odds": 1.29,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
             "final_score": 0.523,
             "sources": [
               {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Bnei",
-                "away_team": "Kiryat Gat",
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1555163&league_id=382",
+                "home_team": "Bnei Yehuda",
+                "away_team": "Maccabi Kiryat Gat",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Adibet tip for Bnei vs Kiryat Gat: 1X2 1.",
-                "competition": null,
-                "kickoff": "2026-10-01T12:00:00+00:00"
+                "reason_summary": "Vitibet statistical model for Bnei Yehuda vs Maccabi Kiryat Gat: predicted score 2-0, tip 1.",
+                "competition": "Israel: Liga Leumit",
+                "kickoff": "2026-10-01T18:00:00+02:00"
               }
             ],
-            "explanation": "Adibet tip for Bnei vs Kiryat Gat: 1X2 1."
+            "explanation": "Vitibet statistical model for Bnei Yehuda vs Maccabi Kiryat Gat: predicted score 2-0, tip 1."
           }
         ]
       }
@@ -1001,7 +1001,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.042,
               "source_count": 1,
-              "final_score": 0.663,
+              "final_score": 0.676,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1040,7 +1040,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.578,
+              "final_score": 0.569,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1079,7 +1079,7 @@
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.51,
+              "final_score": 0.502,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1123,7 +1123,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.545,
+            "final_score": 0.54,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -1153,7 +1153,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.534,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -1170,45 +1170,6 @@
               }
             ],
             "explanation": "Adibet tip for Bahla vs Fanja SC: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "71724c52",
-        "home_team": "Bani Yas",
-        "away_team": "Al \n\t\t\t\t\t\t\t\tWahda",
-        "competition": "United Arab Emirates",
-        "kickoff": "2026-10-01T12:00:00+00:00",
-        "picks": [
-          {
-            "match_id": "5608713b",
-            "home_team": "Bani Yas",
-            "away_team": "Al \n\t\t\t\t\t\t\t\tWahda",
-            "competition": "United Arab Emirates",
-            "kickoff": "2026-10-01T12:00:00+00:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.542,
-            "sources": [
-              {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Bani Yas",
-                "away_team": "Al \n\t\t\t\t\t\t\t\tWahda",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Bani Yas vs Al \n\t\t\t\t\t\t\t\tWahda: Double Chance X2.",
-                "competition": "United Arab Emirates",
-                "kickoff": "2026-10-01T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Adibet tip for Bani Yas vs Al \n\t\t\t\t\t\t\t\tWahda: Double Chance X2."
           }
         ]
       },
@@ -1231,7 +1192,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.534,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -1270,7 +1231,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.534,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -1309,7 +1270,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.534,
             "sources": [
               {
                 "source_name": "Adibet",
@@ -1353,7 +1314,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.608,
+            "final_score": 0.599,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1392,7 +1353,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.581,
+            "final_score": 0.572,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1431,7 +1392,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.581,
+            "final_score": 0.572,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1475,7 +1436,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.585,
+            "final_score": 0.577,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1514,7 +1475,7 @@
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.527,
+            "final_score": 0.54,
             "sources": [
               {
                 "source_name": "Vitibet",
