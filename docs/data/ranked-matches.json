@@ -94,11 +94,11 @@
             "kickoff": "2026-10-01T18:45:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.88,
+            "best_odds": 1.91,
             "consensus_score": 1.0,
-            "price_edge_score": 0.0,
+            "price_edge_score": 0.005,
             "source_count": 1,
-            "final_score": 0.612,
+            "final_score": 0.62,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -133,11 +133,11 @@
             "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.73,
+            "best_odds": 1.75,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.582,
+            "final_score": 0.586,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -172,11 +172,11 @@
             "kickoff": "2026-10-01T18:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.7,
+            "best_odds": 1.67,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.576,
+            "final_score": 0.57,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -193,6 +193,45 @@
               }
             ],
             "explanation": "Vitibet statistical model for Kiryat Yam SC vs Hapoel Kfar Saba: predicted score 3-1, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "9a2929cd",
+        "home_team": "Guinea",
+        "away_team": "Kenya",
+        "competition": "World: Africa Cup of Nations - Qualification",
+        "kickoff": "2026-10-01T18:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "921f607d",
+            "home_team": "Guinea",
+            "away_team": "Kenya",
+            "competition": "World: Africa Cup of Nations - Qualification",
+            "kickoff": "2026-10-01T18:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.65,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.566,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1545851&league_id=36",
+                "home_team": "Guinea",
+                "away_team": "Kenya",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Guinea vs Kenya: predicted score 1-0, tip 1.",
+                "competition": "World: Africa Cup of Nations - Qualification",
+                "kickoff": "2026-10-01T18:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Guinea vs Kenya: predicted score 1-0, tip 1."
           }
         ]
       },
@@ -250,11 +289,11 @@
             "kickoff": "2026-10-01T20:45:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 1.44,
+            "best_odds": 1.4,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.545,
+            "final_score": 0.537,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -327,58 +366,6 @@
         ]
       },
       {
-        "match_id": "53ac52fe",
-        "home_team": "Denmark",
-        "away_team": "Portugal",
-        "competition": "World: UEFA Nations League",
-        "kickoff": "2026-10-01T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "90726ce3",
-            "home_team": "Denmark",
-            "away_team": "Portugal",
-            "competition": "World: UEFA Nations League",
-            "kickoff": "2026-10-01T20:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.26,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.509,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528919&league_id=5",
-                "home_team": "Denmark",
-                "away_team": "Portugal",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Denmark vs Portugal: predicted score 1-2, tip X2.",
-                "competition": "World: UEFA Nations League",
-                "kickoff": "2026-10-01T20:45:00+02:00"
-              },
-              {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Denmark",
-                "away_team": "Portugal",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Denmark vs Portugal: Double Chance X2.",
-                "competition": "Europe ",
-                "kickoff": "2026-10-01T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Denmark vs Portugal: predicted score 1-2, tip X2. | Adibet tip for Denmark vs Portugal: Double Chance X2."
-          }
-        ]
-      },
-      {
         "match_id": "ded2cb25",
         "home_team": "Malta",
         "away_team": "Gibraltar",
@@ -431,84 +418,54 @@
         ]
       },
       {
-        "match_id": "9d4f020a",
-        "home_team": "Germany",
-        "away_team": "Serbia",
+        "match_id": "53ac52fe",
+        "home_team": "Denmark",
+        "away_team": "Portugal",
         "competition": "World: UEFA Nations League",
         "kickoff": "2026-10-01T20:45:00+02:00",
         "picks": [
           {
-            "match_id": "e7c3e4ec",
-            "home_team": "Germany",
-            "away_team": "Serbia",
+            "match_id": "90726ce3",
+            "home_team": "Denmark",
+            "away_team": "Portugal",
             "competition": "World: UEFA Nations League",
             "kickoff": "2026-10-01T20:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.22,
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.24,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 2,
-            "final_score": 0.501,
+            "final_score": 0.505,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528917&league_id=5",
-                "home_team": "Germany",
-                "away_team": "Serbia",
-                "market": "1X2",
-                "pick": "1",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528919&league_id=5",
+                "home_team": "Denmark",
+                "away_team": "Portugal",
+                "market": "Double Chance",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Germany vs Serbia: predicted score 2-0, tip 1.",
+                "reason_summary": "Vitibet statistical model for Denmark vs Portugal: predicted score 1-2, tip X2.",
                 "competition": "World: UEFA Nations League",
                 "kickoff": "2026-10-01T20:45:00+02:00"
               },
               {
                 "source_name": "Adibet",
                 "source_url": "https://www.adibet.com/",
-                "home_team": "Germany",
-                "away_team": "Serbia",
-                "market": "1X2",
-                "pick": "1",
+                "home_team": "Denmark",
+                "away_team": "Portugal",
+                "market": "Double Chance",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Adibet tip for Germany vs Serbia: 1X2 1.",
+                "reason_summary": "Adibet tip for Denmark vs Portugal: Double Chance X2.",
                 "competition": "Europe ",
                 "kickoff": "2026-10-01T12:00:00+00:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Germany vs Serbia: predicted score 2-0, tip 1. | Adibet tip for Germany vs Serbia: 1X2 1."
-          },
-          {
-            "match_id": "4182dc24",
-            "home_team": "Germany",
-            "away_team": "Serbia",
-            "competition": "Europe ",
-            "kickoff": "2026-10-01T12:00:00+00:00",
-            "market": "Total Goals",
-            "recommended_pick": "Over 1.5",
-            "best_odds": null,
-            "consensus_score": 0.5,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.248,
-            "sources": [
-              {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Germany",
-                "away_team": "Serbia",
-                "market": "Total Goals",
-                "pick": "Over 1.5",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Adibet tip for Germany vs Serbia: Total Goals Over 1.5.",
-                "competition": "Europe ",
-                "kickoff": "2026-10-01T12:00:00+00:00"
-              }
-            ],
-            "explanation": "Adibet tip for Germany vs Serbia: Total Goals Over 1.5."
+            "explanation": "Vitibet statistical model for Denmark vs Portugal: predicted score 1-2, tip X2. | Adibet tip for Denmark vs Portugal: Double Chance X2."
           }
         ]
       },
@@ -569,11 +526,11 @@
               "kickoff": "2026-10-01T18:45:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "1X",
-              "best_odds": 1.88,
+              "best_odds": 1.91,
               "consensus_score": 1.0,
-              "price_edge_score": 0.0,
+              "price_edge_score": 0.005,
               "source_count": 1,
-              "final_score": 0.612,
+              "final_score": 0.62,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -642,45 +599,6 @@
   "Americas": {
     "all": [
       {
-        "match_id": "420ca92c",
-        "home_team": "FAS",
-        "away_team": "Isidro Metapán",
-        "competition": "El Salvador: Primera Division",
-        "kickoff": "2026-10-01T04:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "e9425dd7",
-            "home_team": "FAS",
-            "away_team": "Isidro Metapán",
-            "competition": "El Salvador: Primera Division",
-            "kickoff": "2026-10-01T04:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 2.05,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.079,
-            "source_count": 1,
-            "final_score": 0.656,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1600615&league_id=370",
-                "home_team": "FAS",
-                "away_team": "Isidro Metapán",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for FAS vs Isidro Metapán: predicted score 1-0, tip 1.",
-                "competition": "El Salvador: Primera Division",
-                "kickoff": "2026-10-01T04:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for FAS vs Isidro Metapán: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
         "match_id": "26cd255c",
         "home_team": "Cumbayá",
         "away_team": "Santo Domingo",
@@ -716,84 +634,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Cumbayá vs Santo Domingo: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "207dac10",
-        "home_team": "Brooklyn",
-        "away_team": "Detroit City FC",
-        "competition": "United States: USL Championship",
-        "kickoff": "2026-10-01T01:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "c28c2fcc",
-            "home_team": "Brooklyn",
-            "away_team": "Detroit City FC",
-            "competition": "United States: USL Championship",
-            "kickoff": "2026-10-01T01:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.8,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.596,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1493716&league_id=255",
-                "home_team": "Brooklyn",
-                "away_team": "Detroit City FC",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Brooklyn vs Detroit City FC: predicted score 0-1, tip 2.",
-                "competition": "United States: USL Championship",
-                "kickoff": "2026-10-01T01:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Brooklyn vs Detroit City FC: predicted score 0-1, tip 2."
-          }
-        ]
-      },
-      {
-        "match_id": "83fe433a",
-        "home_team": "Alianza",
-        "away_team": "Club Atletico Platense",
-        "competition": "El Salvador: Primera Division",
-        "kickoff": "2026-10-01T03:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "2f907a9a",
-            "home_team": "Alianza",
-            "away_team": "Club Atletico Platense",
-            "competition": "El Salvador: Primera Division",
-            "kickoff": "2026-10-01T03:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.7,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.576,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1600614&league_id=370",
-                "home_team": "Alianza",
-                "away_team": "Club Atletico Platense",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Alianza vs Club Atletico Platense: predicted score 2-1, tip 1.",
-                "competition": "El Salvador: Primera Division",
-                "kickoff": "2026-10-01T03:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Alianza vs Club Atletico Platense: predicted score 2-1, tip 1."
           }
         ]
       },
@@ -837,123 +677,6 @@
         ]
       },
       {
-        "match_id": "f4835cae",
-        "home_team": "Atletico Torque",
-        "away_team": "Penarol",
-        "competition": "Uruguay: Primera División",
-        "kickoff": "2026-10-01T01:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "0188a8cc",
-            "home_team": "Atletico Torque",
-            "away_team": "Penarol",
-            "competition": "Uruguay: Primera División",
-            "kickoff": "2026-10-01T01:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.55,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611274&league_id=268",
-                "home_team": "Atletico Torque",
-                "away_team": "Penarol",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Atletico Torque vs Penarol: predicted score 1-1, tip 1X.",
-                "competition": "Uruguay: Primera División",
-                "kickoff": "2026-10-01T01:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Atletico Torque vs Penarol: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "8aca962d",
-        "home_team": "Atlético Ottawa",
-        "away_team": "Cavalry FC",
-        "competition": "Canada: Canadian Premier League",
-        "kickoff": "2026-10-01T01:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "3cdf1cac",
-            "home_team": "Atlético Ottawa",
-            "away_team": "Cavalry FC",
-            "competition": "Canada: Canadian Premier League",
-            "kickoff": "2026-10-01T01:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.55,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1517357&league_id=479",
-                "home_team": "Atlético Ottawa",
-                "away_team": "Cavalry FC",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Atlético Ottawa vs Cavalry FC: predicted score 0-2, tip 2.",
-                "competition": "Canada: Canadian Premier League",
-                "kickoff": "2026-10-01T01:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Atlético Ottawa vs Cavalry FC: predicted score 0-2, tip 2."
-          }
-        ]
-      },
-      {
-        "match_id": "1f0253cf",
-        "home_team": "Sacramento Republic FC",
-        "away_team": "Las Vegas Lights FC",
-        "competition": "United States: USL Championship",
-        "kickoff": "2026-10-01T04:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "93d43e1e",
-            "home_team": "Sacramento Republic FC",
-            "away_team": "Las Vegas Lights FC",
-            "competition": "United States: USL Championship",
-            "kickoff": "2026-10-01T04:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.55,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1493720&league_id=255",
-                "home_team": "Sacramento Republic FC",
-                "away_team": "Las Vegas Lights FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Sacramento Republic FC vs Las Vegas Lights FC: predicted score 1-0, tip 1.",
-                "competition": "United States: USL Championship",
-                "kickoff": "2026-10-01T04:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Sacramento Republic FC vs Las Vegas Lights FC: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
         "match_id": "a65c154d",
         "home_team": "Fuerte San Francisco",
         "away_team": "Firpo",
@@ -968,11 +691,11 @@
             "kickoff": "2026-10-01T23:30:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 1.53,
+            "best_odds": 1.62,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.542,
+            "final_score": 0.56,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -989,84 +712,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Fuerte San Francisco vs Firpo: predicted score 0-1, tip 2."
-          }
-        ]
-      },
-      {
-        "match_id": "7ee9ef65",
-        "home_team": "Miami FC",
-        "away_team": "Sporting JAX",
-        "competition": "United States: USL Championship",
-        "kickoff": "2026-10-01T01:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "f2738052",
-            "home_team": "Miami FC",
-            "away_team": "Sporting JAX",
-            "competition": "United States: USL Championship",
-            "kickoff": "2026-10-01T01:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.5,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.536,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1493718&league_id=255",
-                "home_team": "Miami FC",
-                "away_team": "Sporting JAX",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Miami FC vs Sporting JAX: predicted score 2-0, tip 1.",
-                "competition": "United States: USL Championship",
-                "kickoff": "2026-10-01T01:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Miami FC vs Sporting JAX: predicted score 2-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "607cf7ee",
-        "home_team": "Chattanooga Red Wolves",
-        "away_team": "Spokane Velocity",
-        "competition": "United States: USL League One",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "a1da0301",
-            "home_team": "Chattanooga Red Wolves",
-            "away_team": "Spokane Velocity",
-            "competition": "United States: USL League One",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.5,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.536,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1493923&league_id=489",
-                "home_team": "Chattanooga Red Wolves",
-                "away_team": "Spokane Velocity",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Chattanooga Red Wolves vs Spokane Velocity: predicted score 1-1, tip X2.",
-                "competition": "United States: USL League One",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Chattanooga Red Wolves vs Spokane Velocity: predicted score 1-1, tip X2."
           }
         ]
       }
