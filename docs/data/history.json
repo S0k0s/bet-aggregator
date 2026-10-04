@@ -146313,7 +146313,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
     "kickoff": "2026-10-04T20:45:00+02:00",
-    "best_odds": 2.1,
+    "best_odds": 1.95,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -146432,8 +146432,8 @@
     "market": "Double Chance",
     "recommended_pick": "X2",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
-    "kickoff": "2026-10-04T20:30:00+02:00",
-    "best_odds": 1.61,
+    "kickoff": "2026-10-04T20:30:00",
+    "best_odds": 1.42,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -146734,8 +146734,8 @@
     "market": "1X2",
     "recommended_pick": "1",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
-    "kickoff": "2026-10-04T20:00:00+02:00",
-    "best_odds": 2.25,
+    "kickoff": "2026-10-04T20:00:00",
+    "best_odds": 2.05,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -146756,7 +146756,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
     "kickoff": "2026-10-04T22:00:00+02:00",
-    "best_odds": 2.2,
+    "best_odds": 2.15,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -146796,7 +146796,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
     "kickoff": "2026-10-04T22:00:00+02:00",
-    "best_odds": 1.82,
+    "best_odds": 1.87,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -146856,7 +146856,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
     "kickoff": "2026-10-04T21:00:00+02:00",
-    "best_odds": 1.47,
+    "best_odds": 1.44,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -146957,7 +146957,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
     "kickoff": "2026-10-04T22:30:00+02:00",
-    "best_odds": 1.37,
+    "best_odds": 1.4,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -147059,7 +147059,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-10-04T05:52:12.521316+00:00",
     "kickoff": "2026-10-04T23:00:00+02:00",
-    "best_odds": 1.21,
+    "best_odds": 1.22,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -147581,7 +147581,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-04T12:20:48.657932+00:00",
     "kickoff": "2026-10-04T22:30:00+02:00",
-    "best_odds": 1.53,
+    "best_odds": 1.62,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -147621,11 +147621,374 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-10-04T12:20:48.657932+00:00",
     "kickoff": "2026-10-04T23:30:00+02:00",
-    "best_odds": 1.11,
+    "best_odds": 1.12,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
       "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "alcione|trento|1X2|2|unknown-date",
+    "match_id": "8009ed86",
+    "home_team": "Alcione",
+    "away_team": "Trento",
+    "competition": "Italy: Serie C - Girone A",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "TBD",
+    "best_odds": 2.0,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "latina|ostia mare|Double Chance|X2|unknown-date",
+    "match_id": "f61265fd",
+    "home_team": "Latina",
+    "away_team": "Ostia Mare",
+    "competition": "Italy: Serie C - Girone B",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.59,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "potenza|az picerno|1X2|1|2026-10-04",
+    "match_id": "47657b51",
+    "home_team": "Potenza",
+    "away_team": "AZ Picerno",
+    "competition": "Italy: Serie C - Girone C",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T20:30:00",
+    "best_odds": 1.57,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "valencia w|real sociedad w|Double Chance|X2|unknown-date",
+    "match_id": "938ca8bf",
+    "home_team": "Valencia W",
+    "away_team": "Real Sociedad W",
+    "competition": "Spain: Primera División Femenina",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.11,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "algeciras|rayo majadahonda|Double Chance|1X|2026-10-04",
+    "match_id": "743aac7d",
+    "home_team": "Algeciras",
+    "away_team": "Rayo Majadahonda",
+    "competition": "SPAIN - PRIMERA FEDERACION - GROUP 2",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T18:45:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "asd alcione|trento|Double Chance|X2|2026-10-04",
+    "match_id": "721f7ac2",
+    "home_team": "ASD Alcione",
+    "away_team": "AC Trento",
+    "competition": "ITALY - SERIE C GRP. A",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T20:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "manchester city (w)|arsenal (w)|Double Chance|12|2026-10-04",
+    "match_id": "fb238ed7",
+    "home_team": "Manchester City (w)",
+    "away_team": "Arsenal (w)",
+    "competition": "ENGLAND - WSL",
+    "market": "Double Chance",
+    "recommended_pick": "12",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T17:30:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "merida ud|cacereno|Double Chance|X2|2026-10-04",
+    "match_id": "0693dd57",
+    "home_team": "Merida UD",
+    "away_team": "Cacereno",
+    "competition": "SPAIN - PRIMERA FEDERACION - GROUP 1",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T18:45:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "terrassa|girona b|Double Chance|1X|2026-10-04",
+    "match_id": "73bbf19c",
+    "home_team": "Terrassa",
+    "away_team": "Girona B",
+    "competition": "SPAIN - SEGUNDA FEDERACION - GROUP 2",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T17:00:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "netherlands|serbia|1X2|1|2026-10-04",
+    "match_id": "5339ebf5",
+    "home_team": "Netherlands",
+    "away_team": "Serbia",
+    "competition": "World: UEFA Nations League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T20:45:00+02:00",
+    "best_odds": 1.14,
+    "source_count": 3,
+    "consensus_score": 1.0,
+    "sources": [
+      "Adibet",
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "union san felipe|deportes iquique|1X2|2|unknown-date",
+    "match_id": "478126c0",
+    "home_team": "Union San Felipe",
+    "away_team": "Deportes Iquique",
+    "competition": "Chile: Primera B",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "TBD",
+    "best_odds": 2.3,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nj/ny gotham w|angel city w|Double Chance|X2|unknown-date",
+    "match_id": "8e9e5878",
+    "home_team": "NJ/NY Gotham FC W",
+    "away_team": "Angel City W",
+    "competition": "United States: NWSL Women",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.8,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sportivo italiano|talleres remedios|Double Chance|1X|unknown-date",
+    "match_id": "676e9d0d",
+    "home_team": "Sportivo Italiano",
+    "away_team": "Talleres Remedios",
+    "competition": "Argentina: Primera B Metropolitana",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.38,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "deportivo pasto|fortaleza ceif|Double Chance|1X|2026-10-04",
+    "match_id": "5f5bdbb7",
+    "home_team": "Deportivo Pasto",
+    "away_team": "Fortaleza CEIF",
+    "competition": "Colombia: Primera A",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T21:00:00+02:00",
+    "best_odds": 1.29,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "agropecuario|midland|Double Chance|1X|unknown-date",
+    "match_id": "ddbbd084",
+    "home_team": "Agropecuario",
+    "away_team": "Midland",
+    "competition": "Argentina: Primera Nacional",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.26,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "chicago red stars w|denver summit w|1X2|2|2026-10-04",
+    "match_id": "8273337f",
+    "home_team": "Chicago Red Stars W",
+    "away_team": "Denver Summit W",
+    "competition": "United States: NWSL Women",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T22:00:00+02:00",
+    "best_odds": 1.3,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sarmiento junin|river plate|Double Chance|X2|2026-10-04",
+    "match_id": "55defb0d",
+    "home_team": "Sarmiento Junin",
+    "away_team": "River Plate",
+    "competition": "Argentina: Liga Profesional Argentina",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T19:45:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "central norte|racing cordoba|Double Chance|1X|2026-10-04",
+    "match_id": "a69bc068",
+    "home_team": "Central Norte",
+    "away_team": "Racing Cordoba",
+    "competition": "Argentina: Primera Nacional",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-04T18:39:55.566838+00:00",
+    "kickoff": "2026-10-04T21:30:00+02:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
       "Vitibet"
     ],
     "final_score": null,
