@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-05T14:49:31.585256+00:00",
+  "generated_at": "2026-10-06T13:23:13.155000+00:00",
   "sources": [
     {
       "name": "Vitibet",
-      "hit": 1847,
-      "miss": 1130,
+      "hit": 1865,
+      "miss": 1140,
       "push": 0,
-      "unknown": 71,
-      "pending": 891,
-      "graded": 2977,
-      "hit_rate": 0.62,
+      "unknown": 72,
+      "pending": 898,
+      "graded": 3005,
+      "hit_rate": 0.621,
       "reliability_score": 0.62
     },
     {
@@ -25,14 +25,25 @@
     },
     {
       "name": "Statarea",
-      "hit": 515,
-      "miss": 303,
+      "hit": 521,
+      "miss": 305,
       "push": 0,
       "unknown": 959,
       "pending": 61,
-      "graded": 818,
-      "hit_rate": 0.63,
-      "reliability_score": 0.629
+      "graded": 826,
+      "hit_rate": 0.631,
+      "reliability_score": 0.63
+    },
+    {
+      "name": "Adibet",
+      "hit": 147,
+      "miss": 49,
+      "push": 0,
+      "unknown": 201,
+      "pending": 35,
+      "graded": 196,
+      "hit_rate": 0.75,
+      "reliability_score": 0.745
     },
     {
       "name": "FreeSuperTips",
@@ -44,17 +55,6 @@
       "graded": 193,
       "hit_rate": 0.285,
       "reliability_score": 0.289
-    },
-    {
-      "name": "Adibet",
-      "hit": 142,
-      "miss": 47,
-      "push": 0,
-      "unknown": 201,
-      "pending": 28,
-      "graded": 189,
-      "hit_rate": 0.751,
-      "reliability_score": 0.746
     }
   ]
 }
