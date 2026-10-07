@@ -55,11 +55,11 @@
             "kickoff": "2026-10-07T11:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.95,
+            "best_odds": 1.85,
             "consensus_score": 1.0,
-            "price_edge_score": 0.026,
+            "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.626,
+            "final_score": 0.606,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -94,11 +94,11 @@
             "kickoff": "2026-10-07T18:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.43,
+            "best_odds": 1.44,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.585,
+            "final_score": 0.587,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -119,41 +119,275 @@
         ]
       },
       {
-        "match_id": "48fec291",
-        "home_team": "Avro",
-        "away_team": "Lancaster",
-        "competition": "England",
-        "kickoff": "2026-10-07T12:00:00+00:00",
+        "match_id": "5aca6f2f",
+        "home_team": "SOL",
+        "away_team": "Stade d'Abidjan",
+        "competition": "Ivory-Coast: Ligue 1",
+        "kickoff": "2026-10-07T20:00:00+02:00",
         "picks": [
           {
-            "match_id": "22405612",
-            "home_team": "Avro",
-            "away_team": "Lancaster",
-            "competition": "England",
-            "kickoff": "2026-10-07T12:00:00+00:00",
-            "market": "Total Goals",
-            "recommended_pick": "Over 2.5",
+            "match_id": "6cc70c21",
+            "home_team": "SOL",
+            "away_team": "Stade d'Abidjan",
+            "competition": "Ivory-Coast: Ligue 1",
+            "kickoff": "2026-10-07T20:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.2,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.551,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1643810&league_id=386",
+                "home_team": "SOL",
+                "away_team": "Stade d'Abidjan",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for SOL vs Stade d'Abidjan: predicted score 0-1, tip X2.",
+                "competition": "Ivory-Coast: Ligue 1",
+                "kickoff": "2026-10-07T20:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for SOL vs Stade d'Abidjan: predicted score 0-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "d24f2a5b",
+        "home_team": "IF Gnistan",
+        "away_team": "Inter Turku",
+        "competition": "FINLAND - VEIKKAUSLIIGA CHAMPIONSHIP ROUND",
+        "kickoff": "2026-10-07T16:00:00",
+        "picks": [
+          {
+            "match_id": "eeb21306",
+            "home_team": "IF Gnistan",
+            "away_team": "Inter Turku",
+            "competition": "FINLAND - VEIKKAUSLIIGA CHAMPIONSHIP ROUND",
+            "kickoff": "2026-10-07T16:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.542,
+            "final_score": 0.527,
             "sources": [
               {
-                "source_name": "Adibet",
-                "source_url": "https://www.adibet.com/",
-                "home_team": "Avro",
-                "away_team": "Lancaster",
-                "market": "Total Goals",
-                "pick": "Over 2.5",
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "IF Gnistan",
+                "away_team": "Inter Turku",
+                "market": "Double Chance",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Adibet tip for Avro vs Lancaster: Total Goals Over 2.5.",
-                "competition": "England",
-                "kickoff": "2026-10-07T12:00:00+00:00"
+                "reason_summary": "Statarea tip for IF Gnistan vs Inter Turku: Double Chance X2.",
+                "competition": "FINLAND - VEIKKAUSLIIGA CHAMPIONSHIP ROUND",
+                "kickoff": "2026-10-07T16:00:00"
               }
             ],
-            "explanation": "Adibet tip for Avro vs Lancaster: Total Goals Over 2.5."
+            "explanation": "Statarea tip for IF Gnistan vs Inter Turku: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "a9f20e74",
+        "home_team": "Terranuova Traiana",
+        "away_team": "Prato",
+        "competition": "ITALY - COPPA ITALIA SERIE D",
+        "kickoff": "2026-10-07T13:00:00",
+        "picks": [
+          {
+            "match_id": "5698f5f6",
+            "home_team": "Terranuova Traiana",
+            "away_team": "Prato",
+            "competition": "ITALY - COPPA ITALIA SERIE D",
+            "kickoff": "2026-10-07T13:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Terranuova Traiana",
+                "away_team": "Prato",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Terranuova Traiana vs Prato: Double Chance X2.",
+                "competition": "ITALY - COPPA ITALIA SERIE D",
+                "kickoff": "2026-10-07T13:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Terranuova Traiana vs Prato: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "9459d993",
+        "home_team": "Gosport Borough",
+        "away_team": "Poole Town",
+        "competition": "ENGLAND - SOUTHERN PREMIER DIVISION SOUTH",
+        "kickoff": "2026-10-07T18:45:00",
+        "picks": [
+          {
+            "match_id": "ce505e2d",
+            "home_team": "Gosport Borough",
+            "away_team": "Poole Town",
+            "competition": "ENGLAND - SOUTHERN PREMIER DIVISION SOUTH",
+            "kickoff": "2026-10-07T18:45:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Gosport Borough",
+                "away_team": "Poole Town",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Gosport Borough vs Poole Town: Double Chance X2.",
+                "competition": "ENGLAND - SOUTHERN PREMIER DIVISION SOUTH",
+                "kickoff": "2026-10-07T18:45:00"
+              }
+            ],
+            "explanation": "Statarea tip for Gosport Borough vs Poole Town: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "0e74786e",
+        "home_team": "Cartagena",
+        "away_team": "Murcia",
+        "competition": "SPAIN - PRIMERA FEDERACION - GROUP 2",
+        "kickoff": "2026-10-07T18:30:00",
+        "picks": [
+          {
+            "match_id": "c3389083",
+            "home_team": "Cartagena",
+            "away_team": "Murcia",
+            "competition": "SPAIN - PRIMERA FEDERACION - GROUP 2",
+            "kickoff": "2026-10-07T18:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Cartagena",
+                "away_team": "Murcia",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Cartagena vs Murcia: Double Chance X2.",
+                "competition": "SPAIN - PRIMERA FEDERACION - GROUP 2",
+                "kickoff": "2026-10-07T18:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Cartagena vs Murcia: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "cd26fa8c",
+        "home_team": "Kups Akatemia",
+        "away_team": "Inter Turku 2",
+        "competition": "FINLAND - YKKONEN RELEGATION ROUND",
+        "kickoff": "2026-10-07T16:00:00",
+        "picks": [
+          {
+            "match_id": "ca2757a4",
+            "home_team": "Kups Akatemia",
+            "away_team": "Inter Turku 2",
+            "competition": "FINLAND - YKKONEN RELEGATION ROUND",
+            "kickoff": "2026-10-07T16:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Kups Akatemia",
+                "away_team": "Inter Turku 2",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Kups Akatemia vs Inter Turku 2: Double Chance X2.",
+                "competition": "FINLAND - YKKONEN RELEGATION ROUND",
+                "kickoff": "2026-10-07T16:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Kups Akatemia vs Inter Turku 2: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "392eff12",
+        "home_team": "Zonguldak Komurspor",
+        "away_team": "Duzcespor",
+        "competition": "TURKEY - CUP QUALIFICATION",
+        "kickoff": "2026-10-07T11:00:00",
+        "picks": [
+          {
+            "match_id": "c264e2e7",
+            "home_team": "Zonguldak Komurspor",
+            "away_team": "Duzcespor",
+            "competition": "TURKEY - CUP QUALIFICATION",
+            "kickoff": "2026-10-07T11:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Zonguldak Komurspor",
+                "away_team": "Duzcespor",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Zonguldak Komurspor vs Duzcespor: Double Chance X2.",
+                "competition": "TURKEY - CUP QUALIFICATION",
+                "kickoff": "2026-10-07T11:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Zonguldak Komurspor vs Duzcespor: Double Chance X2."
           }
         ]
       },
@@ -314,7 +548,90 @@
         ]
       }
     ],
-    "leagues": {}
+    "leagues": {
+      "Ligue 1": [
+        {
+          "match_id": "5aca6f2f",
+          "home_team": "SOL",
+          "away_team": "Stade d'Abidjan",
+          "competition": "Ivory-Coast: Ligue 1",
+          "kickoff": "2026-10-07T20:00:00+02:00",
+          "picks": [
+            {
+              "match_id": "6cc70c21",
+              "home_team": "SOL",
+              "away_team": "Stade d'Abidjan",
+              "competition": "Ivory-Coast: Ligue 1",
+              "kickoff": "2026-10-07T20:00:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": 1.2,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.551,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1643810&league_id=386",
+                  "home_team": "SOL",
+                  "away_team": "Stade d'Abidjan",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for SOL vs Stade d'Abidjan: predicted score 0-1, tip X2.",
+                  "competition": "Ivory-Coast: Ligue 1",
+                  "kickoff": "2026-10-07T20:00:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for SOL vs Stade d'Abidjan: predicted score 0-1, tip X2."
+            }
+          ]
+        }
+      ],
+      "Coppa Italia": [
+        {
+          "match_id": "a9f20e74",
+          "home_team": "Terranuova Traiana",
+          "away_team": "Prato",
+          "competition": "ITALY - COPPA ITALIA SERIE D",
+          "kickoff": "2026-10-07T13:00:00",
+          "picks": [
+            {
+              "match_id": "5698f5f6",
+              "home_team": "Terranuova Traiana",
+              "away_team": "Prato",
+              "competition": "ITALY - COPPA ITALIA SERIE D",
+              "kickoff": "2026-10-07T13:00:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.527,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Terranuova Traiana",
+                  "away_team": "Prato",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Terranuova Traiana vs Prato: Double Chance X2.",
+                  "competition": "ITALY - COPPA ITALIA SERIE D",
+                  "kickoff": "2026-10-07T13:00:00"
+                }
+              ],
+              "explanation": "Statarea tip for Terranuova Traiana vs Prato: Double Chance X2."
+            }
+          ]
+        }
+      ]
+    }
   },
   "Asia": {
     "all": [
@@ -574,6 +891,45 @@
         ]
       },
       {
+        "match_id": "7d2f80d3",
+        "home_team": "Gainare Tottori",
+        "away_team": "Tokyo Verdy",
+        "competition": "JAPAN - CUP",
+        "kickoff": "2026-10-07T10:00:00",
+        "picks": [
+          {
+            "match_id": "6c15901d",
+            "home_team": "Gainare Tottori",
+            "away_team": "Tokyo Verdy",
+            "competition": "JAPAN - CUP",
+            "kickoff": "2026-10-07T10:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Gainare Tottori",
+                "away_team": "Tokyo Verdy",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Gainare Tottori vs Tokyo Verdy: Double Chance X2.",
+                "competition": "JAPAN - CUP",
+                "kickoff": "2026-10-07T10:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Gainare Tottori vs Tokyo Verdy: Double Chance X2."
+          }
+        ]
+      },
+      {
         "match_id": "3de7a687",
         "home_team": "Foshan",
         "away_team": "Guangxi",
@@ -609,6 +965,45 @@
               }
             ],
             "explanation": "Adibet tip for Foshan vs Guangxi: 1X2 2."
+          }
+        ]
+      },
+      {
+        "match_id": "c5c676f4",
+        "home_team": "Mosul",
+        "away_team": "Al-Quwa Al-Jawiya",
+        "competition": "Iraq: Iraqi League",
+        "kickoff": "2026-10-07T17:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "2f80f9d4",
+            "home_team": "Mosul",
+            "away_team": "Al-Quwa Al-Jawiya",
+            "competition": "Iraq: Iraqi League",
+            "kickoff": "2026-10-07T17:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.521,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1627992&league_id=542",
+                "home_team": "Mosul",
+                "away_team": "Al-Quwa Al-Jawiya",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Mosul vs Al-Quwa Al-Jawiya: predicted score 1-1, tip X2.",
+                "competition": "Iraq: Iraqi League",
+                "kickoff": "2026-10-07T17:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Mosul vs Al-Quwa Al-Jawiya: predicted score 1-1, tip X2."
           }
         ]
       },
@@ -656,123 +1051,6 @@
   },
   "Americas": {
     "all": [
-      {
-        "match_id": "6534454b",
-        "home_team": "Sport Recife",
-        "away_team": "São Bernardo",
-        "competition": "Brazil: Serie B",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "969263bf",
-            "home_team": "Sport Recife",
-            "away_team": "São Bernardo",
-            "competition": "Brazil: Serie B",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.9,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.656,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1520918&league_id=72",
-                "home_team": "Sport Recife",
-                "away_team": "São Bernardo",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Sport Recife vs São Bernardo: predicted score 1-1, tip X2.",
-                "competition": "Brazil: Serie B",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Sport Recife vs São Bernardo: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "df2316d0",
-        "home_team": "Goias",
-        "away_team": "Athletic Club MG",
-        "competition": "Brazil: Serie B",
-        "kickoff": "2026-10-07T01:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "1c4c3ad7",
-            "home_team": "Goias",
-            "away_team": "Athletic Club MG",
-            "competition": "Brazil: Serie B",
-            "kickoff": "2026-10-07T01:30:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.81,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.642,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1520914&league_id=72",
-                "home_team": "Goias",
-                "away_team": "Athletic Club MG",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Goias vs Athletic Club MG: predicted score 1-1, tip X2.",
-                "competition": "Brazil: Serie B",
-                "kickoff": "2026-10-07T01:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Goias vs Athletic Club MG: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "46e0d6bd",
-        "home_team": "Leones FC",
-        "away_team": "Barranquilla",
-        "competition": "Colombia: Primera B",
-        "kickoff": "2026-10-07T23:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "cd76b7e5",
-            "home_team": "Leones FC",
-            "away_team": "Barranquilla",
-            "competition": "Colombia: Primera B",
-            "kickoff": "2026-10-07T23:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.606,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1549654&league_id=240",
-                "home_team": "Leones FC",
-                "away_team": "Barranquilla",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Leones FC vs Barranquilla: predicted score 1-1, tip X2.",
-                "competition": "Colombia: Primera B",
-                "kickoff": "2026-10-07T23:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Leones FC vs Barranquilla: predicted score 1-1, tip X2."
-          }
-        ]
-      },
       {
         "match_id": "47b1d129",
         "home_team": "Academia Cantolao",
@@ -827,11 +1105,11 @@
             "kickoff": "2026-10-07T17:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.42,
+            "best_odds": 1.38,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.584,
+            "final_score": 0.578,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -848,58 +1126,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for York United vs Supra du Quebec: predicted score 2-2, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "0dfa6224",
-        "home_team": "Chicago Fire",
-        "away_team": "Vancouver Whitecaps",
-        "competition": "United States: Major League Soccer",
-        "kickoff": "2026-10-07T02:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "a3ed96a6",
-            "home_team": "Chicago Fire",
-            "away_team": "Vancouver Whitecaps",
-            "competition": "United States: Major League Soccer",
-            "kickoff": "2026-10-07T02:30:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.33,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.573,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1490326&league_id=253",
-                "home_team": "Chicago Fire",
-                "away_team": "Vancouver Whitecaps",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Chicago Fire vs Vancouver Whitecaps: predicted score 1-1, tip X2.",
-                "competition": "United States: Major League Soccer",
-                "kickoff": "2026-10-07T02:30:00+02:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Chicago Fire",
-                "away_team": "Vancouver Whitecaps",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Chicago Fire vs Vancouver Whitecaps: Double Chance X2.",
-                "competition": "USA - MAJOR LEAGUE SOCCER",
-                "kickoff": "2026-10-06T17:30:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Chicago Fire vs Vancouver Whitecaps: predicted score 1-1, tip X2. | Statarea tip for Chicago Fire vs Vancouver Whitecaps: Double Chance X2."
           }
         ]
       },
@@ -973,41 +1199,275 @@
         ]
       },
       {
-        "match_id": "7ee77d0c",
-        "home_team": "Ponte Preta",
-        "away_team": "Juventude",
-        "competition": "Brazil: Serie B",
-        "kickoff": "2026-10-07T02:35:00+02:00",
+        "match_id": "b7d7d239",
+        "home_team": "Botafogo",
+        "away_team": "Vasco Da Gama",
+        "competition": "BRAZIL - SERIE A",
+        "kickoff": "2026-10-07T23:30:00",
         "picks": [
           {
-            "match_id": "6f9e3c44",
-            "home_team": "Ponte Preta",
-            "away_team": "Juventude",
-            "competition": "Brazil: Serie B",
-            "kickoff": "2026-10-07T02:35:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.3,
+            "match_id": "8cb653e0",
+            "home_team": "Botafogo",
+            "away_team": "Vasco Da Gama",
+            "competition": "BRAZIL - SERIE A",
+            "kickoff": "2026-10-07T23:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.524,
+            "final_score": 0.527,
             "sources": [
               {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1520917&league_id=72",
-                "home_team": "Ponte Preta",
-                "away_team": "Juventude",
-                "market": "1X2",
-                "pick": "2",
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Botafogo",
+                "away_team": "Vasco Da Gama",
+                "market": "Double Chance",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Ponte Preta vs Juventude: predicted score 0-2, tip 2.",
-                "competition": "Brazil: Serie B",
-                "kickoff": "2026-10-07T02:35:00+02:00"
+                "reason_summary": "Statarea tip for Botafogo vs Vasco Da Gama: Double Chance X2.",
+                "competition": "BRAZIL - SERIE A",
+                "kickoff": "2026-10-07T23:30:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Ponte Preta vs Juventude: predicted score 0-2, tip 2."
+            "explanation": "Statarea tip for Botafogo vs Vasco Da Gama: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "13df112e",
+        "home_team": "Remo",
+        "away_team": "Gremio",
+        "competition": "BRAZIL - SERIE A",
+        "kickoff": "2026-10-07T22:30:00",
+        "picks": [
+          {
+            "match_id": "5ad5306b",
+            "home_team": "Remo",
+            "away_team": "Gremio",
+            "competition": "BRAZIL - SERIE A",
+            "kickoff": "2026-10-07T22:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Remo",
+                "away_team": "Gremio",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Remo vs Gremio: Double Chance 1X.",
+                "competition": "BRAZIL - SERIE A",
+                "kickoff": "2026-10-07T22:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Remo vs Gremio: Double Chance 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "b8735c23",
+        "home_team": "Coquimbo",
+        "away_team": "Cobreloa",
+        "competition": "CHILE - COPA CHILE KNOCKOUT ROUND",
+        "kickoff": "2026-10-07T22:00:00",
+        "picks": [
+          {
+            "match_id": "82ff741d",
+            "home_team": "Coquimbo",
+            "away_team": "Cobreloa",
+            "competition": "CHILE - COPA CHILE KNOCKOUT ROUND",
+            "kickoff": "2026-10-07T22:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Coquimbo",
+                "away_team": "Cobreloa",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Coquimbo vs Cobreloa: Double Chance 1X.",
+                "competition": "CHILE - COPA CHILE KNOCKOUT ROUND",
+                "kickoff": "2026-10-07T22:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Coquimbo vs Cobreloa: Double Chance 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "0b269670",
+        "home_team": "Barquisimeto",
+        "away_team": "Aragua FC",
+        "competition": "VENEZUELA - CUP GROUP C",
+        "kickoff": "2026-10-07T22:30:00",
+        "picks": [
+          {
+            "match_id": "ec0f3e3f",
+            "home_team": "Barquisimeto",
+            "away_team": "Aragua FC",
+            "competition": "VENEZUELA - CUP GROUP C",
+            "kickoff": "2026-10-07T22:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Barquisimeto",
+                "away_team": "Aragua FC",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Barquisimeto vs Aragua FC: Double Chance X2.",
+                "competition": "VENEZUELA - CUP GROUP C",
+                "kickoff": "2026-10-07T22:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Barquisimeto vs Aragua FC: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "468f1c73",
+        "home_team": "CRB",
+        "away_team": "Atletico Goianiense",
+        "competition": "BRAZIL - SERIE B",
+        "kickoff": "2026-10-07T23:30:00",
+        "picks": [
+          {
+            "match_id": "8cf73a16",
+            "home_team": "CRB",
+            "away_team": "Atletico Goianiense",
+            "competition": "BRAZIL - SERIE B",
+            "kickoff": "2026-10-07T23:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "CRB",
+                "away_team": "Atletico Goianiense",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for CRB vs Atletico Goianiense: Double Chance 1X.",
+                "competition": "BRAZIL - SERIE B",
+                "kickoff": "2026-10-07T23:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for CRB vs Atletico Goianiense: Double Chance 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "10bfd86e",
+        "home_team": "Operario-PR",
+        "away_team": "Botafogo SP",
+        "competition": "BRAZIL - SERIE B",
+        "kickoff": "2026-10-07T22:30:00",
+        "picks": [
+          {
+            "match_id": "b27e20a8",
+            "home_team": "Operario-PR",
+            "away_team": "Botafogo SP",
+            "competition": "BRAZIL - SERIE B",
+            "kickoff": "2026-10-07T22:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Operario-PR",
+                "away_team": "Botafogo SP",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Operario-PR vs Botafogo SP: Double Chance 1X.",
+                "competition": "BRAZIL - SERIE B",
+                "kickoff": "2026-10-07T22:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Operario-PR vs Botafogo SP: Double Chance 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "b62337e0",
+        "home_team": "Gremio Anapolis",
+        "away_team": "Goiania",
+        "competition": "BRAZIL - GOIANO 2. DIVISAO",
+        "kickoff": "2026-10-07T22:00:00",
+        "picks": [
+          {
+            "match_id": "7ce6c304",
+            "home_team": "Gremio Anapolis",
+            "away_team": "Goiania",
+            "competition": "BRAZIL - GOIANO 2. DIVISAO",
+            "kickoff": "2026-10-07T22:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.527,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Gremio Anapolis",
+                "away_team": "Goiania",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Gremio Anapolis vs Goiania: Double Chance X2.",
+                "competition": "BRAZIL - GOIANO 2. DIVISAO",
+                "kickoff": "2026-10-07T22:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Gremio Anapolis vs Goiania: Double Chance X2."
           }
         ]
       },
@@ -1134,41 +1594,41 @@
   "Africa": {
     "all": [
       {
-        "match_id": "d471af38",
-        "home_team": "Shooting Stars SC",
-        "away_team": "Kano Pillars FC",
-        "competition": "Nigeria: NPFL",
-        "kickoff": "2026-10-07T17:00:00+02:00",
+        "match_id": "ee4f30cb",
+        "home_team": "CS Constantine",
+        "away_team": "US Biskra",
+        "competition": "Algeria: Ligue 1",
+        "kickoff": "2026-10-07T19:00:00+02:00",
         "picks": [
           {
-            "match_id": "a3e99786",
-            "home_team": "Shooting Stars SC",
-            "away_team": "Kano Pillars FC",
-            "competition": "Nigeria: NPFL",
-            "kickoff": "2026-10-07T17:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 2.34,
+            "match_id": "e3e6b0c9",
+            "home_team": "CS Constantine",
+            "away_team": "US Biskra",
+            "competition": "Algeria: Ligue 1",
+            "kickoff": "2026-10-07T19:00:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.65,
             "consensus_score": 1.0,
-            "price_edge_score": 0.232,
+            "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.717,
+            "final_score": 0.576,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628500&league_id=399",
-                "home_team": "Shooting Stars SC",
-                "away_team": "Kano Pillars FC",
-                "market": "Double Chance",
-                "pick": "X2",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611404&league_id=186",
+                "home_team": "CS Constantine",
+                "away_team": "US Biskra",
+                "market": "1X2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Shooting Stars SC vs Kano Pillars FC: predicted score 1-2, tip X2.",
-                "competition": "Nigeria: NPFL",
-                "kickoff": "2026-10-07T17:00:00+02:00"
+                "reason_summary": "Vitibet statistical model for CS Constantine vs US Biskra: predicted score 1-0, tip 1.",
+                "competition": "Algeria: Ligue 1",
+                "kickoff": "2026-10-07T19:00:00+02:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Shooting Stars SC vs Kano Pillars FC: predicted score 1-2, tip X2."
+            "explanation": "Vitibet statistical model for CS Constantine vs US Biskra: predicted score 1-0, tip 1."
           }
         ]
       },
@@ -1320,45 +1780,6 @@
         ]
       },
       {
-        "match_id": "ee4f30cb",
-        "home_team": "CS Constantine",
-        "away_team": "US Biskra",
-        "competition": "Algeria: Ligue 1",
-        "kickoff": "2026-10-07T19:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "265c00a3",
-            "home_team": "CS Constantine",
-            "away_team": "US Biskra",
-            "competition": "Algeria: Ligue 1",
-            "kickoff": "2026-10-07T19:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.06,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.53,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611404&league_id=186",
-                "home_team": "CS Constantine",
-                "away_team": "US Biskra",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for CS Constantine vs US Biskra: predicted score 1-0, tip 1X.",
-                "competition": "Algeria: Ligue 1",
-                "kickoff": "2026-10-07T19:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for CS Constantine vs US Biskra: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
         "match_id": "a3cbb106",
         "home_team": "Constantine",
         "away_team": "Biskra",
@@ -1472,6 +1893,45 @@
               }
             ],
             "explanation": "Adibet tip for Pyramids vs Al \n\t\t\t\t\t\t\t\tQanah: 1X2 1."
+          }
+        ]
+      },
+      {
+        "match_id": "3c17485f",
+        "home_team": "Triangle United",
+        "away_team": "Dynamos",
+        "competition": "Zimbabwe: Premier Soccer League",
+        "kickoff": "2026-10-07T15:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "9491cbb2",
+            "home_team": "Triangle United",
+            "away_team": "Dynamos",
+            "competition": "Zimbabwe: Premier Soccer League",
+            "kickoff": "2026-10-07T15:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.521,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1644391&league_id=401",
+                "home_team": "Triangle United",
+                "away_team": "Dynamos",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Triangle United vs Dynamos: predicted score 1-1, tip X2.",
+                "competition": "Zimbabwe: Premier Soccer League",
+                "kickoff": "2026-10-07T15:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Triangle United vs Dynamos: predicted score 1-1, tip X2."
           }
         ]
       }
