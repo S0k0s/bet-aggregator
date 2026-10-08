@@ -151371,7 +151371,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-08T00:59:28.446234+00:00",
     "kickoff": "2026-10-08T21:00:00+02:00",
-    "best_odds": 1.35,
+    "best_odds": 1.36,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -151693,7 +151693,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-10-08T00:59:28.446234+00:00",
     "kickoff": "2026-10-08T22:00:00+02:00",
-    "best_odds": 3.8,
+    "best_odds": 3.3,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -151774,7 +151774,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-08T00:59:28.446234+00:00",
     "kickoff": "2026-10-08T22:30:00+02:00",
-    "best_odds": 1.7,
+    "best_odds": 1.65,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -151974,7 +151974,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-10-08T00:59:28.446234+00:00",
     "kickoff": "2026-10-08T22:30:00+02:00",
-    "best_odds": null,
+    "best_odds": 1.25,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -152556,7 +152556,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-08T10:33:03.775869+00:00",
     "kickoff": "2026-10-08T22:30:00+02:00",
-    "best_odds": 2.45,
+    "best_odds": 2.0,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -152595,7 +152595,7 @@
     "market": "Double Chance",
     "recommended_pick": "X2",
     "predicted_at": "2026-10-08T10:33:03.775869+00:00",
-    "kickoff": "2026-10-08T18:30:00",
+    "kickoff": "2026-10-08T22:30:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -152615,7 +152615,7 @@
     "market": "Double Chance",
     "recommended_pick": "1X",
     "predicted_at": "2026-10-08T10:33:03.775869+00:00",
-    "kickoff": "2026-10-08T19:00:00",
+    "kickoff": "2026-10-08T23:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
@@ -152696,7 +152696,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-10-08T10:33:03.775869+00:00",
     "kickoff": "2026-10-08T22:00:00+02:00",
-    "best_odds": 1.32,
+    "best_odds": 1.34,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -152736,12 +152736,152 @@
     "market": "Double Chance",
     "recommended_pick": "1X",
     "predicted_at": "2026-10-08T10:33:03.775869+00:00",
-    "kickoff": "2026-10-08T14:00:00",
+    "kickoff": "2026-10-08T18:00:00",
     "best_odds": null,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
       "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "al-talaba|al shorta|Double Chance|X2|unknown-date",
+    "match_id": "0594fbd9",
+    "home_team": "Al-Talaba",
+    "away_team": "Al Shorta",
+    "competition": "Iraq: Iraqi League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-08T18:50:57.894158+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ucv moquegua|cienciano|1X2|2|unknown-date",
+    "match_id": "c1014bb6",
+    "home_team": "UCV Moquegua",
+    "away_team": "Cienciano",
+    "competition": "Peru: Primera División",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-10-08T18:50:57.894158+00:00",
+    "kickoff": "TBD",
+    "best_odds": 2.15,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ind. juniors|9 de octubre|Double Chance|1X|unknown-date",
+    "match_id": "f54aeaa4",
+    "home_team": "Ind. Juniors",
+    "away_team": "9 de Octubre",
+    "competition": "Ecuador: Liga Pro Serie B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-08T18:50:57.894158+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.22,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cr khemis zemamra|hassania agadir|Double Chance|1X|unknown-date",
+    "match_id": "b31386c7",
+    "home_team": "CR Khemis Zemamra",
+    "away_team": "Hassania Agadir",
+    "competition": "Morocco: Botola Pro",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-08T18:50:57.894158+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.22,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "js saoura|olympique akbou|Double Chance|1X|unknown-date",
+    "match_id": "695f8b59",
+    "home_team": "JS Saoura",
+    "away_team": "Olympique Akbou",
+    "competition": "Algeria: Ligue 1",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-10-08T18:50:57.894158+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.13,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "far rabat|widad temara|1X2|1|unknown-date",
+    "match_id": "66e99faf",
+    "home_team": "FAR Rabat",
+    "away_team": "Widad Témara",
+    "competition": "Morocco: Botola Pro",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-08T18:50:57.894158+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.36,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "mb rouisset|usm alger|Double Chance|X2|unknown-date",
+    "match_id": "422ebb93",
+    "home_team": "MB Rouisset",
+    "away_team": "USM Alger",
+    "competition": "Algeria: Ligue 1",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-08T18:50:57.894158+00:00",
+    "kickoff": "TBD",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
     ],
     "final_score": null,
     "outcome": "pending",
