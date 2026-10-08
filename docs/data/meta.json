@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:59:28.401695+00:00",
+  "generated_at": "2026-10-08T10:33:03.746094+00:00",
   "sources": [
     {
       "name": "PredictZ",
@@ -13,27 +13,27 @@
     },
     {
       "name": "Vitibet",
-      "pick_count": 60,
+      "pick_count": 66,
       "error": null
     },
     {
       "name": "Adibet",
-      "pick_count": 0,
-      "error": "Could not find predictions table"
+      "pick_count": 17,
+      "error": null
     },
     {
       "name": "Statarea",
-      "pick_count": 48,
+      "pick_count": 26,
       "error": null
     }
   ],
-  "total_raw_picks": 108,
-  "ranked_count": 50,
-  "match_count": 50,
+  "total_raw_picks": 109,
+  "ranked_count": 55,
+  "match_count": 53,
   "ranked_by_continent": {
     "Europe": 13,
-    "Asia": 10,
-    "Americas": 16,
-    "Africa": 11
+    "Asia": 14,
+    "Americas": 12,
+    "Africa": 14
   }
 }
