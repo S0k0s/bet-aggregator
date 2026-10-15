@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:26:42.997025+00:00",
+  "generated_at": "2026-10-15T16:59:46.647705+00:00",
   "sources": [
     {
       "name": "PredictZ",
@@ -19,20 +19,20 @@
     {
       "name": "Adibet",
       "pick_count": 0,
-      "error": null
+      "error": "Could not find predictions table"
     },
     {
       "name": "Statarea",
-      "pick_count": 50,
+      "pick_count": 62,
       "error": null
     }
   ],
-  "total_raw_picks": 143,
-  "ranked_count": 53,
-  "match_count": 53,
+  "total_raw_picks": 155,
+  "ranked_count": 48,
+  "match_count": 48,
   "ranked_by_continent": {
     "Europe": 20,
-    "Asia": 7,
+    "Asia": 3,
     "Americas": 8,
     "Africa": 0
   }
