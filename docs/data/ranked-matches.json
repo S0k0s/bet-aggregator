@@ -55,11 +55,11 @@
             "kickoff": "2026-10-17T10:00:00",
             "market": "Double Chance",
             "recommended_pick": "12",
-            "best_odds": 3.7,
+            "best_odds": 3.65,
             "consensus_score": 1.0,
-            "price_edge_score": 0.947,
+            "price_edge_score": 0.921,
             "source_count": 1,
-            "final_score": 0.873,
+            "final_score": 0.867,
             "sources": [
               {
                 "source_name": "Statarea",
@@ -94,7 +94,7 @@
             "kickoff": "2026-10-17T12:30:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 12.5,
+            "best_odds": 13.5,
             "consensus_score": 1.0,
             "price_edge_score": 1.0,
             "source_count": 1,
@@ -133,7 +133,7 @@
             "kickoff": "2026-10-17T12:00:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 6.6,
+            "best_odds": 6.8,
             "consensus_score": 1.0,
             "price_edge_score": 1.0,
             "source_count": 1,
@@ -172,7 +172,7 @@
             "kickoff": "2026-10-17T14:45:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 6.8,
+            "best_odds": 6.75,
             "consensus_score": 1.0,
             "price_edge_score": 1.0,
             "source_count": 1,
@@ -211,7 +211,7 @@
             "kickoff": "2026-10-17T09:00:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 5.3,
+            "best_odds": 5.2,
             "consensus_score": 1.0,
             "price_edge_score": 1.0,
             "source_count": 1,
@@ -392,6 +392,45 @@
         ]
       },
       {
+        "match_id": "9ede2673",
+        "home_team": "Petrolul Ploiești",
+        "away_team": "Sepsi OSK Sfantu Gheorghe",
+        "competition": "Romania: Liga I",
+        "kickoff": "2026-10-17T16:15:00+02:00",
+        "picks": [
+          {
+            "match_id": "089ac2f7",
+            "home_team": "Petrolul Ploiești",
+            "away_team": "Sepsi OSK Sfantu Gheorghe",
+            "competition": "Romania: Liga I",
+            "kickoff": "2026-10-17T16:15:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 2.15,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.132,
+            "source_count": 1,
+            "final_score": 0.656,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1565275&league_id=283",
+                "home_team": "Petrolul Ploiești",
+                "away_team": "Sepsi OSK Sfantu Gheorghe",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Petrolul Ploiești vs Sepsi OSK Sfantu Gheorghe: predicted score 1-0, tip 1.",
+                "competition": "Romania: Liga I",
+                "kickoff": "2026-10-17T16:15:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Petrolul Ploiești vs Sepsi OSK Sfantu Gheorghe: predicted score 1-0, tip 1."
+          }
+        ]
+      },
+      {
         "match_id": "e4ba8190",
         "home_team": "Skalica",
         "away_team": "AS Trencin",
@@ -466,84 +505,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Pisa SC vs US Cremonese: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "9ede2673",
-        "home_team": "Petrolul Ploiești",
-        "away_team": "Sepsi OSK Sfantu Gheorghe",
-        "competition": "Romania: Liga I",
-        "kickoff": "2026-10-17T16:15:00+02:00",
-        "picks": [
-          {
-            "match_id": "089ac2f7",
-            "home_team": "Petrolul Ploiești",
-            "away_team": "Sepsi OSK Sfantu Gheorghe",
-            "competition": "Romania: Liga I",
-            "kickoff": "2026-10-17T16:15:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 2.1,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.105,
-            "source_count": 1,
-            "final_score": 0.651,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1565275&league_id=283",
-                "home_team": "Petrolul Ploiești",
-                "away_team": "Sepsi OSK Sfantu Gheorghe",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Petrolul Ploiești vs Sepsi OSK Sfantu Gheorghe: predicted score 1-0, tip 1.",
-                "competition": "Romania: Liga I",
-                "kickoff": "2026-10-17T16:15:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Petrolul Ploiești vs Sepsi OSK Sfantu Gheorghe: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "d009b62c",
-        "home_team": "Benevento",
-        "away_team": "Vicenza",
-        "competition": "Italy: Serie B",
-        "kickoff": "2026-10-17T15:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "2d8fa996",
-            "home_team": "Benevento",
-            "away_team": "Vicenza",
-            "competition": "Italy: Serie B",
-            "kickoff": "2026-10-17T15:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 2.0,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.053,
-            "source_count": 1,
-            "final_score": 0.64,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1601554&league_id=136",
-                "home_team": "Benevento",
-                "away_team": "Vicenza",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Benevento vs Vicenza: predicted score 2-0, tip 1.",
-                "competition": "Italy: Serie B",
-                "kickoff": "2026-10-17T15:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Benevento vs Vicenza: predicted score 2-0, tip 1."
           }
         ]
       },
@@ -717,45 +678,6 @@
         ]
       },
       {
-        "match_id": "eb46cfb2",
-        "home_team": "GKS Katowice",
-        "away_team": "Pogoń Szczecin",
-        "competition": "Poland: Ekstraklasa",
-        "kickoff": "2026-10-17T17:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "764c22e1",
-            "home_team": "GKS Katowice",
-            "away_team": "Pogoń Szczecin",
-            "competition": "Poland: Ekstraklasa",
-            "kickoff": "2026-10-17T17:30:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.69,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.627,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1553192&league_id=106",
-                "home_team": "GKS Katowice",
-                "away_team": "Pogoń Szczecin",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for GKS Katowice vs Pogoń Szczecin: predicted score 1-1, tip X2.",
-                "competition": "Poland: Ekstraklasa",
-                "kickoff": "2026-10-17T17:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for GKS Katowice vs Pogoń Szczecin: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
         "match_id": "6eeeeecf",
         "home_team": "Real Sociedad II",
         "away_team": "Almeria",
@@ -793,6 +715,97 @@
             "explanation": "Vitibet statistical model for Real Sociedad II vs Almeria: predicted score 0-2, tip 2."
           }
         ]
+      },
+      {
+        "match_id": "eb46cfb2",
+        "home_team": "GKS Katowice",
+        "away_team": "Pogoń Szczecin",
+        "competition": "Poland: Ekstraklasa",
+        "kickoff": "2026-10-17T17:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "764c22e1",
+            "home_team": "GKS Katowice",
+            "away_team": "Pogoń Szczecin",
+            "competition": "Poland: Ekstraklasa",
+            "kickoff": "2026-10-17T17:30:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.67,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.624,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1553192&league_id=106",
+                "home_team": "GKS Katowice",
+                "away_team": "Pogoń Szczecin",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for GKS Katowice vs Pogoń Szczecin: predicted score 1-1, tip X2.",
+                "competition": "Poland: Ekstraklasa",
+                "kickoff": "2026-10-17T17:30:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for GKS Katowice vs Pogoń Szczecin: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "1a93ccae",
+        "home_team": "Milton Keynes Dons",
+        "away_team": "Luton",
+        "competition": "England: League One",
+        "kickoff": "2026-10-17T13:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "379365cf",
+            "home_team": "Milton Keynes Dons",
+            "away_team": "Luton",
+            "competition": "England: League One",
+            "kickoff": "2026-10-17T13:30:00+02:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.91,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.005,
+            "source_count": 2,
+            "final_score": 0.622,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1564360&league_id=41",
+                "home_team": "Milton Keynes Dons",
+                "away_team": "Luton",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Milton Keynes Dons vs Luton: predicted score 1-2, tip 2.",
+                "competition": "England: League One",
+                "kickoff": "2026-10-17T13:30:00+02:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Milton Keynes Dons",
+                "away_team": "Luton",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Milton Keynes Dons vs Luton: 1X2 2.",
+                "competition": "ENGLAND - LEAGUE ONE",
+                "kickoff": "2026-10-17T07:30:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Milton Keynes Dons vs Luton: predicted score 1-2, tip 2. | Statarea tip for Milton Keynes Dons vs Luton: 1X2 2."
+          }
+        ]
       }
     ],
     "leagues": {
@@ -812,7 +825,7 @@
               "kickoff": "2026-10-17T10:00:00",
               "market": "Double Chance",
               "recommended_pick": "12",
-              "best_odds": 5.3,
+              "best_odds": 5.65,
               "consensus_score": 0.5,
               "price_edge_score": 1.0,
               "source_count": 1,
@@ -842,11 +855,11 @@
               "kickoff": "2026-10-17T16:00:00+02:00",
               "market": "Double Chance",
               "recommended_pick": "X2",
-              "best_odds": 2.05,
+              "best_odds": 2.11,
               "consensus_score": 0.5,
-              "price_edge_score": 0.079,
+              "price_edge_score": 0.111,
               "source_count": 1,
-              "final_score": 0.293,
+              "final_score": 0.3,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -863,6 +876,75 @@
                 }
               ],
               "explanation": "Vitibet statistical model for Fulham vs Hull City: predicted score 0-1, tip X2."
+            }
+          ]
+        },
+        {
+          "match_id": "6aa817a3",
+          "home_team": "Newcastle",
+          "away_team": "Aston Villa",
+          "competition": "ENGLAND - PREMIER LEAGUE",
+          "kickoff": "2026-10-17T12:30:00",
+          "picks": [
+            {
+              "match_id": "9dafa8a6",
+              "home_team": "Newcastle",
+              "away_team": "Aston Villa",
+              "competition": "ENGLAND - PREMIER LEAGUE",
+              "kickoff": "2026-10-17T12:30:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": 3.9,
+              "consensus_score": 0.5,
+              "price_edge_score": 1.0,
+              "source_count": 1,
+              "final_score": 0.525,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Newcastle",
+                  "away_team": "Aston Villa",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Newcastle vs Aston Villa: Double Chance 1X.",
+                  "competition": "ENGLAND - PREMIER LEAGUE",
+                  "kickoff": "2026-10-17T12:30:00"
+                }
+              ],
+              "explanation": "Statarea tip for Newcastle vs Aston Villa: Double Chance 1X."
+            },
+            {
+              "match_id": "e19b31c1",
+              "home_team": "Newcastle",
+              "away_team": "Aston Villa",
+              "competition": "England: Premier League",
+              "kickoff": "2026-10-17T18:30:00+02:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": 1.59,
+              "consensus_score": 0.5,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.279,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1557434&league_id=39",
+                  "home_team": "Newcastle",
+                  "away_team": "Aston Villa",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Newcastle vs Aston Villa: predicted score 1-1, tip X2.",
+                  "competition": "England: Premier League",
+                  "kickoff": "2026-10-17T18:30:00+02:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Newcastle vs Aston Villa: predicted score 1-1, tip X2."
             }
           ]
         },
@@ -945,144 +1027,6 @@
           ]
         },
         {
-          "match_id": "bde0220b",
-          "home_team": "Everton",
-          "away_team": "Chelsea",
-          "competition": "ENGLAND - PREMIER LEAGUE",
-          "kickoff": "2026-10-17T07:30:00",
-          "picks": [
-            {
-              "match_id": "8fb843e7",
-              "home_team": "Everton",
-              "away_team": "Chelsea",
-              "competition": "ENGLAND - PREMIER LEAGUE",
-              "kickoff": "2026-10-17T07:30:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 3.86,
-              "consensus_score": 0.5,
-              "price_edge_score": 1.0,
-              "source_count": 1,
-              "final_score": 0.523,
-              "sources": [
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Everton",
-                  "away_team": "Chelsea",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Everton vs Chelsea: Double Chance X2.",
-                  "competition": "ENGLAND - PREMIER LEAGUE",
-                  "kickoff": "2026-10-17T07:30:00"
-                }
-              ],
-              "explanation": "Statarea tip for Everton vs Chelsea: Double Chance X2."
-            },
-            {
-              "match_id": "cca0f768",
-              "home_team": "Everton",
-              "away_team": "Chelsea",
-              "competition": "England: Premier League",
-              "kickoff": "2026-10-17T13:30:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.64,
-              "consensus_score": 0.5,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.279,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1557430&league_id=39",
-                  "home_team": "Everton",
-                  "away_team": "Chelsea",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Everton vs Chelsea: predicted score 1-1, tip 1X.",
-                  "competition": "England: Premier League",
-                  "kickoff": "2026-10-17T13:30:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Everton vs Chelsea: predicted score 1-1, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "6aa817a3",
-          "home_team": "Newcastle",
-          "away_team": "Aston Villa",
-          "competition": "ENGLAND - PREMIER LEAGUE",
-          "kickoff": "2026-10-17T12:30:00",
-          "picks": [
-            {
-              "match_id": "9dafa8a6",
-              "home_team": "Newcastle",
-              "away_team": "Aston Villa",
-              "competition": "ENGLAND - PREMIER LEAGUE",
-              "kickoff": "2026-10-17T12:30:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 3.85,
-              "consensus_score": 0.5,
-              "price_edge_score": 1.0,
-              "source_count": 1,
-              "final_score": 0.523,
-              "sources": [
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Newcastle",
-                  "away_team": "Aston Villa",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Newcastle vs Aston Villa: Double Chance 1X.",
-                  "competition": "ENGLAND - PREMIER LEAGUE",
-                  "kickoff": "2026-10-17T12:30:00"
-                }
-              ],
-              "explanation": "Statarea tip for Newcastle vs Aston Villa: Double Chance 1X."
-            },
-            {
-              "match_id": "e19b31c1",
-              "home_team": "Newcastle",
-              "away_team": "Aston Villa",
-              "competition": "England: Premier League",
-              "kickoff": "2026-10-17T18:30:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 1.59,
-              "consensus_score": 0.5,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.279,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1557434&league_id=39",
-                  "home_team": "Newcastle",
-                  "away_team": "Aston Villa",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Newcastle vs Aston Villa: predicted score 1-1, tip X2.",
-                  "competition": "England: Premier League",
-                  "kickoff": "2026-10-17T18:30:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Newcastle vs Aston Villa: predicted score 1-1, tip X2."
-            }
-          ]
-        },
-        {
           "match_id": "95e59d31",
           "home_team": "Manchester City FC",
           "away_team": "Ipswich",
@@ -1149,11 +1093,11 @@
               "kickoff": "2026-10-17T10:00:00",
               "market": "Double Chance",
               "recommended_pick": "1X",
-              "best_odds": 3.75,
+              "best_odds": 3.8,
               "consensus_score": 0.5,
-              "price_edge_score": 0.974,
+              "price_edge_score": 1.0,
               "source_count": 1,
-              "final_score": 0.514,
+              "final_score": 0.52,
               "sources": [
                 {
                   "source_name": "Statarea",
@@ -1311,11 +1255,11 @@
               "kickoff": "2026-10-17T16:15:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.44,
+              "best_odds": 1.4,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.55,
+              "final_score": 0.544,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1404,7 +1348,7 @@
               "kickoff": "2026-10-17T12:00:00",
               "market": "1X2",
               "recommended_pick": "2",
-              "best_odds": 6.6,
+              "best_odds": 6.8,
               "consensus_score": 1.0,
               "price_edge_score": 1.0,
               "source_count": 1,
@@ -1443,7 +1387,7 @@
               "kickoff": "2026-10-17T14:45:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 6.8,
+              "best_odds": 6.75,
               "consensus_score": 1.0,
               "price_edge_score": 1.0,
               "source_count": 1,
@@ -1482,7 +1426,7 @@
               "kickoff": "2026-10-17T09:00:00",
               "market": "1X2",
               "recommended_pick": "2",
-              "best_odds": 5.3,
+              "best_odds": 5.2,
               "consensus_score": 1.0,
               "price_edge_score": 1.0,
               "source_count": 1,
@@ -1679,7 +1623,7 @@
               "kickoff": "2026-10-17T12:30:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 12.5,
+              "best_odds": 13.5,
               "consensus_score": 1.0,
               "price_edge_score": 1.0,
               "source_count": 1,
@@ -1900,11 +1844,11 @@
               "kickoff": "2026-10-17T13:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.67,
+              "best_odds": 1.65,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.58,
+              "final_score": 0.577,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -1977,57 +1921,18 @@
           ]
         },
         {
-          "match_id": "3b239432",
-          "home_team": "FC Kaiserslautern",
-          "away_team": "VfL Bochum",
-          "competition": "GERMANY - 2. BUNDESLIGA",
-          "kickoff": "2026-10-17T07:00:00",
-          "picks": [
-            {
-              "match_id": "d5ad3865",
-              "home_team": "FC Kaiserslautern",
-              "away_team": "VfL Bochum",
-              "competition": "GERMANY - 2. BUNDESLIGA",
-              "kickoff": "2026-10-17T07:00:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.533,
-              "sources": [
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "FC Kaiserslautern",
-                  "away_team": "VfL Bochum",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for FC Kaiserslautern vs VfL Bochum: Double Chance 1X.",
-                  "competition": "GERMANY - 2. BUNDESLIGA",
-                  "kickoff": "2026-10-17T07:00:00"
-                }
-              ],
-              "explanation": "Statarea tip for FC Kaiserslautern vs VfL Bochum: Double Chance 1X."
-            }
-          ]
-        },
-        {
           "match_id": "b15ef04b",
           "home_team": "FC Koln W",
           "away_team": "Hamburger SV Women",
           "competition": "Germany: Frauen Bundesliga",
-          "kickoff": "2026-10-17T12:00:00+02:00",
+          "kickoff": "TBD",
           "picks": [
             {
               "match_id": "8a5b6049",
               "home_team": "FC Koln W",
               "away_team": "Hamburger SV Women",
               "competition": "Germany: Frauen Bundesliga",
-              "kickoff": "2026-10-17T12:00:00+02:00",
+              "kickoff": "TBD",
               "market": "Double Chance",
               "recommended_pick": "1X",
               "best_odds": null,
@@ -2047,7 +1952,7 @@
                   "confidence_text": null,
                   "reason_summary": "Vitibet statistical model for FC Koln W vs Hamburger SV Women: predicted score 1-1, tip 1X.",
                   "competition": "Germany: Frauen Bundesliga",
-                  "kickoff": "2026-10-17T12:00:00+02:00"
+                  "kickoff": null
                 }
               ],
               "explanation": "Vitibet statistical model for FC Koln W vs Hamburger SV Women: predicted score 1-1, tip 1X."
@@ -2400,11 +2305,11 @@
               "kickoff": "2026-10-17T15:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.91,
+              "best_odds": 1.83,
               "consensus_score": 1.0,
-              "price_edge_score": 0.005,
+              "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.617,
+              "final_score": 0.604,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2439,11 +2344,11 @@
               "kickoff": "2026-10-17T17:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.6,
+              "best_odds": 1.67,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.574,
+              "final_score": 0.585,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2481,14 +2386,14 @@
           "home_team": "Erzurumspor FK",
           "away_team": "Eyüpspor",
           "competition": "Turkey: Süper Lig",
-          "kickoff": "2026-10-17T12:30:00+02:00",
+          "kickoff": "TBD",
           "picks": [
             {
               "match_id": "028c5f6e",
               "home_team": "Erzurumspor FK",
               "away_team": "Eyüpspor",
               "competition": "Turkey: Süper Lig",
-              "kickoff": "2026-10-17T12:30:00+02:00",
+              "kickoff": "TBD",
               "market": "1X2",
               "recommended_pick": "1",
               "best_odds": 1.62,
@@ -2508,7 +2413,7 @@
                   "confidence_text": null,
                   "reason_summary": "Vitibet statistical model for Erzurumspor FK vs Eyüpspor: predicted score 3-0, tip 1.",
                   "competition": "Turkey: Süper Lig",
-                  "kickoff": "2026-10-17T12:30:00+02:00"
+                  "kickoff": null
                 }
               ],
               "explanation": "Vitibet statistical model for Erzurumspor FK vs Eyüpspor: predicted score 3-0, tip 1."
@@ -2647,11 +2552,11 @@
               "kickoff": "2026-10-17T18:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.3,
+              "best_odds": 1.25,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.529,
+              "final_score": 0.522,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2701,11 +2606,11 @@
               "kickoff": "2026-10-17T16:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.85,
+              "best_odds": 1.8,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 2,
-              "final_score": 0.612,
+              "final_score": 0.604,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -2755,11 +2660,11 @@
               "kickoff": "2026-10-17T10:00:00",
               "market": "Double Chance",
               "recommended_pick": "12",
-              "best_odds": 3.7,
+              "best_odds": 3.65,
               "consensus_score": 1.0,
-              "price_edge_score": 0.947,
+              "price_edge_score": 0.921,
               "source_count": 1,
-              "final_score": 0.873,
+              "final_score": 0.867,
               "sources": [
                 {
                   "source_name": "Statarea",
@@ -2833,11 +2738,11 @@
               "kickoff": "2026-10-17T18:30:00+02:00",
               "market": "1X2",
               "recommended_pick": "2",
-              "best_odds": 1.44,
+              "best_odds": 1.43,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.546,
+              "final_score": 0.544,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -3442,11 +3347,11 @@
             "kickoff": "2026-10-17T20:00:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.8,
+            "best_odds": 1.85,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.6,
+            "final_score": 0.607,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -3597,253 +3502,6 @@
         ]
       },
       {
-        "match_id": "22b9e40b",
-        "home_team": "Gyeongnam FC",
-        "away_team": "Chungnam Asan",
-        "competition": "SOUTH KOREA - K-LEAGUE 2",
-        "kickoff": "2026-10-17T03:30:00",
-        "picks": [
-          {
-            "match_id": "486cf954",
-            "home_team": "Gyeongnam FC",
-            "away_team": "Chungnam Asan",
-            "competition": "SOUTH KOREA - K-LEAGUE 2",
-            "kickoff": "2026-10-17T03:30:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.533,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Gyeongnam FC",
-                "away_team": "Chungnam Asan",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Gyeongnam FC vs Chungnam Asan: Double Chance X2.",
-                "competition": "SOUTH KOREA - K-LEAGUE 2",
-                "kickoff": "2026-10-17T03:30:00"
-              }
-            ],
-            "explanation": "Statarea tip for Gyeongnam FC vs Chungnam Asan: Double Chance X2."
-          }
-        ]
-      },
-      {
-        "match_id": "d12ad706",
-        "home_team": "Kataller Toyama",
-        "away_team": "Shonan Bellmare",
-        "competition": "JAPAN - J. LEAGUE 2",
-        "kickoff": "2026-10-17T05:00:00",
-        "picks": [
-          {
-            "match_id": "763ba4e3",
-            "home_team": "Kataller Toyama",
-            "away_team": "Shonan Bellmare",
-            "competition": "JAPAN - J. LEAGUE 2",
-            "kickoff": "2026-10-17T05:00:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.533,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Kataller Toyama",
-                "away_team": "Shonan Bellmare",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Kataller Toyama vs Shonan Bellmare: Double Chance 1X.",
-                "competition": "JAPAN - J. LEAGUE 2",
-                "kickoff": "2026-10-17T05:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Kataller Toyama vs Shonan Bellmare: Double Chance 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "c20df0da",
-        "home_team": "Shandong Luneng",
-        "away_team": "Zhejiang Greentown",
-        "competition": "CHINA - SUPER LEAGUE",
-        "kickoff": "2026-10-17T08:00:00",
-        "picks": [
-          {
-            "match_id": "2ee6b1c7",
-            "home_team": "Shandong Luneng",
-            "away_team": "Zhejiang Greentown",
-            "competition": "CHINA - SUPER LEAGUE",
-            "kickoff": "2026-10-17T08:00:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.533,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Shandong Luneng",
-                "away_team": "Zhejiang Greentown",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Shandong Luneng vs Zhejiang Greentown: Double Chance 1X.",
-                "competition": "CHINA - SUPER LEAGUE",
-                "kickoff": "2026-10-17T08:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Shandong Luneng vs Zhejiang Greentown: Double Chance 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "928762ed",
-        "home_team": "Negeri Sembilan",
-        "away_team": "Sabah",
-        "competition": "MALAYSIA - LIGA SUPER",
-        "kickoff": "2026-10-17T05:00:00",
-        "picks": [
-          {
-            "match_id": "581cdba8",
-            "home_team": "Negeri Sembilan",
-            "away_team": "Sabah",
-            "competition": "MALAYSIA - LIGA SUPER",
-            "kickoff": "2026-10-17T05:00:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.533,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Negeri Sembilan",
-                "away_team": "Sabah",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Negeri Sembilan vs Sabah: Double Chance X2.",
-                "competition": "MALAYSIA - LIGA SUPER",
-                "kickoff": "2026-10-17T05:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Negeri Sembilan vs Sabah: Double Chance X2."
-          }
-        ]
-      },
-      {
-        "match_id": "103b2812",
-        "home_team": "Zweigen Kanazawa",
-        "away_team": "Nara Club",
-        "competition": "JAPAN - J. LEAGUE 3",
-        "kickoff": "2026-10-17T05:00:00",
-        "picks": [
-          {
-            "match_id": "6f942958",
-            "home_team": "Zweigen Kanazawa",
-            "away_team": "Nara Club",
-            "competition": "JAPAN - J. LEAGUE 3",
-            "kickoff": "2026-10-17T05:00:00",
-            "market": "Double Chance",
-            "recommended_pick": "12",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.533,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Zweigen Kanazawa",
-                "away_team": "Nara Club",
-                "market": "Double Chance",
-                "pick": "12",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Zweigen Kanazawa vs Nara Club: Double Chance 12.",
-                "competition": "JAPAN - J. LEAGUE 3",
-                "kickoff": "2026-10-17T05:00:00"
-              }
-            ],
-            "explanation": "Statarea tip for Zweigen Kanazawa vs Nara Club: Double Chance 12."
-          }
-        ]
-      },
-      {
-        "match_id": "6fbd98ae",
-        "home_team": "Thanh Hóa",
-        "away_team": "Nam Dinh",
-        "competition": "Vietnam: V.League 1",
-        "kickoff": "2026-10-17T12:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "609a75ab",
-            "home_team": "Thanh Hóa",
-            "away_team": "Nam Dinh",
-            "competition": "Vietnam: V.League 1",
-            "kickoff": "2026-10-17T12:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.528,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1633907&league_id=340",
-                "home_team": "Thanh Hóa",
-                "away_team": "Nam Dinh",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Thanh Hóa vs Nam Dinh: predicted score 1-1, tip X2.",
-                "competition": "Vietnam: V.League 1",
-                "kickoff": "2026-10-17T12:00:00+02:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Thanh Hoa",
-                "away_team": "Nam Dinh",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Thanh Hoa vs Nam Dinh: Double Chance X2.",
-                "competition": "VIETNAM - V-LEAGUE",
-                "kickoff": "2026-10-17T06:00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Thanh Hóa vs Nam Dinh: predicted score 1-1, tip X2. | Statarea tip for Thanh Hoa vs Nam Dinh: Double Chance X2."
-          }
-        ]
-      },
-      {
         "match_id": "0c04e49e",
         "home_team": "Dinamo Samarqand",
         "away_team": "Buxoro",
@@ -3948,45 +3606,6 @@
         ]
       },
       {
-        "match_id": "334eb617",
-        "home_team": "Garudayaksa",
-        "away_team": "Arema FC",
-        "competition": "Indonesia: Liga 1",
-        "kickoff": "2026-10-17T10:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "0ad3fa18",
-            "home_team": "Garudayaksa",
-            "away_team": "Arema FC",
-            "competition": "Indonesia: Liga 1",
-            "kickoff": "2026-10-17T10:30:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.524,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1622795&league_id=274",
-                "home_team": "Garudayaksa",
-                "away_team": "Arema FC",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Garudayaksa vs Arema FC: predicted score 1-1, tip 1X.",
-                "competition": "Indonesia: Liga 1",
-                "kickoff": "2026-10-17T10:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Garudayaksa vs Arema FC: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
         "match_id": "6438488a",
         "home_team": "Al-Jolan SC",
         "away_team": "Duhok SC",
@@ -4061,123 +3680,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Al-Quwa Al-Jawiya vs Al-Karma: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "6785f90e",
-        "home_team": "Cerezo Osaka",
-        "away_team": "Kawasaki Frontale",
-        "competition": "Japan: J1 League",
-        "kickoff": "2026-10-17T08:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "daa67f7a",
-            "home_team": "Cerezo Osaka",
-            "away_team": "Kawasaki Frontale",
-            "competition": "Japan: J1 League",
-            "kickoff": "2026-10-17T08:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.524,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1556091&league_id=98",
-                "home_team": "Cerezo Osaka",
-                "away_team": "Kawasaki Frontale",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Cerezo Osaka vs Kawasaki Frontale: predicted score 1-1, tip X2.",
-                "competition": "Japan: J1 League",
-                "kickoff": "2026-10-17T08:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Cerezo Osaka vs Kawasaki Frontale: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "5a259263",
-        "home_team": "Macarthur",
-        "away_team": "Perth Glory",
-        "competition": "Australia: A-League",
-        "kickoff": "2026-10-17T08:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "1ffb5874",
-            "home_team": "Macarthur",
-            "away_team": "Perth Glory",
-            "competition": "Australia: A-League",
-            "kickoff": "2026-10-17T08:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.524,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1593682&league_id=188",
-                "home_team": "Macarthur",
-                "away_team": "Perth Glory",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Macarthur vs Perth Glory: predicted score 1-0, tip 1X.",
-                "competition": "Australia: A-League",
-                "kickoff": "2026-10-17T08:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Macarthur vs Perth Glory: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "01ab27ad",
-        "home_team": "CC Mariners",
-        "away_team": "Newcastle Jets",
-        "competition": "Australia: A-League",
-        "kickoff": "2026-10-17T10:40:00+02:00",
-        "picks": [
-          {
-            "match_id": "dc77be64",
-            "home_team": "CC Mariners",
-            "away_team": "Newcastle Jets",
-            "competition": "Australia: A-League",
-            "kickoff": "2026-10-17T10:40:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.524,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1593683&league_id=188",
-                "home_team": "CC Mariners",
-                "away_team": "Newcastle Jets",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for CC Mariners vs Newcastle Jets: predicted score 0-1, tip X2.",
-                "competition": "Australia: A-League",
-                "kickoff": "2026-10-17T10:40:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for CC Mariners vs Newcastle Jets: predicted score 0-1, tip X2."
           }
         ]
       },
@@ -4258,6 +3760,357 @@
             "explanation": "Vitibet statistical model for Yunnan Yukun vs Chongqing Tongliang Long: predicted score 1-1, tip 1X."
           }
         ]
+      },
+      {
+        "match_id": "793766b9",
+        "home_team": "Shandong Luneng",
+        "away_team": "Hangzhou Greentown",
+        "competition": "China: Super League",
+        "kickoff": "2026-10-17T14:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "525c4c51",
+            "home_team": "Shandong Luneng",
+            "away_team": "Hangzhou Greentown",
+            "competition": "China: Super League",
+            "kickoff": "2026-10-17T14:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1523279&league_id=169",
+                "home_team": "Shandong Luneng",
+                "away_team": "Hangzhou Greentown",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Shandong Luneng vs Hangzhou Greentown: predicted score 1-1, tip 1X.",
+                "competition": "China: Super League",
+                "kickoff": "2026-10-17T14:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Shandong Luneng vs Hangzhou Greentown: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "9e43b2f7",
+        "home_team": "Ningbo Professional",
+        "away_team": "Suzhou Dongwu",
+        "competition": "China: League One",
+        "kickoff": "2026-10-17T13:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "375f33f8",
+            "home_team": "Ningbo Professional",
+            "away_team": "Suzhou Dongwu",
+            "competition": "China: League One",
+            "kickoff": "2026-10-17T13:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528789&league_id=170",
+                "home_team": "Ningbo Professional",
+                "away_team": "Suzhou Dongwu",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Ningbo Professional vs Suzhou Dongwu: predicted score 1-1, tip X2.",
+                "competition": "China: League One",
+                "kickoff": "2026-10-17T13:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Ningbo Professional vs Suzhou Dongwu: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "227eb077",
+        "home_team": "Lokomotiv",
+        "away_team": "Nasaf",
+        "competition": "Uzbekistan: Super League",
+        "kickoff": "2026-10-17T15:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "95198ecb",
+            "home_team": "Lokomotiv",
+            "away_team": "Nasaf",
+            "competition": "Uzbekistan: Super League",
+            "kickoff": "2026-10-17T15:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1516157&league_id=369",
+                "home_team": "Lokomotiv",
+                "away_team": "Nasaf",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Lokomotiv vs Nasaf: predicted score 1-1, tip X2.",
+                "competition": "Uzbekistan: Super League",
+                "kickoff": "2026-10-17T15:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Lokomotiv vs Nasaf: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "dbe975e3",
+        "home_team": "Navbahor",
+        "away_team": "Pakhtakor Tashkent",
+        "competition": "Uzbekistan: Super League",
+        "kickoff": "2026-10-17T16:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "0d4e4962",
+            "home_team": "Navbahor",
+            "away_team": "Pakhtakor Tashkent",
+            "competition": "Uzbekistan: Super League",
+            "kickoff": "2026-10-17T16:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1516159&league_id=369",
+                "home_team": "Navbahor",
+                "away_team": "Pakhtakor Tashkent",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Navbahor vs Pakhtakor Tashkent: predicted score 1-1, tip 1X.",
+                "competition": "Uzbekistan: Super League",
+                "kickoff": "2026-10-17T16:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Navbahor vs Pakhtakor Tashkent: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "44dbc262",
+        "home_team": "Shabab Al Ahli Dubai",
+        "away_team": "Al Ain",
+        "competition": "United-Arab-Emirates: Pro League",
+        "kickoff": "2026-10-17T17:45:00+02:00",
+        "picks": [
+          {
+            "match_id": "c43ae829",
+            "home_team": "Shabab Al Ahli Dubai",
+            "away_team": "Al Ain",
+            "competition": "United-Arab-Emirates: Pro League",
+            "kickoff": "2026-10-17T17:45:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1639010&league_id=301",
+                "home_team": "Shabab Al Ahli Dubai",
+                "away_team": "Al Ain",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Shabab Al Ahli Dubai vs Al Ain: predicted score 1-1, tip 1X.",
+                "competition": "United-Arab-Emirates: Pro League",
+                "kickoff": "2026-10-17T17:45:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Shabab Al Ahli Dubai vs Al Ain: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "5a1ac468",
+        "home_team": "Sukhothai FC",
+        "away_team": "Rasi Salai United",
+        "competition": "Thailand: Thai League 1",
+        "kickoff": "2026-10-17T13:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "e584fbf6",
+            "home_team": "Sukhothai FC",
+            "away_team": "Rasi Salai United",
+            "competition": "Thailand: Thai League 1",
+            "kickoff": "2026-10-17T13:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1598045&league_id=296",
+                "home_team": "Sukhothai FC",
+                "away_team": "Rasi Salai United",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Sukhothai FC vs Rasi Salai United: predicted score 1-0, tip 1X.",
+                "competition": "Thailand: Thai League 1",
+                "kickoff": "2026-10-17T13:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Sukhothai FC vs Rasi Salai United: predicted score 1-0, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "a7ea7e85",
+        "home_team": "Al Wihdat",
+        "away_team": "Al Hussein",
+        "competition": "Jordan: League",
+        "kickoff": "2026-10-17T18:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "5bf33e5f",
+            "home_team": "Al Wihdat",
+            "away_team": "Al Hussein",
+            "competition": "Jordan: League",
+            "kickoff": "2026-10-17T18:30:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1643365&league_id=387",
+                "home_team": "Al Wihdat",
+                "away_team": "Al Hussein",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Al Wihdat vs Al Hussein: predicted score 1-1, tip X2.",
+                "competition": "Jordan: League",
+                "kickoff": "2026-10-17T18:30:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Al Wihdat vs Al Hussein: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "b50925dc",
+        "home_team": "Negeri Sembilan",
+        "away_team": "Sabah FA",
+        "competition": "Malaysia: Super League",
+        "kickoff": "TBD",
+        "picks": [
+          {
+            "match_id": "a1702824",
+            "home_team": "Negeri Sembilan",
+            "away_team": "Sabah FA",
+            "competition": "Malaysia: Super League",
+            "kickoff": "TBD",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1601141&league_id=278",
+                "home_team": "Negeri Sembilan",
+                "away_team": "Sabah FA",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Negeri Sembilan vs Sabah FA: predicted score 1-1, tip 1X.",
+                "competition": "Malaysia: Super League",
+                "kickoff": null
+              }
+            ],
+            "explanation": "Vitibet statistical model for Negeri Sembilan vs Sabah FA: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "2b089fec",
+        "home_team": "Melaka",
+        "away_team": "Kuala Lumpur FA",
+        "competition": "Malaysia: Super League",
+        "kickoff": "2026-10-17T15:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "9f3f1b20",
+            "home_team": "Melaka",
+            "away_team": "Kuala Lumpur FA",
+            "competition": "Malaysia: Super League",
+            "kickoff": "2026-10-17T15:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.524,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1601143&league_id=278",
+                "home_team": "Melaka",
+                "away_team": "Kuala Lumpur FA",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Melaka vs Kuala Lumpur FA: predicted score 1-1, tip X2.",
+                "competition": "Malaysia: Super League",
+                "kickoff": "2026-10-17T15:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Melaka vs Kuala Lumpur FA: predicted score 1-1, tip X2."
+          }
+        ]
       }
     ],
     "leagues": {
@@ -4277,11 +4130,11 @@
               "kickoff": "2026-10-17T20:00:00+02:00",
               "market": "1X2",
               "recommended_pick": "1",
-              "best_odds": 1.8,
+              "best_odds": 1.85,
               "consensus_score": 1.0,
               "price_edge_score": 0.0,
               "source_count": 1,
-              "final_score": 0.6,
+              "final_score": 0.607,
               "sources": [
                 {
                   "source_name": "Vitibet",
@@ -4354,167 +4207,7 @@
           ]
         }
       ],
-      "J1 League": [
-        {
-          "match_id": "6785f90e",
-          "home_team": "Cerezo Osaka",
-          "away_team": "Kawasaki Frontale",
-          "competition": "Japan: J1 League",
-          "kickoff": "2026-10-17T08:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "daa67f7a",
-              "home_team": "Cerezo Osaka",
-              "away_team": "Kawasaki Frontale",
-              "competition": "Japan: J1 League",
-              "kickoff": "2026-10-17T08:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.524,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1556091&league_id=98",
-                  "home_team": "Cerezo Osaka",
-                  "away_team": "Kawasaki Frontale",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Cerezo Osaka vs Kawasaki Frontale: predicted score 1-1, tip X2.",
-                  "competition": "Japan: J1 League",
-                  "kickoff": "2026-10-17T08:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Cerezo Osaka vs Kawasaki Frontale: predicted score 1-1, tip X2."
-            }
-          ]
-        }
-      ],
-      "K League 1": [
-        {
-          "match_id": "7c320f18",
-          "home_team": "Gimpo Citizen",
-          "away_team": "Paju Citizen",
-          "competition": "South-Korea: K League 2",
-          "kickoff": "2026-10-17T09:30:00+02:00",
-          "picks": [
-            {
-              "match_id": "103d8733",
-              "home_team": "Gimpo Citizen",
-              "away_team": "Paju Citizen",
-              "competition": "South-Korea: K League 2",
-              "kickoff": "2026-10-17T09:30:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.524,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1510469&league_id=293",
-                  "home_team": "Gimpo Citizen",
-                  "away_team": "Paju Citizen",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Gimpo Citizen vs Paju Citizen: predicted score 1-1, tip 1X.",
-                  "competition": "South-Korea: K League 2",
-                  "kickoff": "2026-10-17T09:30:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Gimpo Citizen vs Paju Citizen: predicted score 1-1, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "0a0c42f3",
-          "home_team": "Gyeongnam FC",
-          "away_team": "Asan Mugunghwa",
-          "competition": "South-Korea: K League 2",
-          "kickoff": "2026-10-17T09:30:00+02:00",
-          "picks": [
-            {
-              "match_id": "d5045b68",
-              "home_team": "Gyeongnam FC",
-              "away_team": "Asan Mugunghwa",
-              "competition": "South-Korea: K League 2",
-              "kickoff": "2026-10-17T09:30:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.524,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1510470&league_id=293",
-                  "home_team": "Gyeongnam FC",
-                  "away_team": "Asan Mugunghwa",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Gyeongnam FC vs Asan Mugunghwa: predicted score 1-1, tip 1X.",
-                  "competition": "South-Korea: K League 2",
-                  "kickoff": "2026-10-17T09:30:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Gyeongnam FC vs Asan Mugunghwa: predicted score 1-1, tip 1X."
-            }
-          ]
-        }
-      ],
       "Chinese Super League": [
-        {
-          "match_id": "c20df0da",
-          "home_team": "Shandong Luneng",
-          "away_team": "Zhejiang Greentown",
-          "competition": "CHINA - SUPER LEAGUE",
-          "kickoff": "2026-10-17T08:00:00",
-          "picks": [
-            {
-              "match_id": "2ee6b1c7",
-              "home_team": "Shandong Luneng",
-              "away_team": "Zhejiang Greentown",
-              "competition": "CHINA - SUPER LEAGUE",
-              "kickoff": "2026-10-17T08:00:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.533,
-              "sources": [
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Shandong Luneng",
-                  "away_team": "Zhejiang Greentown",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Shandong Luneng vs Zhejiang Greentown: Double Chance 1X.",
-                  "competition": "CHINA - SUPER LEAGUE",
-                  "kickoff": "2026-10-17T08:00:00"
-                }
-              ],
-              "explanation": "Statarea tip for Shandong Luneng vs Zhejiang Greentown: Double Chance 1X."
-            }
-          ]
-        },
         {
           "match_id": "8550b0dc",
           "home_team": "Qingdao Hainiu",
@@ -4652,11 +4345,11 @@
             "kickoff": "2026-10-17T20:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.76,
+            "best_odds": 1.79,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.638,
+            "final_score": 0.642,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4673,45 +4366,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Banfield vs Argentinos JRS: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "96b0dc7d",
-        "home_team": "Atlante FC",
-        "away_team": "U.N.A.M. - Pumas",
-        "competition": "Mexico: Liga MX",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "74b2055a",
-            "home_team": "Atlante FC",
-            "away_team": "U.N.A.M. - Pumas",
-            "competition": "Mexico: Liga MX",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.41,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.585,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1550995&league_id=262",
-                "home_team": "Atlante FC",
-                "away_team": "U.N.A.M. - Pumas",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Atlante FC vs U.N.A.M. - Pumas: predicted score 1-1, tip 1X.",
-                "competition": "Mexico: Liga MX",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Atlante FC vs U.N.A.M. - Pumas: predicted score 1-1, tip 1X."
           }
         ]
       },
@@ -4769,11 +4423,11 @@
             "kickoff": "2026-10-17T23:30:00+02:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.53,
+            "best_odds": 1.57,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.559,
+            "final_score": 0.565,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -4829,45 +4483,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Independ. Rivadavia vs Tigre: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "00df5ad8",
-        "home_team": "Club Tijuana",
-        "away_team": "Puebla",
-        "competition": "Mexico: Liga MX",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "3296c531",
-            "home_team": "Club Tijuana",
-            "away_team": "Puebla",
-            "competition": "Mexico: Liga MX",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.13,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.543,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1550994&league_id=262",
-                "home_team": "Club Tijuana",
-                "away_team": "Puebla",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Club Tijuana vs Puebla: predicted score 1-1, tip 1X.",
-                "competition": "Mexico: Liga MX",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Club Tijuana vs Puebla: predicted score 1-1, tip 1X."
           }
         ]
       },
@@ -5106,45 +4721,6 @@
         ]
       },
       {
-        "match_id": "c27825b9",
-        "home_team": "Houston Dynamo",
-        "away_team": "FC Dallas",
-        "competition": "USA - MAJOR LEAGUE SOCCER",
-        "kickoff": "2026-10-17T20:30:00",
-        "picks": [
-          {
-            "match_id": "8d20d2b5",
-            "home_team": "Houston Dynamo",
-            "away_team": "FC Dallas",
-            "competition": "USA - MAJOR LEAGUE SOCCER",
-            "kickoff": "2026-10-17T20:30:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.533,
-            "sources": [
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Houston Dynamo",
-                "away_team": "FC Dallas",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Houston Dynamo vs FC Dallas: Double Chance 1X.",
-                "competition": "USA - MAJOR LEAGUE SOCCER",
-                "kickoff": "2026-10-17T20:30:00"
-              }
-            ],
-            "explanation": "Statarea tip for Houston Dynamo vs FC Dallas: Double Chance 1X."
-          }
-        ]
-      },
-      {
         "match_id": "0de49636",
         "home_team": "Los Angeles Galaxy",
         "away_team": "San Diego",
@@ -5379,20 +4955,20 @@
         ]
       },
       {
-        "match_id": "4a1a8206",
-        "home_team": "AD Isidro Metapan",
-        "away_team": "Fuerte San Francisco",
-        "competition": "EL SALVADOR - PRIMERA DIVISION - APERTURA",
-        "kickoff": "2026-10-17T21:00:00",
+        "match_id": "0212dd78",
+        "home_team": "Inter Playa del Carmen",
+        "away_team": "Veracruz",
+        "competition": "MEXICO - LIGA PRIMERA PREMIER GRP. 2",
+        "kickoff": "2026-10-17T19:00:00",
         "picks": [
           {
-            "match_id": "81726f9f",
-            "home_team": "AD Isidro Metapan",
-            "away_team": "Fuerte San Francisco",
-            "competition": "EL SALVADOR - PRIMERA DIVISION - APERTURA",
-            "kickoff": "2026-10-17T21:00:00",
+            "match_id": "26227c56",
+            "home_team": "Inter Playa del Carmen",
+            "away_team": "Veracruz",
+            "competition": "MEXICO - LIGA PRIMERA PREMIER GRP. 2",
+            "kickoff": "2026-10-17T19:00:00",
             "market": "Double Chance",
-            "recommended_pick": "1X",
+            "recommended_pick": "X2",
             "best_odds": null,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
@@ -5402,18 +4978,135 @@
               {
                 "source_name": "Statarea",
                 "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "AD Isidro Metapan",
-                "away_team": "Fuerte San Francisco",
+                "home_team": "Inter Playa del Carmen",
+                "away_team": "Veracruz",
                 "market": "Double Chance",
-                "pick": "1X",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Statarea tip for AD Isidro Metapan vs Fuerte San Francisco: Double Chance 1X.",
-                "competition": "EL SALVADOR - PRIMERA DIVISION - APERTURA",
-                "kickoff": "2026-10-17T21:00:00"
+                "reason_summary": "Statarea tip for Inter Playa del Carmen vs Veracruz: Double Chance X2.",
+                "competition": "MEXICO - LIGA PRIMERA PREMIER GRP. 2",
+                "kickoff": "2026-10-17T19:00:00"
               }
             ],
-            "explanation": "Statarea tip for AD Isidro Metapan vs Fuerte San Francisco: Double Chance 1X."
+            "explanation": "Statarea tip for Inter Playa del Carmen vs Veracruz: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "87d24b2e",
+        "home_team": "North Carolina Courage (w)",
+        "away_team": "San Diego Wave FC (w)",
+        "competition": "USA - NWSL",
+        "kickoff": "2026-10-17T19:00:00",
+        "picks": [
+          {
+            "match_id": "1b2b2f48",
+            "home_team": "North Carolina Courage (w)",
+            "away_team": "San Diego Wave FC (w)",
+            "competition": "USA - NWSL",
+            "kickoff": "2026-10-17T19:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "12",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.533,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "North Carolina Courage (w)",
+                "away_team": "San Diego Wave FC (w)",
+                "market": "Double Chance",
+                "pick": "12",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for North Carolina Courage (w) vs San Diego Wave FC (w): Double Chance 12.",
+                "competition": "USA - NWSL",
+                "kickoff": "2026-10-17T19:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for North Carolina Courage (w) vs San Diego Wave FC (w): Double Chance 12."
+          }
+        ]
+      },
+      {
+        "match_id": "268c50a6",
+        "home_team": "Greenville Triumph SC",
+        "away_team": "Charlotte Independence",
+        "competition": "USA - USL LEAGUE ONE",
+        "kickoff": "2026-10-17T19:00:00",
+        "picks": [
+          {
+            "match_id": "68201380",
+            "home_team": "Greenville Triumph SC",
+            "away_team": "Charlotte Independence",
+            "competition": "USA - USL LEAGUE ONE",
+            "kickoff": "2026-10-17T19:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.533,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Greenville Triumph SC",
+                "away_team": "Charlotte Independence",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Greenville Triumph SC vs Charlotte Independence: Double Chance X2.",
+                "competition": "USA - USL LEAGUE ONE",
+                "kickoff": "2026-10-17T19:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Greenville Triumph SC vs Charlotte Independence: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "c73d9dfc",
+        "home_team": "Miami FC",
+        "away_team": "Charleston Battery",
+        "competition": "USA - USL CHAMPIONSHIP EASTERN CONFERENCE",
+        "kickoff": "2026-10-17T19:00:00",
+        "picks": [
+          {
+            "match_id": "8e3c3fd4",
+            "home_team": "Miami FC",
+            "away_team": "Charleston Battery",
+            "competition": "USA - USL CHAMPIONSHIP EASTERN CONFERENCE",
+            "kickoff": "2026-10-17T19:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.533,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Miami FC",
+                "away_team": "Charleston Battery",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Miami FC vs Charleston Battery: Double Chance X2.",
+                "competition": "USA - USL CHAMPIONSHIP EASTERN CONFERENCE",
+                "kickoff": "2026-10-17T19:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Miami FC vs Charleston Battery: Double Chance X2."
           }
         ]
       }
