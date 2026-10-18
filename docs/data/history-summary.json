@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-17T10:51:13.811010+00:00",
-  "total": 8639,
+  "generated_at": "2026-10-18T11:15:41.603917+00:00",
+  "total": 8834,
   "counts": {
-    "hit": 2922,
-    "miss": 1978,
+    "hit": 3014,
+    "miss": 2033,
     "push": 1,
-    "unknown": 2403,
-    "pending": 1335
+    "unknown": 2441,
+    "pending": 1345
   },
-  "hit_rate": 0.596,
+  "hit_rate": 0.597,
   "by_market": {
     "Correct Score": {
       "hit": 12,
@@ -18,18 +18,18 @@
       "pending": 0
     },
     "Double Chance": {
-      "hit": 1199,
-      "miss": 537,
+      "hit": 1259,
+      "miss": 563,
       "push": 0,
-      "unknown": 499,
-      "pending": 834
+      "unknown": 532,
+      "pending": 848
     },
     "1X2": {
-      "hit": 1633,
-      "miss": 1306,
+      "hit": 1665,
+      "miss": 1335,
       "push": 0,
-      "unknown": 1487,
-      "pending": 501
+      "unknown": 1492,
+      "pending": 497
     },
     "Total Goals": {
       "hit": 64,
