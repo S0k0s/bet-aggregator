@@ -1,1838 +1,11 @@
 {
   "Europe": {
-    "all": [
-      {
-        "match_id": "6a375d84",
-        "home_team": "Soroksar",
-        "away_team": "Fehérvár FC",
-        "competition": "Hungary: NB II",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "8bb6f727",
-            "home_team": "Soroksar",
-            "away_team": "Fehérvár FC",
-            "competition": "Hungary: NB II",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 2.5,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.316,
-            "source_count": 1,
-            "final_score": 0.692,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1571867&league_id=272",
-                "home_team": "Soroksar",
-                "away_team": "Fehérvár FC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Soroksar vs Fehérvár FC: predicted score 2-1, tip 1.",
-                "competition": "Hungary: NB II",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Soroksar vs Fehérvár FC: predicted score 2-1, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "e476d776",
-        "home_team": "Baltika",
-        "away_team": "FC Rostov",
-        "competition": "Russia: Premier League",
-        "kickoff": "2026-10-18T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "300aa73c",
-            "home_team": "Baltika",
-            "away_team": "FC Rostov",
-            "competition": "Russia: Premier League",
-            "kickoff": "2026-10-18T20:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 2.14,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.126,
-            "source_count": 2,
-            "final_score": 0.658,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1561411&league_id=235",
-                "home_team": "Baltika",
-                "away_team": "FC Rostov",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Baltika vs FC Rostov: predicted score 2-1, tip 1.",
-                "competition": "Russia: Premier League",
-                "kickoff": "2026-10-18T20:00:00+02:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Baltika",
-                "away_team": "FC Rostov",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Baltika vs FC Rostov: 1X2 1.",
-                "competition": "RUSSIA - PREMIER LEAGUE",
-                "kickoff": "2026-10-18T11:00:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Baltika vs FC Rostov: predicted score 2-1, tip 1. | Statarea tip for Baltika vs FC Rostov: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "cdd47a64",
-        "home_team": "Maribor",
-        "away_team": "Celje",
-        "competition": "Slovenia: 1. SNL",
-        "kickoff": "2026-10-18T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "8a86c96a",
-            "home_team": "Maribor",
-            "away_team": "Celje",
-            "competition": "Slovenia: 1. SNL",
-            "kickoff": "2026-10-18T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 2.1,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.105,
-            "source_count": 1,
-            "final_score": 0.65,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1558027&league_id=373",
-                "home_team": "Maribor",
-                "away_team": "Celje",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Maribor vs Celje: predicted score 1-0, tip 1.",
-                "competition": "Slovenia: 1. SNL",
-                "kickoff": "2026-10-18T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Maribor vs Celje: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "f95fa8f6",
-        "home_team": "Groningen",
-        "away_team": "Ajax",
-        "competition": "Netherlands: Eredivisie",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "85f541b6",
-            "home_team": "Groningen",
-            "away_team": "Ajax",
-            "competition": "Netherlands: Eredivisie",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.82,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.648,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1552197&league_id=88",
-                "home_team": "Groningen",
-                "away_team": "Ajax",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Groningen vs Ajax: predicted score 2-2, tip 1X.",
-                "competition": "Netherlands: Eredivisie",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Groningen vs Ajax: predicted score 2-2, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "c60d123d",
-        "home_team": "Žilina",
-        "away_team": "Dunajska Streda",
-        "competition": "Slovakia: Super Liga",
-        "kickoff": "2026-10-18T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "ca30cdef",
-            "home_team": "Žilina",
-            "away_team": "Dunajska Streda",
-            "competition": "Slovakia: Super Liga",
-            "kickoff": "2026-10-18T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 2.05,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.079,
-            "source_count": 1,
-            "final_score": 0.645,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551580&league_id=332",
-                "home_team": "Žilina",
-                "away_team": "Dunajska Streda",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Žilina vs Dunajska Streda: predicted score 1-3, tip 2.",
-                "competition": "Slovakia: Super Liga",
-                "kickoff": "2026-10-18T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Žilina vs Dunajska Streda: predicted score 1-3, tip 2."
-          }
-        ]
-      },
-      {
-        "match_id": "41777ac6",
-        "home_team": "Lyon",
-        "away_team": "Nice",
-        "competition": "France: Ligue 1",
-        "kickoff": "2026-10-18T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "41afcaa3",
-            "home_team": "Lyon",
-            "away_team": "Nice",
-            "competition": "France: Ligue 1",
-            "kickoff": "2026-10-18T20:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.85,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.61,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1552788&league_id=61",
-                "home_team": "Lyon",
-                "away_team": "Nice",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Lyon vs Nice: predicted score 2-0, tip 1.",
-                "competition": "France: Ligue 1",
-                "kickoff": "2026-10-18T20:45:00+02:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Lyon",
-                "away_team": "Nice",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Lyon vs Nice: 1X2 1.",
-                "competition": "FRANCE - LIGUE 1",
-                "kickoff": "2026-10-18T11:45:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Lyon vs Nice: predicted score 2-0, tip 1. | Statarea tip for Lyon vs Nice: 1X2 1."
-          }
-        ]
-      },
-      {
-        "match_id": "27cb3c86",
-        "home_team": "FK Jablonec",
-        "away_team": "Plzen",
-        "competition": "Czech Republic: Czech Liga",
-        "kickoff": "2026-10-18T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "7b329342",
-            "home_team": "FK Jablonec",
-            "away_team": "Plzen",
-            "competition": "Czech Republic: Czech Liga",
-            "kickoff": "2026-10-18T18:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.51,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.601,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1560042&league_id=345",
-                "home_team": "FK Jablonec",
-                "away_team": "Plzen",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for FK Jablonec vs Plzen: predicted score 1-1, tip X2.",
-                "competition": "Czech Republic: Czech Liga",
-                "kickoff": "2026-10-18T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for FK Jablonec vs Plzen: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "38cfa6d1",
-        "home_team": "Karpaty",
-        "away_team": "Epitsentr Dunayivtsi",
-        "competition": "Ukraine: Premier League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "c12fe959",
-            "home_team": "Karpaty",
-            "away_team": "Epitsentr Dunayivtsi",
-            "competition": "Ukraine: Premier League",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.75,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.592,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1565499&league_id=333",
-                "home_team": "Karpaty",
-                "away_team": "Epitsentr Dunayivtsi",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Karpaty vs Epitsentr Dunayivtsi: predicted score 2-0, tip 1.",
-                "competition": "Ukraine: Premier League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Karpaty vs Epitsentr Dunayivtsi: predicted score 2-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "d05d592e",
-        "home_team": "Girona",
-        "away_team": "FC Andorra",
-        "competition": "Spain: Segunda División",
-        "kickoff": "2026-10-18T18:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "4b4d5ff5",
-            "home_team": "Girona",
-            "away_team": "FC Andorra",
-            "competition": "Spain: Segunda División",
-            "kickoff": "2026-10-18T18:30:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.75,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.592,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1569975&league_id=141",
-                "home_team": "Girona",
-                "away_team": "FC Andorra",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Girona vs FC Andorra: predicted score 2-1, tip 1.",
-                "competition": "Spain: Segunda División",
-                "kickoff": "2026-10-18T18:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Girona vs FC Andorra: predicted score 2-1, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "30d30514",
-        "home_team": "Malmö FF",
-        "away_team": "BK Hacken",
-        "competition": "Sweden: Allsvenskan",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "e12f01f7",
-            "home_team": "Malmö FF",
-            "away_team": "BK Hacken",
-            "competition": "Sweden: Allsvenskan",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.42,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.588,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1494301&league_id=113",
-                "home_team": "Malmö FF",
-                "away_team": "BK Hacken",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Malmö FF vs BK Hacken: predicted score 1-2, tip X2.",
-                "competition": "Sweden: Allsvenskan",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Malmö FF vs BK Hacken: predicted score 1-2, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "5b113f73",
-        "home_team": "AC Milan",
-        "away_team": "Atalanta BC",
-        "competition": "Italy: Serie A",
-        "kickoff": "2026-10-18T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "77de42d8",
-            "home_team": "AC Milan",
-            "away_team": "Atalanta BC",
-            "competition": "Italy: Serie A",
-            "kickoff": "2026-10-18T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.7,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.584,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1550147&league_id=135",
-                "home_team": "AC Milan",
-                "away_team": "Atalanta BC",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for AC Milan vs Atalanta BC: predicted score 2-1, tip 1.",
-                "competition": "Italy: Serie A",
-                "kickoff": "2026-10-18T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for AC Milan vs Atalanta BC: predicted score 2-1, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "6aad92c2",
-        "home_team": "Malaga",
-        "away_team": "Real Sociedad",
-        "competition": "Spain: La Liga",
-        "kickoff": "2026-10-18T18:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "a2f1861d",
-            "home_team": "Malaga",
-            "away_team": "Real Sociedad",
-            "competition": "Spain: La Liga",
-            "kickoff": "2026-10-18T18:30:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.32,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 2,
-            "final_score": 0.577,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1570418&league_id=140",
-                "home_team": "Malaga",
-                "away_team": "Real Sociedad",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Malaga vs Real Sociedad: predicted score 1-2, tip X2.",
-                "competition": "Spain: La Liga",
-                "kickoff": "2026-10-18T18:30:00+02:00"
-              },
-              {
-                "source_name": "Statarea",
-                "source_url": "https://www.statarea.com/en/predictions",
-                "home_team": "Malaga",
-                "away_team": "Real Sociedad",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Statarea tip for Malaga vs Real Sociedad: Double Chance X2.",
-                "competition": "SPAIN - LALIGA",
-                "kickoff": "2026-10-18T09:30:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Malaga vs Real Sociedad: predicted score 1-2, tip X2. | Statarea tip for Malaga vs Real Sociedad: Double Chance X2."
-          }
-        ]
-      },
-      {
-        "match_id": "04962a16",
-        "home_team": "Celta Vigo",
-        "away_team": "Alaves",
-        "competition": "Spain: La Liga",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "2d813e57",
-            "home_team": "Celta Vigo",
-            "away_team": "Alaves",
-            "competition": "Spain: La Liga",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.29,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.568,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1570414&league_id=140",
-                "home_team": "Celta Vigo",
-                "away_team": "Alaves",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Celta Vigo vs Alaves: predicted score 1-0, tip 1X.",
-                "competition": "Spain: La Liga",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Celta Vigo vs Alaves: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "fb71ceec",
-        "home_team": "FC Copenhagen",
-        "away_team": "Aarhus",
-        "competition": "Denmark: Superliga",
-        "kickoff": "2026-10-18T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "b8c9eb53",
-            "home_team": "FC Copenhagen",
-            "away_team": "Aarhus",
-            "competition": "Denmark: Superliga",
-            "kickoff": "2026-10-18T18:00:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.57,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.565,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1549034&league_id=119",
-                "home_team": "FC Copenhagen",
-                "away_team": "Aarhus",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for FC Copenhagen vs Aarhus: predicted score 2-0, tip 1.",
-                "competition": "Denmark: Superliga",
-                "kickoff": "2026-10-18T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for FC Copenhagen vs Aarhus: predicted score 2-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "360b5ad7",
-        "home_team": "Orgryte IS",
-        "away_team": "Gais",
-        "competition": "Sweden: Allsvenskan",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "1881560e",
-            "home_team": "Orgryte IS",
-            "away_team": "Gais",
-            "competition": "Sweden: Allsvenskan",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.55,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.561,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1494302&league_id=113",
-                "home_team": "Orgryte IS",
-                "away_team": "Gais",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Orgryte IS vs Gais: predicted score 1-2, tip 2.",
-                "competition": "Sweden: Allsvenskan",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Orgryte IS vs Gais: predicted score 1-2, tip 2."
-          }
-        ]
-      },
-      {
-        "match_id": "690f95df",
-        "home_team": "NEC Nijmegen",
-        "away_team": "Fortuna Sittard",
-        "competition": "Netherlands: Eredivisie",
-        "kickoff": "2026-10-18T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "f1f5eca2",
-            "home_team": "NEC Nijmegen",
-            "away_team": "Fortuna Sittard",
-            "competition": "Netherlands: Eredivisie",
-            "kickoff": "2026-10-18T20:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.19,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.553,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1552191&league_id=88",
-                "home_team": "NEC Nijmegen",
-                "away_team": "Fortuna Sittard",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for NEC Nijmegen vs Fortuna Sittard: predicted score 1-1, tip 1X.",
-                "competition": "Netherlands: Eredivisie",
-                "kickoff": "2026-10-18T20:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for NEC Nijmegen vs Fortuna Sittard: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "9cb02d14",
-        "home_team": "Başakşehir",
-        "away_team": "Gaziantep FK",
-        "competition": "Turkey: Süper Lig",
-        "kickoff": "2026-10-18T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "17e1ce52",
-            "home_team": "Başakşehir",
-            "away_team": "Gaziantep FK",
-            "competition": "Turkey: Süper Lig",
-            "kickoff": "2026-10-18T18:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.17,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.55,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1584431&league_id=203",
-                "home_team": "Başakşehir",
-                "away_team": "Gaziantep FK",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Başakşehir vs Gaziantep FK: predicted score 2-1, tip 1X.",
-                "competition": "Turkey: Süper Lig",
-                "kickoff": "2026-10-18T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Başakşehir vs Gaziantep FK: predicted score 2-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "80a583d3",
-        "home_team": "Celtic",
-        "away_team": "Heart of Midlothian",
-        "competition": "Scotland: Premiership",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "e422d3b9",
-            "home_team": "Celtic",
-            "away_team": "Heart of Midlothian",
-            "competition": "Scotland: Premiership",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.16,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.549,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1556677&league_id=179",
-                "home_team": "Celtic",
-                "away_team": "Heart of Midlothian",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Celtic vs Heart of Midlothian: predicted score 1-1, tip 1X.",
-                "competition": "Scotland: Premiership",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Celtic vs Heart of Midlothian: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "4d69b655",
-        "home_team": "Juventus FC",
-        "away_team": "SS Lazio Rome",
-        "competition": "Italy: Serie A",
-        "kickoff": "2026-10-18T20:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "a804badd",
-            "home_team": "Juventus FC",
-            "away_team": "SS Lazio Rome",
-            "competition": "Italy: Serie A",
-            "kickoff": "2026-10-18T20:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.11,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.541,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1550152&league_id=135",
-                "home_team": "Juventus FC",
-                "away_team": "SS Lazio Rome",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Juventus FC vs SS Lazio Rome: predicted score 1-1, tip 1X.",
-                "competition": "Italy: Serie A",
-                "kickoff": "2026-10-18T20:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Juventus FC vs SS Lazio Rome: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "157bde35",
-        "home_team": "HC Spartak Moscow",
-        "away_team": "Rubin",
-        "competition": "Russia: Premier League",
-        "kickoff": "2026-10-18T17:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "c578e80f",
-            "home_team": "HC Spartak Moscow",
-            "away_team": "Rubin",
-            "competition": "Russia: Premier League",
-            "kickoff": "2026-10-18T17:45:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.41,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.54,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1561417&league_id=235",
-                "home_team": "HC Spartak Moscow",
-                "away_team": "Rubin",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for HC Spartak Moscow vs Rubin: predicted score 1-0, tip 1.",
-                "competition": "Russia: Premier League",
-                "kickoff": "2026-10-18T17:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for HC Spartak Moscow vs Rubin: predicted score 1-0, tip 1."
-          }
-        ]
-      }
-    ],
-    "leagues": {
-      "La Liga": [
-        {
-          "match_id": "6aad92c2",
-          "home_team": "Malaga",
-          "away_team": "Real Sociedad",
-          "competition": "Spain: La Liga",
-          "kickoff": "2026-10-18T18:30:00+02:00",
-          "picks": [
-            {
-              "match_id": "a2f1861d",
-              "home_team": "Malaga",
-              "away_team": "Real Sociedad",
-              "competition": "Spain: La Liga",
-              "kickoff": "2026-10-18T18:30:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 1.32,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 2,
-              "final_score": 0.577,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1570418&league_id=140",
-                  "home_team": "Malaga",
-                  "away_team": "Real Sociedad",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Malaga vs Real Sociedad: predicted score 1-2, tip X2.",
-                  "competition": "Spain: La Liga",
-                  "kickoff": "2026-10-18T18:30:00+02:00"
-                },
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Malaga",
-                  "away_team": "Real Sociedad",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Malaga vs Real Sociedad: Double Chance X2.",
-                  "competition": "SPAIN - LALIGA",
-                  "kickoff": "2026-10-18T09:30:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Malaga vs Real Sociedad: predicted score 1-2, tip X2. | Statarea tip for Malaga vs Real Sociedad: Double Chance X2."
-            }
-          ]
-        },
-        {
-          "match_id": "04962a16",
-          "home_team": "Celta Vigo",
-          "away_team": "Alaves",
-          "competition": "Spain: La Liga",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "2d813e57",
-              "home_team": "Celta Vigo",
-              "away_team": "Alaves",
-              "competition": "Spain: La Liga",
-              "kickoff": "TBD",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.29,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.568,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1570414&league_id=140",
-                  "home_team": "Celta Vigo",
-                  "away_team": "Alaves",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Celta Vigo vs Alaves: predicted score 1-0, tip 1X.",
-                  "competition": "Spain: La Liga",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for Celta Vigo vs Alaves: predicted score 1-0, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "b85931cc",
-          "home_team": "Real Madrid",
-          "away_team": "Sevilla",
-          "competition": "Spain: La Liga",
-          "kickoff": "2026-10-18T21:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "a8536e65",
-              "home_team": "Real Madrid",
-              "away_team": "Sevilla",
-              "competition": "Spain: La Liga",
-              "kickoff": "2026-10-18T21:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.25,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 2,
-              "final_score": 0.52,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1570420&league_id=140",
-                  "home_team": "Real Madrid",
-                  "away_team": "Sevilla",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Real Madrid vs Sevilla: predicted score 2-1, tip 1.",
-                  "competition": "Spain: La Liga",
-                  "kickoff": "2026-10-18T21:00:00+02:00"
-                },
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Real Madrid",
-                  "away_team": "Sevilla",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Real Madrid vs Sevilla: 1X2 1.",
-                  "competition": "SPAIN - LALIGA",
-                  "kickoff": "2026-10-18T12:00:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Real Madrid vs Sevilla: predicted score 2-1, tip 1. | Statarea tip for Real Madrid vs Sevilla: 1X2 1."
-            }
-          ]
-        }
-      ],
-      "Serie A": [
-        {
-          "match_id": "5b113f73",
-          "home_team": "AC Milan",
-          "away_team": "Atalanta BC",
-          "competition": "Italy: Serie A",
-          "kickoff": "2026-10-18T18:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "77de42d8",
-              "home_team": "AC Milan",
-              "away_team": "Atalanta BC",
-              "competition": "Italy: Serie A",
-              "kickoff": "2026-10-18T18:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.7,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.584,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1550147&league_id=135",
-                  "home_team": "AC Milan",
-                  "away_team": "Atalanta BC",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for AC Milan vs Atalanta BC: predicted score 2-1, tip 1.",
-                  "competition": "Italy: Serie A",
-                  "kickoff": "2026-10-18T18:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for AC Milan vs Atalanta BC: predicted score 2-1, tip 1."
-            }
-          ]
-        },
-        {
-          "match_id": "4d69b655",
-          "home_team": "Juventus FC",
-          "away_team": "SS Lazio Rome",
-          "competition": "Italy: Serie A",
-          "kickoff": "2026-10-18T20:45:00+02:00",
-          "picks": [
-            {
-              "match_id": "a804badd",
-              "home_team": "Juventus FC",
-              "away_team": "SS Lazio Rome",
-              "competition": "Italy: Serie A",
-              "kickoff": "2026-10-18T20:45:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.11,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.541,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1550152&league_id=135",
-                  "home_team": "Juventus FC",
-                  "away_team": "SS Lazio Rome",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Juventus FC vs SS Lazio Rome: predicted score 1-1, tip 1X.",
-                  "competition": "Italy: Serie A",
-                  "kickoff": "2026-10-18T20:45:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Juventus FC vs SS Lazio Rome: predicted score 1-1, tip 1X."
-            }
-          ]
-        }
-      ],
-      "Ligue 1": [
-        {
-          "match_id": "41777ac6",
-          "home_team": "Lyon",
-          "away_team": "Nice",
-          "competition": "France: Ligue 1",
-          "kickoff": "2026-10-18T20:45:00+02:00",
-          "picks": [
-            {
-              "match_id": "41afcaa3",
-              "home_team": "Lyon",
-              "away_team": "Nice",
-              "competition": "France: Ligue 1",
-              "kickoff": "2026-10-18T20:45:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.85,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 2,
-              "final_score": 0.61,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1552788&league_id=61",
-                  "home_team": "Lyon",
-                  "away_team": "Nice",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Lyon vs Nice: predicted score 2-0, tip 1.",
-                  "competition": "France: Ligue 1",
-                  "kickoff": "2026-10-18T20:45:00+02:00"
-                },
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "Lyon",
-                  "away_team": "Nice",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for Lyon vs Nice: 1X2 1.",
-                  "competition": "FRANCE - LIGUE 1",
-                  "kickoff": "2026-10-18T11:45:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Lyon vs Nice: predicted score 2-0, tip 1. | Statarea tip for Lyon vs Nice: 1X2 1."
-            }
-          ]
-        }
-      ],
-      "Eredivisie": [
-        {
-          "match_id": "f95fa8f6",
-          "home_team": "Groningen",
-          "away_team": "Ajax",
-          "competition": "Netherlands: Eredivisie",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "85f541b6",
-              "home_team": "Groningen",
-              "away_team": "Ajax",
-              "competition": "Netherlands: Eredivisie",
-              "kickoff": "TBD",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.82,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.648,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1552197&league_id=88",
-                  "home_team": "Groningen",
-                  "away_team": "Ajax",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Groningen vs Ajax: predicted score 2-2, tip 1X.",
-                  "competition": "Netherlands: Eredivisie",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for Groningen vs Ajax: predicted score 2-2, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "690f95df",
-          "home_team": "NEC Nijmegen",
-          "away_team": "Fortuna Sittard",
-          "competition": "Netherlands: Eredivisie",
-          "kickoff": "2026-10-18T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "f1f5eca2",
-              "home_team": "NEC Nijmegen",
-              "away_team": "Fortuna Sittard",
-              "competition": "Netherlands: Eredivisie",
-              "kickoff": "2026-10-18T20:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.19,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.553,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1552191&league_id=88",
-                  "home_team": "NEC Nijmegen",
-                  "away_team": "Fortuna Sittard",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for NEC Nijmegen vs Fortuna Sittard: predicted score 1-1, tip 1X.",
-                  "competition": "Netherlands: Eredivisie",
-                  "kickoff": "2026-10-18T20:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for NEC Nijmegen vs Fortuna Sittard: predicted score 1-1, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "8c464121",
-          "home_team": "Twente",
-          "away_team": "Utrecht",
-          "competition": "Netherlands: Eredivisie",
-          "kickoff": "2026-10-18T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "a193b07e",
-              "home_team": "Twente",
-              "away_team": "Utrecht",
-              "competition": "Netherlands: Eredivisie",
-              "kickoff": "2026-10-18T20:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.35,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.531,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1552196&league_id=88",
-                  "home_team": "Twente",
-                  "away_team": "Utrecht",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Twente vs Utrecht: predicted score 3-1, tip 1.",
-                  "competition": "Netherlands: Eredivisie",
-                  "kickoff": "2026-10-18T20:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Twente vs Utrecht: predicted score 3-1, tip 1."
-            }
-          ]
-        }
-      ],
-      "Süper Lig": [
-        {
-          "match_id": "c60d123d",
-          "home_team": "Žilina",
-          "away_team": "Dunajska Streda",
-          "competition": "Slovakia: Super Liga",
-          "kickoff": "2026-10-18T18:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "ca30cdef",
-              "home_team": "Žilina",
-              "away_team": "Dunajska Streda",
-              "competition": "Slovakia: Super Liga",
-              "kickoff": "2026-10-18T18:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "2",
-              "best_odds": 2.05,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.079,
-              "source_count": 1,
-              "final_score": 0.645,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551580&league_id=332",
-                  "home_team": "Žilina",
-                  "away_team": "Dunajska Streda",
-                  "market": "1X2",
-                  "pick": "2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Žilina vs Dunajska Streda: predicted score 1-3, tip 2.",
-                  "competition": "Slovakia: Super Liga",
-                  "kickoff": "2026-10-18T18:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Žilina vs Dunajska Streda: predicted score 1-3, tip 2."
-            }
-          ]
-        },
-        {
-          "match_id": "9cb02d14",
-          "home_team": "Başakşehir",
-          "away_team": "Gaziantep FK",
-          "competition": "Turkey: Süper Lig",
-          "kickoff": "2026-10-18T18:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "17e1ce52",
-              "home_team": "Başakşehir",
-              "away_team": "Gaziantep FK",
-              "competition": "Turkey: Süper Lig",
-              "kickoff": "2026-10-18T18:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.17,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.55,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1584431&league_id=203",
-                  "home_team": "Başakşehir",
-                  "away_team": "Gaziantep FK",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Başakşehir vs Gaziantep FK: predicted score 2-1, tip 1X.",
-                  "competition": "Turkey: Süper Lig",
-                  "kickoff": "2026-10-18T18:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Başakşehir vs Gaziantep FK: predicted score 2-1, tip 1X."
-            }
-          ]
-        },
-        {
-          "match_id": "6999740f",
-          "home_team": "Milsami Orhei",
-          "away_team": "Zimbru",
-          "competition": "Moldova: Super Liga",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "063e6852",
-              "home_team": "Milsami Orhei",
-              "away_team": "Zimbru",
-              "competition": "Moldova: Super Liga",
-              "kickoff": "TBD",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": null,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.525,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1630250&league_id=394",
-                  "home_team": "Milsami Orhei",
-                  "away_team": "Zimbru",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Milsami Orhei vs Zimbru: predicted score 1-2, tip X2.",
-                  "competition": "Moldova: Super Liga",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for Milsami Orhei vs Zimbru: predicted score 1-2, tip X2."
-            }
-          ]
-        }
-      ],
-      "Scottish Premiership": [
-        {
-          "match_id": "80a583d3",
-          "home_team": "Celtic",
-          "away_team": "Heart of Midlothian",
-          "competition": "Scotland: Premiership",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "e422d3b9",
-              "home_team": "Celtic",
-              "away_team": "Heart of Midlothian",
-              "competition": "Scotland: Premiership",
-              "kickoff": "TBD",
-              "market": "Double Chance",
-              "recommended_pick": "1X",
-              "best_odds": 1.16,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.549,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1556677&league_id=179",
-                  "home_team": "Celtic",
-                  "away_team": "Heart of Midlothian",
-                  "market": "Double Chance",
-                  "pick": "1X",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Celtic vs Heart of Midlothian: predicted score 1-1, tip 1X.",
-                  "competition": "Scotland: Premiership",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for Celtic vs Heart of Midlothian: predicted score 1-1, tip 1X."
-            }
-          ]
-        }
-      ],
-      "Greek Super League": [
-        {
-          "match_id": "09857489",
-          "home_team": "Panetolikos",
-          "away_team": "Olympiacos Piraeus",
-          "competition": "Greece: Super League 1",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "1f92d5e9",
-              "home_team": "Panetolikos",
-              "away_team": "Olympiacos Piraeus",
-              "competition": "Greece: Super League 1",
-              "kickoff": "TBD",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 1.04,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.531,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1593336&league_id=197",
-                  "home_team": "Panetolikos",
-                  "away_team": "Olympiacos Piraeus",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Panetolikos vs Olympiacos Piraeus: predicted score 0-1, tip X2.",
-                  "competition": "Greece: Super League 1",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for Panetolikos vs Olympiacos Piraeus: predicted score 0-1, tip X2."
-            }
-          ]
-        },
-        {
-          "match_id": "1d55d42b",
-          "home_team": "PAOK",
-          "away_team": "Iraklis 1908",
-          "competition": "Greece: Super League 1",
-          "kickoff": "2026-10-18T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "be550987",
-              "home_team": "PAOK",
-              "away_team": "Iraklis 1908",
-              "competition": "Greece: Super League 1",
-              "kickoff": "2026-10-18T20:00:00+02:00",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.25,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 2,
-              "final_score": 0.52,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1593337&league_id=197",
-                  "home_team": "PAOK",
-                  "away_team": "Iraklis 1908",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for PAOK vs Iraklis 1908: predicted score 2-1, tip 1.",
-                  "competition": "Greece: Super League 1",
-                  "kickoff": "2026-10-18T20:00:00+02:00"
-                },
-                {
-                  "source_name": "Statarea",
-                  "source_url": "https://www.statarea.com/en/predictions",
-                  "home_team": "PAOK",
-                  "away_team": "Iraklis 1908 FC",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Statarea tip for PAOK vs Iraklis 1908 FC: 1X2 1.",
-                  "competition": "GREECE - SUPER LEAGUE",
-                  "kickoff": "2026-10-18T11:00:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for PAOK vs Iraklis 1908: predicted score 2-1, tip 1. | Statarea tip for PAOK vs Iraklis 1908 FC: 1X2 1."
-            }
-          ]
-        }
-      ]
-    }
+    "all": [],
+    "leagues": {}
   },
   "Asia": {
-    "all": [
-      {
-        "match_id": "8641c525",
-        "home_team": "Al-Fateh",
-        "away_team": "Al Khaleej Saihat",
-        "competition": "Saudi Arabia: Pro League",
-        "kickoff": "2026-10-18T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "710e461b",
-            "home_team": "Al-Fateh",
-            "away_team": "Al Khaleej Saihat",
-            "competition": "Saudi Arabia: Pro League",
-            "kickoff": "2026-10-18T20:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.47,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.595,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1603056&league_id=307",
-                "home_team": "Al-Fateh",
-                "away_team": "Al Khaleej Saihat",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Al-Fateh vs Al Khaleej Saihat: predicted score 0-1, tip X2.",
-                "competition": "Saudi Arabia: Pro League",
-                "kickoff": "2026-10-18T20:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Al-Fateh vs Al Khaleej Saihat: predicted score 0-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "b88f7074",
-        "home_team": "NorthEast United",
-        "away_team": "Kerala Blasters",
-        "competition": "India: Indian Super League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "ea7dea58",
-            "home_team": "NorthEast United",
-            "away_team": "Kerala Blasters",
-            "competition": "India: Indian Super League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.35,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.577,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1642177&league_id=323",
-                "home_team": "NorthEast United",
-                "away_team": "Kerala Blasters",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for NorthEast United vs Kerala Blasters: predicted score 1-1, tip 1X.",
-                "competition": "India: Indian Super League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for NorthEast United vs Kerala Blasters: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "851fa378",
-        "home_team": "Foolad FC",
-        "away_team": "Nassaji Mazandaran",
-        "competition": "Iran: Persian Gulf Pro League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "8e88c602",
-            "home_team": "Foolad FC",
-            "away_team": "Nassaji Mazandaran",
-            "competition": "Iran: Persian Gulf Pro League",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.62,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.572,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1639659&league_id=290",
-                "home_team": "Foolad FC",
-                "away_team": "Nassaji Mazandaran",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Foolad FC vs Nassaji Mazandaran: predicted score 1-0, tip 1.",
-                "competition": "Iran: Persian Gulf Pro League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Foolad FC vs Nassaji Mazandaran: predicted score 1-0, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "dfb46af8",
-        "home_team": "Ghaz Al Shamal",
-        "away_team": "Al Zawra'a",
-        "competition": "Iraq: Iraqi League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "fc044c8e",
-            "home_team": "Ghaz Al Shamal",
-            "away_team": "Al Zawra'a",
-            "competition": "Iraq: Iraqi League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.15,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.547,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628006&league_id=542",
-                "home_team": "Ghaz Al Shamal",
-                "away_team": "Al Zawra'a",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Ghaz Al Shamal vs Al Zawra'a: predicted score 0-1, tip X2.",
-                "competition": "Iraq: Iraqi League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Ghaz Al Shamal vs Al Zawra'a: predicted score 0-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "9680056e",
-        "home_team": "Ajman",
-        "away_team": "Sharjah FC",
-        "competition": "United-Arab-Emirates: Pro League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "df8365d5",
-            "home_team": "Ajman",
-            "away_team": "Sharjah FC",
-            "competition": "United-Arab-Emirates: Pro League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1639013&league_id=301",
-                "home_team": "Ajman",
-                "away_team": "Sharjah FC",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Ajman vs Sharjah FC: predicted score 1-2, tip X2.",
-                "competition": "United-Arab-Emirates: Pro League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Ajman vs Sharjah FC: predicted score 1-2, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "6378c601",
-        "home_team": "Al Nasar",
-        "away_team": "Al Tadhamon",
-        "competition": "Kuwait: Premier League",
-        "kickoff": "2026-10-18T18:55:00+02:00",
-        "picks": [
-          {
-            "match_id": "c281f8ee",
-            "home_team": "Al Nasar",
-            "away_team": "Al Tadhamon",
-            "competition": "Kuwait: Premier League",
-            "kickoff": "2026-10-18T18:55:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1622654&league_id=330",
-                "home_team": "Al Nasar",
-                "away_team": "Al Tadhamon",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Al Nasar vs Al Tadhamon: predicted score 1-0, tip 1X.",
-                "competition": "Kuwait: Premier League",
-                "kickoff": "2026-10-18T18:55:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Al Nasar vs Al Tadhamon: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "b8ad84dd",
-        "home_team": "Oman Club",
-        "away_team": "Bahla",
-        "competition": "Oman: Professional League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "40750a52",
-            "home_team": "Oman Club",
-            "away_team": "Bahla",
-            "competition": "Oman: Professional League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1642115&league_id=406",
-                "home_team": "Oman Club",
-                "away_team": "Bahla",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Oman Club vs Bahla: predicted score 1-1, tip 1X.",
-                "competition": "Oman: Professional League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Oman Club vs Bahla: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "137f249b",
-        "home_team": "Al Nasr",
-        "away_team": "Al Seeb",
-        "competition": "Oman: Professional League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "0c006915",
-            "home_team": "Al Nasr",
-            "away_team": "Al Seeb",
-            "competition": "Oman: Professional League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1642116&league_id=406",
-                "home_team": "Al Nasr",
-                "away_team": "Al Seeb",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Al Nasr vs Al Seeb: predicted score 1-1, tip X2.",
-                "competition": "Oman: Professional League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Al Nasr vs Al Seeb: predicted score 1-1, tip X2."
-          }
-        ]
-      }
-    ],
-    "leagues": {
-      "Saudi Pro League": [
-        {
-          "match_id": "8641c525",
-          "home_team": "Al-Fateh",
-          "away_team": "Al Khaleej Saihat",
-          "competition": "Saudi Arabia: Pro League",
-          "kickoff": "2026-10-18T20:00:00+02:00",
-          "picks": [
-            {
-              "match_id": "710e461b",
-              "home_team": "Al-Fateh",
-              "away_team": "Al Khaleej Saihat",
-              "competition": "Saudi Arabia: Pro League",
-              "kickoff": "2026-10-18T20:00:00+02:00",
-              "market": "Double Chance",
-              "recommended_pick": "X2",
-              "best_odds": 1.47,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.595,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1603056&league_id=307",
-                  "home_team": "Al-Fateh",
-                  "away_team": "Al Khaleej Saihat",
-                  "market": "Double Chance",
-                  "pick": "X2",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Al-Fateh vs Al Khaleej Saihat: predicted score 0-1, tip X2.",
-                  "competition": "Saudi Arabia: Pro League",
-                  "kickoff": "2026-10-18T20:00:00+02:00"
-                }
-              ],
-              "explanation": "Vitibet statistical model for Al-Fateh vs Al Khaleej Saihat: predicted score 0-1, tip X2."
-            }
-          ]
-        }
-      ]
-    }
+    "all": [],
+    "leagues": {}
   },
   "Americas": {
     "all": [
@@ -1841,17 +14,17 @@
         "home_team": "Estudiantes de Merida FC",
         "away_team": "Metropolitanos FC",
         "competition": "Venezuela: Primera División",
-        "kickoff": "2026-10-18T21:30:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "692f8576",
             "home_team": "Estudiantes de Merida FC",
             "away_team": "Metropolitanos FC",
             "competition": "Venezuela: Primera División",
-            "kickoff": "2026-10-18T21:30:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 4.6,
+            "best_odds": 5.0,
             "consensus_score": 1.0,
             "price_edge_score": 1.0,
             "source_count": 1,
@@ -1868,7 +41,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Estudiantes de Merida FC vs Metropolitanos FC: predicted score 0-2, tip 2.",
                 "competition": "Venezuela: Primera División",
-                "kickoff": "2026-10-18T21:30:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Estudiantes de Merida FC vs Metropolitanos FC: predicted score 0-2, tip 2."
@@ -1890,11 +63,11 @@
             "kickoff": "2026-10-18T23:15:00+02:00",
             "market": "1X2",
             "recommended_pick": "2",
-            "best_odds": 2.4,
+            "best_odds": 2.2,
             "consensus_score": 1.0,
-            "price_edge_score": 0.263,
+            "price_edge_score": 0.158,
             "source_count": 1,
-            "final_score": 0.682,
+            "final_score": 0.661,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1919,21 +92,21 @@
         "home_team": "Fluminense",
         "away_team": "Santos",
         "competition": "Brazil: Serie A",
-        "kickoff": "2026-10-18T21:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "23ff46cd",
             "home_team": "Fluminense",
             "away_team": "Santos",
             "competition": "Brazil: Serie A",
-            "kickoff": "2026-10-18T21:00:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 2.38,
+            "best_odds": 2.15,
             "consensus_score": 1.0,
-            "price_edge_score": 0.253,
+            "price_edge_score": 0.132,
             "source_count": 1,
-            "final_score": 0.68,
+            "final_score": 0.655,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1946,7 +119,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Fluminense vs Santos: predicted score 2-1, tip 1.",
                 "competition": "Brazil: Serie A",
-                "kickoff": "2026-10-18T21:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Fluminense vs Santos: predicted score 2-1, tip 1."
@@ -1997,21 +170,21 @@
         "home_team": "Alianza Atletico",
         "away_team": "Universitario",
         "competition": "Peru: Primera División",
-        "kickoff": "2026-10-18T22:30:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "77283e29",
             "home_team": "Alianza Atletico",
             "away_team": "Universitario",
             "competition": "Peru: Primera División",
-            "kickoff": "2026-10-18T22:30:00+02:00",
+            "kickoff": "TBD",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.42,
+            "best_odds": 1.52,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.588,
+            "final_score": 0.603,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -2024,7 +197,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Alianza Atletico vs Universitario: predicted score 2-1, tip 1X.",
                 "competition": "Peru: Primera División",
-                "kickoff": "2026-10-18T22:30:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Alianza Atletico vs Universitario: predicted score 2-1, tip 1X."
@@ -2036,14 +209,14 @@
         "home_team": "Nacional Potosí",
         "away_team": "Bolívar",
         "competition": "Bolivia: Primera División",
-        "kickoff": "2026-10-18T21:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "84151d95",
             "home_team": "Nacional Potosí",
             "away_team": "Bolívar",
             "competition": "Bolivia: Primera División",
-            "kickoff": "2026-10-18T21:00:00+02:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "2",
             "best_odds": 1.7,
@@ -2063,49 +236,10 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Nacional Potosí vs Bolívar: predicted score 1-2, tip 2.",
                 "competition": "Bolivia: Primera División",
-                "kickoff": "2026-10-18T21:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Nacional Potosí vs Bolívar: predicted score 1-2, tip 2."
-          }
-        ]
-      },
-      {
-        "match_id": "ed3c6d3d",
-        "home_team": "FC Cajamarca",
-        "away_team": "UCV Moquegua",
-        "competition": "Peru: Primera División",
-        "kickoff": "2026-10-18T20:15:00+02:00",
-        "picks": [
-          {
-            "match_id": "aa503a15",
-            "home_team": "FC Cajamarca",
-            "away_team": "UCV Moquegua",
-            "competition": "Peru: Primera División",
-            "kickoff": "2026-10-18T20:15:00+02:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.7,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.584,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1549513&league_id=281",
-                "home_team": "FC Cajamarca",
-                "away_team": "UCV Moquegua",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for FC Cajamarca vs UCV Moquegua: predicted score 2-1, tip 1.",
-                "competition": "Peru: Primera División",
-                "kickoff": "2026-10-18T20:15:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for FC Cajamarca vs UCV Moquegua: predicted score 2-1, tip 1."
           }
         ]
       },
@@ -2124,11 +258,11 @@
             "kickoff": "2026-10-18T23:00:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.36,
+            "best_odds": 1.37,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.579,
+            "final_score": 0.58,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -2153,21 +287,21 @@
         "home_team": "Gremio",
         "away_team": "Cruzeiro",
         "competition": "Brazil: Serie A",
-        "kickoff": "2026-10-18T21:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "a5827a2d",
             "home_team": "Gremio",
             "away_team": "Cruzeiro",
             "competition": "Brazil: Serie A",
-            "kickoff": "2026-10-18T21:00:00+02:00",
+            "kickoff": "TBD",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.36,
+            "best_odds": 1.32,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.579,
+            "final_score": 0.573,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -2180,7 +314,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Gremio vs Cruzeiro: predicted score 1-1, tip X2.",
                 "competition": "Brazil: Serie A",
-                "kickoff": "2026-10-18T21:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Gremio vs Cruzeiro: predicted score 1-1, tip X2."
@@ -2202,11 +336,11 @@
             "kickoff": "2026-10-18T23:30:00+02:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
-            "best_odds": 1.32,
+            "best_odds": 1.29,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.573,
+            "final_score": 0.568,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -2227,57 +361,18 @@
         ]
       },
       {
-        "match_id": "08380d65",
-        "home_team": "Racing Club",
-        "away_team": "Independiente",
-        "competition": "Argentina: Liga Profesional Argentina",
-        "kickoff": "2026-10-18T19:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "55263214",
-            "home_team": "Racing Club",
-            "away_team": "Independiente",
-            "competition": "Argentina: Liga Profesional Argentina",
-            "kickoff": "2026-10-18T19:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.25,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.562,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1493194&league_id=128",
-                "home_team": "Racing Club",
-                "away_team": "Independiente",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Racing Club vs Independiente: predicted score 1-1, tip 1X.",
-                "competition": "Argentina: Liga Profesional Argentina",
-                "kickoff": "2026-10-18T19:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Racing Club vs Independiente: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
         "match_id": "e268dd98",
         "home_team": "Deportivo Cali",
         "away_team": "Junior",
         "competition": "COLOMBIA - PRIMERA A APERTURA FINALIZACION",
-        "kickoff": "2026-10-18T18:10:00",
+        "kickoff": "2026-10-18T21:10:00",
         "picks": [
           {
             "match_id": "692ec289",
             "home_team": "Deportivo Cali",
             "away_team": "Junior",
             "competition": "COLOMBIA - PRIMERA A APERTURA FINALIZACION",
-            "kickoff": "2026-10-18T18:10:00",
+            "kickoff": "2026-10-18T21:10:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": null,
@@ -2297,7 +392,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Deportivo Cali vs Junior: Double Chance 1X.",
                 "competition": "COLOMBIA - PRIMERA A APERTURA FINALIZACION",
-                "kickoff": "2026-10-18T18:10:00"
+                "kickoff": "2026-10-18T21:10:00"
               }
             ],
             "explanation": "Statarea tip for Deportivo Cali vs Junior: Double Chance 1X."
@@ -2309,14 +404,14 @@
         "home_team": "Llaneros",
         "away_team": "Santa Fe",
         "competition": "COLOMBIA - PRIMERA A APERTURA FINALIZACION",
-        "kickoff": "2026-10-18T16:05:00",
+        "kickoff": "2026-10-18T19:05:00",
         "picks": [
           {
             "match_id": "e990b8fb",
             "home_team": "Llaneros",
             "away_team": "Santa Fe",
             "competition": "COLOMBIA - PRIMERA A APERTURA FINALIZACION",
-            "kickoff": "2026-10-18T16:05:00",
+            "kickoff": "2026-10-18T19:05:00",
             "market": "Double Chance",
             "recommended_pick": "X2",
             "best_odds": null,
@@ -2336,7 +431,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Llaneros vs Santa Fe: Double Chance X2.",
                 "competition": "COLOMBIA - PRIMERA A APERTURA FINALIZACION",
-                "kickoff": "2026-10-18T16:05:00"
+                "kickoff": "2026-10-18T19:05:00"
               }
             ],
             "explanation": "Statarea tip for Llaneros vs Santa Fe: Double Chance X2."
@@ -2348,14 +443,14 @@
         "home_team": "Crown Legacy",
         "away_team": "New York Red Bulls 2",
         "competition": "USA - MLS NEXT PRO PLAYOFFS",
-        "kickoff": "2026-10-18T16:00:00",
+        "kickoff": "2026-10-18T19:00:00",
         "picks": [
           {
             "match_id": "117994d4",
             "home_team": "Crown Legacy",
             "away_team": "New York Red Bulls 2",
             "competition": "USA - MLS NEXT PRO PLAYOFFS",
-            "kickoff": "2026-10-18T16:00:00",
+            "kickoff": "2026-10-18T19:00:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": null,
@@ -2375,7 +470,7 @@
                 "confidence_text": null,
                 "reason_summary": "Statarea tip for Crown Legacy vs New York Red Bulls 2: Double Chance 1X.",
                 "competition": "USA - MLS NEXT PRO PLAYOFFS",
-                "kickoff": "2026-10-18T16:00:00"
+                "kickoff": "2026-10-18T19:00:00"
               }
             ],
             "explanation": "Statarea tip for Crown Legacy vs New York Red Bulls 2: Double Chance 1X."
@@ -2387,14 +482,14 @@
         "home_team": "Rayo Zuliano",
         "away_team": "Caracas FC",
         "competition": "Venezuela: Primera División",
-        "kickoff": "2026-10-18T21:30:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "c1bbbcb0",
             "home_team": "Rayo Zuliano",
             "away_team": "Caracas FC",
             "competition": "Venezuela: Primera División",
-            "kickoff": "2026-10-18T21:30:00+02:00",
+            "kickoff": "TBD",
             "market": "Double Chance",
             "recommended_pick": "X2",
             "best_odds": 1.04,
@@ -2414,127 +509,10 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Rayo Zuliano vs Caracas FC: predicted score 1-1, tip X2.",
                 "competition": "Venezuela: Primera División",
-                "kickoff": "2026-10-18T21:30:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Rayo Zuliano vs Caracas FC: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "12382dcc",
-        "home_team": "Deportivo Moron",
-        "away_team": "Atletico Mitre",
-        "competition": "Argentina: Primera Nacional",
-        "kickoff": "2026-10-18T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "6f641f1b",
-            "home_team": "Deportivo Moron",
-            "away_team": "Atletico Mitre",
-            "competition": "Argentina: Primera Nacional",
-            "kickoff": "2026-10-18T20:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1498890&league_id=129",
-                "home_team": "Deportivo Moron",
-                "away_team": "Atletico Mitre",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Deportivo Moron vs Atletico Mitre: predicted score 1-0, tip 1X.",
-                "competition": "Argentina: Primera Nacional",
-                "kickoff": "2026-10-18T20:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Deportivo Moron vs Atletico Mitre: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "f1c688fb",
-        "home_team": "Los Andes",
-        "away_team": "All Boys",
-        "competition": "Argentina: Primera Nacional",
-        "kickoff": "2026-10-18T20:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "53a2e595",
-            "home_team": "Los Andes",
-            "away_team": "All Boys",
-            "competition": "Argentina: Primera Nacional",
-            "kickoff": "2026-10-18T20:30:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1498894&league_id=129",
-                "home_team": "Los Andes",
-                "away_team": "All Boys",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Los Andes vs All Boys: predicted score 0-0, tip 1X.",
-                "competition": "Argentina: Primera Nacional",
-                "kickoff": "2026-10-18T20:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Los Andes vs All Boys: predicted score 0-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "2268d1e8",
-        "home_team": "Nueva Chicago",
-        "away_team": "Gimnasia Jujuy",
-        "competition": "Argentina: Primera Nacional",
-        "kickoff": "2026-10-18T20:30:00+02:00",
-        "picks": [
-          {
-            "match_id": "ddbd9384",
-            "home_team": "Nueva Chicago",
-            "away_team": "Gimnasia Jujuy",
-            "competition": "Argentina: Primera Nacional",
-            "kickoff": "2026-10-18T20:30:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1498895&league_id=129",
-                "home_team": "Nueva Chicago",
-                "away_team": "Gimnasia Jujuy",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Nueva Chicago vs Gimnasia Jujuy: predicted score 1-1, tip X2.",
-                "competition": "Argentina: Primera Nacional",
-                "kickoff": "2026-10-18T20:30:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Nueva Chicago vs Gimnasia Jujuy: predicted score 1-1, tip X2."
           }
         ]
       },
@@ -2543,14 +521,14 @@
         "home_team": "Ferro Carril Oeste",
         "away_team": "Racing Cordoba",
         "competition": "Argentina: Primera Nacional",
-        "kickoff": "2026-10-18T21:00:00+02:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "6e58e309",
             "home_team": "Ferro Carril Oeste",
             "away_team": "Racing Cordoba",
             "competition": "Argentina: Primera Nacional",
-            "kickoff": "2026-10-18T21:00:00+02:00",
+            "kickoff": "TBD",
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": null,
@@ -2570,7 +548,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Ferro Carril Oeste vs Racing Cordoba: predicted score 1-0, tip 1X.",
                 "competition": "Argentina: Primera Nacional",
-                "kickoff": "2026-10-18T21:00:00+02:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Ferro Carril Oeste vs Racing Cordoba: predicted score 1-0, tip 1X."
@@ -2615,403 +593,207 @@
             "explanation": "Vitibet statistical model for Godoy Cruz vs CA Estudiantes: predicted score 1-0, tip 1X."
           }
         ]
+      },
+      {
+        "match_id": "0ac2e5c9",
+        "home_team": "San Martin S.J.",
+        "away_team": "Temperley",
+        "competition": "Argentina: Primera Nacional",
+        "kickoff": "2026-10-18T23:00:00+02:00",
+        "picks": [
+          {
+            "match_id": "57859b71",
+            "home_team": "San Martin S.J.",
+            "away_team": "Temperley",
+            "competition": "Argentina: Primera Nacional",
+            "kickoff": "2026-10-18T23:00:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.525,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1498896&league_id=129",
+                "home_team": "San Martin S.J.",
+                "away_team": "Temperley",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for San Martin S.J. vs Temperley: predicted score 1-1, tip X2.",
+                "competition": "Argentina: Primera Nacional",
+                "kickoff": "2026-10-18T23:00:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for San Martin S.J. vs Temperley: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "cbd11299",
+        "home_team": "San Martin Tucuman",
+        "away_team": "Midland",
+        "competition": "Argentina: Primera Nacional",
+        "kickoff": "2026-10-18T23:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "583a73cf",
+            "home_team": "San Martin Tucuman",
+            "away_team": "Midland",
+            "competition": "Argentina: Primera Nacional",
+            "kickoff": "2026-10-18T23:30:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.525,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1498897&league_id=129",
+                "home_team": "San Martin Tucuman",
+                "away_team": "Midland",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for San Martin Tucuman vs Midland: predicted score 1-1, tip X2.",
+                "competition": "Argentina: Primera Nacional",
+                "kickoff": "2026-10-18T23:30:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for San Martin Tucuman vs Midland: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "bd475c2e",
+        "home_team": "Leones del Norte",
+        "away_team": "Emelec",
+        "competition": "Ecuador: Liga Pro",
+        "kickoff": "TBD",
+        "picks": [
+          {
+            "match_id": "c6f1f96a",
+            "home_team": "Leones del Norte",
+            "away_team": "Emelec",
+            "competition": "Ecuador: Liga Pro",
+            "kickoff": "TBD",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.525,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1639852&league_id=242",
+                "home_team": "Leones del Norte",
+                "away_team": "Emelec",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Leones del Norte vs Emelec: predicted score 1-1, tip 1X.",
+                "competition": "Ecuador: Liga Pro",
+                "kickoff": null
+              }
+            ],
+            "explanation": "Vitibet statistical model for Leones del Norte vs Emelec: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "c4800bed",
+        "home_team": "Barcelona SC",
+        "away_team": "Universidad Catolica",
+        "competition": "Ecuador: Liga Pro",
+        "kickoff": "2026-10-18T23:30:00+02:00",
+        "picks": [
+          {
+            "match_id": "3b3e964e",
+            "home_team": "Barcelona SC",
+            "away_team": "Universidad Catolica",
+            "competition": "Ecuador: Liga Pro",
+            "kickoff": "2026-10-18T23:30:00+02:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.525,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1639795&league_id=242",
+                "home_team": "Barcelona SC",
+                "away_team": "Universidad Catolica",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Barcelona SC vs Universidad Catolica: predicted score 1-1, tip 1X.",
+                "competition": "Ecuador: Liga Pro",
+                "kickoff": "2026-10-18T23:30:00+02:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Barcelona SC vs Universidad Catolica: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "d17c9677",
+        "home_team": "Avai",
+        "away_team": "Athletic Club MG",
+        "competition": "Brazil: Serie B",
+        "kickoff": "TBD",
+        "picks": [
+          {
+            "match_id": "8b655045",
+            "home_team": "Avai",
+            "away_team": "Athletic Club MG",
+            "competition": "Brazil: Serie B",
+            "kickoff": "TBD",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.525,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1520930&league_id=72",
+                "home_team": "Avai",
+                "away_team": "Athletic Club MG",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Avai vs Athletic Club MG: predicted score 1-1, tip 1X.",
+                "competition": "Brazil: Serie B",
+                "kickoff": null
+              }
+            ],
+            "explanation": "Vitibet statistical model for Avai vs Athletic Club MG: predicted score 1-1, tip 1X."
+          }
+        ]
       }
     ],
     "leagues": {}
   },
   "Africa": {
-    "all": [
-      {
-        "match_id": "011bcb40",
-        "home_team": "MB Rouisset",
-        "away_team": "JS Saoura",
-        "competition": "Algeria: Ligue 1",
-        "kickoff": "2026-10-18T18:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "5f77a6a6",
-            "home_team": "MB Rouisset",
-            "away_team": "JS Saoura",
-            "competition": "Algeria: Ligue 1",
-            "kickoff": "2026-10-18T18:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611425&league_id=186",
-                "home_team": "MB Rouisset",
-                "away_team": "JS Saoura",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for MB Rouisset vs JS Saoura: predicted score 1-0, tip 1X.",
-                "competition": "Algeria: Ligue 1",
-                "kickoff": "2026-10-18T18:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for MB Rouisset vs JS Saoura: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "22720771",
-        "home_team": "Témouchent",
-        "away_team": "ASO Chlef",
-        "competition": "Algeria: Ligue 1",
-        "kickoff": "2026-10-18T18:45:00+02:00",
-        "picks": [
-          {
-            "match_id": "a2d825b4",
-            "home_team": "Témouchent",
-            "away_team": "ASO Chlef",
-            "competition": "Algeria: Ligue 1",
-            "kickoff": "2026-10-18T18:45:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611426&league_id=186",
-                "home_team": "Témouchent",
-                "away_team": "ASO Chlef",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Témouchent vs ASO Chlef: predicted score 1-1, tip 1X.",
-                "competition": "Algeria: Ligue 1",
-                "kickoff": "2026-10-18T18:45:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Témouchent vs ASO Chlef: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "7789d993",
-        "home_team": "Aduana Stars FC",
-        "away_team": "Ashanti Gold",
-        "competition": "Ghana: Premier League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "1d6d8004",
-            "home_team": "Aduana Stars FC",
-            "away_team": "Ashanti Gold",
-            "competition": "Ghana: Premier League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602156&league_id=570",
-                "home_team": "Aduana Stars FC",
-                "away_team": "Ashanti Gold",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Aduana Stars FC vs Ashanti Gold: predicted score 1-1, tip 1X.",
-                "competition": "Ghana: Premier League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Aduana Stars FC vs Ashanti Gold: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "0d4cd9b0",
-        "home_team": "Debibi United",
-        "away_team": "Bibiani Gold Stars SC",
-        "competition": "Ghana: Premier League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "4647ee79",
-            "home_team": "Debibi United",
-            "away_team": "Bibiani Gold Stars SC",
-            "competition": "Ghana: Premier League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602158&league_id=570",
-                "home_team": "Debibi United",
-                "away_team": "Bibiani Gold Stars SC",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Debibi United vs Bibiani Gold Stars SC: predicted score 1-1, tip X2.",
-                "competition": "Ghana: Premier League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Debibi United vs Bibiani Gold Stars SC: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "0b1a3bc4",
-        "home_team": "Basake Holy Stars",
-        "away_team": "Bechem United FC",
-        "competition": "Ghana: Premier League",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "f47d2db9",
-            "home_team": "Basake Holy Stars",
-            "away_team": "Bechem United FC",
-            "competition": "Ghana: Premier League",
-            "kickoff": "TBD",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602160&league_id=570",
-                "home_team": "Basake Holy Stars",
-                "away_team": "Bechem United FC",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Basake Holy Stars vs Bechem United FC: predicted score 1-1, tip X2.",
-                "competition": "Ghana: Premier League",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Basake Holy Stars vs Bechem United FC: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "28778bae",
-        "home_team": "FC Samartex 1996",
-        "away_team": "Medeama",
-        "competition": "Ghana: Premier League",
-        "kickoff": "2026-10-18T17:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "42150c10",
-            "home_team": "FC Samartex 1996",
-            "away_team": "Medeama",
-            "competition": "Ghana: Premier League",
-            "kickoff": "2026-10-18T17:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602162&league_id=570",
-                "home_team": "FC Samartex 1996",
-                "away_team": "Medeama",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for FC Samartex 1996 vs Medeama: predicted score 0-1, tip X2.",
-                "competition": "Ghana: Premier League",
-                "kickoff": "2026-10-18T17:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for FC Samartex 1996 vs Medeama: predicted score 0-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "8e11d9d6",
-        "home_team": "Swedru All Blacks FC",
-        "away_team": "Karela",
-        "competition": "Ghana: Premier League",
-        "kickoff": "2026-10-18T17:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "925ec536",
-            "home_team": "Swedru All Blacks FC",
-            "away_team": "Karela",
-            "competition": "Ghana: Premier League",
-            "kickoff": "2026-10-18T17:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1602163&league_id=570",
-                "home_team": "Swedru All Blacks FC",
-                "away_team": "Karela",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Swedru All Blacks FC vs Karela: predicted score 1-1, tip 1X.",
-                "competition": "Ghana: Premier League",
-                "kickoff": "2026-10-18T17:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Swedru All Blacks FC vs Karela: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "22dd445a",
-        "home_team": "JKT Tanzania",
-        "away_team": "Mbeya City",
-        "competition": "Tanzania: Ligi kuu Bara",
-        "kickoff": "2026-10-18T18:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "f12f5c59",
-            "home_team": "JKT Tanzania",
-            "away_team": "Mbeya City",
-            "competition": "Tanzania: Ligi kuu Bara",
-            "kickoff": "2026-10-18T18:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1600795&league_id=567",
-                "home_team": "JKT Tanzania",
-                "away_team": "Mbeya City",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for JKT Tanzania vs Mbeya City: predicted score 1-0, tip 1X.",
-                "competition": "Tanzania: Ligi kuu Bara",
-                "kickoff": "2026-10-18T18:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for JKT Tanzania vs Mbeya City: predicted score 1-0, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "f18de427",
-        "home_team": "Widad Témara",
-        "away_team": "Kawkab Marrakech",
-        "competition": "Morocco: Botola Pro",
-        "kickoff": "2026-10-18T20:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "7cb368a1",
-            "home_team": "Widad Témara",
-            "away_team": "Kawkab Marrakech",
-            "competition": "Morocco: Botola Pro",
-            "kickoff": "2026-10-18T20:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1644216&league_id=200",
-                "home_team": "Widad Témara",
-                "away_team": "Kawkab Marrakech",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Widad Témara vs Kawkab Marrakech: predicted score 0-1, tip X2.",
-                "competition": "Morocco: Botola Pro",
-                "kickoff": "2026-10-18T20:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Widad Témara vs Kawkab Marrakech: predicted score 0-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "ea7397cb",
-        "home_team": "Kano Pillars FC",
-        "away_team": "Katsina United FC",
-        "competition": "Nigeria: NPFL",
-        "kickoff": "2026-10-18T17:00:00+02:00",
-        "picks": [
-          {
-            "match_id": "fc20764f",
-            "home_team": "Kano Pillars FC",
-            "away_team": "Katsina United FC",
-            "competition": "Nigeria: NPFL",
-            "kickoff": "2026-10-18T17:00:00+02:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": null,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.525,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628554&league_id=399",
-                "home_team": "Kano Pillars FC",
-                "away_team": "Katsina United FC",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Kano Pillars FC vs Katsina United FC: predicted score 1-1, tip X2.",
-                "competition": "Nigeria: NPFL",
-                "kickoff": "2026-10-18T17:00:00+02:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Kano Pillars FC vs Katsina United FC: predicted score 1-1, tip X2."
-          }
-        ]
-      }
-    ],
+    "all": [],
     "leagues": {}
   }
 }
