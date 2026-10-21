@@ -182713,7 +182713,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T21:00:00+02:00",
-    "best_odds": 1.32,
+    "best_odds": 1.37,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -182753,7 +182753,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T20:00:00+02:00",
-    "best_odds": 1.29,
+    "best_odds": 1.27,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -182773,7 +182773,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T21:00:00+02:00",
-    "best_odds": 1.6,
+    "best_odds": 1.65,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -182793,7 +182793,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T21:00:00+02:00",
-    "best_odds": 1.53,
+    "best_odds": 1.44,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -182896,7 +182896,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T20:30:00+02:00",
-    "best_odds": 1.15,
+    "best_odds": 1.16,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -182937,7 +182937,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T21:00:00+02:00",
-    "best_odds": 1.2,
+    "best_odds": 1.22,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -182957,7 +182957,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T21:00:00+02:00",
-    "best_odds": 1.17,
+    "best_odds": 1.25,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -182978,7 +182978,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-10-20T23:52:27.308532+00:00",
     "kickoff": "2026-10-21T21:00:00+02:00",
-    "best_odds": 1.18,
+    "best_odds": 1.22,
     "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
@@ -184044,6 +184044,86 @@
     "consensus_score": 1.0,
     "sources": [
       "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "como 1907|manchester united|Double Chance|X2|unknown-date",
+    "match_id": "a602dcba",
+    "home_team": "Como 1907",
+    "away_team": "Manchester United FC",
+    "competition": "World: UEFA Champions League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-21T17:10:22.943027+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.56,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "pk-35 helsinki|ff jaro|Double Chance|X2|unknown-date",
+    "match_id": "d35a756a",
+    "home_team": "PK-35 Helsinki",
+    "away_team": "FF Jaro",
+    "competition": "Finland: Veikkausliiga",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-10-21T17:10:22.943027+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.26,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "birzebbuga|marsaxlokk|1X2|2|unknown-date",
+    "match_id": "81452a63",
+    "home_team": "Birzebbuga",
+    "away_team": "Marsaxlokk",
+    "competition": "Malta: Premier League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-10-21T17:10:22.943027+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.53,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "al ahly|olympic el qanah|1X2|1|unknown-date",
+    "match_id": "0380b13e",
+    "home_team": "Al Ahly",
+    "away_team": "Olympic El Qanah",
+    "competition": "Egypt: Premier League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-10-21T17:10:22.943027+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.22,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
     ],
     "final_score": null,
     "outcome": "pending",
