@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-11-10T14:58:23.610450+00:00",
+  "generated_at": "2026-11-11T14:28:59.518740+00:00",
   "sources": [
     {
       "name": "Vitibet",
-      "hit": 3517,
-      "miss": 2067,
+      "hit": 3527,
+      "miss": 2071,
       "push": 0,
       "unknown": 133,
-      "pending": 1513,
-      "graded": 5584,
+      "pending": 1522,
+      "graded": 5598,
       "hit_rate": 0.63,
       "reliability_score": 0.63
+    },
+    {
+      "name": "Statarea",
+      "hit": 886,
+      "miss": 483,
+      "push": 0,
+      "unknown": 1464,
+      "pending": 92,
+      "graded": 1369,
+      "hit_rate": 0.647,
+      "reliability_score": 0.647
     },
     {
       "name": "MyBetsToday",
@@ -22,17 +33,6 @@
       "graded": 1363,
       "hit_rate": 0.547,
       "reliability_score": 0.547
-    },
-    {
-      "name": "Statarea",
-      "hit": 880,
-      "miss": 482,
-      "push": 0,
-      "unknown": 1461,
-      "pending": 93,
-      "graded": 1362,
-      "hit_rate": 0.646,
-      "reliability_score": 0.646
     },
     {
       "name": "Adibet",
