@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:52:59.975374+00:00",
+  "generated_at": "2026-11-13T01:49:15.379832+00:00",
   "sources": [
     {
       "name": "PredictZ",
@@ -9,11 +9,11 @@
     {
       "name": "StatsBet",
       "pick_count": 0,
-      "error": null
+      "error": "Client error '429 Too Many Requests' for url 'https://statsbet.org/predictions/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
     },
     {
       "name": "Vitibet",
-      "pick_count": 33,
+      "pick_count": 59,
       "error": null
     },
     {
@@ -23,17 +23,17 @@
     },
     {
       "name": "Statarea",
-      "pick_count": 28,
+      "pick_count": 25,
       "error": null
     }
   ],
-  "total_raw_picks": 61,
-  "ranked_count": 19,
-  "match_count": 19,
+  "total_raw_picks": 84,
+  "ranked_count": 34,
+  "match_count": 34,
   "ranked_by_continent": {
-    "Europe": 6,
+    "Europe": 20,
     "Asia": 0,
-    "Americas": 10,
-    "Africa": 3
+    "Americas": 2,
+    "Africa": 12
   }
 }
