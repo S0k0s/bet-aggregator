@@ -41,6 +41,45 @@
         ]
       },
       {
+        "match_id": "363a51b4",
+        "home_team": "Zlín U19",
+        "away_team": "Dukla Praha U19",
+        "competition": "Czech Republic: 1. Liga U19",
+        "kickoff": "2026-11-13T13:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "92638250",
+            "home_team": "Zlín U19",
+            "away_team": "Dukla Praha U19",
+            "competition": "Czech Republic: 1. Liga U19",
+            "kickoff": "2026-11-13T13:00:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.91,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.005,
+            "source_count": 1,
+            "final_score": 0.615,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1565159&league_id=668",
+                "home_team": "Zlín U19",
+                "away_team": "Dukla Praha U19",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Zlín U19 vs Dukla Praha U19: predicted score 1-2, tip 2.",
+                "competition": "Czech Republic: 1. Liga U19",
+                "kickoff": "2026-11-13T13:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Zlín U19 vs Dukla Praha U19: predicted score 1-2, tip 2."
+          }
+        ]
+      },
+      {
         "match_id": "3369cf61",
         "home_team": "Skive",
         "away_team": "Thisted FC",
@@ -97,8 +136,8 @@
             "best_odds": 1.8,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.598,
+            "source_count": 2,
+            "final_score": 0.602,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -112,9 +151,74 @@
                 "reason_summary": "Vitibet statistical model for Bulgaria vs Iceland: predicted score 1-2, tip 2.",
                 "competition": "World: UEFA Nations League",
                 "kickoff": "2026-11-13T20:45:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Bulgaria",
+                "away_team": "Iceland",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Bulgaria vs Iceland: 1X2 2.",
+                "competition": "INTERNATIONAL - UEFA NATIONS LEAGUE C GRP. 4",
+                "kickoff": "2026-11-13T11:45:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Bulgaria vs Iceland: predicted score 1-2, tip 2."
+            "explanation": "Vitibet statistical model for Bulgaria vs Iceland: predicted score 1-2, tip 2. | Statarea tip for Bulgaria vs Iceland: 1X2 2."
+          }
+        ]
+      },
+      {
+        "match_id": "30af6416",
+        "home_team": "Leganes",
+        "away_team": "Burgos",
+        "competition": "Spain: Segunda División",
+        "kickoff": "2026-11-13T20:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "584778e8",
+            "home_team": "Leganes",
+            "away_team": "Burgos",
+            "competition": "Spain: Segunda División",
+            "kickoff": "2026-11-13T20:30:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.47,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.6,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1570019&league_id=141",
+                "home_team": "Leganes",
+                "away_team": "Burgos",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Leganes vs Burgos: predicted score 1-1, tip X2.",
+                "competition": "Spain: Segunda División",
+                "kickoff": "2026-11-13T20:30:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Leganes",
+                "away_team": "Burgos",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Leganes vs Burgos: Double Chance X2.",
+                "competition": "SPAIN - LALIGA2",
+                "kickoff": "2026-11-13T11:30:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Leganes vs Burgos: predicted score 1-1, tip X2. | Statarea tip for Leganes vs Burgos: Double Chance X2."
           }
         ]
       },
@@ -158,80 +262,106 @@
         ]
       },
       {
-        "match_id": "30af6416",
-        "home_team": "Leganes",
-        "away_team": "Burgos",
-        "competition": "Spain: Segunda División",
-        "kickoff": "2026-11-13T20:30:00+01:00",
+        "match_id": "a350aad6",
+        "home_team": "Andorra",
+        "away_team": "Gibraltar",
+        "competition": "World: UEFA Nations League",
+        "kickoff": "2026-11-13T20:45:00+01:00",
         "picks": [
           {
-            "match_id": "584778e8",
-            "home_team": "Leganes",
-            "away_team": "Burgos",
-            "competition": "Spain: Segunda División",
-            "kickoff": "2026-11-13T20:30:00+01:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.47,
+            "match_id": "8e6a1046",
+            "home_team": "Andorra",
+            "away_team": "Gibraltar",
+            "competition": "World: UEFA Nations League",
+            "kickoff": "2026-11-13T20:45:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.67,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.597,
+            "source_count": 2,
+            "final_score": 0.582,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1570019&league_id=141",
-                "home_team": "Leganes",
-                "away_team": "Burgos",
-                "market": "Double Chance",
-                "pick": "X2",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1545615&league_id=5",
+                "home_team": "Andorra",
+                "away_team": "Gibraltar",
+                "market": "1X2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Leganes vs Burgos: predicted score 1-1, tip X2.",
-                "competition": "Spain: Segunda División",
-                "kickoff": "2026-11-13T20:30:00+01:00"
+                "reason_summary": "Vitibet statistical model for Andorra vs Gibraltar: predicted score 2-1, tip 1.",
+                "competition": "World: UEFA Nations League",
+                "kickoff": "2026-11-13T20:45:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Andorra",
+                "away_team": "Gibraltar",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Andorra vs Gibraltar: 1X2 1.",
+                "competition": "INTERNATIONAL - UEFA NATIONS LEAGUE D GRP. 1",
+                "kickoff": "2026-11-13T11:45:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Leganes vs Burgos: predicted score 1-1, tip X2."
+            "explanation": "Vitibet statistical model for Andorra vs Gibraltar: predicted score 2-1, tip 1. | Statarea tip for Andorra vs Gibraltar: 1X2 1."
           }
         ]
       },
       {
-        "match_id": "363a51b4",
-        "home_team": "Zlín U19",
-        "away_team": "Dukla Praha U19",
-        "competition": "Czech Republic: 1. Liga U19",
-        "kickoff": "2026-11-13T13:00:00+01:00",
+        "match_id": "8af7a0c3",
+        "home_team": "Jezero",
+        "away_team": "Buducnost Podgorica",
+        "competition": "Montenegro: First League",
+        "kickoff": "2026-11-13T16:00:00+01:00",
         "picks": [
           {
-            "match_id": "92638250",
-            "home_team": "Zlín U19",
-            "away_team": "Dukla Praha U19",
-            "competition": "Czech Republic: 1. Liga U19",
-            "kickoff": "2026-11-13T13:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.73,
+            "match_id": "a0a4887d",
+            "home_team": "Jezero",
+            "away_team": "Buducnost Podgorica",
+            "competition": "Montenegro: First League",
+            "kickoff": "2026-11-13T16:00:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.33,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.587,
+            "source_count": 2,
+            "final_score": 0.579,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1565159&league_id=668",
-                "home_team": "Zlín U19",
-                "away_team": "Dukla Praha U19",
-                "market": "1X2",
-                "pick": "2",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1558561&league_id=355",
+                "home_team": "Jezero",
+                "away_team": "Buducnost Podgorica",
+                "market": "Double Chance",
+                "pick": "X2",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Zlín U19 vs Dukla Praha U19: predicted score 1-2, tip 2.",
-                "competition": "Czech Republic: 1. Liga U19",
-                "kickoff": "2026-11-13T13:00:00+01:00"
+                "reason_summary": "Vitibet statistical model for Jezero vs Buducnost Podgorica: predicted score 1-1, tip X2.",
+                "competition": "Montenegro: First League",
+                "kickoff": "2026-11-13T16:00:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Jezero",
+                "away_team": "Buducnost Podgorica",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Jezero vs Buducnost Podgorica: Double Chance X2.",
+                "competition": "MONTENEGRO - 1. CFL",
+                "kickoff": "2026-11-13T07:00:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Zlín U19 vs Dukla Praha U19: predicted score 1-2, tip 2."
+            "explanation": "Vitibet statistical model for Jezero vs Buducnost Podgorica: predicted score 1-1, tip X2. | Statarea tip for Jezero vs Buducnost Podgorica: Double Chance X2."
           }
         ]
       },
@@ -250,11 +380,11 @@
             "kickoff": "2026-11-13T19:00:00+01:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.36,
+            "best_odds": 1.35,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.58,
+            "final_score": 0.579,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -271,123 +401,6 @@
               }
             ],
             "explanation": "Vitibet statistical model for Roskilde vs Nykobing FC: predicted score 2-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "0e033495",
-        "home_team": "Moldova",
-        "away_team": "Kazakhstan",
-        "competition": "World: UEFA Nations League",
-        "kickoff": "2026-11-13T18:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "f615dbf5",
-            "home_team": "Moldova",
-            "away_team": "Kazakhstan",
-            "competition": "World: UEFA Nations League",
-            "kickoff": "2026-11-13T18:00:00+01:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.35,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.579,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528968&league_id=5",
-                "home_team": "Moldova",
-                "away_team": "Kazakhstan",
-                "market": "Double Chance",
-                "pick": "1X",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Moldova vs Kazakhstan: predicted score 1-1, tip 1X.",
-                "competition": "World: UEFA Nations League",
-                "kickoff": "2026-11-13T18:00:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Moldova vs Kazakhstan: predicted score 1-1, tip 1X."
-          }
-        ]
-      },
-      {
-        "match_id": "a350aad6",
-        "home_team": "Andorra",
-        "away_team": "Gibraltar",
-        "competition": "World: UEFA Nations League",
-        "kickoff": "2026-11-13T20:45:00+01:00",
-        "picks": [
-          {
-            "match_id": "8e6a1046",
-            "home_team": "Andorra",
-            "away_team": "Gibraltar",
-            "competition": "World: UEFA Nations League",
-            "kickoff": "2026-11-13T20:45:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.67,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.578,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1545615&league_id=5",
-                "home_team": "Andorra",
-                "away_team": "Gibraltar",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Andorra vs Gibraltar: predicted score 2-1, tip 1.",
-                "competition": "World: UEFA Nations League",
-                "kickoff": "2026-11-13T20:45:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Andorra vs Gibraltar: predicted score 2-1, tip 1."
-          }
-        ]
-      },
-      {
-        "match_id": "29959435",
-        "home_team": "Sigma Olomouc II",
-        "away_team": "Zbrojovka Brno II",
-        "competition": "Czech Republic: 3. liga - MSFL",
-        "kickoff": "2026-11-13T14:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "a36db40d",
-            "home_team": "Sigma Olomouc II",
-            "away_team": "Zbrojovka Brno II",
-            "competition": "Czech Republic: 3. liga - MSFL",
-            "kickoff": "2026-11-13T14:00:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.67,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.578,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1578005&league_id=349",
-                "home_team": "Sigma Olomouc II",
-                "away_team": "Zbrojovka Brno II",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Sigma Olomouc II vs Zbrojovka Brno II: predicted score 2-1, tip 1.",
-                "competition": "Czech Republic: 3. liga - MSFL",
-                "kickoff": "2026-11-13T14:00:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Sigma Olomouc II vs Zbrojovka Brno II: predicted score 2-1, tip 1."
           }
         ]
       },
@@ -431,84 +444,6 @@
         ]
       },
       {
-        "match_id": "8af7a0c3",
-        "home_team": "Jezero",
-        "away_team": "Buducnost Podgorica",
-        "competition": "Montenegro: First League",
-        "kickoff": "2026-11-13T16:00:00+01:00",
-        "picks": [
-          {
-            "match_id": "a0a4887d",
-            "home_team": "Jezero",
-            "away_team": "Buducnost Podgorica",
-            "competition": "Montenegro: First League",
-            "kickoff": "2026-11-13T16:00:00+01:00",
-            "market": "Double Chance",
-            "recommended_pick": "X2",
-            "best_odds": 1.33,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.576,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1558561&league_id=355",
-                "home_team": "Jezero",
-                "away_team": "Buducnost Podgorica",
-                "market": "Double Chance",
-                "pick": "X2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Jezero vs Buducnost Podgorica: predicted score 1-1, tip X2.",
-                "competition": "Montenegro: First League",
-                "kickoff": "2026-11-13T16:00:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Jezero vs Buducnost Podgorica: predicted score 1-1, tip X2."
-          }
-        ]
-      },
-      {
-        "match_id": "3d50faf9",
-        "home_team": "Ballymena United",
-        "away_team": "Linfield",
-        "competition": "Northern Ireland: Premiership",
-        "kickoff": "2026-11-13T20:45:00+01:00",
-        "picks": [
-          {
-            "match_id": "a0121ed9",
-            "home_team": "Ballymena United",
-            "away_team": "Linfield",
-            "competition": "Northern Ireland: Premiership",
-            "kickoff": "2026-11-13T20:45:00+01:00",
-            "market": "1X2",
-            "recommended_pick": "2",
-            "best_odds": 1.65,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.575,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1562116&league_id=408",
-                "home_team": "Ballymena United",
-                "away_team": "Linfield",
-                "market": "1X2",
-                "pick": "2",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Ballymena United vs Linfield: predicted score 1-2, tip 2.",
-                "competition": "Northern Ireland: Premiership",
-                "kickoff": "2026-11-13T20:45:00+01:00"
-              }
-            ],
-            "explanation": "Vitibet statistical model for Ballymena United vs Linfield: predicted score 1-2, tip 2."
-          }
-        ]
-      },
-      {
         "match_id": "49080e59",
         "home_team": "Limavady United",
         "away_team": "Cliftonville FC",
@@ -544,6 +479,84 @@
               }
             ],
             "explanation": "Vitibet statistical model for Limavady United vs Cliftonville FC: predicted score 1-2, tip 2."
+          }
+        ]
+      },
+      {
+        "match_id": "29959435",
+        "home_team": "Sigma Olomouc II",
+        "away_team": "Zbrojovka Brno II",
+        "competition": "Czech Republic: 3. liga - MSFL",
+        "kickoff": "2026-11-13T14:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "a36db40d",
+            "home_team": "Sigma Olomouc II",
+            "away_team": "Zbrojovka Brno II",
+            "competition": "Czech Republic: 3. liga - MSFL",
+            "kickoff": "2026-11-13T14:00:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.65,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.575,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1578005&league_id=349",
+                "home_team": "Sigma Olomouc II",
+                "away_team": "Zbrojovka Brno II",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Sigma Olomouc II vs Zbrojovka Brno II: predicted score 2-1, tip 1.",
+                "competition": "Czech Republic: 3. liga - MSFL",
+                "kickoff": "2026-11-13T14:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Sigma Olomouc II vs Zbrojovka Brno II: predicted score 2-1, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "3d50faf9",
+        "home_team": "Ballymena United",
+        "away_team": "Linfield",
+        "competition": "Northern Ireland: Premiership",
+        "kickoff": "2026-11-13T20:45:00+01:00",
+        "picks": [
+          {
+            "match_id": "a0121ed9",
+            "home_team": "Ballymena United",
+            "away_team": "Linfield",
+            "competition": "Northern Ireland: Premiership",
+            "kickoff": "2026-11-13T20:45:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.62,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.571,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1562116&league_id=408",
+                "home_team": "Ballymena United",
+                "away_team": "Linfield",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Ballymena United vs Linfield: predicted score 1-2, tip 2.",
+                "competition": "Northern Ireland: Premiership",
+                "kickoff": "2026-11-13T20:45:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Ballymena United vs Linfield: predicted score 1-2, tip 2."
           }
         ]
       },
@@ -591,14 +604,14 @@
         "home_team": "Prykarpattia",
         "away_team": "Kolos Kovalivka II",
         "competition": "Ukraine: Persha Liga",
-        "kickoff": "2026-11-13T11:00:00+01:00",
+        "kickoff": "TBD",
         "picks": [
           {
             "match_id": "ebe63805",
             "home_team": "Prykarpattia",
             "away_team": "Kolos Kovalivka II",
             "competition": "Ukraine: Persha Liga",
-            "kickoff": "2026-11-13T11:00:00+01:00",
+            "kickoff": "TBD",
             "market": "1X2",
             "recommended_pick": "1",
             "best_odds": 1.62,
@@ -618,7 +631,7 @@
                 "confidence_text": null,
                 "reason_summary": "Vitibet statistical model for Prykarpattia vs Kolos Kovalivka II: predicted score 1-0, tip 1.",
                 "competition": "Ukraine: Persha Liga",
-                "kickoff": "2026-11-13T11:00:00+01:00"
+                "kickoff": null
               }
             ],
             "explanation": "Vitibet statistical model for Prykarpattia vs Kolos Kovalivka II: predicted score 1-0, tip 1."
@@ -704,6 +717,58 @@
         ]
       },
       {
+        "match_id": "562ae770",
+        "home_team": "Netherlands",
+        "away_team": "Greece",
+        "competition": "World: UEFA Nations League",
+        "kickoff": "2026-11-13T20:45:00+01:00",
+        "picks": [
+          {
+            "match_id": "d4296a49",
+            "home_team": "Netherlands",
+            "away_team": "Greece",
+            "competition": "World: UEFA Nations League",
+            "kickoff": "2026-11-13T20:45:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.57,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 2,
+            "final_score": 0.567,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1528966&league_id=5",
+                "home_team": "Netherlands",
+                "away_team": "Greece",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Netherlands vs Greece: predicted score 2-1, tip 1.",
+                "competition": "World: UEFA Nations League",
+                "kickoff": "2026-11-13T20:45:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Netherlands",
+                "away_team": "Greece",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Netherlands vs Greece: 1X2 1.",
+                "competition": "INTERNATIONAL - UEFA NATIONS LEAGUE A GRP. 2",
+                "kickoff": "2026-11-13T11:45:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Netherlands vs Greece: predicted score 2-1, tip 1. | Statarea tip for Netherlands vs Greece: 1X2 1."
+          }
+        ]
+      },
+      {
         "match_id": "3ca1fe0c",
         "home_team": "Latina",
         "away_team": "Campobasso FC",
@@ -718,11 +783,11 @@
             "kickoff": "2026-11-13T20:30:00+01:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
-            "best_odds": 1.22,
+            "best_odds": 1.23,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.559,
+            "final_score": 0.561,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -870,45 +935,6 @@
             "explanation": "Vitibet statistical model for Atletico Torque vs Racing Montevideo: predicted score 1-1, tip 1X."
           }
         ]
-      },
-      {
-        "match_id": "84044622",
-        "home_team": "Llaneros",
-        "away_team": "Chico",
-        "competition": "Colombia: Primera A",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "271b8725",
-            "home_team": "Llaneros",
-            "away_team": "Chico",
-            "competition": "Colombia: Primera A",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.4,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.538,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1549870&league_id=239",
-                "home_team": "Llaneros",
-                "away_team": "Chico",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Llaneros vs Chico: predicted score 1-0, tip 1.",
-                "competition": "Colombia: Primera A",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Llaneros vs Chico: predicted score 1-0, tip 1."
-          }
-        ]
       }
     ],
     "leagues": {}
@@ -930,11 +956,11 @@
             "kickoff": "2026-11-13T14:00:00+01:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.85,
+            "best_odds": 1.8,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.605,
+            "final_score": 0.598,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -969,11 +995,11 @@
             "kickoff": "2026-11-13T18:00:00+01:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.85,
+            "best_odds": 1.73,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.605,
+            "final_score": 0.587,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1128,8 +1154,8 @@
             "best_odds": 1.4,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.538,
+            "source_count": 2,
+            "final_score": 0.542,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1143,9 +1169,22 @@
                 "reason_summary": "Vitibet statistical model for Shooting Stars SC vs Bendel Insurance FC: predicted score 1-0, tip 1.",
                 "competition": "Nigeria: NPFL",
                 "kickoff": "2026-11-13T18:00:00+01:00"
+              },
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Shooting Stars",
+                "away_team": "Bendel Insurance FC",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Shooting Stars vs Bendel Insurance FC: 1X2 1.",
+                "competition": "NIGERIA - NPFL",
+                "kickoff": "2026-11-13T09:00:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Shooting Stars SC vs Bendel Insurance FC: predicted score 1-0, tip 1."
+            "explanation": "Vitibet statistical model for Shooting Stars SC vs Bendel Insurance FC: predicted score 1-0, tip 1. | Statarea tip for Shooting Stars vs Bendel Insurance FC: 1X2 1."
           }
         ]
       },
@@ -1164,11 +1203,11 @@
             "kickoff": "2026-11-13T17:00:00+01:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.3,
+            "best_odds": 1.35,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.53,
             "sources": [
               {
                 "source_name": "Vitibet",
@@ -1320,11 +1359,11 @@
             "kickoff": "2026-11-13T17:00:00+01:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.2,
+            "best_odds": 1.22,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.508,
+            "final_score": 0.511,
             "sources": [
               {
                 "source_name": "Vitibet",
