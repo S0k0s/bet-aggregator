@@ -233466,9 +233466,10 @@
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T18:30:00+01:00",
     "best_odds": 1.5,
-    "source_count": 1,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
+      "Statarea",
       "Vitibet"
     ],
     "final_score": null,
@@ -233665,7 +233666,7 @@
     "recommended_pick": "2",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T22:00:00+01:00",
-    "best_odds": 2.4,
+    "best_odds": 2.45,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -233725,7 +233726,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T19:00:00+01:00",
-    "best_odds": 1.85,
+    "best_odds": 1.95,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -233745,10 +233746,11 @@
     "recommended_pick": "2",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T20:30:00+01:00",
-    "best_odds": 1.83,
-    "source_count": 1,
+    "best_odds": 2.25,
+    "source_count": 2,
     "consensus_score": 1.0,
     "sources": [
+      "Statarea",
       "Vitibet"
     ],
     "final_score": null,
@@ -233785,7 +233787,7 @@
     "recommended_pick": "X2",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T21:00:00+01:00",
-    "best_odds": 1.42,
+    "best_odds": 1.45,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -233805,7 +233807,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T21:15:00+01:00",
-    "best_odds": 1.41,
+    "best_odds": 1.3,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -233925,7 +233927,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T19:00:00+01:00",
-    "best_odds": 1.22,
+    "best_odds": 1.18,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -234025,7 +234027,7 @@
     "recommended_pick": "1X",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T22:00:00+01:00",
-    "best_odds": null,
+    "best_odds": 1.28,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -234225,7 +234227,7 @@
     "recommended_pick": "1",
     "predicted_at": "2026-11-15T06:27:09.662952+00:00",
     "kickoff": "2026-11-15T16:00:00+01:00",
-    "best_odds": 1.62,
+    "best_odds": 1.75,
     "source_count": 1,
     "consensus_score": 1.0,
     "sources": [
@@ -234430,6 +234432,693 @@
     "consensus_score": 1.0,
     "sources": [
       "Statarea"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "spain|england|1X2|1|2026-11-15",
+    "match_id": "a129019e",
+    "home_team": "Spain",
+    "away_team": "England",
+    "competition": "World: UEFA Nations League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T20:45:00+01:00",
+    "best_odds": 1.91,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "nurnberg w|koln w|1X2|2|unknown-date",
+    "match_id": "51d68c1b",
+    "home_team": "Nürnberg W",
+    "away_team": "FC Koln W",
+    "competition": "Germany: Frauen Bundesliga",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.8,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "arsenal w|london city lionesses|1X2|1|2026-11-15",
+    "match_id": "9ca496eb",
+    "home_team": "Arsenal W",
+    "away_team": "London City Lionesses",
+    "competition": "England: FA WSL",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T17:30:00+01:00",
+    "best_odds": 1.75,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "metalac gm|napredak|Double Chance|X2|unknown-date",
+    "match_id": "77fa2b36",
+    "home_team": "Metalac GM",
+    "away_team": "Napredak",
+    "competition": "Serbia: Prva Liga",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.39,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "valencia w|granada|Double Chance|X2|2026-11-15",
+    "match_id": "5de554f1",
+    "home_team": "Valencia W",
+    "away_team": "Granada",
+    "competition": "Spain: Primera División Femenina",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T18:15:00+01:00",
+    "best_odds": 1.38,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "pisek|benesov|1X2|1|unknown-date",
+    "match_id": "58cb04de",
+    "home_team": "Písek",
+    "away_team": "Benešov",
+    "competition": "Czech Republic: 3. liga - CFL A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.6,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cosenza|casertana|Double Chance|X2|2026-11-15",
+    "match_id": "009463bc",
+    "home_team": "Cosenza",
+    "away_team": "Casertana",
+    "competition": "Italy: Serie C - Girone C",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T17:30:00+01:00",
+    "best_odds": 1.25,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "eibar|cadiz|1X2|1|2026-11-15",
+    "match_id": "7202a0f8",
+    "home_team": "Eibar",
+    "away_team": "Cadiz",
+    "competition": "Spain: Segunda División",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T18:30:00+01:00",
+    "best_odds": 1.53,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "croatia|czech republic|1X2|1|2026-11-15",
+    "match_id": "d52a0b81",
+    "home_team": "Croatia",
+    "away_team": "Czech Republic",
+    "competition": "World: UEFA Nations League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T20:45:00+01:00",
+    "best_odds": 1.5,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "spaeri|iberia 1999|Double Chance|X2|unknown-date",
+    "match_id": "98c1f892",
+    "home_team": "Spaeri",
+    "away_team": "FC Iberia 1999",
+    "competition": "Georgia: Erovnuli Liga",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.17,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "rb leipzig women|e. frankfurt women|1X2|2|unknown-date",
+    "match_id": "8fe104e1",
+    "home_team": "RB Leipzig Women",
+    "away_team": "E. Frankfurt Women",
+    "competition": "Germany: Frauen Bundesliga",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.44,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "sevilla w|atletico madrid w|1X2|2|unknown-date",
+    "match_id": "fa5252cf",
+    "home_team": "Sevilla W",
+    "away_team": "Atletico Madrid W",
+    "competition": "Spain: Primera División Femenina",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.44,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "cittadella|folgore caratese|1X2|1|2026-11-15",
+    "match_id": "1c702d34",
+    "home_team": "Cittadella",
+    "away_team": "Folgore Caratese",
+    "competition": "Italy: Serie C - Girone A",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T17:30:00+01:00",
+    "best_odds": 1.4,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ravenna|forli|1X2|1|2026-11-15",
+    "match_id": "cb111ca9",
+    "home_team": "Ravenna",
+    "away_team": "Forli",
+    "competition": "Italy: Serie C - Girone B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T17:30:00+01:00",
+    "best_odds": 1.36,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "france|turkey|1X2|1|2026-11-15",
+    "match_id": "7e17c657",
+    "home_team": "France",
+    "away_team": "Turkey",
+    "competition": "World: UEFA Nations League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T20:45:00+01:00",
+    "best_odds": 1.18,
+    "source_count": 2,
+    "consensus_score": 1.0,
+    "sources": [
+      "Statarea",
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "santiago wanderers|deportes copiapo|1X2|1|unknown-date",
+    "match_id": "4d98b1ba",
+    "home_team": "Santiago Wanderers",
+    "away_team": "Deportes Copiapo",
+    "competition": "Chile: Primera B",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 2.5,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "u. san martin|union comercio|Double Chance|1X|unknown-date",
+    "match_id": "c02c1216",
+    "home_team": "U. San Martin",
+    "away_team": "Union Comercio",
+    "competition": "Peru: Segunda División",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.33,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "molynes united|portmore united|1X2|2|2026-11-15",
+    "match_id": "e8912165",
+    "home_team": "Molynes United",
+    "away_team": "Portmore United",
+    "competition": "Jamaica: Premier League",
+    "market": "1X2",
+    "recommended_pick": "2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T21:00:00+01:00",
+    "best_odds": 1.4,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "real cartagena|tigres|Double Chance|1X|2026-11-15",
+    "match_id": "3c5467ca",
+    "home_team": "Real Cartagena",
+    "away_team": "Tigres FC",
+    "competition": "Colombia: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T22:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "real cundinamarca|quindio|Double Chance|X2|2026-11-15",
+    "match_id": "8f2cc70b",
+    "home_team": "Real Cundinamarca",
+    "away_team": "Quindio",
+    "competition": "Colombia: Primera B",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T22:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "aigle royal|pwd bamenda|1X2|1|unknown-date",
+    "match_id": "35e6ee68",
+    "home_team": "Aigle Royal",
+    "away_team": "PWD Bamenda",
+    "competition": "Cameroon: Elite One",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 2.2,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "panthere|victoria united|1X2|1|unknown-date",
+    "match_id": "f8c7c147",
+    "home_team": "Panthère",
+    "away_team": "Victoria United",
+    "competition": "Cameroon: Elite One",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.95,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "union abong-mbang|apejes academy|Double Chance|X2|unknown-date",
+    "match_id": "de2213b2",
+    "home_team": "Union Abong-Mbang",
+    "away_team": "APEJES Academy",
+    "competition": "Cameroon: Elite One",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.48,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "ashanti gold|karela|1X2|1|unknown-date",
+    "match_id": "a738d7a1",
+    "home_team": "Ashanti Gold",
+    "away_team": "Karela",
+    "competition": "Ghana: Premier League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.75,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "inter lagos|abia warriors|1X2|1|unknown-date",
+    "match_id": "03ee09e3",
+    "home_team": "Inter Lagos",
+    "away_team": "Abia Warriors FC",
+    "competition": "Nigeria: NPFL",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.75,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "young apostles|medeama|Double Chance|X2|unknown-date",
+    "match_id": "d6394d89",
+    "home_team": "Young Apostles FC",
+    "away_team": "Medeama",
+    "competition": "Ghana: Premier League",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.27,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "aduana stars|bechem united|1X2|1|unknown-date",
+    "match_id": "02a84041",
+    "home_team": "Aduana Stars FC",
+    "away_team": "Bechem United FC",
+    "competition": "Ghana: Premier League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.57,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "enyimba|ikorodu city|1X2|1|unknown-date",
+    "match_id": "44e98db2",
+    "home_team": "Enyimba",
+    "away_team": "Ikorodu City FC",
+    "competition": "Nigeria: NPFL",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.53,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "binga|djoliba|Double Chance|X2|unknown-date",
+    "match_id": "bec471ec",
+    "home_team": "Binga",
+    "away_team": "Djoliba",
+    "competition": "Mali: Première Division",
+    "market": "Double Chance",
+    "recommended_pick": "X2",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.18,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "basake holy stars|vision|Double Chance|1X|unknown-date",
+    "match_id": "1b925135",
+    "home_team": "Basake Holy Stars",
+    "away_team": "Vision FC",
+    "competition": "Ghana: Premier League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.15,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "asante kotoko|bibiani gold stars|1X2|1|unknown-date",
+    "match_id": "63a51ba2",
+    "home_team": "Asante Kotoko SC",
+    "away_team": "Bibiani Gold Stars SC",
+    "competition": "Ghana: Premier League",
+    "market": "1X2",
+    "recommended_pick": "1",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "TBD",
+    "best_odds": 1.38,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "debibi united|port city|Double Chance|1X|2026-11-15",
+    "match_id": "9fdd5c5d",
+    "home_team": "Debibi United",
+    "away_team": "Port City",
+    "competition": "Ghana: Premier League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T16:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "samartex 1996|accra hearts of oak|Double Chance|1X|2026-11-15",
+    "match_id": "dc4f1a48",
+    "home_team": "FC Samartex 1996",
+    "away_team": "Accra Hearts of Oak SC",
+    "competition": "Ghana: Premier League",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T16:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
+    ],
+    "final_score": null,
+    "outcome": "pending",
+    "graded_at": null
+  },
+  {
+    "history_key": "kwara united|rivers united|Double Chance|1X|2026-11-15",
+    "match_id": "f74afaae",
+    "home_team": "Kwara United FC",
+    "away_team": "Rivers United FC",
+    "competition": "Nigeria: NPFL",
+    "market": "Double Chance",
+    "recommended_pick": "1X",
+    "predicted_at": "2026-11-15T16:21:15.570764+00:00",
+    "kickoff": "2026-11-15T16:00:00+01:00",
+    "best_odds": null,
+    "source_count": 1,
+    "consensus_score": 1.0,
+    "sources": [
+      "Vitibet"
     ],
     "final_score": null,
     "outcome": "pending",
