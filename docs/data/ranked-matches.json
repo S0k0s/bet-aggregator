@@ -2,186 +2,57 @@
   "Europe": {
     "all": [
       {
-        "match_id": "9002ade6",
-        "home_team": "Chelsea W",
-        "away_team": "Paris Saint Germain W",
-        "competition": "World: UEFA Champions League Women",
-        "kickoff": "TBD",
+        "match_id": "6c66ba20",
+        "home_team": "Amiens",
+        "away_team": "Caen",
+        "competition": "France: Ligue 3",
+        "kickoff": "2026-11-19T20:45:00+01:00",
         "picks": [
           {
-            "match_id": "22a09343",
-            "home_team": "Chelsea W",
-            "away_team": "Paris Saint Germain W",
-            "competition": "World: UEFA Champions League Women",
-            "kickoff": "TBD",
+            "match_id": "937208cb",
+            "home_team": "Amiens",
+            "away_team": "Caen",
+            "competition": "France: Ligue 3",
+            "kickoff": "2026-11-19T20:45:00+01:00",
             "market": "1X2",
             "recommended_pick": "1",
-            "best_odds": 1.3,
+            "best_odds": 2.15,
             "consensus_score": 1.0,
-            "price_edge_score": 0.0,
+            "price_edge_score": 0.132,
             "source_count": 1,
-            "final_score": 0.523,
+            "final_score": 0.655,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638301&league_id=525",
-                "home_team": "Chelsea W",
-                "away_team": "Paris Saint Germain W",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1574786&league_id=63",
+                "home_team": "Amiens",
+                "away_team": "Caen",
                 "market": "1X2",
                 "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Chelsea W vs Paris Saint Germain W: predicted score 2-1, tip 1.",
-                "competition": "World: UEFA Champions League Women",
-                "kickoff": null
+                "reason_summary": "Vitibet statistical model for Amiens vs Caen: predicted score 1-0, tip 1.",
+                "competition": "France: Ligue 3",
+                "kickoff": "2026-11-19T20:45:00+01:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Chelsea W vs Paris Saint Germain W: predicted score 2-1, tip 1."
+            "explanation": "Vitibet statistical model for Amiens vs Caen: predicted score 1-0, tip 1."
           }
         ]
       },
       {
-        "match_id": "005105be",
-        "home_team": "Juventus W",
-        "away_team": "OH Leuven W",
+        "match_id": "111ff8b2",
+        "home_team": "SL Benfica W",
+        "away_team": "Roma W",
         "competition": "World: UEFA Champions League Women",
-        "kickoff": "TBD",
+        "kickoff": "2026-11-19T21:00:00+01:00",
         "picks": [
           {
-            "match_id": "301559d8",
-            "home_team": "Juventus W",
-            "away_team": "OH Leuven W",
+            "match_id": "e388508f",
+            "home_team": "SL Benfica W",
+            "away_team": "Roma W",
             "competition": "World: UEFA Champions League Women",
-            "kickoff": "TBD",
-            "market": "1X2",
-            "recommended_pick": "1",
-            "best_odds": 1.25,
-            "consensus_score": 1.0,
-            "price_edge_score": 0.0,
-            "source_count": 1,
-            "final_score": 0.516,
-            "sources": [
-              {
-                "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638312&league_id=525",
-                "home_team": "Juventus W",
-                "away_team": "OH Leuven W",
-                "market": "1X2",
-                "pick": "1",
-                "quoted_odds": null,
-                "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Juventus W vs OH Leuven W: predicted score 2-1, tip 1.",
-                "competition": "World: UEFA Champions League Women",
-                "kickoff": null
-              }
-            ],
-            "explanation": "Vitibet statistical model for Juventus W vs OH Leuven W: predicted score 2-1, tip 1."
-          }
-        ]
-      }
-    ],
-    "leagues": {
-      "UEFA Champions League": [
-        {
-          "match_id": "9002ade6",
-          "home_team": "Chelsea W",
-          "away_team": "Paris Saint Germain W",
-          "competition": "World: UEFA Champions League Women",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "22a09343",
-              "home_team": "Chelsea W",
-              "away_team": "Paris Saint Germain W",
-              "competition": "World: UEFA Champions League Women",
-              "kickoff": "TBD",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.3,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.523,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638301&league_id=525",
-                  "home_team": "Chelsea W",
-                  "away_team": "Paris Saint Germain W",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Chelsea W vs Paris Saint Germain W: predicted score 2-1, tip 1.",
-                  "competition": "World: UEFA Champions League Women",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for Chelsea W vs Paris Saint Germain W: predicted score 2-1, tip 1."
-            }
-          ]
-        },
-        {
-          "match_id": "005105be",
-          "home_team": "Juventus W",
-          "away_team": "OH Leuven W",
-          "competition": "World: UEFA Champions League Women",
-          "kickoff": "TBD",
-          "picks": [
-            {
-              "match_id": "301559d8",
-              "home_team": "Juventus W",
-              "away_team": "OH Leuven W",
-              "competition": "World: UEFA Champions League Women",
-              "kickoff": "TBD",
-              "market": "1X2",
-              "recommended_pick": "1",
-              "best_odds": 1.25,
-              "consensus_score": 1.0,
-              "price_edge_score": 0.0,
-              "source_count": 1,
-              "final_score": 0.516,
-              "sources": [
-                {
-                  "source_name": "Vitibet",
-                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638312&league_id=525",
-                  "home_team": "Juventus W",
-                  "away_team": "OH Leuven W",
-                  "market": "1X2",
-                  "pick": "1",
-                  "quoted_odds": null,
-                  "confidence_text": null,
-                  "reason_summary": "Vitibet statistical model for Juventus W vs OH Leuven W: predicted score 2-1, tip 1.",
-                  "competition": "World: UEFA Champions League Women",
-                  "kickoff": null
-                }
-              ],
-              "explanation": "Vitibet statistical model for Juventus W vs OH Leuven W: predicted score 2-1, tip 1."
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "Asia": {
-    "all": [],
-    "leagues": {}
-  },
-  "Americas": {
-    "all": [
-      {
-        "match_id": "23b77c25",
-        "home_team": "Atenas",
-        "away_team": "Fenix",
-        "competition": "Uruguay: Segunda División",
-        "kickoff": "TBD",
-        "picks": [
-          {
-            "match_id": "6dc0cec6",
-            "home_team": "Atenas",
-            "away_team": "Fenix",
-            "competition": "Uruguay: Segunda División",
-            "kickoff": "TBD",
+            "kickoff": "2026-11-19T21:00:00+01:00",
             "market": "Double Chance",
             "recommended_pick": "1X",
             "best_odds": 1.28,
@@ -192,97 +63,1090 @@
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1650156&league_id=269",
-                "home_team": "Atenas",
-                "away_team": "Fenix",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638338&league_id=525",
+                "home_team": "SL Benfica W",
+                "away_team": "Roma W",
                 "market": "Double Chance",
                 "pick": "1X",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Atenas vs Fenix: predicted score 1-0, tip 1X.",
-                "competition": "Uruguay: Segunda División",
-                "kickoff": null
+                "reason_summary": "Vitibet statistical model for SL Benfica W vs Roma W: predicted score 1-1, tip 1X.",
+                "competition": "World: UEFA Champions League Women",
+                "kickoff": "2026-11-19T21:00:00+01:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Atenas vs Fenix: predicted score 1-0, tip 1X."
+            "explanation": "Vitibet statistical model for SL Benfica W vs Roma W: predicted score 1-1, tip 1X."
           }
         ]
       },
       {
-        "match_id": "e38c3d22",
-        "home_team": "Colón",
-        "away_team": "Oriental",
-        "competition": "Uruguay: Segunda División",
-        "kickoff": "2026-11-18T23:30:00+01:00",
+        "match_id": "d241b776",
+        "home_team": "Paris FC W",
+        "away_team": "Køge W",
+        "competition": "World: UEFA Champions League Women",
+        "kickoff": "2026-11-19T18:45:00+01:00",
         "picks": [
           {
-            "match_id": "814ee55b",
-            "home_team": "Colón",
-            "away_team": "Oriental",
-            "competition": "Uruguay: Segunda División",
-            "kickoff": "2026-11-18T23:30:00+01:00",
-            "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.26,
+            "match_id": "bdd3107f",
+            "home_team": "Paris FC W",
+            "away_team": "Køge W",
+            "competition": "World: UEFA Champions League Women",
+            "kickoff": "2026-11-19T18:45:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.53,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.565,
+            "final_score": 0.558,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1650157&league_id=269",
-                "home_team": "Colón",
-                "away_team": "Oriental",
-                "market": "Double Chance",
-                "pick": "1X",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638327&league_id=525",
+                "home_team": "Paris FC W",
+                "away_team": "Køge W",
+                "market": "1X2",
+                "pick": "1",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Colón vs Oriental: predicted score 1-0, tip 1X.",
-                "competition": "Uruguay: Segunda División",
-                "kickoff": "2026-11-18T23:30:00+01:00"
+                "reason_summary": "Vitibet statistical model for Paris FC W vs Køge W: predicted score 2-1, tip 1.",
+                "competition": "World: UEFA Champions League Women",
+                "kickoff": "2026-11-19T18:45:00+01:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Colón vs Oriental: predicted score 1-0, tip 1X."
+            "explanation": "Vitibet statistical model for Paris FC W vs Køge W: predicted score 2-1, tip 1."
           }
         ]
       },
       {
-        "match_id": "c8e2c965",
-        "home_team": "Alianza Atletico",
-        "away_team": "FBC Melgar",
-        "competition": "Peru: Primera División",
-        "kickoff": "TBD",
+        "match_id": "dab9c2bc",
+        "home_team": "Arsenal W",
+        "away_team": "Lyon W",
+        "competition": "World: UEFA Champions League Women",
+        "kickoff": "2026-11-19T21:00:00+01:00",
         "picks": [
           {
-            "match_id": "5c2cc4a3",
-            "home_team": "Alianza Atletico",
-            "away_team": "FBC Melgar",
-            "competition": "Peru: Primera División",
-            "kickoff": "TBD",
+            "match_id": "a0146ac5",
+            "home_team": "Arsenal W",
+            "away_team": "Lyon W",
+            "competition": "World: UEFA Champions League Women",
+            "kickoff": "2026-11-19T21:00:00+01:00",
             "market": "Double Chance",
-            "recommended_pick": "1X",
-            "best_odds": 1.18,
+            "recommended_pick": "X2",
+            "best_odds": 1.15,
             "consensus_score": 1.0,
             "price_edge_score": 0.0,
             "source_count": 1,
-            "final_score": 0.553,
+            "final_score": 0.548,
             "sources": [
               {
                 "source_name": "Vitibet",
-                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1549554&league_id=281",
-                "home_team": "Alianza Atletico",
-                "away_team": "FBC Melgar",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638286&league_id=525",
+                "home_team": "Arsenal W",
+                "away_team": "Lyon W",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Arsenal W vs Lyon W: predicted score 1-2, tip X2.",
+                "competition": "World: UEFA Champions League Women",
+                "kickoff": "2026-11-19T21:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Arsenal W vs Lyon W: predicted score 1-2, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "6eda9f02",
+        "home_team": "Karacabey Belediyespor",
+        "away_team": "Beyoglu Yeni Carsi FK",
+        "competition": "TURKEY - 2. LIG - KIRMIZI GRUP",
+        "kickoff": "2026-11-19T06:30:00",
+        "picks": [
+          {
+            "match_id": "27c18f36",
+            "home_team": "Karacabey Belediyespor",
+            "away_team": "Beyoglu Yeni Carsi FK",
+            "competition": "TURKEY - 2. LIG - KIRMIZI GRUP",
+            "kickoff": "2026-11-19T06:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.532,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Karacabey Belediyespor",
+                "away_team": "Beyoglu Yeni Carsi FK",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Karacabey Belediyespor vs Beyoglu Yeni Carsi FK: Double Chance X2.",
+                "competition": "TURKEY - 2. LIG - KIRMIZI GRUP",
+                "kickoff": "2026-11-19T06:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Karacabey Belediyespor vs Beyoglu Yeni Carsi FK: Double Chance X2."
+          }
+        ]
+      },
+      {
+        "match_id": "3d39f585",
+        "home_team": "Inegolspor",
+        "away_team": "Iskenderun FK",
+        "competition": "TURKEY - 2. LIG - KIRMIZI GRUP",
+        "kickoff": "2026-11-19T06:00:00",
+        "picks": [
+          {
+            "match_id": "02a6e9da",
+            "home_team": "Inegolspor",
+            "away_team": "Iskenderun FK",
+            "competition": "TURKEY - 2. LIG - KIRMIZI GRUP",
+            "kickoff": "2026-11-19T06:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.532,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Inegolspor",
+                "away_team": "Iskenderun FK",
                 "market": "Double Chance",
                 "pick": "1X",
                 "quoted_odds": null,
                 "confidence_text": null,
-                "reason_summary": "Vitibet statistical model for Alianza Atletico vs FBC Melgar: predicted score 1-1, tip 1X.",
-                "competition": "Peru: Primera División",
-                "kickoff": null
+                "reason_summary": "Statarea tip for Inegolspor vs Iskenderun FK: Double Chance 1X.",
+                "competition": "TURKEY - 2. LIG - KIRMIZI GRUP",
+                "kickoff": "2026-11-19T06:00:00"
               }
             ],
-            "explanation": "Vitibet statistical model for Alianza Atletico vs FBC Melgar: predicted score 1-1, tip 1X."
+            "explanation": "Statarea tip for Inegolspor vs Iskenderun FK: Double Chance 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "eeb0fb03",
+        "home_team": "Levante (w)",
+        "away_team": "Eibar (w)",
+        "competition": "SPAIN - COPA DE SM LA REINA",
+        "kickoff": "2026-11-19T11:00:00",
+        "picks": [
+          {
+            "match_id": "32ab8b90",
+            "home_team": "Levante (w)",
+            "away_team": "Eibar (w)",
+            "competition": "SPAIN - COPA DE SM LA REINA",
+            "kickoff": "2026-11-19T11:00:00",
+            "market": "Double Chance",
+            "recommended_pick": "12",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.532,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Levante (w)",
+                "away_team": "Eibar (w)",
+                "market": "Double Chance",
+                "pick": "12",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Levante (w) vs Eibar (w): Double Chance 12.",
+                "competition": "SPAIN - COPA DE SM LA REINA",
+                "kickoff": "2026-11-19T11:00:00"
+              }
+            ],
+            "explanation": "Statarea tip for Levante (w) vs Eibar (w): Double Chance 12."
+          }
+        ]
+      },
+      {
+        "match_id": "036a38a5",
+        "home_team": "FC Fredericia",
+        "away_team": "Hillerød",
+        "competition": "Denmark: 1. Division",
+        "kickoff": "2026-11-19T19:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "97172f8c",
+            "home_team": "FC Fredericia",
+            "away_team": "Hillerød",
+            "competition": "Denmark: 1. Division",
+            "kickoff": "2026-11-19T19:00:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.3,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.523,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1551379&league_id=120",
+                "home_team": "FC Fredericia",
+                "away_team": "Hillerød",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for FC Fredericia vs Hillerød: predicted score 2-1, tip 1.",
+                "competition": "Denmark: 1. Division",
+                "kickoff": "2026-11-19T19:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for FC Fredericia vs Hillerød: predicted score 2-1, tip 1."
+          }
+        ]
+      }
+    ],
+    "leagues": {
+      "UEFA Champions League": [
+        {
+          "match_id": "111ff8b2",
+          "home_team": "SL Benfica W",
+          "away_team": "Roma W",
+          "competition": "World: UEFA Champions League Women",
+          "kickoff": "2026-11-19T21:00:00+01:00",
+          "picks": [
+            {
+              "match_id": "e388508f",
+              "home_team": "SL Benfica W",
+              "away_team": "Roma W",
+              "competition": "World: UEFA Champions League Women",
+              "kickoff": "2026-11-19T21:00:00+01:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": 1.28,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.568,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638338&league_id=525",
+                  "home_team": "SL Benfica W",
+                  "away_team": "Roma W",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for SL Benfica W vs Roma W: predicted score 1-1, tip 1X.",
+                  "competition": "World: UEFA Champions League Women",
+                  "kickoff": "2026-11-19T21:00:00+01:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for SL Benfica W vs Roma W: predicted score 1-1, tip 1X."
+            }
+          ]
+        },
+        {
+          "match_id": "d241b776",
+          "home_team": "Paris FC W",
+          "away_team": "Køge W",
+          "competition": "World: UEFA Champions League Women",
+          "kickoff": "2026-11-19T18:45:00+01:00",
+          "picks": [
+            {
+              "match_id": "bdd3107f",
+              "home_team": "Paris FC W",
+              "away_team": "Køge W",
+              "competition": "World: UEFA Champions League Women",
+              "kickoff": "2026-11-19T18:45:00+01:00",
+              "market": "1X2",
+              "recommended_pick": "1",
+              "best_odds": 1.53,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.558,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638327&league_id=525",
+                  "home_team": "Paris FC W",
+                  "away_team": "Køge W",
+                  "market": "1X2",
+                  "pick": "1",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Paris FC W vs Køge W: predicted score 2-1, tip 1.",
+                  "competition": "World: UEFA Champions League Women",
+                  "kickoff": "2026-11-19T18:45:00+01:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Paris FC W vs Køge W: predicted score 2-1, tip 1."
+            }
+          ]
+        },
+        {
+          "match_id": "dab9c2bc",
+          "home_team": "Arsenal W",
+          "away_team": "Lyon W",
+          "competition": "World: UEFA Champions League Women",
+          "kickoff": "2026-11-19T21:00:00+01:00",
+          "picks": [
+            {
+              "match_id": "a0146ac5",
+              "home_team": "Arsenal W",
+              "away_team": "Lyon W",
+              "competition": "World: UEFA Champions League Women",
+              "kickoff": "2026-11-19T21:00:00+01:00",
+              "market": "Double Chance",
+              "recommended_pick": "X2",
+              "best_odds": 1.15,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.548,
+              "sources": [
+                {
+                  "source_name": "Vitibet",
+                  "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1638286&league_id=525",
+                  "home_team": "Arsenal W",
+                  "away_team": "Lyon W",
+                  "market": "Double Chance",
+                  "pick": "X2",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Vitibet statistical model for Arsenal W vs Lyon W: predicted score 1-2, tip X2.",
+                  "competition": "World: UEFA Champions League Women",
+                  "kickoff": "2026-11-19T21:00:00+01:00"
+                }
+              ],
+              "explanation": "Vitibet statistical model for Arsenal W vs Lyon W: predicted score 1-2, tip X2."
+            }
+          ]
+        }
+      ],
+      "Copa del Rey": [
+        {
+          "match_id": "eeb0fb03",
+          "home_team": "Levante (w)",
+          "away_team": "Eibar (w)",
+          "competition": "SPAIN - COPA DE SM LA REINA",
+          "kickoff": "2026-11-19T11:00:00",
+          "picks": [
+            {
+              "match_id": "32ab8b90",
+              "home_team": "Levante (w)",
+              "away_team": "Eibar (w)",
+              "competition": "SPAIN - COPA DE SM LA REINA",
+              "kickoff": "2026-11-19T11:00:00",
+              "market": "Double Chance",
+              "recommended_pick": "12",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.532,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Levante (w)",
+                  "away_team": "Eibar (w)",
+                  "market": "Double Chance",
+                  "pick": "12",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Levante (w) vs Eibar (w): Double Chance 12.",
+                  "competition": "SPAIN - COPA DE SM LA REINA",
+                  "kickoff": "2026-11-19T11:00:00"
+                }
+              ],
+              "explanation": "Statarea tip for Levante (w) vs Eibar (w): Double Chance 12."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Asia": {
+    "all": [
+      {
+        "match_id": "4ab9c5d8",
+        "home_team": "Surkhon",
+        "away_team": "FK Andijon",
+        "competition": "Uzbekistan: Super League",
+        "kickoff": "2026-11-19T14:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "a917b6d4",
+            "home_team": "Surkhon",
+            "away_team": "FK Andijon",
+            "competition": "Uzbekistan: Super League",
+            "kickoff": "2026-11-19T14:00:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.37,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.581,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1516191&league_id=369",
+                "home_team": "Surkhon",
+                "away_team": "FK Andijon",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Surkhon vs FK Andijon: predicted score 1-0, tip 1X.",
+                "competition": "Uzbekistan: Super League",
+                "kickoff": "2026-11-19T14:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Surkhon vs FK Andijon: predicted score 1-0, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "eaa31ca8",
+        "home_team": "Malavan",
+        "away_team": "Gol Gohar",
+        "competition": "Iran: Persian Gulf Pro League",
+        "kickoff": "2026-11-19T14:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "a3163447",
+            "home_team": "Malavan",
+            "away_team": "Gol Gohar",
+            "competition": "Iran: Persian Gulf Pro League",
+            "kickoff": "2026-11-19T14:00:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.36,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.58,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1649585&league_id=290",
+                "home_team": "Malavan",
+                "away_team": "Gol Gohar",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Malavan vs Gol Gohar: predicted score 0-0, tip X2.",
+                "competition": "Iran: Persian Gulf Pro League",
+                "kickoff": "2026-11-19T14:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Malavan vs Gol Gohar: predicted score 0-0, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "772ccc25",
+        "home_team": "Diyala SC",
+        "away_team": "Al-Kahrabaa",
+        "competition": "Iraq: Iraqi League",
+        "kickoff": "2026-11-19T14:45:00+01:00",
+        "picks": [
+          {
+            "match_id": "ebe8f35b",
+            "home_team": "Diyala SC",
+            "away_team": "Al-Kahrabaa",
+            "competition": "Iraq: Iraqi League",
+            "kickoff": "2026-11-19T14:45:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.29,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.569,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628041&league_id=542",
+                "home_team": "Diyala SC",
+                "away_team": "Al-Kahrabaa",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Diyala SC vs Al-Kahrabaa: predicted score 1-1, tip 1X.",
+                "competition": "Iraq: Iraqi League",
+                "kickoff": "2026-11-19T14:45:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Diyala SC vs Al-Kahrabaa: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "d654843e",
+        "home_team": "Ghaz Al Shamal",
+        "away_team": "Al-Karkh",
+        "competition": "Iraq: Iraqi League",
+        "kickoff": "2026-11-19T17:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "9d379d29",
+            "home_team": "Ghaz Al Shamal",
+            "away_team": "Al-Karkh",
+            "competition": "Iraq: Iraqi League",
+            "kickoff": "2026-11-19T17:00:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.27,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.566,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628045&league_id=542",
+                "home_team": "Ghaz Al Shamal",
+                "away_team": "Al-Karkh",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Ghaz Al Shamal vs Al-Karkh: predicted score 1-1, tip 1X.",
+                "competition": "Iraq: Iraqi League",
+                "kickoff": "2026-11-19T17:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Ghaz Al Shamal vs Al-Karkh: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "640d1e29",
+        "home_team": "Gharraf",
+        "away_team": "Al-Quwa Al-Jawiya",
+        "competition": "Iraq: Iraqi League",
+        "kickoff": "2026-11-19T16:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "1bdbbd58",
+            "home_team": "Gharraf",
+            "away_team": "Al-Quwa Al-Jawiya",
+            "competition": "Iraq: Iraqi League",
+            "kickoff": "2026-11-19T16:30:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.16,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.55,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1628039&league_id=542",
+                "home_team": "Gharraf",
+                "away_team": "Al-Quwa Al-Jawiya",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Gharraf vs Al-Quwa Al-Jawiya: predicted score 0-1, tip X2.",
+                "competition": "Iraq: Iraqi League",
+                "kickoff": "2026-11-19T16:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Gharraf vs Al-Quwa Al-Jawiya: predicted score 0-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "b425682a",
+        "home_team": "Kheybar Khorramabad",
+        "away_team": "Esteghlal FC",
+        "competition": "Iran: Persian Gulf Pro League",
+        "kickoff": "2026-11-19T14:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "9c1d1ac3",
+            "home_team": "Kheybar Khorramabad",
+            "away_team": "Esteghlal FC",
+            "competition": "Iran: Persian Gulf Pro League",
+            "kickoff": "2026-11-19T14:00:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.14,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.547,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1649584&league_id=290",
+                "home_team": "Kheybar Khorramabad",
+                "away_team": "Esteghlal FC",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Kheybar Khorramabad vs Esteghlal FC: predicted score 0-0, tip X2.",
+                "competition": "Iran: Persian Gulf Pro League",
+                "kickoff": "2026-11-19T14:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Kheybar Khorramabad vs Esteghlal FC: predicted score 0-0, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "c8b48221",
+        "home_team": "Al-Adalah",
+        "away_team": "Al-Orobah FC",
+        "competition": "SAUDI ARABIA - DIVISION 1",
+        "kickoff": "2026-11-19T08:30:00",
+        "picks": [
+          {
+            "match_id": "2e8a51a3",
+            "home_team": "Al-Adalah",
+            "away_team": "Al-Orobah FC",
+            "competition": "SAUDI ARABIA - DIVISION 1",
+            "kickoff": "2026-11-19T08:30:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.532,
+            "sources": [
+              {
+                "source_name": "Statarea",
+                "source_url": "https://www.statarea.com/en/predictions",
+                "home_team": "Al-Adalah",
+                "away_team": "Al-Orobah FC",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Statarea tip for Al-Adalah vs Al-Orobah FC: Double Chance 1X.",
+                "competition": "SAUDI ARABIA - DIVISION 1",
+                "kickoff": "2026-11-19T08:30:00"
+              }
+            ],
+            "explanation": "Statarea tip for Al-Adalah vs Al-Orobah FC: Double Chance 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "eb676a99",
+        "home_team": "Dempo",
+        "away_team": "Shillong Lajong",
+        "competition": "India: I-League",
+        "kickoff": "2026-11-19T11:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "b50f7c48",
+            "home_team": "Dempo",
+            "away_team": "Shillong Lajong",
+            "competition": "India: I-League",
+            "kickoff": "2026-11-19T11:30:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.526,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1646629&league_id=324",
+                "home_team": "Dempo",
+                "away_team": "Shillong Lajong",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Dempo vs Shillong Lajong: predicted score 1-2, tip X2.",
+                "competition": "India: I-League",
+                "kickoff": "2026-11-19T11:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Dempo vs Shillong Lajong: predicted score 1-2, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "44806f67",
+        "home_team": "Samaleswari SC",
+        "away_team": "Nagaland United",
+        "competition": "India: I-League",
+        "kickoff": "2026-11-19T14:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "ceb53b7f",
+            "home_team": "Samaleswari SC",
+            "away_team": "Nagaland United",
+            "competition": "India: I-League",
+            "kickoff": "2026-11-19T14:00:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.526,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1646630&league_id=324",
+                "home_team": "Samaleswari SC",
+                "away_team": "Nagaland United",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Samaleswari SC vs Nagaland United: predicted score 1-2, tip X2.",
+                "competition": "India: I-League",
+                "kickoff": "2026-11-19T14:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Samaleswari SC vs Nagaland United: predicted score 1-2, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "791d20da",
+        "home_team": "Mes Shahr-e Babak",
+        "away_team": "Tractor Sazi",
+        "competition": "Iran: Persian Gulf Pro League",
+        "kickoff": "2026-11-19T14:45:00+01:00",
+        "picks": [
+          {
+            "match_id": "9775005c",
+            "home_team": "Mes Shahr-e Babak",
+            "away_team": "Tractor Sazi",
+            "competition": "Iran: Persian Gulf Pro League",
+            "kickoff": "2026-11-19T14:45:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.23,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.513,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1649586&league_id=290",
+                "home_team": "Mes Shahr-e Babak",
+                "away_team": "Tractor Sazi",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Mes Shahr-e Babak vs Tractor Sazi: predicted score 0-2, tip 2.",
+                "competition": "Iran: Persian Gulf Pro League",
+                "kickoff": "2026-11-19T14:45:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Mes Shahr-e Babak vs Tractor Sazi: predicted score 0-2, tip 2."
+          }
+        ]
+      }
+    ],
+    "leagues": {
+      "Saudi Pro League": [
+        {
+          "match_id": "c8b48221",
+          "home_team": "Al-Adalah",
+          "away_team": "Al-Orobah FC",
+          "competition": "SAUDI ARABIA - DIVISION 1",
+          "kickoff": "2026-11-19T08:30:00",
+          "picks": [
+            {
+              "match_id": "2e8a51a3",
+              "home_team": "Al-Adalah",
+              "away_team": "Al-Orobah FC",
+              "competition": "SAUDI ARABIA - DIVISION 1",
+              "kickoff": "2026-11-19T08:30:00",
+              "market": "Double Chance",
+              "recommended_pick": "1X",
+              "best_odds": null,
+              "consensus_score": 1.0,
+              "price_edge_score": 0.0,
+              "source_count": 1,
+              "final_score": 0.532,
+              "sources": [
+                {
+                  "source_name": "Statarea",
+                  "source_url": "https://www.statarea.com/en/predictions",
+                  "home_team": "Al-Adalah",
+                  "away_team": "Al-Orobah FC",
+                  "market": "Double Chance",
+                  "pick": "1X",
+                  "quoted_odds": null,
+                  "confidence_text": null,
+                  "reason_summary": "Statarea tip for Al-Adalah vs Al-Orobah FC: Double Chance 1X.",
+                  "competition": "SAUDI ARABIA - DIVISION 1",
+                  "kickoff": "2026-11-19T08:30:00"
+                }
+              ],
+              "explanation": "Statarea tip for Al-Adalah vs Al-Orobah FC: Double Chance 1X."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Americas": {
+    "all": [
+      {
+        "match_id": "02972687",
+        "home_team": "Boston River",
+        "away_team": "Deportivo Maldonado",
+        "competition": "Uruguay: Primera División",
+        "kickoff": "2026-11-19T20:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "199084ff",
+            "home_team": "Boston River",
+            "away_team": "Deportivo Maldonado",
+            "competition": "Uruguay: Primera División",
+            "kickoff": "2026-11-19T20:30:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.8,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.598,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1650500&league_id=268",
+                "home_team": "Boston River",
+                "away_team": "Deportivo Maldonado",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Boston River vs Deportivo Maldonado: predicted score 0-1, tip 2.",
+                "competition": "Uruguay: Primera División",
+                "kickoff": "2026-11-19T20:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Boston River vs Deportivo Maldonado: predicted score 0-1, tip 2."
+          }
+        ]
+      },
+      {
+        "match_id": "d1df6677",
+        "home_team": "Vitoria",
+        "away_team": "RB Bragantino",
+        "competition": "Brazil: Serie A",
+        "kickoff": "2026-11-19T23:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "96c93d9d",
+            "home_team": "Vitoria",
+            "away_team": "RB Bragantino",
+            "competition": "Brazil: Serie A",
+            "kickoff": "2026-11-19T23:30:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.41,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.587,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1492459&league_id=71",
+                "home_team": "Vitoria",
+                "away_team": "RB Bragantino",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Vitoria vs RB Bragantino: predicted score 1-1, tip X2.",
+                "competition": "Brazil: Serie A",
+                "kickoff": "2026-11-19T23:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Vitoria vs RB Bragantino: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "52f3276b",
+        "home_team": "Vasco da Gama",
+        "away_team": "Internacional",
+        "competition": "Brazil: Serie A",
+        "kickoff": "2026-11-19T23:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "fad5e85f",
+            "home_team": "Vasco da Gama",
+            "away_team": "Internacional",
+            "competition": "Brazil: Serie A",
+            "kickoff": "2026-11-19T23:30:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.65,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.576,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1492458&league_id=71",
+                "home_team": "Vasco da Gama",
+                "away_team": "Internacional",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Vasco da Gama vs Internacional: predicted score 2-1, tip 1.",
+                "competition": "Brazil: Serie A",
+                "kickoff": "2026-11-19T23:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Vasco da Gama vs Internacional: predicted score 2-1, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "abe21a25",
+        "home_team": "Penarol",
+        "away_team": "Cerro Largo",
+        "competition": "Uruguay: Primera División",
+        "kickoff": "2026-11-19T20:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "46ab98ba",
+            "home_team": "Penarol",
+            "away_team": "Cerro Largo",
+            "competition": "Uruguay: Primera División",
+            "kickoff": "2026-11-19T20:30:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.44,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.544,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1650501&league_id=268",
+                "home_team": "Penarol",
+                "away_team": "Cerro Largo",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Penarol vs Cerro Largo: predicted score 2-1, tip 1.",
+                "competition": "Uruguay: Primera División",
+                "kickoff": "2026-11-19T20:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Penarol vs Cerro Largo: predicted score 2-1, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "9251969b",
+        "home_team": "Progreso",
+        "away_team": "Atletico Torque",
+        "competition": "Uruguay: Primera División",
+        "kickoff": "2026-11-19T20:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "72006931",
+            "home_team": "Progreso",
+            "away_team": "Atletico Torque",
+            "competition": "Uruguay: Primera División",
+            "kickoff": "2026-11-19T20:30:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "2",
+            "best_odds": 1.44,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.544,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1650502&league_id=268",
+                "home_team": "Progreso",
+                "away_team": "Atletico Torque",
+                "market": "1X2",
+                "pick": "2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Progreso vs Atletico Torque: predicted score 1-2, tip 2.",
+                "competition": "Uruguay: Primera División",
+                "kickoff": "2026-11-19T20:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Progreso vs Atletico Torque: predicted score 1-2, tip 2."
+          }
+        ]
+      },
+      {
+        "match_id": "b5fa598f",
+        "home_team": "Ind. Yumbo",
+        "away_team": "Envigado",
+        "competition": "Colombia: Primera B",
+        "kickoff": "2026-11-19T23:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "9c733a1a",
+            "home_team": "Ind. Yumbo",
+            "away_team": "Envigado",
+            "competition": "Colombia: Primera B",
+            "kickoff": "2026-11-19T23:30:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": null,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.526,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1649447&league_id=240",
+                "home_team": "Ind. Yumbo",
+                "away_team": "Envigado",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Ind. Yumbo vs Envigado: predicted score 1-1, tip X2.",
+                "competition": "Colombia: Primera B",
+                "kickoff": "2026-11-19T23:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Ind. Yumbo vs Envigado: predicted score 1-1, tip X2."
           }
         ]
       }
@@ -290,7 +1154,164 @@
     "leagues": {}
   },
   "Africa": {
-    "all": [],
+    "all": [
+      {
+        "match_id": "8ff87b24",
+        "home_team": "JS Kabylie",
+        "away_team": "USM Alger",
+        "competition": "Algeria: Ligue 1",
+        "kickoff": "2026-11-19T20:00:00+01:00",
+        "picks": [
+          {
+            "match_id": "99047bae",
+            "home_team": "JS Kabylie",
+            "away_team": "USM Alger",
+            "competition": "Algeria: Ligue 1",
+            "kickoff": "2026-11-19T20:00:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 2.15,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.132,
+            "source_count": 1,
+            "final_score": 0.655,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611454&league_id=186",
+                "home_team": "JS Kabylie",
+                "away_team": "USM Alger",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for JS Kabylie vs USM Alger: predicted score 1-0, tip 1.",
+                "competition": "Algeria: Ligue 1",
+                "kickoff": "2026-11-19T20:00:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for JS Kabylie vs USM Alger: predicted score 1-0, tip 1."
+          }
+        ]
+      },
+      {
+        "match_id": "fa17bb20",
+        "home_team": "Aigle Royal",
+        "away_team": "Colombe",
+        "competition": "Cameroon: Elite One",
+        "kickoff": "2026-11-19T15:30:00+01:00",
+        "picks": [
+          {
+            "match_id": "8f4c1eae",
+            "home_team": "Aigle Royal",
+            "away_team": "Colombe",
+            "competition": "Cameroon: Elite One",
+            "kickoff": "2026-11-19T15:30:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "1X",
+            "best_odds": 1.35,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.578,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1645894&league_id=411",
+                "home_team": "Aigle Royal",
+                "away_team": "Colombe",
+                "market": "Double Chance",
+                "pick": "1X",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for Aigle Royal vs Colombe: predicted score 1-1, tip 1X.",
+                "competition": "Cameroon: Elite One",
+                "kickoff": "2026-11-19T15:30:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for Aigle Royal vs Colombe: predicted score 1-1, tip 1X."
+          }
+        ]
+      },
+      {
+        "match_id": "549f0063",
+        "home_team": "MB Rouisset",
+        "away_team": "CR Belouizdad",
+        "competition": "Algeria: Ligue 1",
+        "kickoff": "2026-11-19T17:45:00+01:00",
+        "picks": [
+          {
+            "match_id": "6c2649ad",
+            "home_team": "MB Rouisset",
+            "away_team": "CR Belouizdad",
+            "competition": "Algeria: Ligue 1",
+            "kickoff": "2026-11-19T17:45:00+01:00",
+            "market": "Double Chance",
+            "recommended_pick": "X2",
+            "best_odds": 1.14,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.547,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611457&league_id=186",
+                "home_team": "MB Rouisset",
+                "away_team": "CR Belouizdad",
+                "market": "Double Chance",
+                "pick": "X2",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for MB Rouisset vs CR Belouizdad: predicted score 1-1, tip X2.",
+                "competition": "Algeria: Ligue 1",
+                "kickoff": "2026-11-19T17:45:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for MB Rouisset vs CR Belouizdad: predicted score 1-1, tip X2."
+          }
+        ]
+      },
+      {
+        "match_id": "d5108444",
+        "home_team": "MC Alger",
+        "away_team": "Olympique Akbou",
+        "competition": "Algeria: Ligue 1",
+        "kickoff": "2026-11-19T17:45:00+01:00",
+        "picks": [
+          {
+            "match_id": "ef6777f6",
+            "home_team": "MC Alger",
+            "away_team": "Olympique Akbou",
+            "competition": "Algeria: Ligue 1",
+            "kickoff": "2026-11-19T17:45:00+01:00",
+            "market": "1X2",
+            "recommended_pick": "1",
+            "best_odds": 1.4,
+            "consensus_score": 1.0,
+            "price_edge_score": 0.0,
+            "source_count": 1,
+            "final_score": 0.538,
+            "sources": [
+              {
+                "source_name": "Vitibet",
+                "source_url": "https://www.vitibet.com/index.php?clanek=match-detail&sekce=fotbal&lang=en&fixture_id=1611455&league_id=186",
+                "home_team": "MC Alger",
+                "away_team": "Olympique Akbou",
+                "market": "1X2",
+                "pick": "1",
+                "quoted_odds": null,
+                "confidence_text": null,
+                "reason_summary": "Vitibet statistical model for MC Alger vs Olympique Akbou: predicted score 1-0, tip 1.",
+                "competition": "Algeria: Ligue 1",
+                "kickoff": "2026-11-19T17:45:00+01:00"
+              }
+            ],
+            "explanation": "Vitibet statistical model for MC Alger vs Olympique Akbou: predicted score 1-0, tip 1."
+          }
+        ]
+      }
+    ],
     "leagues": {}
   }
 }
